@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-01-01
+Version Consolidée au 2004-02-12
 ## Contenu: 
   - [Partie législative (art. L1 à L288)](#1)
     - [Première partie : Partie législative (art. L1 à L288)](#2)
@@ -85,7 +85,7 @@ Version Consolidée au 2004-01-01
             - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 L)](#82)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139 A)](#83)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 C)](#84)
-            - [V : Dérogations au profit des officiers ministériels (art. L148 à L151)](#85)
+            - [V : Dérogations au profit des officiers ministériels (art. L148 à L151-1)](#85)
             - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale (art. L152 à L162 B)](#86)
             - [VII : Dérogations au profit d'organismes divers (art. L163 à L166)](#87)
               - [1° : Activités littéraires ou artistiques (art. L163)](#88)
@@ -7920,28 +7920,28 @@ _Créé par_:
 
 ###### Article L147 B
 
-Aux fins d'assurer l'exécution d'un titre exécutoire, le procureur de la République peut obtenir des administrations de
-l'Etat, communication des renseignements relatifs :
+Aux fins d'assurer l'exécution d'un titre exécutoire, le procureur de la République peut obtenir des renseignements
+relatifs :
 
-a. A l'adresse du débiteur ;
+a. à l'adresse du débiteur ;
 
-b. A l'adresse de son employeur ;
+b. à l'adresse de son employeur.
 
-c. A l'adresse des organismes auprès desquels un compte est ouvert au nom du débiteur.
+**Nota:**
+
+Décret n° 2012-654 du 4 mai 2012 article 1 : L'article L. 147 B devient sans objet en conséquence de l'article 5-II de la loi
+n° 2010-1609 du 22 décembre 2010.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - HISTO: Edition du 2 septembre 1994
-
 _Modifié par_:
 
-  - Loi n°91-650 1991-07-09 art. 39, art. 40 JORF 14 juillet 1991, en vigueur le 1er août 1991
+  - Loi n°2004-130 du 11 février 2004 - art. 62 () JORF 12 février 2004
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°94-900 1994-10-17
+  - PERIME: Décret n°2012-654 du 4 mai 2012 - art. 1
+  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article L147 C
@@ -8062,6 +8062,35 @@ _Codifié par_:
 **Liens**:
 
   - HISTO: Edition du 1er juillet 1981
+
+
+###### Article L151-1
+
+Aux fins d'assurer l'exécution d'un titre exécutoire, l'huissier de justice peut obtenir l'adresse des organismes auprès
+desquels un compte est ouvert au nom du débiteur.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 31 août 2004
+
+_Nouveaux textes_:
+
+  - Livre des procédures fiscales L151 A
+
+_Créé par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 63 () JORF 12 février 2004
+
+_Codifié par_:
+
+  - Décret n°2004-1070 2004-10-08
+
+_Transféré par_:
+
+  - Décret n°2004-1070 du 8 octobre 2004 - art. 4 () JORF 10 octobre 2004
 
 
 ##### VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale<a id=86></a>
