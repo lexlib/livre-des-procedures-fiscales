@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-03-01
+Version Consolidée au 1985-05-07
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -15100,7 +15100,7 @@ la taxe sur la valeur ajoutée et de toutes sommes accessoires instituée par l'
 décembre 1981.
 
 Toutefois les attributions dévolues à la commission interministérielle instituée par l'article 3 du décret susvisé sont
-exercées par le service de la législation fiscale, en ce qui concerne la taxe sur la valeur ajoutée et les sommes accessoires
+exercées par la direction générale des impôts, en ce qui concerne la taxe sur la valeur ajoutée et les sommes accessoires
 dont le recouvrement incombe aux comptables de la direction générale des impôts.
 
 **Liens relatifs à cet article**
@@ -15110,13 +15110,13 @@ _Cite_:
   - Décret n°79-1025 1979-11-28 ART. 2, ART. 4 PAR. 3, ART. 22
   - Loi n°81-1179 1981-12-31 ART. 11 II FINANCES RECTIFICATIVE POUR 1981
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°82-661 1982-07-28 ART. 5 JORF 31 JUILLET 1982
+  - Décret n°85-481 1985-05-03 art. 1 JORF 7 mai 1985
 
 _Codifié par_:
 
-  - Décret n°82-882 1982-10-15
+  - Décret n°85-1008 1985-09-24
 
 
 ## LE CONTENTIEUX DE L'IMPOT<a id=269></a>
