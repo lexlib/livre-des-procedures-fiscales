@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1982-01-19
+Version Consolidée au 1982-03-22
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -8230,25 +8230,25 @@ _Anciens textes_:
 
 ###### Article L134 A
 
-Conformément à l'article L. 351-21 du Code du travail, les agents chargés des opérations de contrôle de la recherche d'emploi
-prévue aux articles L. 351-1 et L. 351-7 du même code peuvent, pour l'exercice de leur mission, recevoir communication des
+Conformément à l'article L. 351-18 du Code du travail, les agents chargés des opérations de contrôle de la recherche d'emploi
+prévue aux articles L. 351-1 et L. 351-17 du même code peuvent, pour l'exercice de leur mission, recevoir communication des
 renseignements détenus par l'administration des impôts.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°79-32 1979-01-16 ART. 8 II JORF 17 JANVIER 1979
-
 _Cite_:
 
   - Code du travail - art. L351-1 (M)
-  - Code du travail - art. L351-21 (T)
-  - Code du travail - art. L351-7 (MMN)
+  - Code du travail - art. L351-17 (T)
+  - Code du travail - art. L351-18 (T)
 
 _Codifié par_:
 
-  - Décret n°82-882 1982-10-15
+  - Décret n°84-876 1984-10-01
+
+_Modifié par_:
+
+  - Ordonnance 79-198 1979-03-21 art. 1 JORF 22 mars 1984
 
 
 ###### Article L139
