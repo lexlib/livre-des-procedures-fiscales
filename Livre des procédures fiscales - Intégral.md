@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1987-08-10
+Version Consolidée au 1987-10-23
 ## Contenu: 
   - [Partie législative (art. L1 à L255)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -280,7 +280,7 @@ Version Consolidée au 1987-08-10
       - [LES PROCEDURES DE RECOUVREMENT (art. R*255-1)](#277)
         - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. R*255-1)](#278)
   - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#279)
-    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-6)](#280)
+    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-10)](#280)
       - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#281)
         - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A37-1)](#282)
           - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#283)
@@ -298,10 +298,8 @@ Version Consolidée au 1987-08-10
         - [Chapitre II : Les procédures pénales (art. A225 A-1)](#295)
           - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#296)
             - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#297)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-6)](#298)
-        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-6)](#299)
-    - [LE RECOUVREMENT DE L'IMPOT (art. A277-7 à A277-10)](#300)
-      - [LE SURSIS DE PAIEMENT. (art. A277-7 à A277-10)](#301)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#298)
+        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#299)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -16780,36 +16778,37 @@ _Modifié par_:
   - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
-## LE RECOUVREMENT DE L'IMPOT<a id=300></a>
-
-### LE SURSIS DE PAIEMENT.<a id=301></a>
-
 ###### Article A277-7
 
-Les valeurs mobilières sur lesquelles la Banque de France consent des avances sur titres sont admises pour la somme
-déterminée par l'application au dernier cours coté au jour du dépôt du tarif appliqué par cet établissement pour la fixation
-du montant des avances.
+Les valeurs mobilières, y compris les actions de Sicav, sur lesquelles la Banque de France consent des avances sur titres,
+sont admises pour la somme déterminée, au jour du dépôt, par l'application au dernier cours coté pour les valeurs mobilières,
+ou au dernier prix de rachat pour les actions de Sicav, du tarif appliqué par cet établissement pour la fixation du montant
+des avances.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CGIAN4 207 K
+  - Arrêté 1987-10-15 art. 1 JORF 23 octobre 1987
 
 
 ###### Article A277-8
 
-Les autres valeurs mobilières cotées à une bourse française sont admises pour la valeur déterminée par l'application au
-dernier cours coté d'un pourcentage inférieur d'au moins 10 p. 100 au pourcentage minimal appliqué par la Banque de France en
-matière d'avances sur titres.
-
-En aucun cas, ce pourcentage ne peut être supérieur à 40 p. 100 [*limite*].
+Les autres valeurs mobilières cotées en bourse, les parts de fonds communs de placement autres que ceux prévus par la loi n°
+83-1 du 3 janvier 1983 et les actions de Sicav composées au moins pour moitié de valeurs françaises de première catégorie ou
+de valeur assimilées et gérées par la Caisse des dépôts et consignations ou un établissement de crédit agréé en qualité de
+banque par le comité des établissements de crédit sont admises pour une valeur égale à 60 p. 100 du dernier cours pour les
+valeurs cotées ou du dernier prix de rachat pour les parts de fonds communs de placement et pour les actions de Sicav.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CGIAN4 207 L
+  - Arrêté 1987-10-15 art. 1 JORF 23 octobre 1987
+
+_Cite_:
+
+  - Loi n°83-1 1983-01-03
 
 _Cité par_:
 
@@ -16818,25 +16817,30 @@ _Cité par_:
 
 ###### Article A277-9
 
-Les valeurs mobilières qui ne sont pas cotées à une bourse française ne peuvent être admises que si elles sont accompagnées
-d'une caution agréée par les comptables responsables du recouvrement et pour le montant de la somme cautionnée.
+Les valeurs mobilières qui ne sont pas cotées à une bourse française et les actions de Sicav autres que celles visées par
+l'article A. 277-8 ne peuvent être admises que si elles sont accompagnées d'une caution bancaire souscrite pour la différence
+entre le montant de l'évaluation des titres et le montant des impôts contestés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CGIAN4 207 M
+  - Arrêté 1987-10-15 art. 1 JORF 23 octobre 1987
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. A277-8 (V)
 
 
 ###### Article A277-10
 
-Des garanties supplémentaires peuvent être exigées lorsque le cours en bourse des titres déposés est inférieur à la valeur
-pour laquelle ces titres ont été admis en garantie.
+Des garanties supplémentaires peuvent être exigées lorsque le cours ou le prix de rachat, selon le cas, des titres déposés
+est inférieur à la valeur pour laquelle ces titres ont été admis en garantie.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CGIAN4 207 N
+  - Arrêté 1987-10-15 art. 1 JORF 23 octobre 1987
 
 
