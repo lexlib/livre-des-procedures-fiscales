@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-01-01
+Version Consolidée au 1986-01-03
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -76,7 +76,7 @@ Version Consolidée au 1986-01-01
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#73)
               - [Section II : Dérogations à la règle du secret professionnel (art. L114 A)](#74)
             - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 B)](#75)
-            - [III : Dérogations au profit de diverses commissions (art. L136 à L138)](#76)
+            - [III : Dérogations au profit de diverses commissions (art. L136 à L139)](#76)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 A)](#77)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151)](#78)
             - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale (art. L152 à L162 A)](#79)
@@ -4293,6 +4293,28 @@ _Anciens textes_:
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 396 quindecies (V)
+
+
+###### Article L139
+
+La commission départementale prévue à l'article 2-5 du code rural peut se faire communiquer par l'administration des impôts
+les éléments non nominatifs d'information nécessaires à sa mission, notamment, les valeurs retenues à l'occasion des
+mutations intervenues et le prix des baux constatés, au cours de l'année précédente et au besoin au cours des cinq dernières
+années.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural 2-5
+
+_Modifié par_:
+
+  - Loi n°85-1496 du 31 décembre 1985 - art. 24 () JORF 3 janvier 1986
+
+_Codifié par_:
+
+  - Décret n°86-1087 1986-10-07
 
 
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions<a id=77></a>
@@ -9777,23 +9799,6 @@ _Cite_:
 _Cité par_:
 
   - Arrêté du 14 juin 1982 - art. 4 (V)
-
-
-###### Article L139
-
-Les commissions prévues à l'article 25 de la loi n° 80-502 du 4 juillet 1980 d'orientation agricole peuvent se faire
-communiquer par l'administration des impôts les éléments d'information nécessaires à leurs missions, notamment les valeurs
-retenues à l'occasion des mutations intervenues dans les cinq dernières années [*période, délai*].
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°80-502 1980-07-04 ART. 25
-
-_Anciens textes_:
-
-  - Loi n°80-502 1980-07-04 ART. 25 (AL. 6)
 
 
 ###### Article L167
