@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1982-09-01
+Version Consolidée au 1982-10-27
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -216,7 +216,7 @@ Version Consolidée au 1982-09-01
               - [B : Dispositions particulières à certains impôts (art. R*172 B-1)](#213)
               - [B : Dispositions particulières à certains impôts. (art. R*172 D-1)](#214)
           - [Section III : Contributions indirectes (art. R*178-1)](#215)
-      - [Titre III : Le contentieux de l'impôt (art. R*190-2 à R247-9)](#216)
+      - [Titre III : Le contentieux de l'impôt (art. R*190-2 à R247-11)](#216)
         - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. R*190-2 à R*210-1)](#217)
           - [Charge et administration de la preuve (art. R*191-1 à R*195-1)](#218)
           - [Section I : Procédure préalable auprès de l'administration des impôts (art. R*196-1 à R*198-10)](#219)
@@ -237,7 +237,7 @@ Version Consolidée au 1982-09-01
             - [III : Rédaction des procès-verbaux (art. R*226-1 à R*226-3)](#234)
           - [Section II : Exercice des poursuites pénales (art. R*228-1 à R*228-4)](#235)
             - [I : Dispositions communes (art. R*228-1 à R*228-4)](#236)
-        - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247-1 à R247-9)](#237)
+        - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247-1 à R247-11)](#237)
       - [Titre IV : Le recouvrement de l'impôt (art. R254-1 à R*283-1)](#238)
         - [Chapitre premier : Les procédures de recouvrement (art. R254-1 à R*275-1)](#239)
           - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R254-1 à R*257-1)](#240)
@@ -263,7 +263,7 @@ Version Consolidée au 1982-09-01
       - [LE SECRET PROFESSIONNEL EN MATIERE FISCALE (art. R106-1 à R*114 A-5)](#260)
         - [PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL. (art. R106-1 à R111-1)](#261)
         - [DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL. (art. R*114 A-5)](#262)
-    - [LE CONTENTIEUX DE L'IMPOT (art. R*190-1 à R247-11)](#263)
+    - [LE CONTENTIEUX DE L'IMPOT (art. R*190-1 à R247-10)](#263)
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE. (art. R*190-1 à R*192-1)](#264)
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT (art. R*197-3 à R*208-4)](#265)
         - [PROCEDURE PREALABLE AUPRES DE L'ADMINISTRATION DES IMPOTS. (art. R*197-3 à R*198-6)](#266)
@@ -272,7 +272,7 @@ Version Consolidée au 1982-09-01
       - [LES DEGREVEMENTS D'OFFICE. (art. R*211-1 à R*211-2)](#269)
       - [LES PROCEDURES PENALES (art. R*212-1 à R213-2)](#270)
         - [CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL (art. R*212-1 à R213-2)](#271)
-      - [LES REMISES ET TRANSACTIONS A TITRE GRACIEUX (art. R*247-4 à R247-11)](#272)
+      - [LES REMISES ET TRANSACTIONS A TITRE GRACIEUX (art. R*247-4 à R247-10)](#272)
     - [LE RECOUVREMENT DE L'IMPOT (art. R*255-1)](#273)
       - [LES PROCEDURES DE RECOUVREMENT (art. R*255-1)](#274)
         - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. R*255-1)](#275)
@@ -12523,6 +12523,43 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
+###### Article R247-11
+
+Pour obtenir la dispense du paiement prévu au deuxième alinéa de l'article L. 247 la personne mise en cause doit, en ce qui
+concerne les impôts recouvrés par les comptables de la direction générale des impôts, adresser sa demande au directeur des
+services fiscaux dont dépend le comptable chargé du recouvrement.
+
+La décision appartient :
+
+a) Au directeur des services fiscaux [*autorité compétente*], lorsque les sommes faisant l'objet de la demande n'excèdent pas
+750.000 F [*montant*] par exercice ou affaire, selon la nature des impôts ;
+
+b) Au directeur général, lorsque les sommes faisant l'objet de la demande n'excèdent pas 1.750.000 F par exercice ou
+affaire ;
+
+c) Au ministre, dans les autres cas.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI L247 AL. 2
+
+_Anciens textes_:
+
+  - CGIAN3 424 2
+  - CGIAN3 425 2
+  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
+
+_Modifié par_:
+
+  - Décret n°82-913 du 22 octobre 1982 - art. 3 (V) JORF 27 OCTOBRE 1982
+
+_Cité par_:
+
+  - Décret n°2016-934 du 7 juillet 2016 - art. 2
+
+
 ### Titre IV : Le recouvrement de l'impôt<a id=238></a>
 
 #### Chapitre premier : Les procédures de recouvrement<a id=239></a>
@@ -14316,14 +14353,14 @@ Sauf en matière de contributions indirectes, la décision sur les demandes des 
 remise ou transaction appartient :
 
 a) Au directeur des services fiscaux [*autorité compétente*] chargé d'une direction départementale lorsque les sommes faisant
-l'objet de la demande n'excèdent pas 400.000 F [*montant limite*] par cote, exercice ou affaire, selon la nature des impôts ;
+l'objet de la demande n'excèdent pas 750.000 F [*montant limite*] par cote, exercice ou affaire, selon la nature des impôts ;
 
 b) Au directeur régional des impôts ou au directeur des services fiscaux chargé d'une direction spécialisée, pour les
 affaires relatives à des impositions établies à l'initiative des agents placés sous son autorité, lorsque les sommes faisant
-l'objet de la demande n'excèdent pas 600.000 F par cote, exercice ou affaire ;
+l'objet de la demande n'excèdent pas 1.100.000 F par cote, exercice ou affaire ;
 
 c) Au directeur général des impôts, après avis du comité du contentieux fiscal, douanier et des changes, lorsque les sommes
-faisant l'objet de la demande n'excèdent pas 1.000.000 F par cote, exercice ou affaire ;
+faisant l'objet de la demande n'excèdent pas 1.750.000 F par cote, exercice ou affaire ;
 
 d) Au ministre, après avis du comité précité, dans les autres cas.
 
@@ -14334,9 +14371,9 @@ _Anciens textes_:
   - CGIAN3 419
   - Décret n°80-591 du 24 juillet 1980 - art. 1 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°81-860 1981-09-15
+  - Décret n°82-913 du 22 octobre 1982 - art. 1 (V) JORF 27 OCTOBRE 1982
 
 _Cité par_:
 
@@ -14449,46 +14486,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
-
-
-###### Article R247-11
-
-Pour obtenir la dispense du paiement prévu au deuxième alinéa de l'article L. 247 la personne mise en cause doit, en ce qui
-concerne les impôts recouvrés par les comptables de la direction générale des impôts, adresser sa demande au directeur des
-services fiscaux dont dépend le comptable chargé du recouvrement.
-
-La décision appartient :
-
-a. Au directeur des services fiscaux [*autorité compétente*], lorsque les sommes faisant l'objet de la demande n'excèdent pas
-400.000 F, par exercice ou affaire, selon la nature des impôts ;
-
-b. Au directeur général, lorsque les sommes faisant l'objet de la demande n'excèdent pas 1.000.000 F par exercice ou
-affaire ;
-
-c. Au ministre, dans les autres cas [*montant limite, seuil*].
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI L247 AL. 2
-
-_Anciens textes_:
-
-  - CGIAN3 424 2
-  - CGIAN3 425 2
-
-_Codifié par_:
-
-  - Décret n°82-882 1982-10-15
-
-_Modifié par_:
-
-  - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
-
-_Cité par_:
-
-  - Décret n°2016-934 du 7 juillet 2016 - art. 2
 
 
 ## LE RECOUVREMENT DE L'IMPOT<a id=273></a>
