@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2003-09-01
+Version Consolidée au 2003-10-03
 ## Contenu: 
   - [Partie législative (art. L1 à L288)](#1)
     - [Première partie : Partie législative (art. L1 à L288)](#2)
@@ -2158,29 +2158,6 @@ _Cité par_:
 
   - Décret n°89-353 du 5 juin 1989 - art. 1 (V)
   - Livre des procédures fiscales - art. R45 D-1 (P)
-
-
-###### Article L45 E
-
-Les agents mandatés par le directeur général des impôts peuvent contrôler sur le lieu d'exploitation le respect des
-conditions liées à la réalisation, l'affectation et la conservation des investissements productifs ayant ouvert un droit au
-bénéfice des dispositions des articles 199 undecies A, 199 undecies B, 217 undecies et 217 duodecies du code général des
-impôts et prévues aux mêmes articles.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 199 undecies A, 199 undecies B, 217 undecies, 217 duodecies
-
-**Liens**:
-
-  - HISTO: Edition du 31 août 2003
-  - PEREMPTION: Décret n°2003-934 du 30 septembre 2003 - art. 1
-
-_Créé par_:
-
-  - Loi n°2003-660 du 21 juillet 2003 - art. 42 () JORF 22 juillet 2003
 
 
 ###### Article L45 F
