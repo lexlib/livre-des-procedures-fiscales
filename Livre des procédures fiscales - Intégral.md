@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-01-05
+Version Consolidée au 1985-03-01
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -4375,6 +4375,32 @@ _Cité par_:
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de l'expropriation pour cause d'utilité pu... - art. L13-18 (VT)
+
+
+###### Article L145 A
+
+Pour la mise en oeuvre des dispositions de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable
+des difficultés des entreprises, le président du tribunal de commerce ou du tribunal de grande instance peut recevoir de
+l'administration des impôts communication des renseignements de nature à lui donner une exacte information sur la situation
+économique et financière du débiteur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°84-148 1984-03-01
+
+_Créé par_:
+
+  - loi 84-148 1984-03-01 art. 36 JORF 2 mars 1984, en vigueur le 1er mars 1985
+
+_Codifié par_:
+
+  - Décret n°85-1008 1985-09-24
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R145 A-1 (V)
 
 
 ###### Article L146
