@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1982-01-02
+Version Consolidée au 1982-01-19
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -284,13 +284,16 @@ Version Consolidée au 1982-01-02
                 - [2 : Droits de timbre (art. A37-1)](#281)
         - [Chapitre II : Le droit de communication (art. A97-1 à A97-3)](#282)
           - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#283)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-2 à A277-5)](#284)
-        - [Chapitre II : Le sursis de paiement (art. A277-2 à A277-5)](#285)
-    - [LE CONTROLE DE L'IMPOT (art. A26-4)](#286)
-      - [LE DROIT DE CONTROLE DE L'ADMINISTRATION (art. A26-4)](#287)
-        - [DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS. (art. A26-4)](#288)
-    - [LE RECOUVREMENT DE L'IMPOT (art. A277-1 à A277-10)](#289)
-      - [LE SURSIS DE PAIEMENT. (art. A277-1 à A277-10)](#290)
+      - [Titre III : Le contentieux de l'impôt (art. A208-1)](#284)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#285)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux. (art. A208-1)](#286)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-2 à A277-5)](#287)
+        - [Chapitre II : Le sursis de paiement (art. A277-2 à A277-5)](#288)
+    - [LE CONTROLE DE L'IMPOT (art. A26-4)](#289)
+      - [LE DROIT DE CONTROLE DE L'ADMINISTRATION (art. A26-4)](#290)
+        - [DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS. (art. A26-4)](#291)
+    - [LE RECOUVREMENT DE L'IMPOT (art. A277-1 à A277-10)](#292)
+      - [LE SURSIS DE PAIEMENT. (art. A277-1 à A277-10)](#293)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -14538,9 +14541,32 @@ _Anciens textes_:
   - CGIAN4 211
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=284></a>
+### Titre III : Le contentieux de l'impôt<a id=284></a>
 
-#### Chapitre II : Le sursis de paiement<a id=285></a>
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=285></a>
+
+##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.<a id=286></a>
+
+###### Article A208-1
+
+Lorsqu'une réclamation contentieuse est admise en totalité ou en partie, la limite prévue par l'article R208-4-2° dans
+laquelle est remboursée au réclamant la rémunération demandée par la caution est, en taux annuel, de 1 % de l'impôt garanti.
+Elle est calculée en fonction du temps effectivement écoulé de la constitution à la mainlevée de la caution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 82-882 1982-10-15
+
+_Cite_:
+
+  - CGI R208-4 2°
+
+
+### Titre IV : Le recouvrement de l'impôt<a id=287></a>
+
+#### Chapitre II : Le sursis de paiement<a id=288></a>
 
 ###### Article A277-2
 
@@ -14571,11 +14597,11 @@ _Anciens textes_:
   - CGIAN4 207 H
 
 
-## LE CONTROLE DE L'IMPOT<a id=286></a>
+## LE CONTROLE DE L'IMPOT<a id=289></a>
 
-### LE DROIT DE CONTROLE DE L'ADMINISTRATION<a id=287></a>
+### LE DROIT DE CONTROLE DE L'ADMINISTRATION<a id=290></a>
 
-#### DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.<a id=288></a>
+#### DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.<a id=291></a>
 
 ###### Article A26-4
 
@@ -14602,9 +14628,9 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 153 (V)
 
 
-## LE RECOUVREMENT DE L'IMPOT<a id=289></a>
+## LE RECOUVREMENT DE L'IMPOT<a id=292></a>
 
-### LE SURSIS DE PAIEMENT.<a id=290></a>
+### LE SURSIS DE PAIEMENT.<a id=293></a>
 
 ###### Article A277-1
 
