@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-07-12
+Version Consolidée au 1986-10-11
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -271,13 +271,13 @@ Version Consolidée au 1986-07-12
         - [DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION. (art. R*81-1 à R*94-1)](#268)
       - [LE SECRET PROFESSIONNEL EN MATIERE FISCALE (art. R106-1)](#269)
         - [PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL. (art. R106-1)](#270)
-    - [LE CONTENTIEUX DE L'IMPOT (art. R*190-1 à R247-5 A)](#271)
+    - [LE CONTENTIEUX DE L'IMPOT (art. R*190-1 à R*247-17)](#271)
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE. (art. R*190-1 à R*192-1)](#272)
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT (art. R*200-2 à R*200-18)](#273)
         - [PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS* (art. R*200-2 à R*200-18)](#274)
       - [LES PROCEDURES PENALES (art. R*213-3)](#275)
         - [CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL (art. R*213-3)](#276)
-      - [LES REMISES ET TRANSACTIONS A TITRE GRACIEUX (art. R*247-4 à R247-5 A)](#277)
+      - [LES REMISES ET TRANSACTIONS A TITRE GRACIEUX (art. R*247-17)](#277)
     - [LE RECOUVREMENT DE L'IMPOT (art. R*255-1)](#278)
       - [LES PROCEDURES DE RECOUVREMENT (art. R*255-1)](#279)
         - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. R*255-1)](#280)
@@ -14475,6 +14475,36 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
+###### Article R*247-4
+
+Sauf en matière de contributions indirectes, de taxe professionnelle et de taxes additionnelles à cette taxe, la décision sur
+les demandes des contribuables tendant à obtenir une modération, remise ou transaction appartient :
+
+a) Au directeur des services fiscaux chargé d'une direction départementale lorsque les sommes faisant l'objet de la demande
+n'excèdent pas 1.500.000 F par cote, exercice ou affaire, selon la nature des impôts ;
+
+b) Au directeur régional des impôts ou au directeur des services fiscaux chargé d'une direction spécialisée, pour les
+affaires relatives à des impositions établies à l'initiative des agents placés sous son autorité, lorsque les sommes faisant
+l'objet de la demande n'excèdent pas 1.100.000 F par cote, exercice ou affaire ;
+
+c) Au directeur général des impôts, après avis du comité du contentieux fiscal, douanier et des changes, lorsque les sommes
+faisant l'objet de la demande n'excèdent pas 2.400.000 F par cote, exercice ou affaire ;
+
+d) Au ministre, après avis du comité précité, dans les autres cas.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°86-1097 du 24 septembre 1986 - art. 1 (V) JORF 11 octobre 1986
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 2 (VD)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 408 (V)
+  - Livre des procédures fiscales - art. R*247-12 (V)
+
+
 ###### Article R*247-5
 
 En matière de contributions indirectes la décision sur les demandes tendant à obtenir une transaction, remise ou modération
@@ -14643,6 +14673,34 @@ _Codifié par_:
 _Cité par_:
 
   - Décret n°2013-443 du 30 mai 2013 - art. 11 (VD)
+
+
+###### Article R247-5 A
+
+En matière de taxe professionnelle et de taxes additionnelles à cet impôt, la décision sur les demandes des contribuables
+tendant à obtenir une remise ou une modération appartient :
+
+a) Au directeur des services fiscaux chargé d'une direction départementale lorsque les sommes faisant l'objet de la demande
+n'excèdent pas 1.500.000 F par cote ;
+
+c) Au directeur général des impôts, après avis du comité du contentieux fiscal, douanier et des changes, lorsque les sommes
+faisant l'objet de la demande n'excèdent pas 2.400.000 F par cote ;
+
+d) Au ministre, après avis du comité précité, dans les autres cas.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°86-1097 du 24 septembre 1986 - art. 1 (V) JORF 11 octobre 1986
+
+_Codifié par_:
+
+  - Décret n°87-941 1987-11-23
+
+**Liens**:
+
+  - HISTO: Edition du 10 août 1987
 
 
 ###### Article R247-6
@@ -15946,41 +16004,6 @@ _Codifié par_:
 
 ### LES REMISES ET TRANSACTIONS A TITRE GRACIEUX<a id=277></a>
 
-###### Article R*247-4
-
-Sauf en matière de contributions indirectes, de taxe professionnelle et de taxes additionnelles à cette taxe , la décision
-sur les demandes des contribuables tendant à obtenir une modération, remise ou transaction appartient :
-
-a) Au directeur des services fiscaux [*autorité compétente*] chargé d'une direction départementale lorsque les sommes faisant
-l'objet de la demande n'excèdent pas 1.250.000 F [*montant limite*] par cote, exercice ou affaire, selon la nature des
-impôts ;
-
-b) Au directeur régional des impôts ou au directeur des services fiscaux chargé d'une direction spécialisée, pour les
-affaires relatives à des impositions établies à l'initiative des agents placés sous son autorité, lorsque les sommes faisant
-l'objet de la demande n'excèdent pas 1.100.000 F par cote, exercice ou affaire ;
-
-c) Au directeur général des impôts, après avis du comité du contentieux fiscal, douanier et des changes, lorsque les sommes
-faisant l'objet de la demande n'excèdent pas 2.000.000 F par cote, exercice ou affaire ;
-
-d) Au ministre, après avis du comité précité, dans les autres cas.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°85-1103 du 9 octobre 1985 - art. 1 (V) JORF 17 octobre 1985
-
-_Codifié par_:
-
-  - Décret n°86-1087 1986-10-07
-
-_Cité par_:
-
-  - Décret n°97-1195 du 24 décembre 1997 - art. 2 (VD)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 408 (V)
-  - Livre des procédures fiscales - art. R*247-12 (V)
-
-
 ###### Article R*247-17
 
 Des remises, modérations ou transactions portant sur les créances fiscales peuvent être accordées aux entreprises soumises à
@@ -16008,30 +16031,6 @@ _Cite_:
 _Créé par_:
 
   - Décret n°85-1388 du 27 décembre 1985 - art. 179 (Ab) JORF 29 décembre 1985 en vigueur le 1er janvier 1986
-
-
-###### Article R247-5 A
-
-En matière de taxe professionnelle et de taxes additionnelles à cet impôt, la décision sur les demandes des contribuables
-tendant à obtenir une remise ou une modération appartient :
-
-a) Au directeur des services fiscaux [*autorité compétente*] chargé d'une direction départementale lorsque les sommes faisant
-l'objet de la demande n'excèdent pas 1.250.000 F [*montant limite*] par cote ;
-
-c) Au directeur général des impôts, après avis du comité du contentieux fiscal, douanier et des changes, lorsque les sommes
-faisant l'objet de la demande n'excèdent pas 2.000.000 F par cote ;
-
-d) Au ministre, après avis du comité précité, dans les autres cas.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°85-1103 du 9 octobre 1985 - art. 1 (V) JORF 17 octobre 1985
-
-_Codifié par_:
-
-  - Décret n°86-1087 1986-10-07
 
 
 ## LE RECOUVREMENT DE L'IMPOT<a id=278></a>
