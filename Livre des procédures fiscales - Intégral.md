@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-03-11
+Version Consolidée au 1986-03-14
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -270,13 +270,13 @@ Version Consolidée au 1986-03-11
         - [DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION. (art. R*81-1 à R*94-1)](#267)
       - [LE SECRET PROFESSIONNEL EN MATIERE FISCALE (art. R106-1)](#268)
         - [PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL. (art. R106-1)](#269)
-    - [LE CONTENTIEUX DE L'IMPOT (art. R*190-1 à R247-6)](#270)
+    - [LE CONTENTIEUX DE L'IMPOT (art. R*190-1 à R247-5 A)](#270)
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE. (art. R*190-1 à R*192-1)](#271)
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT (art. R*200-2 à R*200-18)](#272)
         - [PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS* (art. R*200-2 à R*200-18)](#273)
       - [LES PROCEDURES PENALES (art. R*213-3)](#274)
         - [CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL (art. R*213-3)](#275)
-      - [LES REMISES ET TRANSACTIONS A TITRE GRACIEUX (art. R*247-4 à R247-6)](#276)
+      - [LES REMISES ET TRANSACTIONS A TITRE GRACIEUX (art. R*247-4 à R247-5 A)](#276)
     - [LE RECOUVREMENT DE L'IMPOT (art. R*255-1)](#277)
       - [LES PROCEDURES DE RECOUVREMENT (art. R*255-1)](#278)
         - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. R*255-1)](#279)
@@ -14553,6 +14553,36 @@ _Cité par_:
   - Décret n°2013-443 du 30 mai 2013 - art. 11 (VD)
 
 
+###### Article R247-6
+
+Le directeur général des impôts [*autorité compétente*] se prononce sur les demandes de remises, modérations ou transactions
+qui relèveraient normalement de la compétence du ministre, lorsqu'elles sont présentées dans les conditions prévues à
+l'article 24 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises
+(1).
+
+(1) Dans les conditions prévues à l'article 69 de la loi n° 67-563 du 13 juillet 1967 pour les procédures ouvertes avant le
+1er janvier 1986.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGIAN3 419 B
+
+_Cite_:
+
+  - Loi n°67-563 du 13 juillet 1967 - art. 69 (Ab)
+  - Loi n°85-98 1985-01-25 art. 24
+
+_Modifié par_:
+
+  - Décret n°86-355 du 10 mars 1986 - art. 1 (V) JORF 14 mars 1986
+
+_Codifié par_:
+
+  - Décret n°86-1087 1986-10-07
+
+
 ###### Article R247-7
 
 La décision du directeur des services fiscaux ou du directeur régional peut être soumise au directeur général des impôts.
@@ -15906,31 +15936,6 @@ _Créé par_:
 _Codifié par_:
 
   - Décret n°86-1087 1986-10-07
-
-
-###### Article R247-6
-
-Le directeur général des impôts [*autorité compétente*] se prononce sur les demandes qui relèveraient normalement de la
-compétence du ministre, lorsqu'elles sont présentées soit pour un contribuable en état de règlement judiciaire dans les
-conditions prévues à l'article 69 de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des
-biens, la faillite personnelle et les banqueroutes, soit par un redevable admis au bénéfice de la suspension provisoire des
-poursuites prévue par l'ordonnance n° 67-820 du 23 septembre 1967 tendant à faciliter le redressement économique et financier
-de certaines entreprises.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGIAN3 419 B
-
-_Cite_:
-
-  - Loi n°67-563 du 13 juillet 1967 - art. 69 (Ab)
-  - Ordonnance 67-820 1967-09-23
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
 
 
 ## LE RECOUVREMENT DE L'IMPOT<a id=277></a>
