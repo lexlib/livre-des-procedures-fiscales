@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1982-07-31
+Version Consolidée au 1982-08-05
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -12402,6 +12402,31 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 21 (V)
 
 
+###### Article R247-8
+
+Les transactions ou les remises ou modérations prévues par les articles L. 247 et L. 248 peuvent être accordées sur
+proposition du directeur départemental des impôts dans les limites et conditions fixées par le directeur général des impôts.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI L247
+  - CGI L248
+
+_Anciens textes_:
+
+  - CGIAN3 421
+
+_Codifié par_:
+
+  - Décret n°82-882 1982-10-15
+
+_Modifié par_:
+
+  - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
+
+
 ###### Article R247-9
 
 Le directeur des services fiscaux ou le directeur régional peut, dans les conditions fixées par le directeur général des
@@ -14311,28 +14336,6 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-###### Article R247-8
-
-Les transactions ou les remises ou modérations prévues par les articles L. 247 et L. 248 peuvent être accordées sur
-proposition du directeur départemental des impôts [*autorité compétente*] dans les limites et conditions fixées par le
-directeur général des impôts après avis du conseil d'administration.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI L247
-  - CGI L248
-
-_Anciens textes_:
-
-  - CGIAN3 421
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
-
-
 ###### Article R247-10
 
 Pour obtenir la dispense du paiement d'impositions dues par d'autres personnes et mises à leur charge, les personnes ainsi
@@ -14352,8 +14355,8 @@ direction générale des impôts ont émis des avis concordants.
 Il en est de même, lorsque s'agissant de sommes qui excèdent la limite précitée, la direction de la comptabilité publique et
 la direction générale des impôts ont émis des avis concordants.
 
-Le ministre statue, après avis du comité des remises et transactions, quel que soit le montant des sommes dues, lorsque les
-avis émis par la direction de la comptabilité publique et la direction générale des impôts ne sont pas concordants.
+Le ministre statue, quel que soit le montant des sommes dues, lorsque les avis émis par la direction de la comptabilité
+publique et la direction générale des Impôts ne sont pas concordants.
 
 **Liens relatifs à cet article**
 
@@ -14364,7 +14367,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°81-860 1981-09-15
+  - Décret n°82-882 1982-10-15
+
+_Modifié par_:
+
+  - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
 
 _Cité par_:
 
@@ -14382,13 +14389,13 @@ services fiscaux dont dépend le comptable chargé du recouvrement.
 
 La décision appartient :
 
-a) Au directeur des services fiscaux, lorsque les sommes faisant l'objet de la demande n'excèdent pas 400.000 F par exercice
+a. Au directeur des services fiscaux, lorsque les sommes faisant l'objet de la demande n'excèdent pas 400.000 F, par exercice
 ou affaire, selon la nature des impôts ;
 
-b) Au directeur général, après avis du conseil d'administration, lorsque les sommes faisant l'objet de la demande n'excèdent
-pas 1.000.000 F par exercice ou affaire ;
+b. Au directeur général, lorsque les sommes faisant l'objet de la demande n'excèdent pas 1.000.000 F par exercice ou
+affaire ;
 
-c) Au ministre, après avis du comité des remises et transactions, dans les autres cas.
+c. Au ministre, dans les autres cas.
 
 **Liens relatifs à cet article**
 
@@ -14405,11 +14412,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°81-860 1981-09-15
+  - Décret n°82-882 1982-10-15
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°82-913 du 22 octobre 1982 - art. 3 (V)
+  - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
 
 _Cité par_:
 
