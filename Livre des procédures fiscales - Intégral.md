@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-01-13
 ## Contenu: 
   - [Partie législative (art. L1 à L283)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -262,7 +262,7 @@ Version Consolidée au 1990-01-01
           - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#259)
       - [Titre III : Le contentieux de l'impôt (art. A208-1 à A225 A-1)](#260)
         - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#261)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux. (art. A208-1)](#262)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#262)
         - [Chapitre II : Les procédures pénales (art. A225 A-1)](#263)
           - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#264)
             - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#265)
@@ -16153,23 +16153,23 @@ _Anciens textes_:
 
 #### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=261></a>
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.<a id=262></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=262></a>
 
 ###### Article A208-1
 
-Lorsqu'une réclamation contentieuse est admise en totalité ou en partie, la limite prévue par l'article R208-4-2° dans
-laquelle est remboursée au réclamant la rémunération demandée par la caution est, en taux annuel, de 1 % de l'impôt garanti.
+Lorsqu'une réclamation contentieuse est admise en totalité ou en partie, la limite prévue au 2° de l'article R. 208-4 dans
+laquelle est remboursée au réclamant la rémunération demandée par la caution est, en taux annuel, de 2 % de l'impôt garanti.
 Elle est calculée en fonction du temps effectivement écoulé de la constitution à la mainlevée de la caution.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Arrêté 82-882 1982-10-15
+  - Arrêté 1990-01-05 art. 1 JORF 13 janvier 1990
 
 _Cite_:
 
-  - CGI R208-4 2°
+  - Livre des procédures fiscales - art. R*208-4 (V)
 
 
 #### Chapitre II : Les procédures pénales<a id=263></a>
