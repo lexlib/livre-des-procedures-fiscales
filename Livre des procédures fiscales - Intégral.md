@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1984-01-25
+Version Consolidée au 1984-02-25
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -71,7 +71,7 @@ Version Consolidée au 1984-01-25
           - [Section II : Dérogations à la règle du secret professionnel (art. L114 à L165)](#68)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#69)
               - [Section II : Dérogations à la règle du secret professionnel (art. L114 A)](#70)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135)](#71)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 A)](#71)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L138)](#72)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147)](#73)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151)](#74)
@@ -272,7 +272,7 @@ Version Consolidée au 1984-01-25
     - [LE CONTENTIEUX DE L'IMPOT (art. R*190-1 à R247-10)](#269)
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE. (art. R*190-1 à R*192-1)](#270)
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT (art. R*197-3 à R*208-1)](#271)
-        - [PROCEDURE PREALABLE AUPRES DE L'ADMINISTRATION DES IMPOTS. (art. R*197-3 à R*198-6)](#272)
+        - [PROCEDURE PREALABLE AUPRES DE L'ADMINISTRATION DES IMPOTS. (art. R*197-3)](#272)
         - [PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS* (art. R*199-1 à R*202-4)](#273)
         - [CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX. (art. R*208-1)](#274)
       - [LES DEGREVEMENTS D'OFFICE. (art. R*211-1 à R*211-2)](#275)
@@ -3500,6 +3500,26 @@ _Anciens textes_:
 _Cité par_:
 
   - Livre des procédures fiscales - art. L113 (V)
+
+
+###### Article L135 A
+
+Conformément à l'article L. 950-8 du code du travail, l'administration des impôts est tenue de communiquer aux agents chargés
+de la formation professionnelle continue les renseignements nécessaires à l'accomplissement de leur mission.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail - art. L950-8 (M)
+
+_Codifié par_:
+
+  - Décret n°84-876 1984-10-01
+
+_Créé par_:
+
+  - loi 84-130 1984-02-24 art. 43 JORF 25 février 1984
 
 
 ##### III : Dérogations au profit de diverses commissions<a id=72></a>
@@ -14214,28 +14234,6 @@ _Cité par_:
 
   - Livre des procédures fiscales - art. R*200-2 (V)
   - Livre des procédures fiscales - art. R*208 A-1 (V)
-
-
-###### Article R*198-6
-
-Les réclamations sont communiquées pour avis au service chargé du contrôle de la formation professionnelle lorsque le litige
-porte sur le montant de la participation consentie par l'employeur ou sur les versements au Trésor public mis à la charge des
-employeurs ou des dispensateurs de formation en vertu des articles L. 920-9 et L. 920-10 du code du travail.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 1960 ter (2ème PHRASE)
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
-
-_Cite_:
-
-  - Code du travail - art. L920-10 (M)
-  - Code du travail - art. L920-9 (M)
 
 
 #### PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS*<a id=273></a>
