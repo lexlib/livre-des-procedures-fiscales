@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1983-05-03
+Version Consolidée au 1983-06-11
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -9391,7 +9391,7 @@ _Anciens textes_:
 ###### Article L246
 
 Les ventes sans factures, constatées dans les conditions prévues aux articles 5, 6 et 7 de l'ordonnance n° 45-1484 du 30 juin
-1945 modifiée, sont poursuivies pénalement dans le délai le plus bref selon les procédures du flagrant délit, de
+1945 modifiée, sont poursuivies pénalement dans le délai le plus bref selon les procédures de la comparution immédiate, de
 l'information ou de la citation directe.
 
 **Liens relatifs à cet article**
@@ -9401,11 +9401,19 @@ _Anciens textes_:
   - CGI 1751 1 (1RE PHRASE)
   - Loi n°52-401 1952-04-14 ART. 49
 
+_Codifié par_:
+
+  - Décret n°84-876 1984-10-01
+
 _Cite_:
 
   - Ordonnance n°45-1484 du 30 juin 1945 - art. 5 (Ab)
   - Ordonnance n°45-1484 du 30 juin 1945 - art. 6 (Ab)
   - Ordonnance n°45-1484 du 30 juin 1945 - art. 7 (Ab)
+
+_Modifié par_:
+
+  - Loi n°83-466 du 10 juin 1983 - art. 26 () JORF 11 juin 1983
 
 _Cité par_:
 
