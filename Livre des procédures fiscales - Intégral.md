@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-10-17
+Version Consolidée au 1985-12-14
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -272,14 +272,14 @@ Version Consolidée au 1985-10-17
       - [LE SECRET PROFESSIONNEL EN MATIERE FISCALE (art. R106-1 à R*114 A-5)](#269)
         - [PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL. (art. R106-1)](#270)
         - [DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL. (art. R*114 A-5)](#271)
-    - [LE CONTENTIEUX DE L'IMPOT (art. R*190-1 à R247-10)](#272)
+    - [LE CONTENTIEUX DE L'IMPOT (art. R*190-1 à R247-6)](#272)
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE. (art. R*190-1 à R*192-1)](#273)
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT (art. R*200-2 à R*208-1)](#274)
         - [PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS* (art. R*200-2 à R*200-18)](#275)
         - [CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX. (art. R*208-1)](#276)
       - [LES PROCEDURES PENALES (art. R*213-3)](#277)
         - [CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL (art. R*213-3)](#278)
-      - [LES REMISES ET TRANSACTIONS A TITRE GRACIEUX (art. R*247-4 à R247-10)](#279)
+      - [LES REMISES ET TRANSACTIONS A TITRE GRACIEUX (art. R*247-4 à R247-6)](#279)
     - [LE RECOUVREMENT DE L'IMPOT (art. R*255-1)](#280)
       - [LES PROCEDURES DE RECOUVREMENT (art. R*255-1)](#281)
         - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. R*255-1)](#282)
@@ -14415,6 +14415,42 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
+###### Article R247-10
+
+Pour obtenir la dispense du paiement d'impositions dues par d'autres personnes et mises à leur charge, les personnes ainsi
+mises en cause doivent, en ce qui concerne les impôts recouvrés par les comptables du Trésor, adresser une demande au
+trésorier-payeur général [*autorité compétente*] dont dépend le lieu d'imposition.
+
+Après examen de la demande, la décision appartient :
+
+a) Au trésorier-payeur général sur avis conforme du directeur des services fiscaux lorsque les sommes n'excèdent pas 750.000
+F [*montant*] par cote. Toutefois, lorsque les sommes n'excèdent pas 100.000 F par cote, le trésorier-payeur général prend la
+décision si le directeur des services fiscaux n'a pas formulé son avis dans le délai de trois mois.
+
+b) Au directeur de la comptabilité publique lorsque, les sommes n'excédant pas la limite de 750.000 F par cote, le trésorier-
+payeur général a émis un avis ne concordant pas avec celui du directeur des services fiscaux et que, saisies de l'affaire en
+raison de ce désaccord, la direction de la comptabilité publique et la direction générale des impôts ont émis des avis
+concordants.
+
+Il en est de même lorsque, s'agissant de sommes qui excèdent la limite précitée, la direction de la comptabilité publique et
+la direction générale des impôts ont émis des avis concordants.
+
+c) Au ministre, quel que soit le montant des sommes dues, lorsque les avis émis par la direction de la comptabilité publique
+et la direction générale des impôts ne sont pas concordants.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°85-1318 du 12 décembre 1985 - art. 1 (V) JORF 14 décembre 1985
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 408 (V)
+  - Livre des procédures fiscales - art. R*247-10 A (T)
+  - Livre des procédures fiscales - art. R*247-18 (V)
+
+
 ###### Article R247-11
 
 Pour obtenir la dispense du paiement prévu au deuxième alinéa de l'article L. 247 la personne mise en cause doit, en ce qui
@@ -15707,45 +15743,6 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°81-860 1981-09-15
-
-
-###### Article R247-10
-
-Pour obtenir la dispense du paiement d'impositions dues par d'autres personnes et mises à leur charge, les personnes ainsi
-mises en cause doivent, en ce qui concerne les impôts recouvrés par les comptables du Trésor, adresser une demande au
-trésorier-payeur général [*autorité compétente*] dont dépend le lieu d'imposition.
-
-Après examen de la demande, le trésorier-payeur général prend l'avis du directeur des services fiscaux.
-
-La décision appartient au trésorier-payeur général sur avis conforme du directeur des services fiscaux lorsque les sommes
-n'excèdent pas 400.000 F [*montant*] par cote.
-
-La décision appartient au directeur de la comptabilité publique lorsque, s'agissant de sommes n'excédant pas la limite prévue
-au troisième alinéa, le trésorier-payeur général a émis un avis ne concordant pas avec celui du directeur des services
-fiscaux et qu'ayant été saisies de l'affaire en raison de ce désaccord, la direction de la comptabilité publique et la
-direction générale des impôts ont émis des avis concordants.
-
-Il en est de même, lorsque s'agissant de sommes qui excèdent la limite précitée, la direction de la comptabilité publique et
-la direction générale des impôts ont émis des avis concordants.
-
-Le ministre statue, quel que soit le montant des sommes dues, lorsque les avis émis par la direction de la comptabilité
-publique et la direction générale des Impôts ne sont pas concordants.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 408 (V)
-  - Livre des procédures fiscales - art. R*247-10 A (T)
-  - Livre des procédures fiscales - art. R*247-18 (V)
-
-_Codifié par_:
-
-  - Décret n°82-882 1982-10-15
-
-_Modifié par_:
-
-  - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
 
 
 ## LE RECOUVREMENT DE L'IMPOT<a id=280></a>
