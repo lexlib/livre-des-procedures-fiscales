@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2003-12-24
+Version Consolidée au 2003-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L288)](#1)
     - [Première partie : Partie législative (art. L1 à L288)](#2)
@@ -858,7 +858,8 @@ sexies et 199 septies du code général des impôts, ainsi que des avoirs ou rev
 
 L'administration peut demander au contribuable des justifications sur tous les éléments servant de base à la détermination du
 revenu foncier tels qu'ils sont définis aux articles 28 à 33 quinquies du code général des impôts ainsi que des gains de
-cession de valeurs mobilières ou de droits sociaux tels qu'ils sont définis aux articles 150-0 A à 150-0 E du même code.
+cession de valeurs mobilières ou de droits sociaux tels qu'ils sont définis aux articles 150-0 A à 150-0 E du même code et
+des plus-values telles qu'elles sont définies aux articles 150 U à 150 VH du même code.
 
 Les demandes visées aux alinéas précédents doivent indiquer explicitement les points sur lesquels elles portent et mentionner
 à l'intéressé le délai de réponse dont il dispose en fonction des textes en vigueur.
@@ -881,7 +882,7 @@ l'intéressé, pour fournir sa réponse, un délai qui ne peut être inférieur 
 
 _Cite_:
 
-  - CGI 156, 157, 150-0 A à 150-0 E, 28 à 33 quinquies, 199 sexies, 199 septies, 125 A III bis
+  - CGI 156, 157, 150-0 A à 150-0 E, 28 à 33 quinquies, 199 sexies, 199 septies, 125 A III bis, 150 U à 150 VH
   - Livre des procédures fiscales - art. L11 (V)
 
 _Anciens textes_:
@@ -896,6 +897,10 @@ _Anciens textes_:
   - Loi n°61-1396 1961-12-21 ART. 79 I
   - Loi n°70-576 du 3 juillet 1970 - art. 13, v. init.
 
+_Modifié par_:
+
+  - Loi - art. 10 (V) JORF 31 décembre 2003
+
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 204 (V)
@@ -907,11 +912,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
-
-_Modifié par_:
-
-  - Loi - art. 94 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000
+  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article L16 A
@@ -2416,11 +2417,11 @@ _Cité par_:
 
 A l'issue d'un examen contradictoire de la situation fiscale personnelle au regard de l'impôt sur le revenu ou d'une
 vérification de comptabilité, lorsque des redressements sont envisagés, l'administration doit indiquer, avant que le
-contribuable présente ses observations ou accepte les rehaussements proposés, dans la notification prévue à l'article L. 57,
-le montant des droits, taxes et pénalités résultant de ces redressements. Lorsqu'à un stade ultérieur de la procédure de
-redressement contradictoire l'administration modifie les rehaussements, pour tenir compte des observations et avis recueillis
-au cours de cette procédure, cette modification est portée par écrit à la connaissance du contribuable avant la mise en
-recouvrement, qui peut alors intervenir sans délai.
+contribuable présente ses observations ou accepte les rehaussements proposés, dans les notifications prévues aux articles L.
+57 et L. 76, le montant des droits, taxes et pénalités résultant de ces redressements. Lorsqu'à un stade ultérieur de la
+procédure de redressement contradictoire l'administration modifie les rehaussements, pour tenir compte des observations et
+avis recueillis au cours de cette procédure, cette modification est portée par écrit à la connaissance du contribuable avant
+la mise en recouvrement, qui peut alors intervenir sans délai.
 
 Pour une société membre d'un groupe mentionné à l'article 223 A du code général des impôts, l'information prévue au premier
 alinéa porte, en ce qui concerne l'impôt sur les sociétés, l'imposition forfaitaire annuelle, le précompte et les pénalités
@@ -2443,18 +2444,15 @@ _Cite_:
   - CGI 223 A
   - Livre des procédures fiscales - art. L247 (M)
   - Livre des procédures fiscales - art. L57 (M)
-
-_Codifié par_:
-
-  - Décret n°2002-922 2002-06-06
-
-_Modifié par_:
-
-  - Décret n°2002-922 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+  - Livre des procédures fiscales - art. L76 (M)
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - HISTO: Edition du 1er janvier 2004
+
+_Modifié par_:
+
+  - Loi - art. 114 () JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -3268,25 +3266,26 @@ _Modifié par_:
 ###### Article L64 A
 
 La procédure de répression des abus de droit définie à l'article L. 64 est applicable au contrôle de l'impôt de solidarité
-sur la fortune.
+sur la fortune ainsi que de la taxe professionnelle.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°89-802 1989-10-27
-
 **Liens**:
 
-  - HISTO: Edition du 14 juillet 1989
+  - HISTO: Edition du 1er janvier 2004
+  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 60 II
 
 _Modifié par_:
 
-  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988
+  - Loi - art. 60 (V) JORF 31 décembre 2003
+
+_Abrogé par_:
+
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 35 (V)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L64 (M)
+  - Livre des procédures fiscales - art. L64
 
 
 ###### Article L64 B
@@ -3343,7 +3342,7 @@ _Codifié par_:
 Sont taxés d'office :
 
 1° A l'impôt sur le revenu, les contribuables qui n'ont pas déposé dans le délai légal la déclaration d'ensemble de leurs
-revenus ou qui n'ont pas déclaré, en application des articles 150-0 E et 150 S du code général des impôts, les gains nets et
+revenus ou qui n'ont pas déclaré, en application des articles 150-0 E et 150 VG du code général des impôts, les gains nets et
 les plus-values imposables qu'ils ont réalisés, sous réserve de la procédure de régularisation prévue à l'article L. 67 ;
 
 2° A l'impôt sur les sociétés, les personnes morales passibles de cet impôt qui n'ont pas déposé dans le délai légal leur
@@ -3379,11 +3378,11 @@ _Anciens textes_:
 
 _Cite_:
 
-  - CGI 150-0 E, 150 S
+  - CGI 150-0 E, 150 VG
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 1er janvier 2004
 
 _Cité par_:
 
@@ -3398,12 +3397,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 9 (V) JORF 31 décembre 1998
-  - Loi n°98-1266 1998-12-30 art. 9 I, III JORF 31 décembre 1998
-
-_Codifié par_:
-
-  - Décret n°2000-478 2000-06-02
+  - Loi - art. 10 (V) JORF 31 décembre 2003
 
 
 ###### Article L67
@@ -3635,6 +3629,9 @@ deuxième alinéa de l'article L. 16.
 4° Les gains de cession de valeurs mobilières ou de droits sociaux des contribuables qui se sont abstenus de répondre aux
 demandes de justifications mentionnées au deuxième alinéa de l'article L. 16.
 
+5° Les plus-values réalisées par les contribuables qui se sont abstenus de répondre aux demandes de justifications
+mentionnées au deuxième alinéa de l'article L. 16.
+
 Les dispositions de l'article L. 68 sont applicables dans les cas d'évaluation d'office prévus aux 1° et 2°.
 
 **Liens relatifs à cet article**
@@ -3647,18 +3644,17 @@ _Cite_:
   - Code du travail - art. L324-12 (M)
   - Code du travail - art. L324-9 (M)
 
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
-  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 7 IV Finances pour 1999
-
 _Modifié par_:
 
-  - Loi - art. 94 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000
+  - Loi - art. 10 (V) JORF 31 décembre 2003
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 302 ter (Ab)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article L74
@@ -4031,7 +4027,12 @@ que les modalités selon lesquelles l'administration accuse réception de ces no
 mêmes conditions que celles prévues à l'avant-dernier alinéa du 2°, si son projet de dépenses de recherche est éligible au
 bénéfice des dispositions de l'article 244 quater B du code général des impôts.
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent 3°.
+Un décret en Conseil d'Etat précise les conditions d'application du présent 3° ;
+
+4° Lorsque l'administration n'a pas répondu de manière motivée dans un délai de quatre mois à un contribuable de bonne foi
+qui a demandé, à partir d'une présentation écrite précise et complète de la situation de fait, si son entreprise constitue
+une jeune entreprise innovante au sens de l'article 44 sexies-0 A du code général des impôts. Un décret en Conseil d'Etat
+précise les modalités d'application du présent 4° concernant les documents et informations qui doivent être fournis.
 
 **Liens relatifs à cet article**
 
@@ -4076,21 +4077,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 97 () JORF 31 décembre 1998
-  - Loi - art. 92 () JORF 31 décembre 1999
-
-_Codifié par_:
-
-  - Décret n°2001-436 2001-05-21
+  - Loi - art. 13 (V) JORF 31 décembre 2003
 
 _Cite_:
 
-  - CGI 39 quinquies D, 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies, 244 quater B, 39 AB, 39 AC, 39 quinquies A, 39 quinquies DA
+  - CGI 39 quinquies D, 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies, 244 quater B, 39 AB, 39 AC, 39 quinquies A, 39 quinquies DA, 44 sexies-0 A
   - Livre des procédures fiscales - art. L80 A (V)
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article L80 C
@@ -6160,8 +6156,8 @@ déclaration, que leur nom soit communiqué aux directions des services fiscaux 
 ou exploitations.
 
 La liste concernant l'impôt sur le revenu est complétée, dans les conditions fixées par décret, par l'indication du nombre de
-parts retenu pour l'application du quotient familial, du revenu imposable, du montant de l'impôt mis à la charge de chaque
-redevable et du montant de l'avoir fiscal.
+parts retenu pour l'application du quotient familial, du revenu imposable et du montant de l'imp<cb>t mis à la charge de
+chaque redevable.
 
 I bis. Une liste des personnes assujetties à la taxe départementale sur le revenu est dressée par commune pour les
 impositions établies dans son ressort.
@@ -6187,6 +6183,12 @@ II. Les créanciers d'aliments dont la qualité est reconnue par une décision d
 mentionnées aux I et I bis détenues par la direction des services fiscaux dans le ressort de laquelle l'imposition du
 débiteur est établie.
 
+</cb>
+
+**Nota:**
+
+NOTA : Ces dispositions sont applicables aux revenus distribués ou répartis perçus à compter du 1er janvier 2005.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -6194,18 +6196,9 @@ _Cite_:
   - CGI 1650
   - CGI 1768 TER
 
-_Anciens textes_:
-
-  - CGI 243
-  - Loi n°46-2914 1946-12-23 ART. 38
-  - Décret n°48-1986 1948-12-09 ART. 115 (LOI 48-1268 1948-08-17 ART. 5)
-  - Ordonnance 59-246 1959-02-04 ART. 9
-  - Décret n°71-290 1971-04-15 ART. 5
-
 **Liens**:
 
-  - HISTO: Edition du 4 juillet 1992
-  - SPEC_APPLI: Loi n°90-669 1990-07-30 art. 56 VIII : L'entrée en vigueur des dispositions du présent article au 1er janvier 1992 sera soumise à l'approbation du Parlement
+  - HISTO: Edition du 1er janvier 2004
 
 _Cité par_:
 
@@ -6219,7 +6212,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°90-669 1990-07-30 art. 56 VII JORF 1er août 1990 en vigueur le 1er janvier 1992
+  - Loi - art. 93 (V) JORF 31 décembre 2003
 
 
 ###### Article L112
@@ -10460,6 +10453,35 @@ _Cite_:
   - Livre des procédures fiscales - art. L279 (M)
 
 
+###### Article L208 A
+
+Les sommes remboursées à la suite d'une réclamation présentée sur le fondement des articles 119 quater et 182 B bis du code
+général des impôts donnent lieu au paiement d'intérêts moratoires lorsque le remboursement est effectué plus d'un an après la
+demande. Les intérêts, dont le taux est celui prévu à l'article L. 208, courent du jour de l'expiration de ce délai. Ils ne
+sont pas capitalisés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi - art. 27 (V) JORF 31 décembre 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 27 III
+  - HISTO: Edition du 1er janvier 2004
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 119 quater (V)
+  - Code général des impôts, CGI. - art. 182 B bis (V)
+  - Livre des procédures fiscales - art. L208 (V)
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R*208 A-1 (V)
+
+
 ###### Article L209
 
 Lorsque le tribunal administratif rejette totalement ou partiellement la demande d'un contribuable tendant à obtenir
@@ -11502,6 +11524,38 @@ _Abrogé par_:
   - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 
+###### Article L239 A
+
+Les dispositions de droit commun sur l'instruction des flagrants délits devant les tribunaux correctionnels sont applicables
+dans les cas où une peine d'emprisonnement est prévue.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
+
+_Créé par_:
+
+  - Loi - art. 65 () JORF 31 décembre 2003
+
+
+###### Article L239 B
+
+Dans les cas où une peine d'emprisonnement est prévue, le ministère public peut exercer l'action pour l'application des
+sanctions fiscales accessoirement à l'action publique.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
+
+_Créé par_:
+
+  - Loi - art. 65 () JORF 31 décembre 2003
+
+
 ###### Article L240
 
 Par décision expresse du tribunal, celui qui est condamné pour une infraction en matière de contributions indirectes peut,
@@ -11686,19 +11740,22 @@ _Cité par_:
 
 ###### Article L247
 
-L'administration peut accorder sur la demande du contribuable ;
+L'administration peut accorder sur la demande du contribuable ; 
 
 1° Des remises totales ou partielles d'impôts directs régulièrement établis lorsque le contribuable est dans l'impossibilité
-de payer par suite de gêne ou d'indigence ;
+de payer par suite de gêne ou d'indigence ; 
 
 2° Des remises totales ou partielles d'amendes fiscales ou de majorations d'impôts lorsque ces pénalités et, le cas échéant,
-les impositions auxquelles elles s'ajoutent sont définitives ;
+les impositions auxquelles elles s'ajoutent sont définitives ; 
 
 3° Par voie de transaction, une atténuation d'amendes fiscales ou de majorations d'impôts lorsque ces pénalités et, le cas
-échéant, les impositions auxquelles elles s'ajoutent ne sont pas définitives.
+échéant, les impositions auxquelles elles s'ajoutent ne sont pas définitives. 
+
+Les dispositions des troisième et quatrième alinéas sont le cas échéant applicables s'agissant des sommes dues au titre de
+l'intérêt de retard visé à l'article 1727 du code général des impôts.
 
 L'administration peut également décharger de leur responsabilité les personnes tenues au paiement d'impositions dues par un
-tiers.
+tiers. 
 
 Aucune autorité publique ne peut accorder de remise totale ou partielle de droits d'enregistrement, de taxe de publicité
 foncière, de droits de timbre, de taxes sur le chiffre d'affaires, de contributions indirectes et de taxes assimilées à ces
@@ -11745,16 +11802,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-710 du 1 août 2003 - art. 45 () JORF 2 août 2003
+  - Loi - art. 35 () JORF 31 décembre 2003
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2003
+  - HISTO: Edition du 1er janvier 2004
 
 _Cite_:
 
-  - Code de la consommation - art. L331-1 (M)
-  - Code de la consommation - art. L332-3 (M)
+  - Code général des impôts, CGI. - art. 1727 (V)
 
 
 ###### Article L247 A
@@ -13626,6 +13682,25 @@ _Cité par_:
 Le recouvrement des créances mentionnées à l'article L. 283 A est confié, selon la nature de la créance, aux comptables du
 Trésor, des impôts ou des douanes compétents en application du présent code.
 
+L'administration compétente donne suite à la demande d'assistance au recouvrement d'un Etat membre de la Communauté
+européenne dès lors que :
+
+1° Cette demande contient une déclaration certifiant que la créance ou le titre de recouvrement ne sont pas contestés dans
+l'Etat requérant et que les procédures de recouvrement appropriées mises en oeuvre dans cet Etat ne peuvent aboutir au
+paiement intégral de la créance ;
+
+2° Le montant total de la créance ou des créances à la charge de la même personne est supérieur ou égal à 1 500 euros.
+
+Elle n'est pas tenue d'accorder l'assistance pour recouvrer la créance d'un Etat membre lorsque la demande initiale concerne
+des créances fondées sur un titre exécutoire établi depuis plus de cinq ans. Toutefois, si la créance ou le titre en cause
+font l'objet d'une contestation, le délai de cinq ans court à compter de la date à laquelle il a été définitivement statué
+sur la créance ou le titre de l'Etat requérant.
+
+Dès qu'elle est informée par l'Etat membre requérant ou par le redevable du dépôt d'une contestation de la créance,
+l'administration compétente suspend le recouvrement de la créance jusqu'à la notification de la décision de l'instance
+compétente de l'Etat requérant, sauf si celui-ci la saisit d'une demande expresse de poursuite de la procédure de
+recouvrement assortie d'une déclaration certifiant que son droit national lui permet de recouvrer la créance contestée.
+
 Les titres de recouvrement transmis par l'Etat membre requérant sont directement reconnus comme des titres exécutoires. Ils
 sont notifiés au débiteur.
 
@@ -13634,11 +13709,7 @@ sous réserve des exceptions ci-après :
 
 1° Elles ne bénéficient pas du privilège prévu aux articles 1920 à 1929 du code général des impôts ;
 
-2° Dès qu'il est informé par l'Etat membre requérant ou par le redevable du dépôt d'une contestation de la créance, le
-comptable public suspend le recouvrement de la créance jusqu'à la notification de la décision de l'instance étrangère
-compétente ;
-
-3° Les questions relatives à la prescription de l'action en recouvrement et au caractère interruptif ou suspensif des actes
+2° Les questions relatives à la prescription de l'action en recouvrement et au caractère interruptif ou suspensif des actes
 effectués par le comptable public pour le recouvrement des créances d'un autre Etat membre sont appréciées selon la
 législation de cet Etat.
 
@@ -13659,14 +13730,9 @@ _Cite_:
   - CGI 1920 à 1929
   - Livre des procédures fiscales - art. L283 A (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 42 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 42 III Finances rectificative pour 2002
-  - HISTO: Edition du 1er janvier 2003
+  - Loi - art. 29 () JORF 31 décembre 2003
 
 _Cité par_:
 
@@ -13679,6 +13745,10 @@ _Cité par_:
   - Livre des procédures fiscales - art. R283 B-2 (Ab)
   - Livre des procédures fiscales - art. R283 B-8 (Ab)
   - Livre des procédures fiscales - art. R283 C-2 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
 
 
 ### Titre V : Dispositions communes<a id=161></a>
