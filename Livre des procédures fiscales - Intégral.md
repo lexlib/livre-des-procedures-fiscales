@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-12-09
+Version Consolidée au 1986-12-26
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -73,10 +73,10 @@ Version Consolidée au 1986-12-09
             - [1° : Délivrance de documents aux contribuables (art. L105 à L110)](#70)
             - [2° : Publicité de l'impôt (art. L112)](#71)
             - [Publicité de l'impôt. (art. L111)](#72)
-          - [Section II : Dérogations à la règle du secret professionnel (art. L114 à L165)](#73)
+          - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L165)](#73)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#74)
               - [Section II : Dérogations à la règle du secret professionnel (art. L114 A)](#75)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 B)](#76)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 D)](#76)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139)](#77)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 A)](#78)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151)](#79)
@@ -160,7 +160,7 @@ Version Consolidée au 1986-12-09
         - [DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION *CHAMP D'APPLICATION*. (art. L93)](#157)
       - [LE SECRET PROFESSIONNEL EN MATIERE FISCALE (art. L103 à L167)](#158)
         - [PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL. (art. L103)](#159)
-        - [DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL. (art. L113 à L167)](#160)
+        - [DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL. (art. L167)](#160)
       - [LES DELAIS DE PRESCRIPTION (art. L182 à L183 A)](#161)
         - [DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, DROITS ET TAXES ASSIMILEES. (art. L182)](#162)
         - [IMPOT SUR LES GRANDES FORTUNES. (art. L183 A)](#163)
@@ -3638,6 +3638,76 @@ _Codifié par_:
 
 ##### Section II : Dérogations à la règle du secret professionnel<a id=73></a>
 
+###### Article L113
+
+Des dérogations à la règle du secret professionnel sont établies au profit d'administrations et autorités administratives,
+collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
+
+Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 127, L. 130, L. 135, L. 135 B, L. 135
+D, L. 136, L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au secret professionnel dans les termes
+de l'article 378 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 135 B
+  - CGI 135 D
+  - CGI L123
+  - CGI L124
+  - CGI L127
+  - CGI L130
+  - CGI L135
+  - CGI L136
+  - CGI L152 A
+  - CGI L154
+  - CGI L156
+  - CGI L158
+  - CGI L161
+  - CGI L166
+  - Code pénal 378
+
+_Anciens textes_:
+
+  - CGI 1651 4 (2ème phrase)
+  - CGI 2006 (al. dernier 2ème phrase)
+  - CGI 2014 bis (2ème phrase)
+  - CGI 2016 quater A (2ème al.)
+  - CGI 2016 ter (2ème al.)
+  - CGI 2019 (2ème phrase)
+  - CGI 2020 2
+  - CGI 2020 A 5
+  - CGI 2023 (2ème phrase)
+  - Loi n°50-631 1950-06-02 art. 21
+  - Loi n°51-650 1951-05-24 art. 41
+  - Loi n°51-675 1951-05-24 art. 7
+  - Loi n°52-799 1952-07-10 art. 11
+  - Loi n°53-79 1953-02-07 art. 80
+  - Ordonnance 59-63 1959-01-06 art. 28 (al. 2)
+  - Loi n°62-896 1962-08-04 art. 2
+  - Ordonnance 62-1064 1962-09-10 art. 2
+  - Loi n°68-690 1968-07-31 art. 22 I 5
+  - Loi n°76-617 du 9 juillet 1976 - art. 2 ()
+  - Loi n°80-30 1980-01-18 art. 76 III
+  - Loi n°80-546 1980-07-17 art. 1
+  - Code de la famille et de l'aide sociale. - art. 135 (M)
+
+_Modifié par_:
+
+  - Loi n°86-1305 1986-12-23 art. 1 JORF 26 décembre 1986
+
+_Codifié par_:
+
+  - Décret n°87-941 1987-11-23
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L137-34 (V)
+  - Code de la sécurité sociale. - art. L651-5-1 (T)
+  - Livre des procédures fiscales - art. R*113-1 (V)
+  - Livre des procédures fiscales - art. R135 D-1 (V)
+
+
 ##### I : Dérogations en matière d'assistance fiscale internationale<a id=74></a>
 
 ###### Article L114
@@ -4365,6 +4435,43 @@ _Créé par_:
 _Cite_:
 
   - Code pénal 378
+
+
+###### Article L135 D
+
+Les agents de l'administration des impôts peuvent communiquer aux agents de l'Institut national de la statistique et des
+études économiques et aux agents des services statistiques ministériels, dans les limites et conditions prévues par la loi n°
+86-1305 du 23 décembre 1986, les renseignements utiles à l'établissement de statistiques. "
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°86-1305 1986-12-23
+
+_Créé par_:
+
+  - Loi n°86-1305 1986-12-23 art. 1 JORF 26 décembre 1986
+
+_Codifié par_:
+
+  - Décret n°87-941 1987-11-23
+
+_Cité par_:
+
+  - Arrêté du 5 janvier 1990 - art. 6 (V)
+  - Arrêté du 6 janvier 1997 - art. 6 (V)
+  - Arrêté du 15 novembre 2000 - art. 5 (V)
+  - Décret n°2009-318 du 20 mars 2009 - art. 14 (V)
+  - Décret n°2009-318 du 20 mars 2009 - art. 17 (V)
+  - Arrêté du 21 septembre 2009 (V)
+  - Arrêté du 26 février 2016 - art. 4 (V)
+  - Arrêté du 3 octobre 2016 - art. 4 (V)
+  - Code de commerce - art. L751-9 (VD)
+  - Code de la recherche - art. L131-3 (Ab)
+  - Code de la recherche - art. L511-3 (V)
+  - Livre des procédures fiscales - art. L113 (V)
+  - Livre des procédures fiscales - art. R135 D-1 (V)
 
 
 ##### III : Dérogations au profit de diverses commissions<a id=77></a>
@@ -10112,75 +10219,6 @@ _Cite_:
 
 
 #### DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.<a id=160></a>
-
-###### Article L113
-
-Des dérogations à la règle du secret professionnel sont établies au profit d'administrations et autorités administratives,
-collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
-
-Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 127, L. 130, L. 135, L. 135 B, L. 136,
-L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au secret professionnel dans les termes de l'article
-378 du code pénal.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 135 B
-  - CGI L123
-  - CGI L124
-  - CGI L127
-  - CGI L130
-  - CGI L135
-  - CGI L136
-  - CGI L152 A
-  - CGI L154
-  - CGI L156
-  - CGI L158
-  - CGI L161
-  - CGI L166
-  - Code pénal 378
-
-_Anciens textes_:
-
-  - CGI 1651 4 (2ème phrase)
-  - CGI 2006 (al. dernier 2ème phrase)
-  - CGI 2014 bis (2ème phrase)
-  - CGI 2016 quater A (2ème al.)
-  - CGI 2016 ter (2ème al.)
-  - CGI 2019 (2ème phrase)
-  - CGI 2020 2
-  - CGI 2020 A 5
-  - CGI 2023 (2ème phrase)
-  - Loi n°50-631 1950-06-02 art. 21
-  - Loi n°51-650 1951-05-24 art. 41
-  - Loi n°51-675 1951-05-24 art. 7
-  - Loi n°52-799 1952-07-10 art. 11
-  - Loi n°53-79 1953-02-07 art. 80
-  - Ordonnance 59-63 1959-01-06 art. 28 (al. 2)
-  - Loi n°62-896 1962-08-04 art. 2
-  - Ordonnance 62-1064 1962-09-10 art. 2
-  - Loi n°68-690 1968-07-31 art. 22 I 5
-  - Loi n°76-617 du 9 juillet 1976 - art. 2 ()
-  - Loi n°80-30 1980-01-18 art. 76 III
-  - Loi n°80-546 1980-07-17 art. 1
-  - Code de la famille et de l'aide sociale. - art. 135 (M)
-
-_Modifié par_:
-
-  - Loi n°85-729 du 18 juillet 1985 - art. 14 () JORF 19 juillet 1985
-
-_Codifié par_:
-
-  - Décret n°86-1087 1986-10-07
-
-_Cité par_:
-
-  - Code de la sécurité sociale. - art. L137-34 (V)
-  - Code de la sécurité sociale. - art. L651-5-1 (T)
-  - Livre des procédures fiscales - art. R*113-1 (V)
-  - Livre des procédures fiscales - art. R135 D-1 (V)
-
 
 ###### Article L167
 
