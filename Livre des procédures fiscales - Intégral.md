@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1982-04-10
+Version Consolidée au 1982-07-13
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -65,7 +65,7 @@ Version Consolidée au 1982-04-10
               - [Section II : Dérogations à la règle du secret professionnel (art. L114 A)](#62)
             - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135)](#63)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L138)](#64)
-            - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L141 à L147)](#65)
+            - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147)](#65)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151)](#66)
             - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale (art. L152 à L162)](#67)
             - [VII : Dérogations au profit d'organismes divers (art. L164 à L165)](#68)
@@ -3098,6 +3098,33 @@ _Cité par_:
 
 
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions<a id=65></a>
+
+###### Article L140
+
+Les agents des impôts sont déliés du secret professionnel à l'égard des magistrats, conseillers maîtres en service
+extraordinaire et rapporteurs de la Cour des comptes, des magistrats de la chambre régionale des comptes ainsi que des
+rapporteurs auprès de la Cour de discipline budgétaire et financière, à l'occasion des enquêtes effectuées par ces
+magistrats, conseillers et rapporteurs dans le cadre de leurs attributions.
+
+Les agents des impôts dont l'audition est jugée nécessaire pour les besoins du contrôle ont l'obligation de répondre à la
+convocation de la Cour des comptes ou à celle de la chambre régionale des comptes dans le ressort de laquelle ils exercent
+leurs fonctions. Ils peuvent être interrogés en qualité de témoins par les rapporteurs auprès de la Cour de discipline
+budgétaire et financière.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 14 juin 1982 - art. 4 (V)
+
+_Modifié par_:
+
+  - Loi n°82-594 1982-07-10 art. 5, art. 18 JORF 13 juillet 1982
+
+_Codifié par_:
+
+  - Décret n°85-1008 1985-09-24
+
 
 ###### Article L141
 
@@ -8271,31 +8298,6 @@ _Cite_:
 _Anciens textes_:
 
   - Loi n°80-502 1980-07-04 ART. 25 (AL. 6)
-
-
-###### Article L140
-
-Les agents des impôts sont déliés du secret professionnel à l'égard des magistrats de la Cour des comptes et des rapporteurs
-auprès de la Cour de discipline budgétaire et financière à l'occasion des enquêtes effectuées par les magistrats et les
-rapporteurs dans le cadre de leurs attributions.
-
-Les agents de l'administration des impôts peuvent être interrogés en qualité de témoins par les rapporteurs auprès de la Cour
-de discipline budgétaire et financière.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 2018
-  - CGI 2018 bis
-  - Loi n°48-1484 du 25 septembre 1948 - art. 18 (Ab)
-  - Loi n°51-598 1951-05-24 ART. 26
-  - Loi n°67-483 du 22 juin 1967 - art. 9 (M)
-  - Loi n°76-539 1976-06-22 ART. 7 V
-
-_Cité par_:
-
-  - Arrêté du 14 juin 1982 - art. 4 (V)
 
 
 ###### Article L145
