@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-11-01
+Version Consolidée au 2004-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L288)](#1)
     - [Première partie : Partie législative (art. L1 à L288)](#2)
@@ -2823,33 +2823,46 @@ _Cité par_:
 
 ###### Article L59 A
 
-La commission départementale des impôts directs et des taxes sur le chiffre d'affaires intervient : 
+I. - La commission départementale des impôts directs et des taxes sur le chiffre d'affaires intervient lorsque le désaccord
+porte :
 
-1° Lorsque le désaccord porte soit sur le montant du bénéfice industriel et commercial, du bénéfice non commercial, du
-bénéfice agricole ou du chiffre d'affaires, déterminé selon un mode réel d'imposition, soit sur la valeur vénale des
-immeubles, des fonds de commerce, des parts d'intérêts, des actions ou des parts de sociétés immobilières servant de base à
-la taxe sur la valeur ajoutée [*TVA*], en application de l'article 257 (6° et 7°-1) du code général des impôts ;
+1° Sur le montant du résultat industriel et commercial, non commercial, agricole ou du chiffre d'affaires, déterminé selon un
+mode réel d'imposition ;
 
-2° Lorsqu'il s'agit de différends portant sur l'application des articles 39 1 (1°) et 111 (d) du code général des impôts
-relatifs aux rémunérations non déductibles pour la détermination du bénéfice des entreprises industrielles ou commerciales,
-ou du 5 de l'article 39 du même code relatif aux dépenses que ces mêmes entreprises doivent mentionner sur le relevé prévu à
-l'article 54 quater du code précité.
+2° Sur les conditions d'application des régimes d'exonération ou d'allégements fiscaux en faveur des entreprises nouvelles, à
+l'exception de la qualification des dépenses de recherche mentionnées au II de l'article 244 quater B du code général des
+impôts ;
+
+3° Sur l'application du 1° du 1 de l'article 39 et du d de l'article 111 du même code relatifs aux rémunérations non
+déductibles pour la détermination du résultat des entreprises industrielles ou commerciales, ou du 5 de l'article 39 du même
+code relatif aux dépenses que ces mêmes entreprises doivent mentionner sur le relevé prévu à l'article 54 quater du même
+code ;
+
+4° Sur la valeur vénale des immeubles, des fonds de commerce, des parts d'intérêts, des actions ou des parts de sociétés
+immobilières servant de base à la taxe sur la valeur ajoutée, en application du 6° et du 1 du 7° de l'article 257 du même
+code.
+
+II. - Dans les domaines mentionnés au I, la commission départementale des impôts directs et des taxes sur le chiffre
+d'affaires peut, sans trancher une question de droit, se prononcer sur les faits susceptibles d'être pris en compte pour
+l'examen de cette question de droit.
+
+Par dérogation aux dispositions du précédent alinéa, la commission peut se prononcer sur le caractère anormal d'un acte de
+gestion, sur le principe et le montant des amortissements et des provisions ainsi que sur le caractère de charges déductibles
+des travaux immobiliers.
+
+**Nota:**
+
+NOTA : Ces dispositions sont applicables aux propositions de rectification adressées à compter du 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 111 d
-  - CGI 257 6°, 7° 1
-  - CGI 39 1 1°, 5
+  - CGI 244 quater B, 111, 39, 54 quater, 257
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CGI L59 al. 3
-
-_Créé par_:
-
-  - Décret n°84-686 1984-07-17 art. 6 JORF 24 JUILLET 1984
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 26 (V) JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -2858,10 +2871,6 @@ _Cité par_:
   - Livre des procédures fiscales - art. L250 (VD)
   - Livre des procédures fiscales - art. L59 C (V)
   - Livre des procédures fiscales - art. R*60-1 (VD)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
 
 
 ###### Article L59 B
@@ -3710,10 +3719,9 @@ _Cite_:
 
 ###### Article L80
 
-L'administration peut effectuer toutes les compensations entre l'impôt sur le revenu, l'impôt sur les sociétés, le précompte
-prévu à l'article 223 sexies du code général des impôts, la contribution prévue à l'article 234 nonies du même code, la taxe
-d'apprentissage, la taxe sur les salaires, la cotisation perçue au titre de la participation des employeurs à l'effort de
-construction, établis au titre d'une même année.
+L'administration peut effectuer toutes les compensations entre l'impôt sur le revenu, l'impôt sur les sociétés, la
+contribution prévue à l'article 234 nonies du même code, la taxe d'apprentissage, la taxe sur les salaires, la cotisation
+perçue au titre de la participation des employeurs à l'effort de construction, établis au titre d'une même année.
 
 Des compensations peuvent être pratiquées dans les mêmes conditions en ce qui concerne les droits d'enregistrement, la taxe
 de publicité foncière exigible sur les actes qui donnent lieu à la formalité fusionnée en application de l'article 647 du
@@ -3727,11 +3735,11 @@ apparaître une double imposition.
 
 _Cite_:
 
-  - CGI 647, 223 sexies, 234 nonies
+  - CGI 647, 234 nonies
 
 _Modifié par_:
 
-  - Ordonnance n°2004-281 du 25 mars 2004 - art. 27 (V) JORF 27 mars 2004 en vigueur le 1er juin 2004
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -3742,10 +3750,6 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L136-6 (VT)
   - Code général des impôts, CGI. - art. 1600-0 L (Ab)
   - Code général des impôts, CGI. - art. 1600-0 M (Ab)
-
-**Liens**:
-
-  - HISTO: Edition du 31 août 2004
 
 
 ###### Article L80 A
@@ -9917,10 +9921,9 @@ _Cité par_:
 La compensation peut aussi être effectuée ou demandée entre les impôts suivants, lorsque la réclamation porte sur l'un
 d'eux :
 
-1° A condition qu'ils soient établis au titre d'une même année, entre l'impôt sur le revenu, l'impôt sur les sociétés, le
-précompte prévu à l'article 223 sexies du code général des impôts, la contribution prévue à l'article 234 nonies du même
-code, la taxe sur les salaires, la taxe d'apprentissage, la cotisation perçue au titre de la participation des employeurs à
-l'effort de construction.
+1° A condition qu'ils soient établis au titre d'une même année, entre l'impôt sur le revenu, l'impôt sur les sociétés, la
+contribution prévue à l'article 234 nonies du même code, la taxe sur les salaires, la taxe d'apprentissage, la cotisation
+perçue au titre de la participation des employeurs à l'effort de construction.
 
 2° Entre les droits d'enregistrement, la taxe de publicité foncière exigible sur les actes qui donnent lieu à la formalité
 fusionnée en application de l'article 647 du code général des impôts et les droits de timbre, perçus au profit de l'Etat.
@@ -9931,17 +9934,9 @@ _Cite_:
 
   - CGI 223 sexies, 647, 234 nonies
 
-_Codifié par_:
-
-  - Décret n°2001-436 2001-05-21
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
-
 _Modifié par_:
 
-  - Loi - art. 12 (P) JORF 31 décembre 1999
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -10488,32 +10483,6 @@ _Modifié par_:
 _Cite_:
 
   - Livre des procédures fiscales - art. L220 (V)
-
-
-###### Article L222
-
-Les procès-verbaux constatant les infractions commises par les marchands ambulants d'ouvrages d'or ou contenant de l'or,
-d'argent ou de platine, peuvent être établis par les maires, leurs adjoints et les commissaires de police.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 1854 1 3°
-  - Loi n°19 Brumaire an 06 art. 94
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
-  - HISTO: Edition du 2 septembre 1994
-
-_Modifié par_:
-
-  - Loi n°94-6 du 4 janvier 1994 - art. 26 () JORF 5 janvier 1994, art. 31, en vigueur le 13 décembre 1993
-
-_Abrogé par_:
-
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 89 () JORF 31 décembre 2004
 
 
 ###### Article L223
@@ -15250,32 +15219,24 @@ sont tenus de présenter :
 a. Tous documents comptables liés au fonctionnement du fonds, et notamment les pièces de recettes et de dépenses de toute
 nature ;
 
-b. Un relevé des valeurs liquidatives dégagées au cours des six dernières années ;
+b. Un relevé des valeurs liquidatives dégagées au cours des six dernières années.
 
-c. Les listes des propriétaires de parts et les duplicata des attestations de propriété mentionnées à l'article 1er du décret
-n° 83-357 du 2 mai 1983 fixant les conditions d'application de la loi n° 79-594 (1), établies au cours des six dernières
-années.
+c. La liste des personnes pour lesquelles ils sont tenus de remplir les obligations prévues à l'article 41 sexdecies F au
+cours des six dernières années.
 
 Dans le cadre de ses obligations fiscales, le gérant doit tenir à la disposition de l'administration toutes justifications de
 nature à prouver la conformité du fonctionnement du fonds commun avec le statut législatif et réglementaire de ces
 organismes.
 
-(1) La loi 79-594 du 13 juillet 1979 est complétée par la loi 83-1 du 3 janvier 1983, art. 23 (JO des 2, 3 et 4).
-
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°83-357 du 2 mai 1983 - art. 1 (V) JORF 3 mai 1983
-  - Décret n°83-357 du 2 mai 1983 - art. 43 (Ab) JORF 3 mai 1983
 
 _Cite_:
 
-  - Décret n°83-357 du 2 mai 1983 - art. 1, v. init.
+  - CGIAN3 41 sexdecies F
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°83-900 1983-10-06
+  - Décret n°2004-1525 du 30 décembre 2004 - art. 3 () JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -15284,10 +15245,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AI ter (V)
   - Livre des procédures fiscales - art. R87-2 (V)
   - Livre des procédures fiscales - art. R87-3 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 10 juillet 1983
 
 
 ###### Article R87-2
