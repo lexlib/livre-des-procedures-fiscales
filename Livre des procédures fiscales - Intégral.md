@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1983-10-27
+Version Consolidée au 1983-12-28
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -117,7 +117,7 @@ Version Consolidée au 1983-10-27
         - [Chapitre premier : Les procédures de recouvrement (art. L253 à L274)](#114)
           - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. L253 à L257)](#115)
             - [I : Impôts recouvrés par les comptables du Trésor (art. L253 à L254)](#116)
-            - [II : Impôts recouvrés par les comptables de la direction générale des impôts. (art. L257)](#117)
+            - [II : Impôts recouvrés par les comptables de la direction générale des impôts. (art. L256 à L257)](#117)
           - [Section II : Exercice des poursuites (art. L258 à L261)](#118)
             - [I : Dispositions particulières aux poursuites exercées par les comptables du Trésor (art. L259)](#119)
             - [II : Dispositions particulières aux poursuites exercées par les comptables de la direction générale des impôts. (art. L261)](#120)
@@ -174,7 +174,7 @@ Version Consolidée au 1983-10-27
       - [LES REMISES ET TRANSACTIONS A TITRE GRACIEUX. (art. L250)](#171)
     - [LE RECOUVREMENT DE L'IMPOT (art. L252 à L279)](#172)
       - [LES PROCEDURES DE RECOUVREMENT. (art. L252 à L276)](#173)
-        - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. L255 à L256)](#174)
+        - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. L255)](#174)
         - [MESURES PARTICULIERES (art. L266 à L272)](#175)
         - [PRESCRIPTION DE L'ACTION EN VUE DU RECOUVREMENT. (art. L275 à L276)](#176)
       - [LE SURSIS DE PAIEMENT. (art. L277 à L279)](#177)
@@ -6230,6 +6230,46 @@ _Codifié par_:
 
 ##### II : Impôts recouvrés par les comptables de la direction générale des impôts.<a id=117></a>
 
+###### Article L256
+
+Un avis de mise en recouvrement est adressé par le comptable de la direction générale des impôts à tout redevable de sommes,
+droits, taxes et redevances de toute nature dont le recouvrement lui incombe lorsque le paiement n'a pas été effectué à la
+date d'exigibilité.
+
+L'avis de mise en recouvrement est individuel ou collectif. Il est signé et rendu exécutoire par le directeur des services
+fiscaux. Il est adressé par lettre recommandée avec avis de réception. S'il s'agit d'un avis collectif de mise en
+recouvrement l'envoi porte sur un extrait de cet avis. Les pouvoirs du directeur des services fiscaux sont également exercés,
+sous son autorité, par le comptable de la direction générale des impôts.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 20 février 2018 (V)
+  - Arrêté du 6 juillet 2018 (V)
+  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
+  - Décret n°93-309 du 9 mars 1993 - art. 21 (V)
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 18 (VD)
+  - Décret n°2015-964 du 31 juillet 2015 (V)
+  - Code des postes et des communications électronique - art. R*70-1 (Ab)
+  - Livre des procédures fiscales - art. R*256-1 (V)
+  - Livre des procédures fiscales - art. R*273-1 (Ab)
+  - Livre des procédures fiscales - art. R256-8 (V)
+
+_Anciens textes_:
+
+  - CGI 1915
+  - CGI 1918 (P.)
+  - Loi n°63-1316 1963-12-27 ART. 1 1
+  - Loi n°72-1121 1972-12-20 ART. 14 III
+
+_Modifié par_:
+
+  - Loi n°83-1159 du 24 décembre 1983 - art. 17 () JORF 28 décembre 1983
+
+
 ###### Article L257
 
 A défaut de paiement des sommes mentionnées sur l'avis de mise en recouvrement ou de réclamation assortie d'une demande de
@@ -9639,41 +9679,6 @@ _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 167 bis (Ab)
   - Livre des procédures fiscales - art. L260 (V)
-
-
-###### Article L256
-
-Un avis de mise en recouvrement est adressé par le comptable de la direction générale des impôts à tout redevable de sommes,
-droits, taxes et redevances de toute nature dont le recouvrement lui incombe lorsque le paiement n'a pas été effectué à la
-date d'exigibilité.
-
-L'avis de mise en recouvrement est individuel ou collectif. Il est signé et rendu exécutoire par le directeur des services
-fiscaux. Il est adressé par lettre recommandée avec avis de réception. S'il s'agit d'un avis collectif de mise en
-recouvrement l'envoi porte sur un extrait de cet avis.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 20 février 2018 (V)
-  - Arrêté du 6 juillet 2018 (V)
-  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
-  - Décret n°93-309 du 9 mars 1993 - art. 21 (V)
-  - Ordonnance n°2010-638 du 10 juin 2010 - art. 18 (VD)
-  - Décret n°2015-964 du 31 juillet 2015 (V)
-  - Code des postes et des communications électronique - art. R*70-1 (Ab)
-  - Livre des procédures fiscales - art. R*256-1 (V)
-  - Livre des procédures fiscales - art. R*273-1 (Ab)
-  - Livre des procédures fiscales - art. R256-8 (V)
-
-_Anciens textes_:
-
-  - CGI 1915
-  - CGI 1918 (P.)
-  - Loi n°63-1316 1963-12-27 ART. 1 1
-  - Loi n°72-1121 1972-12-20 ART. 14 III
 
 
 #### MESURES PARTICULIERES<a id=175></a>
