@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-01-23
+Version Consolidée au 1986-03-11
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -237,7 +237,7 @@ Version Consolidée au 1986-01-23
               - [C : Procédure devant le tribunal de grande instance. (art. R*202-2 à R*202-4)](#234)
           - [Section III : Compensations (art. R*203-1)](#235)
           - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. R*207-1)](#236)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux. (art. R*208-2 à R*210-1)](#237)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux. (art. R*208-1 à R*210-1)](#237)
           - [Section V : Dégrèvements d'office (art. R*211-1 à R*211-2)](#238)
         - [Chapitre II : Les procédures pénales (art. R*212-1 à R*228-6)](#239)
           - [Section I : Constatation des infractions par procès-verbal (art. R*212-1 à R*226-3)](#240)
@@ -272,38 +272,37 @@ Version Consolidée au 1986-01-23
         - [PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL. (art. R106-1)](#269)
     - [LE CONTENTIEUX DE L'IMPOT (art. R*190-1 à R247-6)](#270)
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE. (art. R*190-1 à R*192-1)](#271)
-      - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT (art. R*200-2 à R*208-1)](#272)
+      - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT (art. R*200-2 à R*200-18)](#272)
         - [PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS* (art. R*200-2 à R*200-18)](#273)
-        - [CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX. (art. R*208-1)](#274)
-      - [LES PROCEDURES PENALES (art. R*213-3)](#275)
-        - [CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL (art. R*213-3)](#276)
-      - [LES REMISES ET TRANSACTIONS A TITRE GRACIEUX (art. R*247-4 à R247-6)](#277)
-    - [LE RECOUVREMENT DE L'IMPOT (art. R*255-1)](#278)
-      - [LES PROCEDURES DE RECOUVREMENT (art. R*255-1)](#279)
-        - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. R*255-1)](#280)
-  - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#281)
-    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-6)](#282)
-      - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#283)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A37-1)](#284)
-          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#285)
-            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#286)
-              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#287)
-                - [Contributions indirectes. (art. A26-1 à A26-4)](#288)
-                - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#289)
-                - [2 : Droits de timbre (art. A37-1)](#290)
-        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#291)
-          - [Section I : Définition et étendue du droit de communication. (art. A85-1)](#292)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#293)
-      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A225 A-1)](#294)
-        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#295)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux. (art. A208-1)](#296)
-        - [Chapitre II : Les procédures pénales (art. A225 A-1)](#297)
-          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#298)
-            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#299)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-6)](#300)
-        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-6)](#301)
-    - [LE RECOUVREMENT DE L'IMPOT (art. A277-7 à A277-10)](#302)
-      - [LE SURSIS DE PAIEMENT. (art. A277-7 à A277-10)](#303)
+      - [LES PROCEDURES PENALES (art. R*213-3)](#274)
+        - [CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL (art. R*213-3)](#275)
+      - [LES REMISES ET TRANSACTIONS A TITRE GRACIEUX (art. R*247-4 à R247-6)](#276)
+    - [LE RECOUVREMENT DE L'IMPOT (art. R*255-1)](#277)
+      - [LES PROCEDURES DE RECOUVREMENT (art. R*255-1)](#278)
+        - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. R*255-1)](#279)
+  - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#280)
+    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-6)](#281)
+      - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#282)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A37-1)](#283)
+          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#284)
+            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#285)
+              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#286)
+                - [Contributions indirectes. (art. A26-1 à A26-4)](#287)
+                - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#288)
+                - [2 : Droits de timbre (art. A37-1)](#289)
+        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#290)
+          - [Section I : Définition et étendue du droit de communication. (art. A85-1)](#291)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#292)
+      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A225 A-1)](#293)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#294)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux. (art. A208-1)](#295)
+        - [Chapitre II : Les procédures pénales (art. A225 A-1)](#296)
+          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#297)
+            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#298)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-6)](#299)
+        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-6)](#300)
+    - [LE RECOUVREMENT DE L'IMPOT (art. A277-7 à A277-10)](#301)
+      - [LE SURSIS DE PAIEMENT. (art. A277-7 à A277-10)](#302)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -13517,6 +13516,25 @@ _Codifié par_:
 
 ##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.<a id=237></a>
 
+###### Article R*208-1
+
+Les intérêts moratoires prévus par l'article L. 208 sont dus lorsqu'un dégrèvement est prononçé à la suite d'une demande
+présentée verbalement lors d'une visite au service des impôts, à la condition que le contribuable ait daté et signé le
+document établi par ce service pour prendre note de sa réclamation. Ces intérêts sont calculés sur la totalité des sommes
+remboursées au contribuable au titre de l'impôt objet du règlement. Ils sont payés d'office en même temps que les sommes
+remboursées par le comptable chargé du recouvrement des impôts.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI L208
+
+_Modifié par_:
+
+  - Décret n°86-331 du 5 mars 1986 - art. 1 (V) JORF 11 mars 1986
+
+
 ###### Article R*208-2
 
 Les intérêts moratoires courent jusqu'au jour du remboursement.
@@ -15675,33 +15693,9 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-#### CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX.<a id=274></a>
+### LES PROCEDURES PENALES<a id=274></a>
 
-###### Article R*208-1
-
-Les intérêts moratoires prévus par l'article L. 208 sont calculés sur la totalité des sommes remboursées au contribuable au
-titre de l'impôt objet du règlement.
-
-Ils sont payés d'office en même temps que les sommes remboursées par le comptable chargé du recouvrement des impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI L208
-
-_Anciens textes_:
-
-  - CGIAN2 401
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
-
-
-### LES PROCEDURES PENALES<a id=275></a>
-
-#### CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL<a id=276></a>
+#### CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL<a id=275></a>
 
 ###### Article R*213-3
 
@@ -15721,7 +15715,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-### LES REMISES ET TRANSACTIONS A TITRE GRACIEUX<a id=277></a>
+### LES REMISES ET TRANSACTIONS A TITRE GRACIEUX<a id=276></a>
 
 ###### Article R*247-4
 
@@ -15836,11 +15830,11 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-## LE RECOUVREMENT DE L'IMPOT<a id=278></a>
+## LE RECOUVREMENT DE L'IMPOT<a id=277></a>
 
-### LES PROCEDURES DE RECOUVREMENT<a id=279></a>
+### LES PROCEDURES DE RECOUVREMENT<a id=278></a>
 
-#### MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES.<a id=280></a>
+#### MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES.<a id=279></a>
 
 ###### Article R*255-1
 
@@ -15864,21 +15858,21 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-# Partie réglementaire - Arrêtés<a id=281></a>
+# Partie réglementaire - Arrêtés<a id=280></a>
 
-## Troisième partie : Partie réglementaire, arrêtés<a id=282></a>
+## Troisième partie : Partie réglementaire, arrêtés<a id=281></a>
 
-### Titre II : Le contrôle de l'impôt<a id=283></a>
+### Titre II : Le contrôle de l'impôt<a id=282></a>
 
-#### Chapitre premier : Le droit de contrôle de l'administration<a id=284></a>
+#### Chapitre premier : Le droit de contrôle de l'administration<a id=283></a>
 
-##### Section II : Dispositions particulières à certains impôts<a id=285></a>
+##### Section II : Dispositions particulières à certains impôts<a id=284></a>
 
-##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=286></a>
+##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=285></a>
 
-##### B : Contrôle sur les lieux d'exercice de l'activité<a id=287></a>
+##### B : Contrôle sur les lieux d'exercice de l'activité<a id=286></a>
 
-##### Contributions indirectes.<a id=288></a>
+##### Contributions indirectes.<a id=287></a>
 
 ###### Article A26-1
 
@@ -15972,7 +15966,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 153 (V)
 
 
-##### Dispositions applicables dans les départements d'outre-mer.<a id=289></a>
+##### Dispositions applicables dans les départements d'outre-mer.<a id=288></a>
 
 ###### Article A27-1
 
@@ -15993,7 +15987,7 @@ _Anciens textes_:
   - CGIAN4 56 D ter
 
 
-##### 2 : Droits de timbre<a id=290></a>
+##### 2 : Droits de timbre<a id=289></a>
 
 ###### Article A37-1
 
@@ -16046,9 +16040,9 @@ _Anciens textes_:
   - HISTO: Edition du 1er juillet 1981
 
 
-#### Chapitre II : Le droit de communication<a id=291></a>
+#### Chapitre II : Le droit de communication<a id=290></a>
 
-##### Section I : Définition et étendue du droit de communication.<a id=292></a>
+##### Section I : Définition et étendue du droit de communication.<a id=291></a>
 
 ###### Article A85-1
 
@@ -16075,7 +16069,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R81-5 (VD)
 
 
-##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=293></a>
+##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=292></a>
 
 ###### Article A97-1
 
@@ -16146,11 +16140,11 @@ _Anciens textes_:
   - CGIAN4 211
 
 
-### Titre III : Le contentieux de l'impôt<a id=294></a>
+### Titre III : Le contentieux de l'impôt<a id=293></a>
 
-#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=295></a>
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=294></a>
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.<a id=296></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.<a id=295></a>
 
 ###### Article A208-1
 
@@ -16169,11 +16163,11 @@ _Cite_:
   - CGI R208-4 2°
 
 
-#### Chapitre II : Les procédures pénales<a id=297></a>
+#### Chapitre II : Les procédures pénales<a id=296></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=298></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=297></a>
 
-##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=299></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=298></a>
 
 ###### Article A225 A-1
 
@@ -16194,9 +16188,9 @@ _Cite_:
   - Livre des procédures fiscales - art. L225 A (V)
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=300></a>
+### Titre IV : Le recouvrement de l'impôt<a id=299></a>
 
-#### Chapitre II : Le sursis de paiement<a id=301></a>
+#### Chapitre II : Le sursis de paiement<a id=300></a>
 
 ###### Article A277-1
 
@@ -16342,9 +16336,9 @@ _Modifié par_:
   - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
-## LE RECOUVREMENT DE L'IMPOT<a id=302></a>
+## LE RECOUVREMENT DE L'IMPOT<a id=301></a>
 
-### LE SURSIS DE PAIEMENT.<a id=303></a>
+### LE SURSIS DE PAIEMENT.<a id=302></a>
 
 ###### Article A277-7
 
