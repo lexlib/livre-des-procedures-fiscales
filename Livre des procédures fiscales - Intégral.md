@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1988-12-28
+Version Consolidée au 1988-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L183 A)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -140,9 +140,9 @@ Version Consolidée au 1988-12-28
         - [Chapitre III : Les remises et transactions à titre gracieux (art. L247 à L251)](#137)
       - [Titre IV : Le recouvrement de l'impôt (art. L252 à L283)](#138)
         - [Chapitre premier : Les procédures de recouvrement (art. L252 à L275)](#139)
-          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. L253 à L257)](#140)
+          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. L253 à L257 A)](#140)
             - [I : Impôts recouvrés par les comptables du Trésor (art. L253 à L255)](#141)
-            - [II : Impôts recouvrés par les comptables de la direction générale des impôts. (art. L256 à L257)](#142)
+            - [II : Impôts recouvrés par les comptables de la direction générale des impôts. (art. L256 à L257 A)](#142)
           - [Section II : Exercice des poursuites (art. L258 à L261)](#143)
             - [I : Dispositions particulières aux poursuites exercées par les comptables du Trésor (art. L259 à L260 A)](#144)
             - [II : Dispositions particulières aux poursuites exercées par les comptables de la direction générale des impôts. (art. L261)](#145)
@@ -9574,6 +9574,22 @@ _Cité par_:
 
   - Code des postes et des communications électronique - art. R*70-1 (Ab)
   - Livre des procédures fiscales - art. L261 (VT)
+
+
+###### Article L257 A
+
+Les avis de mises en recouvrement peuvent être signés et rendus exécutoires et les mises en demeure peuvent être signées,
+sous l'autorité et la responsabilité du comptable, par les agents de la recette ayant au moins le grade de contrôleur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°88-1193 du 29 décembre 1988 - art. 21 (V) JORF 30 décembre 1988
+
+_Cité par_:
+
+  - Loi n°88-1193 du 29 décembre 1988 - art. 21 (V)
 
 
 ##### Section II : Exercice des poursuites<a id=143></a>
