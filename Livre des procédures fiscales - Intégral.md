@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1984-07-20
+Version Consolidée au 1984-07-22
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -234,7 +234,7 @@ Version Consolidée au 1984-07-20
             - [II : Règles de procédure (art. R*200-1 à R*202-3)](#231)
               - [B : Procédure devant le tribunal administratif. (art. R*200-1 à R*201-1)](#232)
               - [C : Procédure devant le tribunal de grande instance et la cour d'appel (art. R*202-1)](#233)
-              - [C : Procédure devant le tribunal de grande instance. (art. R*202-3)](#234)
+              - [C : Procédure devant le tribunal de grande instance. (art. R*202-2 à R*202-3)](#234)
           - [Section III : Compensations (art. R*203-1)](#235)
           - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. R*207-1)](#236)
           - [Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux. (art. R*208-2 à R*210-1)](#237)
@@ -12419,6 +12419,39 @@ _Cité par_:
 
 
 ##### C : Procédure devant le tribunal de grande instance.<a id=234></a>
+
+###### Article R*202-2
+
+La demande en justice est formée par assignation. L'instruction se fait par simples mémoires respectivement signifiés.
+
+Toutefois, le redevable a le droit de présenter, par lui-même ou par le ministère d'un avocat inscrit au tableau, des
+explications orales. La même faculté appartient à l'administration.
+
+Les parties ne sont pas obligées de recourir au ministère d'un avocat.
+
+Le tribunal accorde aux parties ou aux agents de l'administration qui suivent les instances, les délais nécessaires pour
+présenter leur défense.
+
+Les notifications sont valablement faites au domicile réel du contribuable alors même que celui-ci aurait constitué
+mandataire et élu domicile chez ce dernier. Si le contribuable est domicilié hors de France, la notification est faite au
+domicile élu en France par lui.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGI 1938 3° (Al. 3)
+  - CGI 1947 2, 3
+  - CGI 1959 2
+
+_Modifié par_:
+
+  - Décret n°84-674 du 17 juillet 1984 - art. 1 () JORF 22 juillet 1984
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R*202-6 (V)
+
 
 ###### Article R*202-3
 
