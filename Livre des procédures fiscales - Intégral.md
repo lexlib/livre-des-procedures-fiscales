@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1981-07-07
+Version Consolidée au 1981-09-20
 ## Contenu: 
   - [Partie législative (art. L1 à L218)](#1)
     - [Première partie : Partie législative (art. L1 à L218)](#2)
@@ -55,6 +55,14 @@ Version Consolidée au 1981-07-07
         - [Chapitre III : Le secret professionnel en matière fiscale (art. R107-1)](#52)
           - [Section I : Portée et limites de la règle du secret professionnel (art. R107-1)](#53)
             - [1° : Délivrance de documents aux contribuables (art. R107-1)](#54)
+  - [Partie réglementaire - Arrêtés (art. A26-3)](#55)
+    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-3)](#56)
+      - [Titre II : Le contrôle de l'impôt (art. A26-3)](#57)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-3)](#58)
+          - [Section II : Dispositions particulières à certains impôts (art. A26-3)](#59)
+            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-3)](#60)
+              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-3)](#61)
+                - [Contributions indirectes. (art. A26-3)](#62)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -1328,5 +1336,48 @@ _Cité par_:
 _Cite_:
 
   - Livre des procédures fiscales - art. L107 (M)
+
+
+# Partie réglementaire - Arrêtés<a id=55></a>
+
+## Troisième partie : Partie réglementaire, arrêtés<a id=56></a>
+
+### Titre II : Le contrôle de l'impôt<a id=57></a>
+
+#### Chapitre premier : Le droit de contrôle de l'administration<a id=58></a>
+
+##### Section II : Dispositions particulières à certains impôts<a id=59></a>
+
+##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=60></a>
+
+##### B : Contrôle sur les lieux d'exercice de l'activité<a id=61></a>
+
+##### Contributions indirectes.<a id=62></a>
+
+###### Article A26-3
+
+Dans les cercles où sont pratiqués les jeux de hasard, l'intervention des agents des impôts spécialement désignés à cet effet
+par l'administration peut avoir lieu à toute heure du jour et de la nuit, et dans les autres cercles ou maisons de jeux
+pendant tout le temps où ils sont ouverts à leurs membres ou à leur clientèle [*horaires de contrôle*].
+
+Les agents qualifiés du ministère de l'intérieur jouissent des mêmes droits.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1981-09-15 art. 1, art. 2 JORF 20 septembre 1981
+
+_Codifié par_:
+
+  - Arrêté 1984-10-01
+
+_Anciens textes_:
+
+  - CGIAN4 148 (AL. 1)
+
+_Cité par_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 146 (V)
 
 
