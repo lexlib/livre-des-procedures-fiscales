@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1993-02-23
+Version Consolidée au 1993-03-11
 ## Contenu: 
   - [Partie législative (art. L1 à L283)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -184,7 +184,7 @@ Version Consolidée au 1993-02-23
               - [A : Contrôle à la circulation (art. R24-2 à R24-3)](#181)
               - [B : Contrôle sur les lieux d'exercice d'activité (art. R*26-1 à R37-1)](#182)
                 - [1 : Contributions indirectes (art. R*26-1 à R33-1)](#183)
-                - [Contributions indirectes. (art. R*26-2 à R27-2)](#184)
+                - [Contributions indirectes. (art. R27-1 à R27-2)](#184)
                 - [2 : Droits de timbre (art. R37-1)](#185)
           - [Section III : Modalités d'exercice du droit de contrôle (art. R45 B-1 à R45 E-1)](#186)
           - [Section IV : Procédures de rectification (art. R*57-1 à R*64-2)](#187)
@@ -203,7 +203,7 @@ Version Consolidée au 1993-02-23
           - [Section II : Renseignements communiqués à l'administration des impôts sans demande préalable de sa part. (art. R*97-1 à R*101-1)](#200)
         - [Chapitre III : Le secret professionnel en matière fiscale (art. R*103-1 à R*114 A-5)](#201)
           - [Section I : Portée et limites de la règle du secret professionnel (art. R*103-1 à R111-4)](#202)
-            - [1° : Délivrance de documents aux contribuables (art. R106-1 à R107-1)](#203)
+            - [1° : Délivrance de documents aux contribuables (art. R*109-1 à R107-1)](#203)
             - [2° : Publicité de l'impôt (art. R111-1 à R111-4)](#204)
           - [Section II : Dérogations à la règle du secret professionnel (art. R*113-1 à R*114 A-5)](#205)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. R*114 A-1 à R*114 A-5)](#206)
@@ -216,63 +216,65 @@ Version Consolidée au 1993-02-23
       - [Titre III : Le contentieux de l'impôt (art. R*190-1 à R247-11)](#213)
         - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. R*190-1 à R*211-2)](#214)
           - [Charge et administration de la preuve (art. R*191-1 à R*195-1)](#215)
-          - [Section I : Procédure préalable auprès de l'administration des impôts (art. R*196-1 à R*198-10)](#216)
-            - [I : Délais de réclamation. (art. R*196-1 à R*196-6)](#217)
-            - [II : Forme et contenu des réclamations. (art. R*197-1 à R*197-5)](#218)
-            - [III : Instruction des réclamations. (art. R*198-1 à R*198-10)](#219)
-          - [Section II : Procédure devant les tribunaux (art. R*199-1 à R*202-4)](#220)
-            - [I : Tribunaux compétents (art. R*199-1 à R*199-2)](#221)
-            - [II : Règles de procédure (art. R*200-1 à R*202-4)](#222)
-              - [B : Procédure devant le tribunal administratif et la cour administrative d'appel. (art. R*200-1 à R*200-18)](#223)
-              - [C : Procédure devant le tribunal de grande instance et la cour d'appel (art. R*202-1)](#224)
-              - [C : Procédure devant le tribunal de grande instance. (art. R*202-2 à R*202-4)](#225)
-          - [Section III : Compensations (art. R*203-1)](#226)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. R*207-1 à R*210-1)](#227)
-          - [Section V : Dégrèvements d'office (art. R*211-1 à R*211-2)](#228)
-        - [Chapitre II : Les procédures pénales (art. R*212-1 à R*228-6)](#229)
-          - [Section I : Constatation des infractions par procès-verbal (art. R*212-1 à R*226-3)](#230)
-            - [I : Infractions constatées par procès-verbal. (art. R*212-1)](#231)
-            - [II : Agents compétents pour constater les infractions par procès-verbal (art. R*213-1 à R*213-3)](#232)
-            - [III : Rédaction des procès-verbaux (art. R*226-1 à R*226-3)](#233)
-          - [Section II : Exercice des poursuites pénales (art. R*228-1 à R*228-6)](#234)
-            - [I : Dispositions communes (art. R*228-1 à R*228-6)](#235)
-        - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247-1 à R247-11)](#236)
-      - [Titre IV : Le recouvrement de l'impôt (art. R254-1 à R*283-1)](#237)
-        - [Chapitre premier : Les procédures de recouvrement (art. R254-1 à R*275-1)](#238)
-          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R254-1 à R*257-1)](#239)
-            - [I : Impôts recouvrés par les comptables du Trésor. (art. R254-1 à R*257-2)](#240)
-              - [Impôts recouvrés par les comptables de la direction générale des impôts. (art. R*256-1 à R*257-2)](#241)
-            - [II : Impôts recouvrés par les comptables de la direction générale des impôts. (art. R*257-1)](#242)
-          - [Section II : Exercice des poursuites (art. R*260 A-1)](#243)
-          - [Section III : Mesures particulières (art. R*266-1 à R*273-1)](#244)
-            - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*266-1)](#245)
-            - [10° : Taxes sur le chiffre d'affaires (art. R*273-1)](#246)
-          - [Section IV : Prescription de l'action en vue du recouvrement (art. R*275-1)](#247)
-        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-6)](#248)
-        - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#249)
-          - [Demande en revendication d'objets saisis (art. R*283-1)](#250)
-  - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#251)
-    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-10)](#252)
-      - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#253)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A47 A-1)](#254)
-          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#255)
-            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#256)
-              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#257)
-                - [1 : Contributions indirectes (art. A26-1 à A27-1)](#258)
-                  - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#259)
-                - [2 : Droits de timbre (art. A37-1)](#260)
-          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1)](#261)
-        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#262)
-          - [Section I : Conditions d'exercice du droit de communication (art. A85-1)](#263)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#264)
-      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A225 A-1)](#265)
-        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#266)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#267)
-        - [Chapitre II : Les procédures pénales (art. A225 A-1)](#268)
-          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#269)
-            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#270)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#271)
-        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#272)
+          - [Section I : Procédure préalable auprès de l'administration (art. R*198-1 à R*198-10)](#216)
+            - [III : Instruction des réclamations (art. R*198-1 à R*198-10)](#217)
+          - [Section I : Procédure préalable auprès de l'administration des impôts (art. R*196-1 à R*198-9)](#218)
+            - [I : Délais de réclamation. (art. R*196-1 à R*196-6)](#219)
+            - [II : Forme et contenu des réclamations. (art. R*197-1 à R*197-5)](#220)
+            - [III : Instruction des réclamations. (art. R*198-2 à R*198-9)](#221)
+          - [Section II : Procédure devant les tribunaux (art. R*199-1 à R*202-4)](#222)
+            - [I : Tribunaux compétents (art. R*199-1 à R*199-2)](#223)
+            - [II : Règles de procédure (art. R*200-1 à R*202-4)](#224)
+              - [B : Procédure devant le tribunal administratif et la cour administrative d'appel. (art. R*200-1 à R*200-18)](#225)
+              - [C : Procédure devant le tribunal de grande instance et la cour d'appel (art. R*202-1)](#226)
+              - [C : Procédure devant le tribunal de grande instance. (art. R*202-2 à R*202-4)](#227)
+          - [Section III : Compensations (art. R*203-1)](#228)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. R*207-1 à R*210-1)](#229)
+          - [Section V : Dégrèvements d'office (art. R*211-1 à R*211-2)](#230)
+        - [Chapitre II : Les procédures pénales (art. R*212-1 à R*228-6)](#231)
+          - [Section I : Constatation des infractions par procès-verbal (art. R*212-1 à R*226-3)](#232)
+            - [I : Infractions constatées par procès-verbal. (art. R*212-1)](#233)
+            - [II : Agents compétents pour constater les infractions par procès-verbal (art. R*213-1 à R*213-3)](#234)
+            - [III : Rédaction des procès-verbaux (art. R*226-1 à R*226-3)](#235)
+          - [Section II : Exercice des poursuites pénales (art. R*228-1 à R*228-6)](#236)
+            - [I : Dispositions communes (art. R*228-1 à R*228-6)](#237)
+        - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247-1 à R247-11)](#238)
+      - [Titre IV : Le recouvrement de l'impôt (art. R254-1 à R*283-1)](#239)
+        - [Chapitre premier : Les procédures de recouvrement (art. R254-1 à R*275-1)](#240)
+          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R254-1 à R*257-1)](#241)
+            - [I : Impôts recouvrés par les comptables du Trésor. (art. R254-1 à R*257-2)](#242)
+              - [Impôts recouvrés par les comptables de la direction générale des impôts. (art. R*256-1 à R*257-2)](#243)
+            - [II : Impôts recouvrés par les comptables de la direction générale de impôts ou de la direction générale des douanes et droits indirects. (art. R*256-6)](#244)
+            - [II : Impôts recouvrés par les comptables de la direction générale des impôts. (art. R*257-1)](#245)
+          - [Section II : Exercice des poursuites (art. R*260 A-1)](#246)
+          - [Section III : Mesures particulières (art. R*266-1 à R*273-1)](#247)
+            - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*266-1)](#248)
+            - [10° : Taxes sur le chiffre d'affaires (art. R*273-1)](#249)
+          - [Section IV : Prescription de l'action en vue du recouvrement (art. R*275-1)](#250)
+        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-6)](#251)
+        - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#252)
+  - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#253)
+    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-10)](#254)
+      - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#255)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A47 A-1)](#256)
+          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#257)
+            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#258)
+              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#259)
+                - [1 : Contributions indirectes (art. A26-1 à A27-1)](#260)
+                  - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#261)
+                - [2 : Droits de timbre (art. A37-1)](#262)
+          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1)](#263)
+        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#264)
+          - [Section I : Conditions d'exercice du droit de communication (art. A85-1)](#265)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#266)
+      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A225 A-1)](#267)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#268)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#269)
+        - [Chapitre II : Les procédures pénales (art. A225 A-1)](#270)
+          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#271)
+            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#272)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#273)
+        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#274)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -12355,6 +12357,160 @@ _Cite_:
   - Code général des impôts, CGI. - art. 511 (Ab)
 
 
+###### Article R*26-2
+
+Les agents du service des douanes et droits indirects sont autorisés, aux fins d'analyse, à prélever des échantillons chez
+les marchands en gros et les détaillants d'alcool dénaturé par le procédé général.
+
+Des prélèvements peuvent être effectués également sur les liquides mis en vente chez les débitants de boissons. 
+
+Si les produits sont reconnus réunir les éléments prescrits, la valeur des échantillons prélevés est remboursée aux
+intéressés par le service des douanes et droits indirects.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 511
+
+_Anciens textes_:
+
+  - CGIAN1 183
+
+_Modifié par_:
+
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 1 () JORF 11 mars 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+
+###### Article R*29-1
+
+Les fabricants et marchands d'appareils à distiller doivent assister ou se faire représenter par un délégué aux vérifications
+que les agents du service des douanes et droits indirects sont autorisés à effectuer dans leurs ateliers, magasins et autres
+locaux professionnels, en application de l'article L. 29. 
+
+Ils doivent faciliter ces vérifications et déclarer, par eux-mêmes ou par leurs délégués, les quantités et espèces ainsi que
+la capacité ou les dimensions des appareils et portions d'appareils en leur possession.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 2 () JORF 11 mars 1993
+
+_Anciens textes_:
+
+  - Code général des impôts annexe 1, CGIAN1. - art. 28 (T)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L29 (V)
+
+
+###### Article R*29-2
+
+Les agents du service des douanes et droits indirects sont autorisés à déterminer par jaugeage la contenance des alambics
+soumis à la formalité du poinçonnage. En cas d'impossibilité de procéder par voie de jaugeage, ou de contestation sur les
+résultats de l'opération, la contenance est constatée par empotement et le détenteur doit fournir, par lui-même ou par ses
+préposés, l'eau et la main-d'oeuvre nécessaires pour cette opération, qui est dirigée en sa présence par les agents et dont
+il est dressé procès-verbal.
+
+Dans l'intervalle des travaux de distillation, la constatation de la contenance des appareils peut être renouvelée toutes les
+fois que le service le juge utile.
+
+Pour les appareils à marche continue, les agents peuvent, au cours des travaux de distillation, et toutes les fois qu'ils le
+jugent utile, procéder à des constatations en vue de s'assurer de leur force productive.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGIAN1 31
+
+_Modifié par_:
+
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 3 () JORF 11 mars 1993
+
+
+###### Article R*30-1
+
+Les bouilleurs de cru doivent assister ou se faire représenter par un délégué aux contrôles opérés par les agents du service
+des douanes et droits indirects en application de l'article L. 30. Ils doivent faciliter ces vérifications, fournir à cet
+effet la main-d'oeuvre nécessaire et notamment : 
+
+1° Représenter à toute demande des agents les ampliations des déclarations faites au bureau de déclarations de la direction
+générale des douanes et droits indirects ainsi que le registre sur lequel ils inscrivent les matières premières versées dans
+l'alambic ; 
+
+2° Déclarer aux agents l'espèce et la quantité des eaux-de-vie fabriquées et des matières premières non encore distillées, en
+désignant l'emplacement de ces différents produits.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGIAN1 43
+
+_Modifié par_:
+
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 4 () JORF 11 mars 1993
+
+_Cité par_:
+
+  - Code général des impôts annexe 1, CGIAN1. - art. 37 (V)
+  - Code général des impôts, CGI. - art. 326 (V)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L30 (V)
+
+
+###### Article R*32-1
+
+La précision et le fonctionnement des compteurs prévus par l'article L. 32 font l'objet de vérifications périodiques de la
+part des agents habilités à cet effet par l'administration des douanes et droits indirects. Ces vérifications peuvent être
+opérées avec le concours des agents du service des instruments de mesure. 
+
+L'exploitant peut demander la vérification des compteurs installés dans sa distillerie lorsqu'aucune vérification n'a été
+opérée depuis un an au moins ou lorsque les quantités produites indiquées par les compteurs diffèrent de plus de 0,5% de
+celles résultant de ses estimations. La demande adressée à l'administration des douanes et droits indirects, doit mentionner
+le motif retenu ainsi que la date à partir de laquelle une anomalie a été constatée. 
+
+Les opérations de vérification sont faites à la diligence des agents habilités de l'administration des douanes et droits
+indirects. L'exploitant est informé de la date fixée pour ces opérations ; il doit y assister ou s'y faire représenter. 
+
+Si l'exploitant désire que la vérification se déroule en présence des agents du service des instruments de mesure, il doit le
+préciser dans sa demande en s'engageant à payer les frais qui résulteront de cette intervention.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGIAN1 64
+
+_Modifié par_:
+
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 5 () JORF 11 mars 1993
+
+_Cité par_:
+
+  - Code général des impôts annexe 1, CGIAN1. - art. 67 (V)
+  - Code général des impôts, CGI. - art. 312 (V)
+  - Code général des impôts, CGI. - art. 342 (V)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L32 (V)
+
+
 ###### Article R*32-2
 
 Lors des opérations d'inventaire prévues par le code général des impôts et des contrôles prévus par le présent livre, les
@@ -12428,150 +12584,6 @@ _Abrogé par_:
 
 
 ##### Contributions indirectes.<a id=184></a>
-
-###### Article R*26-2
-
-Les agents des impôts sont autorisés, aux fins d'analyse, à prélever des échantillons chez les marchands en gros et les
-détaillants d'alcool dénaturé par le procédé général.
-
-Des prélèvements peuvent être effectués également sur les liquides mis en vente chez les débitants de boissons.
-
-Si les produits sont reconnus réunir les éléments prescrits, la valeur des échantillons prélevés est remboursée aux
-intéressés par le service des impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 511
-
-_Anciens textes_:
-
-  - CGIAN1 183
-
-_Créé par_:
-
-  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
-
-
-###### Article R*29-1
-
-Les fabricants et marchands d'appareils à distiller doivent assister ou se faire représenter par un délégué aux vérifications
-que les agents de l'administration des impôts sont autorisés à effectuer dans leurs ateliers, magasins et autres locaux
-professionnels, en application de l'article L. 29.
-
-Ils doivent faciliter ces vérifications et déclarer, par eux-mêmes ou par leurs délégués, les quantités et espèces ainsi que
-la capacité ou les dimensions des appareils et portions d'appareils en leur possession [*obligation*].
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI L29
-
-_Anciens textes_:
-
-  - CGIAN1 28
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
-
-
-###### Article R*29-2
-
-Les agents de l'administration des impôts sont autorisés à déterminer par jaugeage la contenance des alambics soumis à la
-formalité du poinçonnage. En cas d'impossibilité de procéder par voie de jaugeage, ou de contestation sur les résultats de
-l'opération, la contenance est constatée par empotement et le détenteur doit fournir, par lui-même ou par ses préposés, l'eau
-et la main-d'oeuvre nécessaires pour cette opération, qui est dirigée en sa présence par les agents et dont il est dressé
-procès-verbal.
-
-Dans l'intervalle des travaux de distillation, la constatation de la contenance des appareils peut être renouvelée toutes les
-fois que le service le juge utile.
-
-Pour les appareils à marche continue, les agents peuvent, au cours des travaux de distillation, et toutes les fois qu'ils le
-jugent utile, procéder à des constatations en vue de s'assurer de leur force productive.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGIAN1 31
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
-
-
-###### Article R*30-1
-
-Les bouilleurs de cru doivent assister ou se faire représenter par un délégué aux contrôles opérés par les agents de
-l'administration des impôts en application de l'article L. 30. Ils doivent faciliter ces vérifications, fournir à cet effet
-la main-d'oeuvre nécessaire et notamment :
-
-1° Représenter à toute demande des agents les ampliations des déclarations faites au bureau de déclarations de la direction
-générale des impôts ainsi que le registre sur lequel ils inscrivent les matières premières versées dans l'alambic ; 
-
-2° Déclarer aux agents l'espèce et la quantité des eaux-de-vie fabriquées et des matières premières non encore distillées, en
-désignant l'emplacement de ces différents produits.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI L30
-
-_Anciens textes_:
-
-  - CGIAN1 43
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
-
-_Cité par_:
-
-  - Code général des impôts annexe 1, CGIAN1. - art. 37 (V)
-  - Code général des impôts, CGI. - art. 326 (V)
-
-
-###### Article R*32-1
-
-La précision et le fonctionnement des compteurs prévus par l'article L. 32 font l'objet de vérifications périodiques de la
-part des agents de l'administration des impôts habilités à cet effet. Ces vérifications peuvent être opérées avec le concours
-des agents du service des instruments de mesure.
-
-L'exploitant peut demander la vérification des compteurs installés dans sa distillerie lorsqu'aucune vérification n'a été
-opérée depuis un an au moins [*délai minimum*] ou lorsque les quantités produites indiquées par les compteurs diffèrent de
-plus de 0,5 p. 100 de celles résultant de ses estimations. La demande adressée à l'administration des impôts, doit mentionner
-le motif retenu ainsi que la date à partir de laquelle une anomalie a été constatée.
-
-Les opérations de vérification sont faites à la diligence des agents habilités de l'administration des impôts. L'exploitant
-est informé de la date fixée pour ces opérations ; il doit y assister ou s'y faire représenter.
-
-Si l'exploitant désire que la vérification se déroule en présence des agents du service des instruments de mesure, il doit le
-préciser dans sa demande en s'engageant à payer les frais qui résulteront de cette intervention.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI L32
-
-_Anciens textes_:
-
-  - CGIAN1 64
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
-
-_Cité par_:
-
-  - Code général des impôts annexe 1, CGIAN1. - art. 67 (V)
-  - Code général des impôts, CGI. - art. 312 (V)
-  - Code général des impôts, CGI. - art. 342 (V)
-
 
 ###### Article R27-1
 
@@ -13572,8 +13584,9 @@ _Cité par_:
 
 ###### Article R*103-1
 
-Les correspondances de toute nature échangées entre les agents de l'administration des impôts ou adressées par eux aux
-contribuables doivent être transmises sous enveloppe fermée, en application de l'article L. 103 [*condition de forme*].
+Les correspondances de toute nature échangées entre les agents de l'administration des impôts ou entre les agents de
+l'administration des douanes et droits indirects, selon le cas ou adressées par eux aux contribuables doivent être transmises
+sous enveloppe fermée, en application de l'article L. 103.
 
 **Liens relatifs à cet article**
 
@@ -13581,37 +13594,38 @@ _Anciens textes_:
 
   - CGI 2009 (AL. 1)
 
+_Modifié par_:
+
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 8 () JORF 11 mars 1993
+
 _Cite_:
 
-  - CGI L103
+  - Livre des procédures fiscales - art. L103 (V)
 
-_Codifié par_:
 
-  - Décret n°81-860 1981-09-15
-
+##### 1° : Délivrance de documents aux contribuables<a id=203></a>
 
 ###### Article R*109-1
 
-Les déclarations [*de sucrage et de détention de sucre*] mentionnées à l'article L. 109 sont conservées pendant trois ans
-[*délai - durée*], soit à la direction des services fiscaux soit au bureau de déclarations de la direction générale des
-impôts [*lieu*].
+Les déclarations mentionnées à l'article L. 109 sont conservées pendant trois ans, soit à la direction régionale des douanes
+et droits indirects soit au bureau de déclarations de la direction générale des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - CGI 559 (AL. 2 2ème PHRASE)
+  - CGI 559 (al. 2 2ème phrase)
+
+_Modifié par_:
+
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 6 () JORF 11 mars 1993
 
 _Cite_:
 
-  - CGI L109
+  - Livre des procédures fiscales - art. L109 (V)
 
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
-
-
-##### 1° : Délivrance de documents aux contribuables<a id=203></a>
 
 ###### Article R106-1
 
@@ -13995,15 +14009,20 @@ _Codifié par_:
 ###### Article R*190-1
 
 Le contribuable qui désire contester tout ou partie d'un impôt qui le concerne doit d'abord adresser une réclamation au
-service territorial de l'administration des impôts dont dépend le lieu de l'imposition.    Toutefois, en matière de droits
-d'enregistrement ou de taxe de publicité foncière, les réclamations relatives à la valeur vénale réelle d'immeubles, de fonds
-de commerce et des marchandises neuves qui en dépendent, de clientèles, de droits à un bail ou au bénéfice d'une promesse de
-bail portant sur tout ou partie d'un immeuble, de navires et de bateaux, sont adressées au service du lieu de situation des
-biens ou d'immatriculation des navires et bateaux.    Lorsque des biens ne formant qu'une seule exploitation sont situés sur
-plusieurs circonscriptions, le service compétent est celui de la circonscription sur le territoire de laquelle se trouve le
-siège de l'exploitation ou, à défaut de siège, la partie des biens présentant le plus grand revenu d'après la matrice
-cadastrale.    " Lorsque l'imposition contestée a été établie à l'initiative d'un agent dépendant d'une direction régionale
-ou d'une direction spécialisée, la réclamation peut être adressée au directeur chargé de cette direction. "
+service territorial, selon le cas, de l'administration des impôts ou de l'administration des douanes et droits indirects dont
+dépend le lieu de l'imposition.
+
+Toutefois, en matière de droits d'enregistrement ou de taxe de publicité foncière, les réclamations relatives à la valeur
+vénale réelle d'immeubles, de fonds de commerce et des marchandises neuves qui en dépendent, de clientèles, de droits à un
+bail ou au bénéfice d'une promesse de bail portant sur tout ou partie d'un immeuble, de navires et de bateaux, sont adressées
+au service du lieu de situation des biens ou d'immatriculation des navires et bateaux.
+
+Lorsque des biens ne formant qu'une seule exploitation sont situés sur plusieurs circonscriptions, le service compétent est
+celui de la circonscription sur le territoire de laquelle se trouve le siège de l'exploitation ou, à défaut de siège, la
+partie des biens présentant le plus grand revenu d'après la matrice cadastrale.
+
+Lorsque l'imposition contestée a été établie à l'initiative d'un agent dépendant d'une direction régionale ou d'une direction
+spécialisée, la réclamation peut être adressée au directeur chargé de cette direction.
 
 Les réclamations font l'objet d'un récépissé adressé au contribuable.
 
@@ -14011,7 +14030,12 @@ Les réclamations font l'objet d'un récépissé adressé au contribuable.
 
 _Modifié par_:
 
-  - Décret n°87-552 1987-07-17 art. 5 JORF 19 juillet 1987
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 9 () JORF 11 mars 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 _Cité par_:
 
@@ -14143,9 +14167,71 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### Section I : Procédure préalable auprès de l'administration des impôts<a id=216></a>
+##### Section I : Procédure préalable auprès de l'administration<a id=216></a>
 
-##### I : Délais de réclamation.<a id=217></a>
+##### III : Instruction des réclamations<a id=217></a>
+
+###### Article R*198-1
+
+Les réclamations sont instruites, selon le cas, par les agents de l'administration des impôts ou par les agents de
+l'administration des douanes et droits indirects.
+
+Les agents appartenant au corps des géomètres du cadastre participent à l'instruction des réclamations concernant la taxe
+foncière, dans les conditions fixées par le directeur général des impôts.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGI 1935
+
+_Modifié par_:
+
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 10 () JORF 11 mars 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+
+###### Article R*198-10
+
+L'administration des impôts ou l'administration des douanes et droits indirects, selon le cas, statue sur les réclamations
+dans le délai de six mois suivant la date de leur présentation. Si elle n'est pas en mesure de le faire, elle doit, avant
+l'expiration de ce délai, en informer le contribuable en précisant le terme du délai complémentaire qu'elle estime nécessaire
+pour prendre sa décision. Ce délai complémentaire ne peut, toutefois, excéder trois mois. Lorsque l'assiette de l'imposition
+contestée a été assurée par un service spécialisé de l'une ou l'autre des administrations précitées, c'est ce service qui
+statue.
+
+En cas de rejet total ou partiel de la réclamation, la décision doit être motivée.
+
+Les décisions de l'administration sont notifiées dans les mêmes conditions que celles prévues pour les notifications faites
+au cours de la procédure devant le tribunal administratif.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 11 () JORF 11 mars 1993
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6 39°, art. 13
+  - HISTO: Edition du 18 août 1993
+  - TXT_ASSOCIE: Jurisprudence 1999-12-01 13O-6-99
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (M)
+  - Livre des procédures fiscales - art. R*199-1 (V)
+  - Livre des procédures fiscales - art. R*200-4 (V)
+
+
+##### Section I : Procédure préalable auprès de l'administration des impôts<a id=218></a>
+
+##### I : Délais de réclamation.<a id=219></a>
 
 ###### Article R*196-1
 
@@ -14319,7 +14405,7 @@ _Créé par_:
   - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
 
 
-##### II : Forme et contenu des réclamations.<a id=218></a>
+##### II : Forme et contenu des réclamations.<a id=220></a>
 
 ###### Article R*197-1
 
@@ -14443,29 +14529,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### III : Instruction des réclamations.<a id=219></a>
-
-###### Article R*198-1
-
-Les réclamations sont instruites par les agents de l'administration des impôts [*autorités compétentes*].
-
-Les agents appartenant au corps des géomètres du cadastre participent à l'instruction des réclamations concernant la taxe
-foncière, dans les conditions fixées par le directeur général des impôts.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 1935
-
-_Modifié par_:
-
-  - Loi - art. 32 () JORF 31 décembre 1991
-
-_Codifié par_:
-
-  - Décret n°92-837 1992-08-27
-
+##### III : Instruction des réclamations.<a id=221></a>
 
 ###### Article R*198-2
 
@@ -14592,44 +14656,9 @@ _Codifié par_:
   - Décret n°92-837 1992-08-27
 
 
-###### Article R*198-10
+##### Section II : Procédure devant les tribunaux<a id=222></a>
 
-L'administration des impôts statue sur les réclamations dans le délai de six mois suivant la date de leur présentation. Si
-elle n'est pas en mesure de le faire, elle doit, avant l'expiration de ce délai, en informer le contribuable en précisant le
-terme du délai complémentaire qu'elle estime nécessaire pour prendre sa décision. Ce délai complémentaire ne peut, toutefois,
-excéder trois mois. Lorsque l'assiette de l'imposition contestée a été assurée par un service spécialisé de l'administration
-fiscale, c'est ce service qui statue.
-
-En cas de rejet total ou partiel de la réclamation, la décision doit être motivée [*obligation*].
-
-Les décisions de l'administration sont notifiées dans les mêmes conditions que celles prévues pour les notifications faites
-au cours de la procédure devant le tribunal administratif.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°89-948 1989-12-29 art. 5 JORF 31 décembre 1989 en vigueur le 1er janvier 1990
-  - Décret n°89-641 du 7 septembre 1989 - art. 1 (V) JORF 10 septembre 1989 en vigueur le 1er janvier 1990
-
-_Codifié par_:
-
-  - Décret n°90-799 1990-09-10
-
-_Cité par_:
-
-  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (M)
-  - Livre des procédures fiscales - art. R*199-1 (V)
-  - Livre des procédures fiscales - art. R*200-4 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 15 juin 1990
-
-
-##### Section II : Procédure devant les tribunaux<a id=220></a>
-
-##### I : Tribunaux compétents<a id=221></a>
+##### I : Tribunaux compétents<a id=223></a>
 
 ###### Article R*199-1
 
@@ -14675,9 +14704,9 @@ _Modifié par_:
   - HISTO: Edition du 15 juin 1990
 
 
-##### II : Règles de procédure<a id=222></a>
+##### II : Règles de procédure<a id=224></a>
 
-##### B : Procédure devant le tribunal administratif et la cour administrative d'appel.<a id=223></a>
+##### B : Procédure devant le tribunal administratif et la cour administrative d'appel.<a id=225></a>
 
 ###### Article R*200-1
 
@@ -14753,7 +14782,8 @@ _Cite_:
 ###### Article R*200-4
 
 Les notifications et communications faites à l'administration sont adressées par le tribunal administratif à la direction des
-impôts qui a suivi l'affaire et par la cour administrative d'appel au ministre chargé du budget.
+impôts ou à la direction des douanes et droits indirects qui a suivi l'affaire et par la cour administrative d'appel au
+ministre chargé du budget.
 
 Les pièces et documents joints à la requête ou aux mémoires produits sont, dès réception, adressés d'office en communication
 à l'administration.
@@ -14762,8 +14792,12 @@ Les pièces et documents joints à la requête ou aux mémoires produits sont, d
 
 _Modifié par_:
 
-  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
-  - Décret n°89-948 du 22 décembre 1989 - art. 5 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 12 () JORF 11 mars 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 _Cité par_:
 
@@ -14816,8 +14850,8 @@ _Modifié par_:
 ###### Article R*200-10
 
 Ne peuvent être désignés comme experts les personnes constituées mandataires par l'une des parties au cours de l'instruction,
-ni un fonctionnaire affecté à la direction de l'administration des impôts à laquelle a incombé l'établissement de
-l'imposition contestée.
+ni un fonctionnaire affecté à la direction de l'administration des impôts ou de l'administration des douanes et droits
+indirects à laquelle a incombé l'établissement de l'imposition contestée.
 
 **Liens relatifs à cet article**
 
@@ -14827,9 +14861,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
-  - Décret n°89-948 du 22 décembre 1989 - art. 8 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
-  - Modification directe incorporée dans l'édition du 15 juin 1990
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 13 () JORF 11 mars 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 
 ###### Article R*200-11
@@ -14917,8 +14954,8 @@ _Modifié par_:
 ###### Article R*200-18
 
 A compter de la notification du jugement du tribunal administratif qui a été faite au directeur du service de
-l'administration des impôts qui a suivi l'affaire, celui-ci dispose d'un délai de deux mois pour transmettre, s'il y a lieu,
-le jugement et le dossier au ministre chargé du budget.
+l'administration des impôts ou de l'administration des douanes et droits indirects qui a suivi l'affaire, celui-ci dispose
+d'un délai de deux mois pour transmettre, s'il y a lieu, le jugement et le dossier au ministre chargé du budget.
 
 Le délai imparti pour saisir la cour administrative d'appel court, pour le ministre, de la date à laquelle expire le délai de
 transmission prévu à l'alinéa précédent ou de la date de la signification faite au ministre.
@@ -14927,12 +14964,15 @@ transmission prévu à l'alinéa précédent ou de la date de la signification f
 
 _Modifié par_:
 
-  - Décret n°89-948 du 22 décembre 1989 - art. 14 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
-  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
-  - Modification directe incorporée dans l'édition du 15 juin 1990
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 14 () JORF 11 mars 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 
-##### C : Procédure devant le tribunal de grande instance et la cour d'appel<a id=224></a>
+##### C : Procédure devant le tribunal de grande instance et la cour d'appel<a id=226></a>
 
 ###### Article R*202-1
 
@@ -14968,7 +15008,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*202-3 (V)
 
 
-##### C : Procédure devant le tribunal de grande instance.<a id=225></a>
+##### C : Procédure devant le tribunal de grande instance.<a id=227></a>
 
 ###### Article R*202-2
 
@@ -15060,7 +15100,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*202-6 (V)
 
 
-##### Section III : Compensations<a id=226></a>
+##### Section III : Compensations<a id=228></a>
 
 ###### Article R*203-1
 
@@ -15083,7 +15123,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L203 (V)
 
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=227></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=229></a>
 
 ###### Article R*207-1
 
@@ -15105,20 +15145,23 @@ _Modifié par_:
 ###### Article R*208-1
 
 Les intérêts moratoires prévus par l'article L. 208 sont dus lorsqu'un dégrèvement est prononçé à la suite d'une demande
-présentée verbalement lors d'une visite au service des impôts, à la condition que le contribuable ait daté et signé le
-document établi par ce service pour prendre note de sa réclamation. Ces intérêts sont calculés sur la totalité des sommes
-remboursées au contribuable au titre de l'impôt objet du règlement. Ils sont payés d'office en même temps que les sommes
-remboursées par le comptable chargé du recouvrement des impôts.
+présentée verbalement lors d'une visite au service des impôts, ou au service des douanes et droits indirects, selon le cas à
+la condition que le contribuable ait daté et signé le document établi par ce service pour prendre note de sa réclamation. 
+
+Ces intérêts sont calculés sur la totalité des sommes remboursées au contribuable au titre de l'impôt objet du règlement. 
+
+Ils sont payés d'office en même temps que les sommes remboursées par le comptable chargé du recouvrement des impôts.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI L208
-
 _Modifié par_:
 
-  - Décret n°89-948 du 22 décembre 1989 - art. 16 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990 : modification de la table des matières
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 14 () JORF 11 mars 1993
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L208 (M)
 
 
 ###### Article R*208-2
@@ -15151,7 +15194,11 @@ contribuable doit adresser une demande :
 a) Au trésorier-payeur général, s'il s'agit d'impôts directs recouvrés par les comptables du Trésor ;
 
 b) Au directeur des services fiscaux, s'il s'agit d'impôts, droits ou taxes recouvrés par les comptables de la direction
-générale des impôts.
+générale des impôts ;
+
+c) Au directeur régional des douanes et droits indirects,  s'il s'agit de contributions indirectes, droits, taxes,
+redevances,  impositions assimilées et de droit de garantie recouvrés par les  comptables de la direction générale des
+douanes et droits indirects.
 
 La demande, appuyée de toutes justifications utiles, doit être formulée dans le délai d'un an à compter de la notification de
 la décision soit du directeur ou du trésorier-payeur général soit du tribunal saisi.
@@ -15162,17 +15209,18 @@ _Cite_:
 
   - CGI L208
 
-**Liens**:
-
-  - TXT_ASSOCIE: CGI R208-6
-
 _Modifié par_:
 
-  - Décret n°89-948 du 22 décembre 1989 - art. 16 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990 : modification de la table des matières
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 14 () JORF 11 mars 1993
 
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 91 vicies (V)
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 
 ###### Article R*208-4
@@ -15318,20 +15366,22 @@ _Codifié par_:
   - Décret n°91-882 1991-09-09
 
 
-##### Section V : Dégrèvements d'office<a id=228></a>
+##### Section V : Dégrèvements d'office<a id=230></a>
 
 ###### Article R*211-1
 
-L'administration des impôts peut prononcer d'office le dégrèvement ou la restitution d'impositions qui n'étaient pas dues,
-jusqu'au 31 décembre de la quatrième année suivant celle au cours de laquelle le délai de réclamation a pris fin, ou, en cas
-d'instance devant les tribunaux, celle au cours de laquelle la décision intervenue a été notifiée [*date limite*].
+L'administration des impôts ou l'administration des douanes et droits indirects selon le cas, peut prononcer d'office le
+dégrèvement ou la restitution d'impositions qui n'étaient pas dues, jusqu'au 31 décembre de la quatrième année suivant celle
+au cours de laquelle le délai de réclamation a pris fin, ou, en cas d'instance devant les tribunaux, celle au cours de
+laquelle la décision intervenue a été notifiée [*date limite*].
 
-Elle peut dans ce même délai prononcer d'office les dégrèvements des taxes foncières indûment établies lorsque l'erreur
-d'imposition ne peut plus être rectifiée par une mutation de cote au nom de la personne qui aurait dû être imposée.
+L'administration des impôts peut dans ce même délai prononcer d'office les dégrèvements des taxes foncières indûment établies
+lorsque l'erreur d'imposition ne peut plus être rectifiée par une mutation de cote au nom de la personne qui aurait dû être
+imposée.
 
-Elle peut prononcer dans le délai de trente ans les dégrèvements d'office prévus aux articles 1390, 1391, 1414 III, 1414 A et
-1601 du code général des impôts relatifs à la taxe foncière sur les propriétés bâties, à la taxe d'habitation et à la taxe
-pour frais de chambres de métiers.
+L'administration des impôts peut prononcer dans le délai de trente ans les dégrèvements d'office prévus aux articles 1390,
+1391, 1414 III, 1414 A et 1601 du code général des impôts relatifs à la taxe foncière sur les propriétés bâties, à la taxe
+d'habitation et à la taxe pour frais de chambres de métiers.
 
 **Liens relatifs à cet article**
 
@@ -15350,23 +15400,26 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°91-1322 1991-12-30 art. 21 I Finances pour 1992 JORF 31 décembre 1991
-
-_Codifié par_:
-
-  - Décret n°92-837 1992-08-27
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 17 () JORF 11 mars 1993
 
 _Cité par_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 316 A (V)
   - Livre des procédures fiscales - art. R*211-2 (V)
 
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
 
 ###### Article R*211-2
 
 Les propositions de dégrèvements d'office, de restitutions et de mutations de cote prévues à l'article R. 211-1 peuvent être
-faites par les agents de l'administration des impôts et les comptables du Trésor, chargés du recouvrement [*autorités
-compétentes*]. Ces propositions sont portées sur des états adressés au directeur des services fiscaux pour la suite à donner.
+faites par les agents de l'administration des impôts ou de l'administration des douanes et droits indirects, selon le cas, et
+les comptables du Trésor, chargés du recouvrement [*autorités compétentes*]. Ces propositions sont portées sur des états
+adressés, selon le cas, au directeur des services fiscaux ou au directeur régional des douanes et droits indirects pour la
+suite à donner.
 
 Les agents appartenant au corps des géomètres du cadastre sont également admis, dans les conditions fixées par le directeur
 général des impôts, à proposer d'office, en matière de taxe foncière, des mutations de cote et le dégrèvement des droits
@@ -15388,18 +15441,16 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°91-1322 1991-12-30 art. 21 I Finances pour 1992 JORF 31 décembre 1991
-
-_Codifié par_:
-
-  - Décret n°92-837 1992-08-27
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 18 () JORF 11 mars 1993
+  - Modifications incorporées dans l'édition du 18 août 1993
 
 
-#### Chapitre II : Les procédures pénales<a id=229></a>
+#### Chapitre II : Les procédures pénales<a id=231></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=230></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=232></a>
 
-##### I : Infractions constatées par procès-verbal.<a id=231></a>
+##### I : Infractions constatées par procès-verbal.<a id=233></a>
 
 ###### Article R*212-1
 
@@ -15435,7 +15486,7 @@ _Abrogé par_:
   - Loi n°2004-1484 du 30 décembre 2004 - art. 42 (V) JORF 31 décembre 2004
 
 
-##### II : Agents compétents pour constater les infractions par procès-verbal<a id=232></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal<a id=234></a>
 
 ###### Article R*213-1
 
@@ -15490,7 +15541,7 @@ _Codifié par_:
   - Décret n°88-1002 1988-10-20
 
 
-##### III : Rédaction des procès-verbaux<a id=233></a>
+##### III : Rédaction des procès-verbaux<a id=235></a>
 
 ###### Article R*226-1
 
@@ -15560,9 +15611,9 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### Section II : Exercice des poursuites pénales<a id=234></a>
+##### Section II : Exercice des poursuites pénales<a id=236></a>
 
-##### I : Dispositions communes<a id=235></a>
+##### I : Dispositions communes<a id=237></a>
 
 ###### Article R*228-1
 
@@ -15698,17 +15749,17 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 384 septies-0 B (VD)
 
 
-#### Chapitre III : Les remises et transactions à titre gracieux<a id=236></a>
+#### Chapitre III : Les remises et transactions à titre gracieux<a id=238></a>
 
 ###### Article R*247-1
 
 Les demandes prévues à l'article L. 247 tendant à obtenir à titre gracieux une remise, une modération ou une transaction,
-doivent être adressées au service territorial de l'administration des impôts [*autorité compétente*] dont dépend le lieu de
-l'imposition. Elles doivent contenir les indications nécessaires pour identifier l'imposition [*mentions*] et, le cas
-échéant, être accompagnées soit de l'avis d'imposition, d'une copie de cet avis ou d'un extrait de rôle, soit de l'avis de
-mise en recouvrement ou d'une copie de cet avis.
+doivent être adressées au service territorial selon le cas, de l'administration des impôts ou de l'administration des douanes
+et droits indirects dont dépend le lieu de l'imposition. Elles doivent contenir les indications nécessaires pour identifier
+l'imposition et, le cas échéant, être accompagnées soit de l'avis d'imposition, d'une copie de cet avis ou d'un extrait de
+rôle, soit de l'avis de mise en recouvrement ou d'une copie de cet avis.
 
-Les dispositions de l'article R. 190-2 relatives à la transmission des réclamations sont applicables aux demandes gracieuses.
+Les dispositions de l'article R190-2 relatives à la transmission des réclamations sont applicables aux demandes gracieuses.
 
 **Liens relatifs à cet article**
 
@@ -15717,14 +15768,19 @@ _Anciens textes_:
   - CGI 1932 bis (AL. 3 P. DE LA 2ème LIGNE)
   - CGIAN3 417
 
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
-
 _Cite_:
 
-  - LPF L247
-  - LPF R190-2
+  - CGI L247
+  - CGI R190-2
+
+_Modifié par_:
+
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 19 () JORF 11 mars 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 
 ###### Article R*247-3
@@ -16176,13 +16232,13 @@ _Cité par_:
   - HISTO: modification incorporée dans l'édition du 18 août 1993
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=237></a>
+### Titre IV : Le recouvrement de l'impôt<a id=239></a>
 
-#### Chapitre premier : Les procédures de recouvrement<a id=238></a>
+#### Chapitre premier : Les procédures de recouvrement<a id=240></a>
 
-##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=239></a>
+##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=241></a>
 
-##### I : Impôts recouvrés par les comptables du Trésor.<a id=240></a>
+##### I : Impôts recouvrés par les comptables du Trésor.<a id=242></a>
 
 ###### Article R254-1
 
@@ -16202,7 +16258,7 @@ _Anciens textes_:
   - HISTO: Edition du 1er juillet 1981
 
 
-##### Impôts recouvrés par les comptables de la direction générale des impôts.<a id=241></a>
+##### Impôts recouvrés par les comptables de la direction générale des impôts.<a id=243></a>
 
 ###### Article R*256-1
 
@@ -16263,7 +16319,8 @@ _Codifié par_:
 
 L'avis de mise en recouvrement individuel est rédigé en double exemplaire :
 
-a) Le premier, dit "original", est déposé à la recette des impôts chargée du recouvrement [*lieu*] ;
+a) Le premier, dit "original", est déposé à la recette des impôts ou à la recette des douanes et droits indirects chargée du
+recouvrement [*lieu*] ;
 
 b) Le second, dit "ampliation", est destiné à être notifié au redevable ou à son fondé de pouvoir.
 
@@ -16273,9 +16330,14 @@ _Anciens textes_:
 
   - CGIAN2 391 1
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°81-860 1981-09-15
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 21 () JORF 11 mars 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 _Cité par_:
 
@@ -16285,7 +16347,7 @@ _Cité par_:
 ###### Article R*256-4
 
 L'avis de mise en recouvrement collectif est rédigé en un seul exemplaire, dit "original", qui est déposé à la recette des
-impôts chargée du recouvrement [*lieu*].
+impôts ou à la recette des douanes et droits indirects chargée du recouvrement [*lieu*].
 
 Pour sa notification, il en est établi un "extrait" au nom de chacun des redevables qui y sont inscrits.
 
@@ -16298,15 +16360,21 @@ _Anciens textes_:
 
   - CGIAN2 391 2
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°81-860 1981-09-15
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 21 () JORF 11 mars 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 
 ###### Article R*256-5
 
-Le directeur des services fiscaux compétent pour viser et rendre exécutoire l'avis de mise en recouvrement individuel ou
-collectif est celui sous l'autorité duquel se trouve placé le comptable chargé du recouvrement.
+Le directeur des services fiscaux ou le directeur régional des douanes et droits indirects compétent pour viser et rendre
+exécutoire l'avis de mise en recouvrement individuel ou collectif est celui sous l'autorité duquel se trouve placé le
+comptable chargé du recouvrement.
 
 **Liens relatifs à cet article**
 
@@ -16314,46 +16382,14 @@ _Anciens textes_:
 
   - CGIAN2 392
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°81-860 1981-09-15
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 23 () JORF 11 mars 1993
 
+**Liens**:
 
-###### Article R*256-6
-
-La notification de l'avis de mise en recouvrement comporte l'envoi au redevable, soit au lieu de son domicile, de sa
-résidence ou de son siège, soit à l'adresse qu'il a lui-même fait connaître au service des impôts compétent, de
-l'"ampliation" si l'avis de mise en recouvrement est individuel ou de l'"extrait" s'il est collectif.
-
-Au cas où la lettre recommandée [*condition de forme*] ne pourrait, pour quelque cause que ce soit, être remise au redevable
-destinataire ou à son fondé de pouvoir, il doit être demandé à l'administration des postes et télécommunications de renvoyer
-au service des impôts expéditeur, le pli non distribué annoté :
-
-a) D'une part, de la date de sa première présentation à l'adresse indiquée à la souscription ou, s'il y a lieu, à la nouvelle
-adresse connue de l'administration des postes et télécommunications ;
-
-b) D'autre part, du motif de sa non-délivrance.
-
-Dans cette éventualité, l'"ampliation" ou l'"extrait" renvoyé reste déposé à la recette des impôts chargée du recouvrement où
-il peut en être délivré copie, à tout moment et sans frais, au redevable lui-même ou à son fondé de pouvoir.
-
-La notification de l'avis de mise en recouvrement peut également être effectuée par le ministère d'un huissier. Elle est
-alors soumise aux règles de signification des actes d'huissier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGIAN2 393
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
-
-_Cité par_:
-
-  - Livre des procédures fiscales - art. R*257-0 A (T)
-  - Livre des procédures fiscales - art. R*257-0 A-1 (V)
+  - HISTO: Edition du 18 août 1993
 
 
 ###### Article R*256-7
@@ -16403,7 +16439,50 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### II : Impôts recouvrés par les comptables de la direction générale des impôts.<a id=242></a>
+##### II : Impôts recouvrés par les comptables de la direction générale de impôts ou de la direction générale des douanes et droits indirects.<a id=244></a>
+
+###### Article R*256-6
+
+La notification de l'avis de mise en recouvrement comporte l'envoi au redevable, soit au lieu de son domicile, de sa
+résidence ou de son siège, soit à l'adresse qu'il a lui-même fait connaître au service des impôts ou au service des douanes
+et droits indirects compétent, de l'"ampliation" si l'avis de mise en recouvrement est individuel ou de l'"extrait" s'il est
+collectif.
+
+Au cas où la lettre recommandée [*condition de forme*] ne pourrait, pour quelque cause que ce soit, être remise au redevable
+destinataire ou à son fondé de pouvoir, il doit être demandé à l'administration des postes et télécommunications de renvoyer
+au service des impôts ou au service des douanes et droits indirects expéditeur, le pli non distribué annoté :
+
+a) D'une part, de la date de sa première présentation à l'adresse indiquée à la souscription ou, s'il y a lieu, à la nouvelle
+adresse connue de l'administration des postes et télécommunications ;
+
+b) D'autre part, du motif de sa non-délivrance.
+
+Dans cette éventualité, l'"ampliation" ou l'"extrait" renvoyé reste déposé à la recette des impôts ou à la recette des
+douanes et droits indirects chargée du recouvrement où il peut en être délivré copie, à tout moment et sans frais, au
+redevable lui-même ou à son fondé de pouvoir.
+
+La notification de l'avis de mise en recouvrement peut également être effectuée par le ministère d'un huissier. Elle est
+alors soumise aux règles de signification des actes d'huissier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGIAN2 393
+
+_Modifié par_:
+
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 24 () JORF 11 mars 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R*257-0 A (T)
+  - Livre des procédures fiscales - art. R*257-0 A-1 (V)
+
+
+##### II : Impôts recouvrés par les comptables de la direction générale des impôts.<a id=245></a>
 
 ###### Article R*257-1
 
@@ -16430,7 +16509,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### Section II : Exercice des poursuites<a id=243></a>
+##### Section II : Exercice des poursuites<a id=246></a>
 
 ###### Article R*260 A-1
 
@@ -16443,9 +16522,9 @@ _Codifié par_:
   - Décret n°88-1002 1988-10-20
 
 
-##### Section III : Mesures particulières<a id=244></a>
+##### Section III : Mesures particulières<a id=247></a>
 
-##### 4° : Responsabilité des dirigeants et gérants de sociétés<a id=245></a>
+##### 4° : Responsabilité des dirigeants et gérants de sociétés<a id=248></a>
 
 ###### Article R*266-1
 
@@ -16475,7 +16554,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales R267-1
 
 
-##### 10° : Taxes sur le chiffre d'affaires<a id=246></a>
+##### 10° : Taxes sur le chiffre d'affaires<a id=249></a>
 
 ###### Article R*273-1
 
@@ -16514,7 +16593,7 @@ _Abrogé par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-##### Section IV : Prescription de l'action en vue du recouvrement<a id=247></a>
+##### Section IV : Prescription de l'action en vue du recouvrement<a id=250></a>
 
 ###### Article R*275-1
 
@@ -16542,7 +16621,7 @@ _Codifié par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-#### Chapitre II : Le sursis de paiement<a id=248></a>
+#### Chapitre II : Le sursis de paiement<a id=251></a>
 
 ###### Article R*277-1
 
@@ -16705,7 +16784,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*280-1 (Ab)
 
 
-#### Chapitre III : Le contentieux du recouvrement<a id=249></a>
+#### Chapitre III : Le contentieux du recouvrement<a id=252></a>
 
 ###### Article R*281-1
 
@@ -16713,11 +16792,14 @@ Les contestations relatives au recouvrement prévues par l'article L. 281 peuven
 la personne solidaire.
 
 Elles font l'objet d'une demande qui doit être adressée, appuyée de toutes les justifications utiles, en premier lieu, au
-chef de service du département [*autorité*] dans lequel est effectuée la poursuite. Le chef de service compétent est :
+chef du service du département ou de la région dans lesquels est effectuée la poursuite. Le chef de service compétent est :
 
-a) le trésorier-payeur général si le recouvrement incombe à un comptable du Trésor ;
+a) Le trésorier-payeur général si le recouvrement incombe à un comptable du Trésor ;
 
-b) le directeur des services fiscaux si le recouvrement incombe à un comptable de la direction générale des impôts.
+b) Le directeur des services fiscaux si le recouvrement incombe à un comptable de la direction générale des impôts ;
+
+c) Le directeur régional des douanes et droits indirects si le recouvrement incombe à un comptable de la direction générale
+des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
@@ -16734,17 +16816,19 @@ _Anciens textes_:
   - CGI 1846 (AL. 1)
   - CGI 1917 (AL. 1, AL. 3, 1ère LIGNE)
 
-_Cite_:
-
-  - CGI L281
-
 **Liens**:
 
   - TXT_ASSOCIE: CGI R281-2 A R281-5
+  - HISTO: Edition du 18 août 1993
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°81-860 1981-09-15
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 25 () JORF 11 mars 1993
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L281 (V)
 
 
 ###### Article R*281-2
@@ -16778,8 +16862,9 @@ _Abrogé par_:
 
 ###### Article R*281-3
 
-La demande prévue par l'article R. 281-1 doit, sous peine de nullité, être présentée au directeur des services fiscaux
-[*autorité compétente*] dans un délai de deux mois à partir de la notification de l'acte [*point de départ*].
+La demande prévue par l'article R 281-1 doit, sous peine de nullité, être présentée, selon le cas, au directeur des services
+fiscaux ou au directeur régional des douanes et droits indirects dans un délai de deux mois à partir de la notification de
+l'acte.
 
 **Liens relatifs à cet article**
 
@@ -16791,9 +16876,18 @@ _Cite_:
 
   - CGI R281-1
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°81-860 1981-09-15
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 26 () JORF 11 mars 1993
+
+_Abrogé par_:
+
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 14
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
 
 
 ###### Article R*281-4
@@ -16890,16 +16984,14 @@ _Cite_:
   - Livre des procédures fiscales - art. L282 (V)
 
 
-##### Demande en revendication d'objets saisis<a id=250></a>
-
 ###### Article R*283-1
 
-La demande en revendication d'objets saisis prévue par l'article L. 283 est adressée, suivant le cas, au trésorier-payeur
-général ou au directeur des services fiscaux du département dans lequel a été pratiquée la saisie. Elle doit, sous peine de
-nullité, être présentée dans un délai de deux mois à partir de la date à laquelle la personne qui revendique les objets a eu
-connaissance de la saisie [*point de départ*].
+La demande en revendication d'objets saisis prévue par l'article L 283 est adressée, suivant le cas, au trésorier-payeur
+général ou au directeur des services fiscaux du département, ou au directeur régional des douanes et droits indirects de la
+région dans laquelle a été pratiquée la saisie. Elle doit, sous peine de nullité, être présentée dans un délai de deux mois à
+partir de la date à laquelle la personne qui revendique les objets a eu connaissance de la saisie [*point de départ*].
 
-La demande reçoit une suite dans les conditions prévues aux articles R. 281-4 et R. 281-5.
+La demande reçoit une suite dans les conditions prévues aux articles R 281-4 et R 281-5.
 
 Le dépôt d'une demande en revendication d'objets saisis suspend de plein droit les poursuites sur les biens saisis dont la
 propriété est discutée.
@@ -16916,31 +17008,36 @@ _Cite_:
   - CGI R281-4
   - CGI R281-5
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°81-860 1981-09-15
+  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+  - Décret n°93-311 du 9 mars 1993 - art. 27 () JORF 11 mars 1993
 
 _Cité par_:
 
   - Décret n°2018-970 du 8 novembre 2018 (V)
   - Code général de la propriété des personnes publ... - art. R2323-5 (V)
 
+**Liens**:
 
-# Partie réglementaire - Arrêtés<a id=251></a>
+  - HISTO: Edition du 18 août 1993
 
-## Troisième partie : Partie réglementaire, arrêtés<a id=252></a>
 
-### Titre II : Le contrôle de l'impôt<a id=253></a>
+# Partie réglementaire - Arrêtés<a id=253></a>
 
-#### Chapitre premier : Le droit de contrôle de l'administration<a id=254></a>
+## Troisième partie : Partie réglementaire, arrêtés<a id=254></a>
 
-##### Section II : Dispositions particulières à certains impôts<a id=255></a>
+### Titre II : Le contrôle de l'impôt<a id=255></a>
 
-##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=256></a>
+#### Chapitre premier : Le droit de contrôle de l'administration<a id=256></a>
 
-##### B : Contrôle sur les lieux d'exercice de l'activité<a id=257></a>
+##### Section II : Dispositions particulières à certains impôts<a id=257></a>
 
-##### 1 : Contributions indirectes<a id=258></a>
+##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=258></a>
+
+##### B : Contrôle sur les lieux d'exercice de l'activité<a id=259></a>
+
+##### 1 : Contributions indirectes<a id=260></a>
 
 ###### Article A26-1
 
@@ -17049,7 +17146,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 153 (V)
 
 
-##### Dispositions applicables dans les départements d'outre-mer.<a id=259></a>
+##### Dispositions applicables dans les départements d'outre-mer.<a id=261></a>
 
 ###### Article A27-1
 
@@ -17073,7 +17170,7 @@ _Anciens textes_:
   - CGIAN4 56 D ter
 
 
-##### 2 : Droits de timbre<a id=260></a>
+##### 2 : Droits de timbre<a id=262></a>
 
 ###### Article A37-1
 
@@ -17126,7 +17223,7 @@ _Anciens textes_:
   - HISTO: Edition du 1er juillet 1981
 
 
-##### Section III : Modalités d'exercice du droit de contrôle<a id=261></a>
+##### Section III : Modalités d'exercice du droit de contrôle<a id=263></a>
 
 ###### Article A47 A-1
 
@@ -17171,9 +17268,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. A47 AA-1 (V)
 
 
-#### Chapitre II : Le droit de communication<a id=262></a>
+#### Chapitre II : Le droit de communication<a id=264></a>
 
-##### Section I : Conditions d'exercice du droit de communication<a id=263></a>
+##### Section I : Conditions d'exercice du droit de communication<a id=265></a>
 
 ###### Article A85-1
 
@@ -17201,7 +17298,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R81-5 (VD)
 
 
-##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=264></a>
+##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=266></a>
 
 ###### Article A97-1
 
@@ -17272,11 +17369,11 @@ _Anciens textes_:
   - CGIAN4 211
 
 
-### Titre III : Le contentieux de l'impôt<a id=265></a>
+### Titre III : Le contentieux de l'impôt<a id=267></a>
 
-#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=266></a>
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=268></a>
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=267></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=269></a>
 
 ###### Article A208-1
 
@@ -17295,11 +17392,11 @@ _Cite_:
   - Livre des procédures fiscales - art. R*208-4 (V)
 
 
-#### Chapitre II : Les procédures pénales<a id=268></a>
+#### Chapitre II : Les procédures pénales<a id=270></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=269></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=271></a>
 
-##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=270></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=272></a>
 
 ###### Article A225 A-1
 
@@ -17320,9 +17417,9 @@ _Cite_:
   - Livre des procédures fiscales - art. L225 A (V)
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=271></a>
+### Titre IV : Le recouvrement de l'impôt<a id=273></a>
 
-#### Chapitre II : Le sursis de paiement<a id=272></a>
+#### Chapitre II : Le sursis de paiement<a id=274></a>
 
 ###### Article A277-1
 
