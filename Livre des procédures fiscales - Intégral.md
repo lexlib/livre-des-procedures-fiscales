@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1988-12-30
+Version Consolidée au 1989-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L183 A)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
