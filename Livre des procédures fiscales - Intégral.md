@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1984-07-24
+Version Consolidée au 1984-08-03
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -149,166 +149,164 @@ Version Consolidée au 1984-07-24
         - [PROCEDURES DE REDRESSEMENT. (art. L55 à L64 A)](#146)
         - [PROCEDURES D'IMPOSITION D'OFFICE. (art. L65 à L76)](#147)
         - [PROCEDURE D'ARBITRAGE DES DROITS. (art. L76 B)](#148)
-      - [LE DROIT DE CONTROLE DE L'IMPOT (art. L45 B)](#149)
-        - [MODALITES D'EXERCICE DU CONTROLE DE L'IMPOT. (art. L45 B)](#150)
-      - [LE DROIT DE COMMUNICATION (art. L93 à L98)](#151)
-        - [DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION *CHAMP D'APPLICATION*. (art. L93)](#152)
-        - [RENSEIGNEMENTS COMMUNIQUES A L'ADMINISTRATION DES IMPOTS SANS DEMANDE PREALABLE DE SA PART. (art. L98)](#153)
-      - [LE SECRET PROFESSIONNEL EN MATIERE FISCALE (art. L103 à L167 A)](#154)
-        - [PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL. (art. L103 à L111)](#155)
-        - [DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL. (art. L116 à L167 A)](#156)
-      - [LES DELAIS DE PRESCRIPTION (art. L169 à L189)](#157)
-        - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. L169)](#158)
-        - [TAXES SUR LE CHIFFRE D'AFFAIRES. (art. L176)](#159)
-        - [CONTRIBUTIONS INDIRECTES. (art. L178)](#160)
-        - [DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, DROITS ET TAXES ASSIMILEES. (art. L180 à L182)](#161)
-        - [IMPOT SUR LES GRANDES FORTUNES. (art. L183 A)](#162)
-        - [INTERRUPTION DE LA PRESCRIPTION. (art. L189)](#163)
-    - [CONTROLE DE L'IMPOT (art. L16 A à L52)](#164)
-      - [LE DROIT DE CONTROLE DE L'ADMINISTRATION (art. L16 A à L52)](#165)
-        - [DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS. (art. L16 A)](#166)
-        - [MODALITES D'EXERCICE DU DROIT DE CONTROLE. (art. L47 à L52)](#167)
-    - [LE CONTENTIEUX DE L'IMPOT (art. L192 à L246)](#168)
-      - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE. (art. L192)](#169)
-      - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT (art. L199 à L208)](#170)
-        - [PROCEDURE DEVANT LES TRIBUNAUX. (art. L199 à L199 A)](#171)
-        - [CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX. (art. L208)](#172)
-      - [LES PROCEDURES PENALES (art. L240 à L246)](#173)
-        - [EXERCICE DES POURSUITES PENALES. (art. L240 à L246)](#174)
-    - [LE RECOUVREMENT DE L'IMPOT (art. L252 à L279)](#175)
-      - [LES PROCEDURES DE RECOUVREMENT. (art. L252 à L275)](#176)
-        - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. L255)](#177)
-        - [MESURES PARTICULIERES (art. L270 à L271)](#178)
-        - [PRESCRIPTION DE L'ACTION EN VUE DU RECOUVREMENT. (art. L275)](#179)
-      - [LE SURSIS DE PAIEMENT. (art. L277 à L279)](#180)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1-1 à R*255-1)](#181)
-    - [Deuxième partie : Partie réglementaire, décrets (art. R*1-1 à R*283-1)](#182)
-      - [Titre premier : (art. R*1-1 à R5-1)](#183)
-        - [Chapitre premier : (art. R*1-1 à R*4-1)](#184)
-          - [Section I : (art. R*1-1 à R1-3)](#185)
-          - [Section II : (art. R*4-1)](#186)
-        - [Chapitre II : Dispositions relatives aux entreprises industrielles, commerciales et artisanales. (art. R5-1)](#187)
-      - [Titre II : Le contrôle de l'impôt (art. R*13-1 à R*178-1)](#188)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. R*13-1 à R62-3)](#189)
-          - [Section I : Dispositions générales (art. R*13-1 à R13-2)](#190)
-            - [2° : Dispositions relatives aux vérifications des comptabilités (art. R*13-1 à R13-2)](#191)
-          - [Section II : Dispositions particulières à certains impôts (art. R*19-1 à R37-1)](#192)
-            - [II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière et à l'impôt de solidarité sur la fortune (art. R*19-1)](#193)
-              - [Contrôle des déclarations de succession. (art. R*19-1)](#194)
-            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. R24-2 à R37-1)](#195)
-              - [A : Contrôle à la circulation (art. R24-2 à R24-3)](#196)
-              - [B : Contrôle sur les lieux d'exercice d'activité (art. R*26-1 à R37-1)](#197)
-                - [1 : Contributions indirectes (art. R*26-1 à R*32-2)](#198)
-                - [Contributions indirectes. (art. R*26-2 à R33-1)](#199)
-                - [2 : Droits de timbre (art. R37-1)](#200)
-          - [Section IV : Procédures de rectification (art. R*57-1 à R62-3)](#201)
-            - [I : Procédure de rectification contradictoire (art. R*57-1 à R60-2 A)](#202)
-            - [II : Procédure de règlement particulière. (art. R62-1 à R62-3)](#203)
-        - [Chapitre II : Le droit de communication (art. R*81-2 à R*101-1)](#204)
-          - [Section I : Conditions d'exercice du droit de communication (art. R*85-1 à R87-1)](#205)
-            - [6° : Personnes ayant la qualité de commerçant. (art. R*85-1)](#206)
-            - [9° : Institutions et organismes versant des rémunérations ou répartissant des fonds (art. R87-1)](#207)
-          - [Section II : Renseignements communiqués à l'administration des impôts sans demande préalable de sa part. (art. R*97-1 à R*101-1)](#208)
-        - [Chapitre III : Le secret professionnel en matière fiscale (art. R*103-1 à R*114 A-4)](#209)
-          - [Section I : Portée et limites de la règle du secret professionnel (art. R*103-1 à R111-1)](#210)
-            - [1° : Délivrance de documents aux contribuables (art. R107-1)](#211)
-            - [2° : Publicité de l'impôt (art. R111-2 à R111-4)](#212)
-            - [Publicité de l'impôt. (art. R111-1)](#213)
-          - [Section II : Dérogations à la règle du secret professionnel (art. R*113-1 à R*114 A-4)](#214)
-            - [I : Dérogations en matière d'assistance fiscale internationale (art. R*114 A-1 à R*114 A-4)](#215)
-        - [Chapitre IV : Les délais de prescription (art. R*169 B-1 à R*178-1)](#216)
-          - [Section I : Impôts directs et taxes assimilées (art. R*169 B-1 à R*172 D-1)](#217)
-            - [I : Impôts directs d'État (art. R*169 B-1 à R*172 D-1)](#218)
-              - [A : Dispositions générales. (art. R*169 B-1)](#219)
-              - [B : Dispositions particulières à certains impôts (art. R*172 B-1)](#220)
-              - [B : Dispositions particulières à certains impôts. (art. R*172 D-1)](#221)
-          - [Section III : Contributions indirectes (art. R*178-1)](#222)
-      - [Titre III : Le contentieux de l'impôt (art. R*190-2 à R247-11)](#223)
-        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. R*190-2 à R*210-1)](#224)
-          - [Charge et administration de la preuve (art. R*191-1 à R*195-1)](#225)
-          - [Section I : Procédure préalable auprès de l'administration des impôts (art. R*196-1 à R*198-10)](#226)
-            - [I : Délais de réclamation. (art. R*196-1 à R*196-6)](#227)
-            - [II : Forme et contenu des réclamations. (art. R*197-1 à R*197-5)](#228)
-            - [III : Instruction des réclamations. (art. R*198-1 à R*198-10)](#229)
-          - [Section II : Procédure devant les tribunaux (art. R*199-1 à R*202-4)](#230)
-            - [I : Tribunaux compétents (art. R*199-1 à R*199-2)](#231)
-            - [II : Règles de procédure (art. R*200-1 à R*202-4)](#232)
-              - [B : Procédure devant le tribunal administratif. (art. R*200-1 à R*201-1)](#233)
-              - [C : Procédure devant le tribunal de grande instance et la cour d'appel (art. R*202-1)](#234)
-              - [C : Procédure devant le tribunal de grande instance. (art. R*202-2 à R*202-4)](#235)
-          - [Section III : Compensations (art. R*203-1)](#236)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. R*207-1)](#237)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux. (art. R*208-2 à R*210-1)](#238)
-        - [Chapitre II : Les procédures pénales (art. R*226-1 à R*228-6)](#239)
-          - [Section I : Constatation des infractions par procès-verbal (art. R*226-1 à R*226-3)](#240)
-            - [III : Rédaction des procès-verbaux (art. R*226-1 à R*226-3)](#241)
-          - [Section II : Exercice des poursuites pénales (art. R*228-1 à R*228-6)](#242)
-            - [I : Dispositions communes (art. R*228-1 à R*228-6)](#243)
-        - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247-1 à R247-11)](#244)
-      - [Titre IV : Le recouvrement de l'impôt (art. R254-1 à R*283-1)](#245)
-        - [Chapitre premier : Les procédures de recouvrement (art. R254-1 à R*275-1)](#246)
-          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R254-1 à R*257-1)](#247)
-            - [I : Impôts recouvrés par les comptables du Trésor. (art. R254-1 à R*257-2)](#248)
-              - [Impôts recouvrés par les comptables de la direction générale des impôts. (art. R*256-1 à R*257-2)](#249)
-            - [II : Impôts recouvrés par les comptables de la direction générale des impôts. (art. R*257-1)](#250)
-          - [Section III : Mesures particulières (art. R*266-1 à R*273-1)](#251)
-            - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*266-1)](#252)
-            - [10° : Taxes sur le chiffre d'affaires (art. R*273-1)](#253)
-          - [Section IV : Prescription de l'action en vue du recouvrement (art. R*275-1)](#254)
-        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-6)](#255)
-        - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#256)
-          - [Demande en revendication d'objets saisis (art. R*283-1)](#257)
-    - [LES PROCEDURES DE DETERMINATION FORFAITAIRE DES BASES IMPOSABLES (art. R*1-2)](#258)
-      - [DISPOSITIONS RELATIVES AUX EXPLOITATIONS AGRICOLES (art. R*1-2)](#259)
-        - [PROCEDURE DE FIXATION DU BENEFICE FORFAITAIRE. (art. R*1-2)](#260)
-    - [LE CONTROLE DE L'IMPOT (art. R*24-1 à R*114 A-5)](#261)
-      - [LE DROIT DE CONTROLE DE L'ADMINISTRATION (art. R*24-1 à R*75-1)](#262)
-        - [DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS (art. R*24-1)](#263)
-        - [MODALITES D'EXERCICE DU DROIT DE CONTROLE. (art. R45 B-1)](#264)
-        - [PROCEDURES DE REDRESSEMENT (art. R*60-1 à R*59 B-1)](#265)
-          - [PROCEDURE DE REDRESSEMENT CONTRADICTOIRE. (art. R*59 B-1)](#266)
-        - [PROCEDURES D'IMPOSITION D'OFFICE (art. R*75-1)](#267)
-      - [LE DROIT DE COMMUNICATION (art. R*81-1 à R*94-1)](#268)
-        - [DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION. (art. R*81-1 à R*94-1)](#269)
-      - [LE SECRET PROFESSIONNEL EN MATIERE FISCALE (art. R106-1 à R*114 A-5)](#270)
-        - [PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL. (art. R106-1)](#271)
-        - [DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL. (art. R*114 A-5)](#272)
-    - [LE CONTENTIEUX DE L'IMPOT (art. R*190-1 à R247-10)](#273)
-      - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE. (art. R*190-1 à R*192-1)](#274)
-      - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT (art. R*197-3 à R*208-1)](#275)
-        - [PROCEDURE PREALABLE AUPRES DE L'ADMINISTRATION DES IMPOTS. (art. R*197-3)](#276)
-        - [PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS* (art. R*200-2 à R*200-18)](#277)
-        - [CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX. (art. R*208-1)](#278)
-      - [LES DEGREVEMENTS D'OFFICE. (art. R*211-1 à R*211-2)](#279)
-      - [LES PROCEDURES PENALES (art. R*212-1 à R*213-3)](#280)
-        - [CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL (art. R*212-1 à R*213-3)](#281)
-      - [LES REMISES ET TRANSACTIONS A TITRE GRACIEUX (art. R*247-4 à R247-10)](#282)
-    - [LE RECOUVREMENT DE L'IMPOT (art. R*255-1)](#283)
-      - [LES PROCEDURES DE RECOUVREMENT (art. R*255-1)](#284)
-        - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. R*255-1)](#285)
-  - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#286)
-    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-6)](#287)
-      - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#288)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A37-1)](#289)
-          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#290)
-            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#291)
-              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#292)
-                - [Contributions indirectes. (art. A26-1 à A26-4)](#293)
-                - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#294)
-                - [2 : Droits de timbre (art. A37-1)](#295)
-        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#296)
-          - [Section I : Définition et étendue du droit de communication. (art. A85-1)](#297)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#298)
-      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A225 A-1)](#299)
-        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#300)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux. (art. A208-1)](#301)
-        - [Chapitre II : Les procédures pénales (art. A225 A-1)](#302)
-          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#303)
-            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#304)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-6)](#305)
-        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-6)](#306)
-    - [LE RECOUVREMENT DE L'IMPOT (art. A277-7 à A277-10)](#307)
-      - [LE SURSIS DE PAIEMENT. (art. A277-7 à A277-10)](#308)
+      - [LE DROIT DE COMMUNICATION (art. L93 à L98)](#149)
+        - [DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION *CHAMP D'APPLICATION*. (art. L93)](#150)
+        - [RENSEIGNEMENTS COMMUNIQUES A L'ADMINISTRATION DES IMPOTS SANS DEMANDE PREALABLE DE SA PART. (art. L98)](#151)
+      - [LE SECRET PROFESSIONNEL EN MATIERE FISCALE (art. L103 à L167 A)](#152)
+        - [PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL. (art. L103 à L111)](#153)
+        - [DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL. (art. L116 à L167 A)](#154)
+      - [LES DELAIS DE PRESCRIPTION (art. L169 à L189)](#155)
+        - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. L169)](#156)
+        - [TAXES SUR LE CHIFFRE D'AFFAIRES. (art. L176)](#157)
+        - [CONTRIBUTIONS INDIRECTES. (art. L178)](#158)
+        - [DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, DROITS ET TAXES ASSIMILEES. (art. L180 à L182)](#159)
+        - [IMPOT SUR LES GRANDES FORTUNES. (art. L183 A)](#160)
+        - [INTERRUPTION DE LA PRESCRIPTION. (art. L189)](#161)
+    - [CONTROLE DE L'IMPOT (art. L16 A à L52)](#162)
+      - [LE DROIT DE CONTROLE DE L'ADMINISTRATION (art. L16 A à L52)](#163)
+        - [DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS. (art. L16 A)](#164)
+        - [MODALITES D'EXERCICE DU DROIT DE CONTROLE. (art. L47 à L52)](#165)
+    - [LE CONTENTIEUX DE L'IMPOT (art. L192 à L246)](#166)
+      - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE. (art. L192)](#167)
+      - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT (art. L199 à L208)](#168)
+        - [PROCEDURE DEVANT LES TRIBUNAUX. (art. L199 à L199 A)](#169)
+        - [CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX. (art. L208)](#170)
+      - [LES PROCEDURES PENALES (art. L240 à L246)](#171)
+        - [EXERCICE DES POURSUITES PENALES. (art. L240 à L246)](#172)
+    - [LE RECOUVREMENT DE L'IMPOT (art. L252 à L279)](#173)
+      - [LES PROCEDURES DE RECOUVREMENT. (art. L252 à L275)](#174)
+        - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. L255)](#175)
+        - [MESURES PARTICULIERES (art. L270 à L271)](#176)
+        - [PRESCRIPTION DE L'ACTION EN VUE DU RECOUVREMENT. (art. L275)](#177)
+      - [LE SURSIS DE PAIEMENT. (art. L277 à L279)](#178)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1-1 à R*255-1)](#179)
+    - [Deuxième partie : Partie réglementaire, décrets (art. R*1-1 à R*283-1)](#180)
+      - [Titre premier : (art. R*1-1 à R5-1)](#181)
+        - [Chapitre premier : (art. R*1-1 à R*4-1)](#182)
+          - [Section I : (art. R*1-1 à R1-3)](#183)
+          - [Section II : (art. R*4-1)](#184)
+        - [Chapitre II : Dispositions relatives aux entreprises industrielles, commerciales et artisanales. (art. R5-1)](#185)
+      - [Titre II : Le contrôle de l'impôt (art. R*13-1 à R*178-1)](#186)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. R*13-1 à R62-3)](#187)
+          - [Section I : Dispositions générales (art. R*13-1 à R13-2)](#188)
+            - [2° : Dispositions relatives aux vérifications des comptabilités (art. R*13-1 à R13-2)](#189)
+          - [Section II : Dispositions particulières à certains impôts (art. R*19-1 à R37-1)](#190)
+            - [II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière et à l'impôt de solidarité sur la fortune (art. R*19-1)](#191)
+              - [Contrôle des déclarations de succession. (art. R*19-1)](#192)
+            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. R24-2 à R37-1)](#193)
+              - [A : Contrôle à la circulation (art. R24-2 à R24-3)](#194)
+              - [B : Contrôle sur les lieux d'exercice d'activité (art. R*26-1 à R37-1)](#195)
+                - [1 : Contributions indirectes (art. R*26-1 à R*32-2)](#196)
+                - [Contributions indirectes. (art. R*26-2 à R33-1)](#197)
+                - [2 : Droits de timbre (art. R37-1)](#198)
+          - [Section III : Modalités d'exercice du droit de contrôle (art. R45 B-1)](#199)
+          - [Section IV : Procédures de rectification (art. R*57-1 à R62-3)](#200)
+            - [I : Procédure de rectification contradictoire (art. R*57-1 à R60-2 A)](#201)
+            - [II : Procédure de règlement particulière. (art. R62-1 à R62-3)](#202)
+        - [Chapitre II : Le droit de communication (art. R*81-2 à R*101-1)](#203)
+          - [Section I : Conditions d'exercice du droit de communication (art. R*85-1 à R87-1)](#204)
+            - [6° : Personnes ayant la qualité de commerçant. (art. R*85-1)](#205)
+            - [9° : Institutions et organismes versant des rémunérations ou répartissant des fonds (art. R87-1)](#206)
+          - [Section II : Renseignements communiqués à l'administration des impôts sans demande préalable de sa part. (art. R*97-1 à R*101-1)](#207)
+        - [Chapitre III : Le secret professionnel en matière fiscale (art. R*103-1 à R*114 A-4)](#208)
+          - [Section I : Portée et limites de la règle du secret professionnel (art. R*103-1 à R111-1)](#209)
+            - [1° : Délivrance de documents aux contribuables (art. R107-1)](#210)
+            - [2° : Publicité de l'impôt (art. R111-2 à R111-4)](#211)
+            - [Publicité de l'impôt. (art. R111-1)](#212)
+          - [Section II : Dérogations à la règle du secret professionnel (art. R*113-1 à R*114 A-4)](#213)
+            - [I : Dérogations en matière d'assistance fiscale internationale (art. R*114 A-1 à R*114 A-4)](#214)
+        - [Chapitre IV : Les délais de prescription (art. R*169 B-1 à R*178-1)](#215)
+          - [Section I : Impôts directs et taxes assimilées (art. R*169 B-1 à R*172 D-1)](#216)
+            - [I : Impôts directs d'État (art. R*169 B-1 à R*172 D-1)](#217)
+              - [A : Dispositions générales. (art. R*169 B-1)](#218)
+              - [B : Dispositions particulières à certains impôts (art. R*172 B-1)](#219)
+              - [B : Dispositions particulières à certains impôts. (art. R*172 D-1)](#220)
+          - [Section III : Contributions indirectes (art. R*178-1)](#221)
+      - [Titre III : Le contentieux de l'impôt (art. R*190-2 à R247-11)](#222)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. R*190-2 à R*210-1)](#223)
+          - [Charge et administration de la preuve (art. R*191-1 à R*195-1)](#224)
+          - [Section I : Procédure préalable auprès de l'administration des impôts (art. R*196-1 à R*198-10)](#225)
+            - [I : Délais de réclamation. (art. R*196-1 à R*196-6)](#226)
+            - [II : Forme et contenu des réclamations. (art. R*197-1 à R*197-5)](#227)
+            - [III : Instruction des réclamations. (art. R*198-1 à R*198-10)](#228)
+          - [Section II : Procédure devant les tribunaux (art. R*199-1 à R*202-4)](#229)
+            - [I : Tribunaux compétents (art. R*199-1 à R*199-2)](#230)
+            - [II : Règles de procédure (art. R*200-1 à R*202-4)](#231)
+              - [B : Procédure devant le tribunal administratif. (art. R*200-1 à R*201-1)](#232)
+              - [C : Procédure devant le tribunal de grande instance et la cour d'appel (art. R*202-1)](#233)
+              - [C : Procédure devant le tribunal de grande instance. (art. R*202-2 à R*202-4)](#234)
+          - [Section III : Compensations (art. R*203-1)](#235)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. R*207-1)](#236)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux. (art. R*208-2 à R*210-1)](#237)
+        - [Chapitre II : Les procédures pénales (art. R*226-1 à R*228-6)](#238)
+          - [Section I : Constatation des infractions par procès-verbal (art. R*226-1 à R*226-3)](#239)
+            - [III : Rédaction des procès-verbaux (art. R*226-1 à R*226-3)](#240)
+          - [Section II : Exercice des poursuites pénales (art. R*228-1 à R*228-6)](#241)
+            - [I : Dispositions communes (art. R*228-1 à R*228-6)](#242)
+        - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247-1 à R247-11)](#243)
+      - [Titre IV : Le recouvrement de l'impôt (art. R254-1 à R*283-1)](#244)
+        - [Chapitre premier : Les procédures de recouvrement (art. R254-1 à R*275-1)](#245)
+          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R254-1 à R*257-1)](#246)
+            - [I : Impôts recouvrés par les comptables du Trésor. (art. R254-1 à R*257-2)](#247)
+              - [Impôts recouvrés par les comptables de la direction générale des impôts. (art. R*256-1 à R*257-2)](#248)
+            - [II : Impôts recouvrés par les comptables de la direction générale des impôts. (art. R*257-1)](#249)
+          - [Section III : Mesures particulières (art. R*266-1 à R*273-1)](#250)
+            - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*266-1)](#251)
+            - [10° : Taxes sur le chiffre d'affaires (art. R*273-1)](#252)
+          - [Section IV : Prescription de l'action en vue du recouvrement (art. R*275-1)](#253)
+        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-6)](#254)
+        - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#255)
+          - [Demande en revendication d'objets saisis (art. R*283-1)](#256)
+    - [LES PROCEDURES DE DETERMINATION FORFAITAIRE DES BASES IMPOSABLES (art. R*1-2)](#257)
+      - [DISPOSITIONS RELATIVES AUX EXPLOITATIONS AGRICOLES (art. R*1-2)](#258)
+        - [PROCEDURE DE FIXATION DU BENEFICE FORFAITAIRE. (art. R*1-2)](#259)
+    - [LE CONTROLE DE L'IMPOT (art. R*24-1 à R*114 A-5)](#260)
+      - [LE DROIT DE CONTROLE DE L'ADMINISTRATION (art. R*24-1 à R*75-1)](#261)
+        - [DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS (art. R*24-1)](#262)
+        - [PROCEDURES DE REDRESSEMENT (art. R*60-1 à R*59 B-1)](#263)
+          - [PROCEDURE DE REDRESSEMENT CONTRADICTOIRE. (art. R*59 B-1)](#264)
+        - [PROCEDURES D'IMPOSITION D'OFFICE (art. R*75-1)](#265)
+      - [LE DROIT DE COMMUNICATION (art. R*81-1 à R*94-1)](#266)
+        - [DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION. (art. R*81-1 à R*94-1)](#267)
+      - [LE SECRET PROFESSIONNEL EN MATIERE FISCALE (art. R106-1 à R*114 A-5)](#268)
+        - [PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL. (art. R106-1)](#269)
+        - [DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL. (art. R*114 A-5)](#270)
+    - [LE CONTENTIEUX DE L'IMPOT (art. R*190-1 à R247-10)](#271)
+      - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE. (art. R*190-1 à R*192-1)](#272)
+      - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT (art. R*197-3 à R*208-1)](#273)
+        - [PROCEDURE PREALABLE AUPRES DE L'ADMINISTRATION DES IMPOTS. (art. R*197-3)](#274)
+        - [PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS* (art. R*200-2 à R*200-18)](#275)
+        - [CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX. (art. R*208-1)](#276)
+      - [LES DEGREVEMENTS D'OFFICE. (art. R*211-1 à R*211-2)](#277)
+      - [LES PROCEDURES PENALES (art. R*212-1 à R*213-3)](#278)
+        - [CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL (art. R*212-1 à R*213-3)](#279)
+      - [LES REMISES ET TRANSACTIONS A TITRE GRACIEUX (art. R*247-4 à R247-10)](#280)
+    - [LE RECOUVREMENT DE L'IMPOT (art. R*255-1)](#281)
+      - [LES PROCEDURES DE RECOUVREMENT (art. R*255-1)](#282)
+        - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. R*255-1)](#283)
+  - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#284)
+    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-6)](#285)
+      - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#286)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A37-1)](#287)
+          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#288)
+            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#289)
+              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#290)
+                - [Contributions indirectes. (art. A26-1 à A26-4)](#291)
+                - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#292)
+                - [2 : Droits de timbre (art. A37-1)](#293)
+        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#294)
+          - [Section I : Définition et étendue du droit de communication. (art. A85-1)](#295)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#296)
+      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A225 A-1)](#297)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#298)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux. (art. A208-1)](#299)
+        - [Chapitre II : Les procédures pénales (art. A225 A-1)](#300)
+          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#301)
+            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#302)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-6)](#303)
+        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-6)](#304)
+    - [LE RECOUVREMENT DE L'IMPOT (art. A277-7 à A277-10)](#305)
+      - [LE SURSIS DE PAIEMENT. (art. A277-7 à A277-10)](#306)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -1551,6 +1549,33 @@ _Créé par_:
 _Cité par_:
 
   - Livre des procédures fiscales - art. L198 A (Ab)
+
+
+###### Article L45 B
+
+La réalité de l'affectation à la recherche des dépenses prises en compte pour la détermination du crédit d'impôt défini à
+l'article 244 quater B du code général des impôts peut, sans préjudice des pouvoirs de contrôle de l'administration des
+impôts qui demeure seule compétente pour l'application des procédures de redressement, être vérifiée par les agents du
+ministère chargé de la recherche et de la technologie.
+
+Un décret fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 244 quater B
+
+_Codifié par_:
+
+  - Décret n°85-1008 1985-09-24
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 244 quater B (M)
+  - Code de la recherche - art. L131-2 (Ab)
+  - Code de la recherche - art. L511-2 (V)
+  - Livre des procédures fiscales - art. R45 B-1 (V)
 
 
 ###### Article L45 C
@@ -8820,45 +8845,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. L10-0 AB (V)
 
 
-### LE DROIT DE CONTROLE DE L'IMPOT<a id=149></a>
+### LE DROIT DE COMMUNICATION<a id=149></a>
 
-#### MODALITES D'EXERCICE DU CONTROLE DE L'IMPOT.<a id=150></a>
-
-###### Article L45 B
-
-La réalité de l'affectation à la recherche des dépenses [*effectuées par les entreprises industrielles et commerciales*]
-prises en compte pour la détermination du crédit d'impôt défini à l'article 244 quater B du code général des impôts peut,
-sans préjudice des pouvoirs de contrôle de l'administration des impôts qui demeure seule compétente pour l'application des
-procédures de redressement, être vérifiée par les agents du ministère de la recherche et de l'industrie.
-
-Un décret fixe les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 244 quater B
-
-_Créé par_:
-
-  - Loi n°82-1126 1982-12-29 ART. 67 V, VI JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
-  - Loi n°82-1126 du 29 décembre 1982 - art. 67 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
-
-_Codifié par_:
-
-  - Décret n°83-900 1983-10-06
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 244 quater B (M)
-  - Code de la recherche - art. L131-2 (Ab)
-  - Code de la recherche - art. L511-2 (V)
-  - Livre des procédures fiscales - art. R45 B-1 (V)
-
-
-### LE DROIT DE COMMUNICATION<a id=151></a>
-
-#### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION *CHAMP D'APPLICATION*.<a id=152></a>
+#### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION *CHAMP D'APPLICATION*.<a id=150></a>
 
 ###### Article L93
 
@@ -8897,7 +8886,7 @@ _Modifié par_:
   - PEREMPTION: Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
 
 
-#### RENSEIGNEMENTS COMMUNIQUES A L'ADMINISTRATION DES IMPOTS SANS DEMANDE PREALABLE DE SA PART.<a id=153></a>
+#### RENSEIGNEMENTS COMMUNIQUES A L'ADMINISTRATION DES IMPOTS SANS DEMANDE PREALABLE DE SA PART.<a id=151></a>
 
 ###### Article L98
 
@@ -8922,9 +8911,9 @@ _Cite_:
   - Code de la sécurité sociale L684 A Code de la sécurité sociale L711-1
 
 
-### LE SECRET PROFESSIONNEL EN MATIERE FISCALE<a id=154></a>
+### LE SECRET PROFESSIONNEL EN MATIERE FISCALE<a id=152></a>
 
-#### PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL.<a id=155></a>
+#### PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL.<a id=153></a>
 
 ###### Article L103
 
@@ -9071,7 +9060,7 @@ _Modifié par_:
   - Loi n°83-1179 du 29 décembre 1983 - art. 93 (V) JORF 30 décembre 1983
 
 
-#### DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.<a id=156></a>
+#### DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.<a id=154></a>
 
 ###### Article L116
 
@@ -9312,9 +9301,9 @@ _Créé par_:
   - PEREMPTION: Loi n°86-824 du 11 juillet 1986 - art. 24 () JORF 12 juillet 1986 : dispositions devenues sans objet
 
 
-### LES DELAIS DE PRESCRIPTION<a id=157></a>
+### LES DELAIS DE PRESCRIPTION<a id=155></a>
 
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=158></a>
+#### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=156></a>
 
 ###### Article L169
 
@@ -9369,7 +9358,7 @@ _Cite_:
   - CGI L185
 
 
-#### TAXES SUR LE CHIFFRE D'AFFAIRES.<a id=159></a>
+#### TAXES SUR LE CHIFFRE D'AFFAIRES.<a id=157></a>
 
 ###### Article L176
 
@@ -9411,7 +9400,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*172 B-1 (P)
 
 
-#### CONTRIBUTIONS INDIRECTES.<a id=160></a>
+#### CONTRIBUTIONS INDIRECTES.<a id=158></a>
 
 ###### Article L178
 
@@ -9445,7 +9434,7 @@ _Anciens textes_:
   - Loi n°63-1316 1963-12-27 art. 15 3 (Al. 2), art. 17 1
 
 
-#### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, DROITS ET TAXES ASSIMILEES.<a id=161></a>
+#### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, DROITS ET TAXES ASSIMILEES.<a id=159></a>
 
 ###### Article L180
 
@@ -9501,7 +9490,7 @@ _Cite_:
   - CGI L176
 
 
-#### IMPOT SUR LES GRANDES FORTUNES.<a id=162></a>
+#### IMPOT SUR LES GRANDES FORTUNES.<a id=160></a>
 
 ###### Article L183 A
 
@@ -9523,7 +9512,7 @@ _Créé par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 DECEMBRE 1981
 
 
-#### INTERRUPTION DE LA PRESCRIPTION.<a id=163></a>
+#### INTERRUPTION DE LA PRESCRIPTION.<a id=161></a>
 
 ###### Article L189
 
@@ -9544,11 +9533,11 @@ _Cité par_:
   - Livre des procédures fiscales - art. L77 (V)
 
 
-## CONTROLE DE L'IMPOT<a id=164></a>
+## CONTROLE DE L'IMPOT<a id=162></a>
 
-### LE DROIT DE CONTROLE DE L'ADMINISTRATION<a id=165></a>
+### LE DROIT DE CONTROLE DE L'ADMINISTRATION<a id=163></a>
 
-#### DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.<a id=166></a>
+#### DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.<a id=164></a>
 
 ###### Article L16 A
 
@@ -9577,7 +9566,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L16 BA (V)
 
 
-#### MODALITES D'EXERCICE DU DROIT DE CONTROLE.<a id=167></a>
+#### MODALITES D'EXERCICE DU DROIT DE CONTROLE.<a id=165></a>
 
 ###### Article L47
 
@@ -9745,9 +9734,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. L52 A (V)
 
 
-## LE CONTENTIEUX DE L'IMPOT<a id=168></a>
+## LE CONTENTIEUX DE L'IMPOT<a id=166></a>
 
-### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE.<a id=169></a>
+### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE.<a id=167></a>
 
 ###### Article L192
 
@@ -9773,9 +9762,9 @@ _Cité par_:
   - Loi n°86-1317 du 30 décembre 1986 - art. 81 (V)
 
 
-### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT<a id=170></a>
+### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT<a id=168></a>
 
-#### PROCEDURE DEVANT LES TRIBUNAUX.<a id=171></a>
+#### PROCEDURE DEVANT LES TRIBUNAUX.<a id=169></a>
 
 ###### Article L199
 
@@ -9848,7 +9837,7 @@ _Abrogé par_:
   - Loi n°87-502 1987-07-08 art. 15 JORF 9 juillet 1987
 
 
-#### CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX.<a id=172></a>
+#### CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX.<a id=170></a>
 
 ###### Article L208
 
@@ -9887,9 +9876,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*208-3 (V)
 
 
-### LES PROCEDURES PENALES<a id=173></a>
+### LES PROCEDURES PENALES<a id=171></a>
 
-#### EXERCICE DES POURSUITES PENALES.<a id=174></a>
+#### EXERCICE DES POURSUITES PENALES.<a id=172></a>
 
 ###### Article L240
 
@@ -9940,9 +9929,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1751 (V)
 
 
-## LE RECOUVREMENT DE L'IMPOT<a id=175></a>
+## LE RECOUVREMENT DE L'IMPOT<a id=173></a>
 
-### LES PROCEDURES DE RECOUVREMENT.<a id=176></a>
+### LES PROCEDURES DE RECOUVREMENT.<a id=174></a>
 
 ###### Article L252
 
@@ -9970,7 +9959,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L281 (VD)
 
 
-#### MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES.<a id=177></a>
+#### MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES.<a id=175></a>
 
 ###### Article L255
 
@@ -10000,7 +9989,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L260 (V)
 
 
-#### MESURES PARTICULIERES<a id=178></a>
+#### MESURES PARTICULIERES<a id=176></a>
 
 ###### Article L270
 
@@ -10065,7 +10054,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L273 (M)
 
 
-#### PRESCRIPTION DE L'ACTION EN VUE DU RECOUVREMENT.<a id=179></a>
+#### PRESCRIPTION DE L'ACTION EN VUE DU RECOUVREMENT.<a id=177></a>
 
 ###### Article L275
 
@@ -10092,7 +10081,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*275-1 (Ab)
 
 
-### LE SURSIS DE PAIEMENT.<a id=180></a>
+### LE SURSIS DE PAIEMENT.<a id=178></a>
 
 ###### Article L277
 
@@ -10201,15 +10190,15 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*277-2 (V)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=181></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=179></a>
 
-## Deuxième partie : Partie réglementaire, décrets<a id=182></a>
+## Deuxième partie : Partie réglementaire, décrets<a id=180></a>
 
-### Titre premier :<a id=183></a>
+### Titre premier :<a id=181></a>
 
-#### Chapitre premier :<a id=184></a>
+#### Chapitre premier :<a id=182></a>
 
-##### Section I :<a id=185></a>
+##### Section I :<a id=183></a>
 
 ###### Article R*1-1
 
@@ -10284,7 +10273,7 @@ _Créé par_:
   - TXT_ASSOCIE: Instruction 1998-12-09 5E-6-98
 
 
-##### Section II :<a id=186></a>
+##### Section II :<a id=184></a>
 
 ###### Article R*4-1
 
@@ -10308,7 +10297,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L4 (V)
 
 
-#### Chapitre II : Dispositions relatives aux entreprises industrielles, commerciales et artisanales.<a id=187></a>
+#### Chapitre II : Dispositions relatives aux entreprises industrielles, commerciales et artisanales.<a id=185></a>
 
 ###### Article R5-1
 
@@ -10347,13 +10336,13 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 111 octies (P)
 
 
-### Titre II : Le contrôle de l'impôt<a id=188></a>
+### Titre II : Le contrôle de l'impôt<a id=186></a>
 
-#### Chapitre premier : Le droit de contrôle de l'administration<a id=189></a>
+#### Chapitre premier : Le droit de contrôle de l'administration<a id=187></a>
 
-##### Section I : Dispositions générales<a id=190></a>
+##### Section I : Dispositions générales<a id=188></a>
 
-##### 2° : Dispositions relatives aux vérifications des comptabilités<a id=191></a>
+##### 2° : Dispositions relatives aux vérifications des comptabilités<a id=189></a>
 
 ###### Article R*13-1
 
@@ -10408,11 +10397,11 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS, CGI. - art. 286 (M)
 
 
-##### Section II : Dispositions particulières à certains impôts<a id=192></a>
+##### Section II : Dispositions particulières à certains impôts<a id=190></a>
 
-##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière et à l'impôt de solidarité sur la fortune<a id=193></a>
+##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière et à l'impôt de solidarité sur la fortune<a id=191></a>
 
-##### Contrôle des déclarations de succession.<a id=194></a>
+##### Contrôle des déclarations de succession.<a id=192></a>
 
 ###### Article R*19-1
 
@@ -10450,9 +10439,9 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=195></a>
+##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=193></a>
 
-##### A : Contrôle à la circulation<a id=196></a>
+##### A : Contrôle à la circulation<a id=194></a>
 
 ###### Article R24-2
 
@@ -10505,9 +10494,9 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 313 X (P)
 
 
-##### B : Contrôle sur les lieux d'exercice d'activité<a id=197></a>
+##### B : Contrôle sur les lieux d'exercice d'activité<a id=195></a>
 
-##### 1 : Contributions indirectes<a id=198></a>
+##### 1 : Contributions indirectes<a id=196></a>
 
 ###### Article R*26-1
 
@@ -10557,7 +10546,7 @@ _Cité par_:
   - Code général des impôts annexe 1, CGIAN1. - art. 79 (V)
 
 
-##### Contributions indirectes.<a id=199></a>
+##### Contributions indirectes.<a id=197></a>
 
 ###### Article R*26-2
 
@@ -10789,7 +10778,7 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS, CGI. - art. 355 (Ab)
 
 
-##### 2 : Droits de timbre<a id=200></a>
+##### 2 : Droits de timbre<a id=198></a>
 
 ###### Article R37-1
 
@@ -10820,9 +10809,48 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 313 O (P)
 
 
-##### Section IV : Procédures de rectification<a id=201></a>
+##### Section III : Modalités d'exercice du droit de contrôle<a id=199></a>
 
-##### I : Procédure de rectification contradictoire<a id=202></a>
+###### Article R45 B-1
+
+La réalité de l'affectation à la recherche des dépenses prises en compte pour la détermination du crédit d'impôt mentionné à
+l'article L. 45 B peut être vérifiée par des agents dûment mandatés par le directeur du développement scientifique et
+technologique et de l'innovation du ministère chargé de la recherche et de la technologie.
+
+A cet effet, ils peuvent se rendre dans les entreprises après envoi d'un avis de visite pour, notamment :
+
+a. Prendre connaissance de la déclaration spéciale si elle ne leur a pas été communiquée précédemment ;
+
+b. Consulter les documents comptables prévus au titre II du livre Ier du code du commerce, ainsi que tous les documents
+annexes ou justificatifs, en vue de s'assurer de la réalité des dépenses affectées à la recherche ;
+
+c. Consulter tous les documents techniques, effectuer toutes constatations matérielles, procéder à des vérifications
+techniques, en vue de s'assurer de la réalité de l'activité de recherche à laquelle les dépenses ont été affectées.
+
+Les résultats de ce contrôle sont notifiés à l'entreprise et sont communiqués à l'administration des impôts.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI L45 B
+
+_Codifié par_:
+
+  - Décret n°85-1008 1985-09-24
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies N (V)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1985
+
+
+##### Section IV : Procédures de rectification<a id=200></a>
+
+##### I : Procédure de rectification contradictoire<a id=201></a>
 
 ###### Article R*57-1
 
@@ -10999,7 +11027,7 @@ _Codifié par_:
   - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
 
 
-##### II : Procédure de règlement particulière.<a id=203></a>
+##### II : Procédure de règlement particulière.<a id=202></a>
 
 ###### Article R62-1
 
@@ -11114,7 +11142,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L62 (M)
 
 
-#### Chapitre II : Le droit de communication<a id=204></a>
+#### Chapitre II : Le droit de communication<a id=203></a>
 
 ###### Article R*81-2
 
@@ -11198,9 +11226,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. R81-5 (VD)
 
 
-##### Section I : Conditions d'exercice du droit de communication<a id=205></a>
+##### Section I : Conditions d'exercice du droit de communication<a id=204></a>
 
-##### 6° : Personnes ayant la qualité de commerçant.<a id=206></a>
+##### 6° : Personnes ayant la qualité de commerçant.<a id=205></a>
 
 ###### Article R*85-1
 
@@ -11227,7 +11255,7 @@ _Modifié par_:
   - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er JANVIER 1982
 
 
-##### 9° : Institutions et organismes versant des rémunérations ou répartissant des fonds<a id=207></a>
+##### 9° : Institutions et organismes versant des rémunérations ou répartissant des fonds<a id=206></a>
 
 ###### Article R87-1
 
@@ -11277,7 +11305,7 @@ _Cité par_:
   - HISTO: Edition du 10 juillet 1983
 
 
-##### Section II : Renseignements communiqués à l'administration des impôts sans demande préalable de sa part.<a id=208></a>
+##### Section II : Renseignements communiqués à l'administration des impôts sans demande préalable de sa part.<a id=207></a>
 
 ###### Article R*97-1
 
@@ -11340,9 +11368,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. R81-5 (V)
 
 
-#### Chapitre III : Le secret professionnel en matière fiscale<a id=209></a>
+#### Chapitre III : Le secret professionnel en matière fiscale<a id=208></a>
 
-##### Section I : Portée et limites de la règle du secret professionnel<a id=210></a>
+##### Section I : Portée et limites de la règle du secret professionnel<a id=209></a>
 
 ###### Article R*103-1
 
@@ -11385,7 +11413,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### 1° : Délivrance de documents aux contribuables<a id=211></a>
+##### 1° : Délivrance de documents aux contribuables<a id=210></a>
 
 ###### Article R107-1
 
@@ -11417,7 +11445,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L107 (M)
 
 
-##### 2° : Publicité de l'impôt<a id=212></a>
+##### 2° : Publicité de l'impôt<a id=211></a>
 
 ###### Article R111-2
 
@@ -11478,7 +11506,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### Publicité de l'impôt.<a id=213></a>
+##### Publicité de l'impôt.<a id=212></a>
 
 ###### Article R111-1
 
@@ -11510,7 +11538,7 @@ _Modifié par_:
   - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
 
 
-##### Section II : Dérogations à la règle du secret professionnel<a id=214></a>
+##### Section II : Dérogations à la règle du secret professionnel<a id=213></a>
 
 ###### Article R*113-1
 
@@ -11530,7 +11558,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L114 (V)
 
 
-##### I : Dérogations en matière d'assistance fiscale internationale<a id=215></a>
+##### I : Dérogations en matière d'assistance fiscale internationale<a id=214></a>
 
 ###### Article R*114 A-1
 
@@ -11608,13 +11636,13 @@ _Créé par_:
   - Décret n°82-661 du 28 juillet 1982 - art. 4 (V) JORF 31 JUILLET 1982
 
 
-#### Chapitre IV : Les délais de prescription<a id=216></a>
+#### Chapitre IV : Les délais de prescription<a id=215></a>
 
-##### Section I : Impôts directs et taxes assimilées<a id=217></a>
+##### Section I : Impôts directs et taxes assimilées<a id=216></a>
 
-##### I : Impôts directs d'État<a id=218></a>
+##### I : Impôts directs d'État<a id=217></a>
 
-##### A : Dispositions générales.<a id=219></a>
+##### A : Dispositions générales.<a id=218></a>
 
 ###### Article R*169 B-1
 
@@ -11638,7 +11666,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### B : Dispositions particulières à certains impôts<a id=220></a>
+##### B : Dispositions particulières à certains impôts<a id=219></a>
 
 ###### Article R*172 B-1
 
@@ -11669,7 +11697,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L176
 
 
-##### B : Dispositions particulières à certains impôts.<a id=221></a>
+##### B : Dispositions particulières à certains impôts.<a id=220></a>
 
 ###### Article R*172 D-1
 
@@ -11693,7 +11721,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### Section III : Contributions indirectes<a id=222></a>
+##### Section III : Contributions indirectes<a id=221></a>
 
 ###### Article R*178-1
 
@@ -11711,9 +11739,9 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-### Titre III : Le contentieux de l'impôt<a id=223></a>
+### Titre III : Le contentieux de l'impôt<a id=222></a>
 
-#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=224></a>
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=223></a>
 
 ###### Article R*190-2
 
@@ -11742,7 +11770,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*247-1 (V)
 
 
-##### Charge et administration de la preuve<a id=225></a>
+##### Charge et administration de la preuve<a id=224></a>
 
 ###### Article R*191-1
 
@@ -11839,9 +11867,9 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### Section I : Procédure préalable auprès de l'administration des impôts<a id=226></a>
+##### Section I : Procédure préalable auprès de l'administration des impôts<a id=225></a>
 
-##### I : Délais de réclamation.<a id=227></a>
+##### I : Délais de réclamation.<a id=226></a>
 
 ###### Article R*196-1
 
@@ -12013,7 +12041,7 @@ _Créé par_:
   - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
 
 
-##### II : Forme et contenu des réclamations.<a id=228></a>
+##### II : Forme et contenu des réclamations.<a id=227></a>
 
 ###### Article R*197-1
 
@@ -12105,7 +12133,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### III : Instruction des réclamations.<a id=229></a>
+##### III : Instruction des réclamations.<a id=228></a>
 
 ###### Article R*198-1
 
@@ -12302,9 +12330,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*200-4 (V)
 
 
-##### Section II : Procédure devant les tribunaux<a id=230></a>
+##### Section II : Procédure devant les tribunaux<a id=229></a>
 
-##### I : Tribunaux compétents<a id=231></a>
+##### I : Tribunaux compétents<a id=230></a>
 
 ###### Article R*199-1
 
@@ -12349,9 +12377,9 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### II : Règles de procédure<a id=232></a>
+##### II : Règles de procédure<a id=231></a>
 
-##### B : Procédure devant le tribunal administratif.<a id=233></a>
+##### B : Procédure devant le tribunal administratif.<a id=232></a>
 
 ###### Article R*200-1
 
@@ -12762,7 +12790,7 @@ _Abrogé par_:
   - Décret n°89-948 du 22 décembre 1989 - art. 15
 
 
-##### C : Procédure devant le tribunal de grande instance et la cour d'appel<a id=234></a>
+##### C : Procédure devant le tribunal de grande instance et la cour d'appel<a id=233></a>
 
 ###### Article R*202-1
 
@@ -12798,7 +12826,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*202-3 (V)
 
 
-##### C : Procédure devant le tribunal de grande instance.<a id=235></a>
+##### C : Procédure devant le tribunal de grande instance.<a id=234></a>
 
 ###### Article R*202-2
 
@@ -12890,7 +12918,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*202-6 (V)
 
 
-##### Section III : Compensations<a id=236></a>
+##### Section III : Compensations<a id=235></a>
 
 ###### Article R*203-1
 
@@ -12913,7 +12941,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L203 (V)
 
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=237></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=236></a>
 
 ###### Article R*207-1
 
@@ -12937,7 +12965,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.<a id=238></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.<a id=237></a>
 
 ###### Article R*208-2
 
@@ -13289,11 +13317,11 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-#### Chapitre II : Les procédures pénales<a id=239></a>
+#### Chapitre II : Les procédures pénales<a id=238></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=240></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=239></a>
 
-##### III : Rédaction des procès-verbaux<a id=241></a>
+##### III : Rédaction des procès-verbaux<a id=240></a>
 
 ###### Article R*226-1
 
@@ -13363,9 +13391,9 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### Section II : Exercice des poursuites pénales<a id=242></a>
+##### Section II : Exercice des poursuites pénales<a id=241></a>
 
-##### I : Dispositions communes<a id=243></a>
+##### I : Dispositions communes<a id=242></a>
 
 ###### Article R*228-1
 
@@ -13500,7 +13528,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 384 septies-0 B (VD)
 
 
-#### Chapitre III : Les remises et transactions à titre gracieux<a id=244></a>
+#### Chapitre III : Les remises et transactions à titre gracieux<a id=243></a>
 
 ###### Article R*247-1
 
@@ -13819,13 +13847,13 @@ _Cité par_:
   - Décret n°2016-934 du 7 juillet 2016 - art. 2
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=245></a>
+### Titre IV : Le recouvrement de l'impôt<a id=244></a>
 
-#### Chapitre premier : Les procédures de recouvrement<a id=246></a>
+#### Chapitre premier : Les procédures de recouvrement<a id=245></a>
 
-##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=247></a>
+##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=246></a>
 
-##### I : Impôts recouvrés par les comptables du Trésor.<a id=248></a>
+##### I : Impôts recouvrés par les comptables du Trésor.<a id=247></a>
 
 ###### Article R254-1
 
@@ -13845,7 +13873,7 @@ _Anciens textes_:
   - HISTO: Edition du 1er juillet 1981
 
 
-##### Impôts recouvrés par les comptables de la direction générale des impôts.<a id=249></a>
+##### Impôts recouvrés par les comptables de la direction générale des impôts.<a id=248></a>
 
 ###### Article R*256-1
 
@@ -14046,7 +14074,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### II : Impôts recouvrés par les comptables de la direction générale des impôts.<a id=250></a>
+##### II : Impôts recouvrés par les comptables de la direction générale des impôts.<a id=249></a>
 
 ###### Article R*257-1
 
@@ -14073,9 +14101,9 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### Section III : Mesures particulières<a id=251></a>
+##### Section III : Mesures particulières<a id=250></a>
 
-##### 4° : Responsabilité des dirigeants et gérants de sociétés<a id=252></a>
+##### 4° : Responsabilité des dirigeants et gérants de sociétés<a id=251></a>
 
 ###### Article R*266-1
 
@@ -14105,7 +14133,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales R267-1
 
 
-##### 10° : Taxes sur le chiffre d'affaires<a id=253></a>
+##### 10° : Taxes sur le chiffre d'affaires<a id=252></a>
 
 ###### Article R*273-1
 
@@ -14144,7 +14172,7 @@ _Abrogé par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-##### Section IV : Prescription de l'action en vue du recouvrement<a id=254></a>
+##### Section IV : Prescription de l'action en vue du recouvrement<a id=253></a>
 
 ###### Article R*275-1
 
@@ -14172,7 +14200,7 @@ _Codifié par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-#### Chapitre II : Le sursis de paiement<a id=255></a>
+#### Chapitre II : Le sursis de paiement<a id=254></a>
 
 ###### Article R*277-1
 
@@ -14338,7 +14366,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*280-1 (Ab)
 
 
-#### Chapitre III : Le contentieux du recouvrement<a id=256></a>
+#### Chapitre III : Le contentieux du recouvrement<a id=255></a>
 
 ###### Article R*281-1
 
@@ -14515,7 +14543,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L282 (V)
 
 
-##### Demande en revendication d'objets saisis<a id=257></a>
+##### Demande en revendication d'objets saisis<a id=256></a>
 
 ###### Article R*283-1
 
@@ -14550,11 +14578,11 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2323-5 (V)
 
 
-## LES PROCEDURES DE DETERMINATION FORFAITAIRE DES BASES IMPOSABLES<a id=258></a>
+## LES PROCEDURES DE DETERMINATION FORFAITAIRE DES BASES IMPOSABLES<a id=257></a>
 
-### DISPOSITIONS RELATIVES AUX EXPLOITATIONS AGRICOLES<a id=259></a>
+### DISPOSITIONS RELATIVES AUX EXPLOITATIONS AGRICOLES<a id=258></a>
 
-#### PROCEDURE DE FIXATION DU BENEFICE FORFAITAIRE.<a id=260></a>
+#### PROCEDURE DE FIXATION DU BENEFICE FORFAITAIRE.<a id=259></a>
 
 ###### Article R*1-2
 
@@ -14580,11 +14608,11 @@ _Modifié par_:
   - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
 
 
-## LE CONTROLE DE L'IMPOT<a id=261></a>
+## LE CONTROLE DE L'IMPOT<a id=260></a>
 
-### LE DROIT DE CONTROLE DE L'ADMINISTRATION<a id=262></a>
+### LE DROIT DE CONTROLE DE L'ADMINISTRATION<a id=261></a>
 
-#### DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS<a id=263></a>
+#### DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS<a id=262></a>
 
 ###### Article R*24-1
 
@@ -14612,46 +14640,7 @@ _Abrogé par_:
   - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
-#### MODALITES D'EXERCICE DU DROIT DE CONTROLE.<a id=264></a>
-
-###### Article R45 B-1
-
-La réalité de l'affectation à la recherche des dépenses prises en compte pour la détermination du crédit d'impôt mentionné à
-l'article L. 45 B peut être vérifiée par des agents dûment mandatés par le directeur du développement scientifique et
-technologique et de l'innovation du ministère de l'industrie et de la recherche.
-
-A cet effet, ils peuvent se rendre dans les entreprises après envoi d'un avis de visite pour, notamment :
-
-a. Prendre connaissance de la déclaration spéciale si elle ne leur a pas été communiquée précédemment ;
-
-b. Consulter les documents comptables prévus au titre II du livre Ier du code du commerce, ainsi que tous les documents
-annexes ou justificatifs, en vue de s'assurer de la réalité des dépenses affectées à la recherche ;
-
-c. Consulter tous les documents techniques, effectuer toutes constatations matérielles, procéder à des vérifications
-techniques, en vue de s'assurer de la réalité de l'activité de recherche à laquelle les dépenses ont été affectées.
-
-Les résultats de ce contrôle sont notifiés à l'entreprise et sont communiqués à l'administration des impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI L45 B
-
-_Créé par_:
-
-  - Décret n°83-475 du 10 juin 1983 - art. 9 (V) JORF 12 JUIN 1983
-
-_Codifié par_:
-
-  - Décret n°83-900 1983-10-06
-
-_Cité par_:
-
-  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies N (V)
-
-
-#### PROCEDURES DE REDRESSEMENT<a id=265></a>
+#### PROCEDURES DE REDRESSEMENT<a id=263></a>
 
 ###### Article R*60-1
 
@@ -14674,7 +14663,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### PROCEDURE DE REDRESSEMENT CONTRADICTOIRE.<a id=266></a>
+##### PROCEDURE DE REDRESSEMENT CONTRADICTOIRE.<a id=264></a>
 
 ###### Article R*59 B-1
 
@@ -14698,7 +14687,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1653 B (V)
 
 
-#### PROCEDURES D'IMPOSITION D'OFFICE<a id=267></a>
+#### PROCEDURES D'IMPOSITION D'OFFICE<a id=265></a>
 
 ###### Article R*75-1
 
@@ -14727,9 +14716,9 @@ _Codifié par_:
   - PEREMPTION: Loi n°86-1317 1986-12-30 art. 86 1 Finances pour 1987 JORF 31 décembre 1986
 
 
-### LE DROIT DE COMMUNICATION<a id=268></a>
+### LE DROIT DE COMMUNICATION<a id=266></a>
 
-#### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION.<a id=269></a>
+#### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION.<a id=267></a>
 
 ###### Article R*81-1
 
@@ -14804,9 +14793,9 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
 
 
-### LE SECRET PROFESSIONNEL EN MATIERE FISCALE<a id=270></a>
+### LE SECRET PROFESSIONNEL EN MATIERE FISCALE<a id=268></a>
 
-#### PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL.<a id=271></a>
+#### PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL.<a id=269></a>
 
 ###### Article R106-1
 
@@ -14838,7 +14827,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L106 (M)
 
 
-#### DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.<a id=272></a>
+#### DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.<a id=270></a>
 
 ###### Article R*114 A-5
 
@@ -14867,9 +14856,9 @@ _Codifié par_:
   - Décret n°82-882 1982-10-15
 
 
-## LE CONTENTIEUX DE L'IMPOT<a id=273></a>
+## LE CONTENTIEUX DE L'IMPOT<a id=271></a>
 
-### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE.<a id=274></a>
+### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE.<a id=272></a>
 
 ###### Article R*190-1
 
@@ -14927,9 +14916,9 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT<a id=275></a>
+### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT<a id=273></a>
 
-#### PROCEDURE PREALABLE AUPRES DE L'ADMINISTRATION DES IMPOTS.<a id=276></a>
+#### PROCEDURE PREALABLE AUPRES DE L'ADMINISTRATION DES IMPOTS.<a id=274></a>
 
 ###### Article R*197-3
 
@@ -14966,7 +14955,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*208 A-1 (V)
 
 
-#### PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS*<a id=277></a>
+#### PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS*<a id=275></a>
 
 ###### Article R*200-2
 
@@ -15047,7 +15036,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-#### CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX.<a id=278></a>
+#### CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX.<a id=276></a>
 
 ###### Article R*208-1
 
@@ -15071,7 +15060,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-### LES DEGREVEMENTS D'OFFICE.<a id=279></a>
+### LES DEGREVEMENTS D'OFFICE.<a id=277></a>
 
 ###### Article R*211-1
 
@@ -15145,9 +15134,9 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-### LES PROCEDURES PENALES<a id=280></a>
+### LES PROCEDURES PENALES<a id=278></a>
 
-#### CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL<a id=281></a>
+#### CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL<a id=279></a>
 
 ###### Article R*212-1
 
@@ -15213,7 +15202,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-### LES REMISES ET TRANSACTIONS A TITRE GRACIEUX<a id=282></a>
+### LES REMISES ET TRANSACTIONS A TITRE GRACIEUX<a id=280></a>
 
 ###### Article R*247-4
 
@@ -15314,11 +15303,11 @@ _Modifié par_:
   - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
 
 
-## LE RECOUVREMENT DE L'IMPOT<a id=283></a>
+## LE RECOUVREMENT DE L'IMPOT<a id=281></a>
 
-### LES PROCEDURES DE RECOUVREMENT<a id=284></a>
+### LES PROCEDURES DE RECOUVREMENT<a id=282></a>
 
-#### MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES.<a id=285></a>
+#### MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES.<a id=283></a>
 
 ###### Article R*255-1
 
@@ -15342,21 +15331,21 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-# Partie réglementaire - Arrêtés<a id=286></a>
+# Partie réglementaire - Arrêtés<a id=284></a>
 
-## Troisième partie : Partie réglementaire, arrêtés<a id=287></a>
+## Troisième partie : Partie réglementaire, arrêtés<a id=285></a>
 
-### Titre II : Le contrôle de l'impôt<a id=288></a>
+### Titre II : Le contrôle de l'impôt<a id=286></a>
 
-#### Chapitre premier : Le droit de contrôle de l'administration<a id=289></a>
+#### Chapitre premier : Le droit de contrôle de l'administration<a id=287></a>
 
-##### Section II : Dispositions particulières à certains impôts<a id=290></a>
+##### Section II : Dispositions particulières à certains impôts<a id=288></a>
 
-##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=291></a>
+##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=289></a>
 
-##### B : Contrôle sur les lieux d'exercice de l'activité<a id=292></a>
+##### B : Contrôle sur les lieux d'exercice de l'activité<a id=290></a>
 
-##### Contributions indirectes.<a id=293></a>
+##### Contributions indirectes.<a id=291></a>
 
 ###### Article A26-1
 
@@ -15450,7 +15439,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 153 (V)
 
 
-##### Dispositions applicables dans les départements d'outre-mer.<a id=294></a>
+##### Dispositions applicables dans les départements d'outre-mer.<a id=292></a>
 
 ###### Article A27-1
 
@@ -15471,7 +15460,7 @@ _Anciens textes_:
   - CGIAN4 56 D ter
 
 
-##### 2 : Droits de timbre<a id=295></a>
+##### 2 : Droits de timbre<a id=293></a>
 
 ###### Article A37-1
 
@@ -15524,9 +15513,9 @@ _Anciens textes_:
   - HISTO: Edition du 1er juillet 1981
 
 
-#### Chapitre II : Le droit de communication<a id=296></a>
+#### Chapitre II : Le droit de communication<a id=294></a>
 
-##### Section I : Définition et étendue du droit de communication.<a id=297></a>
+##### Section I : Définition et étendue du droit de communication.<a id=295></a>
 
 ###### Article A85-1
 
@@ -15553,7 +15542,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R81-5 (VD)
 
 
-##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=298></a>
+##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=296></a>
 
 ###### Article A97-1
 
@@ -15624,11 +15613,11 @@ _Anciens textes_:
   - CGIAN4 211
 
 
-### Titre III : Le contentieux de l'impôt<a id=299></a>
+### Titre III : Le contentieux de l'impôt<a id=297></a>
 
-#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=300></a>
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=298></a>
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.<a id=301></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.<a id=299></a>
 
 ###### Article A208-1
 
@@ -15647,11 +15636,11 @@ _Cite_:
   - CGI R208-4 2°
 
 
-#### Chapitre II : Les procédures pénales<a id=302></a>
+#### Chapitre II : Les procédures pénales<a id=300></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=303></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=301></a>
 
-##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=304></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=302></a>
 
 ###### Article A225 A-1
 
@@ -15672,9 +15661,9 @@ _Cite_:
   - Livre des procédures fiscales - art. L225 A (V)
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=305></a>
+### Titre IV : Le recouvrement de l'impôt<a id=303></a>
 
-#### Chapitre II : Le sursis de paiement<a id=306></a>
+#### Chapitre II : Le sursis de paiement<a id=304></a>
 
 ###### Article A277-1
 
@@ -15820,9 +15809,9 @@ _Modifié par_:
   - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
-## LE RECOUVREMENT DE L'IMPOT<a id=307></a>
+## LE RECOUVREMENT DE L'IMPOT<a id=305></a>
 
-### LE SURSIS DE PAIEMENT.<a id=308></a>
+### LE SURSIS DE PAIEMENT.<a id=306></a>
 
 ###### Article A277-7
 
