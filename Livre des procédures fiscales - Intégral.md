@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-07-12
+Version Consolidée au 1985-07-15
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -79,7 +79,7 @@ Version Consolidée au 1985-07-12
             - [III : Dérogations au profit de diverses commissions (art. L136 à L138)](#76)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 A)](#77)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151)](#78)
-            - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale (art. L152 à L162)](#79)
+            - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale (art. L152 à L162 A)](#79)
             - [VII : Dérogations au profit d'organismes divers (art. L163 à L165)](#80)
               - [1° : Activités littéraires ou artistiques (art. L163)](#81)
               - [2° : SAFER (art. L164)](#82)
@@ -205,9 +205,9 @@ Version Consolidée au 1985-07-12
             - [I : Procédure de rectification contradictoire (art. R*57-1 à R60-2 A)](#202)
             - [II : Procédure de règlement particulière. (art. R62-1 à R62-3)](#203)
         - [Chapitre II : Le droit de communication (art. R*81-2 à R*101-1)](#204)
-          - [Section I : Conditions d'exercice du droit de communication (art. R*85-1 à R87-1)](#205)
+          - [Section I : Conditions d'exercice du droit de communication (art. R*85-1 à R87-2)](#205)
             - [6° : Personnes ayant la qualité de commerçant. (art. R*85-1)](#206)
-            - [9° : Institutions et organismes versant des rémunérations ou répartissant des fonds (art. R87-1)](#207)
+            - [9° : Institutions et organismes versant des rémunérations ou répartissant des fonds (art. R87-1 à R87-2)](#207)
           - [Section II : Renseignements communiqués à l'administration des impôts sans demande préalable de sa part. (art. R*97-1 à R*101-1)](#208)
         - [Chapitre III : Le secret professionnel en matière fiscale (art. R*103-1 à R*114 A-4)](#209)
           - [Section I : Portée et limites de la règle du secret professionnel (art. R*103-1 à R111-1)](#210)
@@ -3990,6 +3990,30 @@ _Abrogé par_:
   - Ordonnance n°2010-420  du 27 avril 2010 - art. 99
 
 
+###### Article L132 A
+
+L'administration des impôts est tenue de communiquer à l'administration publique qui demande le paiement direct d'une pension
+alimentaire les renseignements mentionnés à l'article L. 151.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1985
+
+_Créé par_:
+
+  - Loi n°73-5 du 2 janvier 1973 - art. 6 (V) JORF 3 janvier 1973 en vigueur le 1er février 1974
+
+_Codifié par_:
+
+  - Décret n°85-1008 1985-09-24
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L151 (M)
+
+
 ###### Article L133
 
 Les maires ou les présidents des organes délibérants des établissements publics mentionnés à l'article 1635 bis B du code
@@ -4743,6 +4767,37 @@ _Abrogé par_:
   - Loi - art. 107 (V) JORF 31 décembre 1998
 
 
+###### Article L162 A
+
+Les organismes débiteurs de prestations familiales peuvent obtenir de l'administration des impôts les renseignements prévus à
+l'article L. 151 pour l'exercice de la mission qui leur est confiée par la loi n° 84-1171 du 22 décembre 1984 relative à
+l'intervention de ces organismes pour le recouvrement des créances alimentaires impayées.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 14 juin 1982 - art. 4 (V)
+
+_Cite_:
+
+  - CGI L151
+  - Loi n°84-1171 1984-12-22
+
+_Créé par_:
+
+  - Loi n°84-1171 du 22 décembre 1984 - art. 6 (V) JORF 30 décembre 1984, en vigueur le 1er janvier 1985
+  - Loi n°84-1171 du 22 décembre 1984 - art. 7 (V) JORF 30 décembre 1984, en vigueur le 1er janvier 1985
+
+_Codifié par_:
+
+  - Décret n°85-1008 1985-09-24
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1985
+
+
 ##### VII : Dérogations au profit d'organismes divers<a id=80></a>
 
 ##### 1° : Activités littéraires ou artistiques<a id=81></a>
@@ -5037,6 +5092,27 @@ _Codifié par_:
 _Cite_:
 
   - Livre des procédures fiscales - art. L169 (V)
+
+
+###### Article L171 A
+
+Pour l'application de l'article 220 quinquies du code général des impôts, l'administration est fondée à vérifier l'existence
+et la quotité de la créance et à en rectifier le montant, même si l'option pour le report en arrière du déficit correspondant
+a été exercé au titre d'un exercice prescrit.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°84-1208 du 29 décembre 1984 - art. 19 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+_Codifié par_:
+
+  - Décret n°85-1008 1985-09-24
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 220 quinquies (M)
 
 
 ###### Article L172
@@ -11614,6 +11690,30 @@ _Cité par_:
 **Liens**:
 
   - HISTO: Edition du 10 juillet 1983
+
+
+###### Article R87-2
+
+Le gérant d'un fonds commun de placement à risques ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant
+est soumis aux obligations définies à l'article R. 87-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°85-41 du 8 janvier 1985 - art. 1 (V) JORF 12 janvier 1985
+
+_Codifié par_:
+
+  - Décret n°85-1008 1985-09-24
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1985
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R87-1 (M)
 
 
 ##### Section II : Renseignements communiqués à l'administration des impôts sans demande préalable de sa part.<a id=208></a>
