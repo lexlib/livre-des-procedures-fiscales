@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-06-01
+Version Consolidée au 2004-06-09
 ## Contenu: 
   - [Partie législative (art. L1 à L288)](#1)
     - [Première partie : Partie législative (art. L1 à L288)](#2)
@@ -15378,17 +15378,10 @@ _Codifié par_:
 
 ###### Article R*81-1
 
-Lorsqu'il concerne les documents mentionnés aux articles L. 83 à L. 85 et L. 87, le droit de communication défini à l'article
-L. 81 ne peut être exercé que par les fonctionnaires titulaires ou stagiaires, appartenant à des corps  des catégories A et B
-et agissant soit dans l'ensemble du département où ils exercent leurs fonctions, soit lorsqu'il est plus étendu, dans le
-ressort territorial du service auquel ils sont affectés.
-
-Toutefois, ce droit peut être exercé par des fonctionnaires ayant le grade d'agent de constatation ou d'assiette lorsqu'ils
-agissent sur ordre écrit d'un agent ayant au moins le grade de contrôleur ; cet ordre, qui doit être présenté au
-contribuable, précise le nom du ou des contribuables intéressés.
-
-Le droit de communication peut également, lorsque les besoins du service le requièrent et qu'il n'existe aucun fonctionnaire
-apte à l'exercer, être confié par intérim à d'anciens fonctionnaires des mêmes catégories ou grades.
+Le droit de communication défini à l'article L. 81 est exercé par les fonctionnaires titulaires ou stagiaires appartenant à
+des corps de catégorie A ou B ou par des fonctionnaires titulaires appartenant à des corps de catégorie C agissant soit dans
+l'ensemble de la région où est situé le service auquel ils sont affectés, soit, lorsqu'il est plus étendu, dans le ressort
+territorial de ce service.
 
 **Liens relatifs à cet article**
 
@@ -15396,10 +15389,6 @@ _Anciens textes_:
 
   - CGIAN2 406 bis (AL. 1)
   - CGIAN2 409 (P.)
-
-_Modifié par_:
-
-  - Décret n°87-24 1987-01-15 art. 1 JORF 17 janvier 1987
 
 _Cité par_:
 
@@ -15411,15 +15400,17 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*96 E-1 (V)
   - Livre des procédures fiscales - art. R81-5 (V)
 
+_Modifié par_:
+
+  - Décret n°2004-501 du 2 juin 2004 - art. 1 () JORF 9 juin 2004
+
 **Liens**:
 
-  - HISTO: Edition du 10 août 1987
+  - HISTO: Edition du 31 août 2004
 
 _Cite_:
 
   - Livre des procédures fiscales - art. L81 (MMN)
-  - Livre des procédures fiscales - art. L87 (MMN)
-  - Livre des procédures fiscales L83 à L85, L87, L81
 
 
 ###### Article R*81-2
@@ -15448,28 +15439,6 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°2015-531 du 12 mai 2015 - art. 2
-
-
-###### Article R*81-3
-
-Les agents autorisés à exercer le droit de communication peuvent se faire assister par des fonctionnaires d'un grade moins
-élevé tenus, comme eux et sous peine des mêmes sanctions, au secret professionnel, en vue de leur confier des travaux de
-pointage, relevés et copies de documents.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 2002 (Al. 2)
-
-_Abrogé par_:
-
-  - Décret n°2004-501 du 2 juin 2004 - art. 2 () JORF 9 juin 2004
-
-**Liens**:
-
-  - HISTO: Edition du 1er juillet 1981
-  - HISTO: Edition du 31 août 2004
 
 
 ###### Article R*81-4
