@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1999-03-31
+Version Consolidée au 1999-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L288)](#1)
     - [Première partie : Partie législative (art. L1 à L288)](#2)
@@ -1710,6 +1710,27 @@ _Cité par_:
 **Liens**:
 
   - HISTO: Edition du 18 août 1993
+
+
+###### Article L34 A
+
+Pour l'exercice des visites et vérifications chez les personnes mentionnées au 1° de l'article 302 F ter du code général des
+impôts, les agents des douanes et droits indirects ont accès aux locaux professionnels, y compris les moyens de transport,
+dans lesquels les opérateurs précités exercent leur activité ou détiennent des produits repris à l'article 302 B.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 302 F ter, 302 B
+
+_Créé par_:
+
+  - Loi - art. 18 (V) JORF 31 décembre 1999 en vigueur le 1er juillet 1999
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R36 B-1 (M)
 
 
 ###### Article L35
