@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1992-01-01
+Version Consolidée au 1992-03-11
 ## Contenu: 
   - [Partie législative (art. L1 à L283)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -16316,8 +16316,9 @@ _Codifié par_:
 
 ###### Article R*277-1
 
-Le comptable compétent invite, par lettre recommandée, le contribuable qui a demandé à différer le paiement de ses
-impositions à constituer les garanties prévues par l'article L. 277.
+Le comptable compétent invite le contribuable qui a demandé à différer le paiement des impositions à constituer les garanties
+prévues à l'article L. 277. Le contribuable dispose d'un délai de quinze jours à compter de la réception de l'invitation
+formulée par le comptable pour faire connaître les garanties qu'il s'engage à constituer.
 
 Ces garanties peuvent être constituées par un versement en espèces qui sera effectué à un compte d'attente au Trésor, par des
 créances sur le Trésor, par la présentation d'une caution, par des valeurs mobilières, des marchandises déposées dans des
@@ -16337,13 +16338,13 @@ _Cite_:
 
   - CGI L277
 
+_Modifié par_:
+
+  - Décret n°92-219 du 5 mars 1992 - art. 1 () JORF 11 mars 1992
+
 **Liens**:
 
-  - TXT_ASSOCIE: CGI R277-3
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
+  - HISTO: Edition du 4 juillet 1992
 
 _Cité par_:
 
