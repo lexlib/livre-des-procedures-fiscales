@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-08-31
 ## Contenu: 
   - [Partie législative (art. L1 à L288)](#1)
     - [Première partie : Partie législative (art. L1 à L288)](#2)
@@ -85,7 +85,7 @@ Version Consolidée au 2004-08-11
             - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 L)](#82)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139 A)](#83)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 C)](#84)
-            - [V : Dérogations au profit des officiers ministériels (art. L148 à L151-1)](#85)
+            - [V : Dérogations au profit des officiers ministériels (art. L148 à L151 A)](#85)
             - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale (art. L152 à L162 B)](#86)
             - [VII : Dérogations au profit d'organismes divers (art. L163 à L166)](#87)
               - [1° : Activités littéraires ou artistiques (art. L163)](#88)
@@ -6178,26 +6178,29 @@ _Cite_:
 
 ###### Article L114
 
-L'administration des impôts peut échanger des renseignements avec les administrations financières des territoires d'outre-mer
-et autres collectivités territoriales de la République française relevant d'un régime fiscal spécifique ainsi qu'avec les
-Etats ayant conclu avec la France une convention d'assistance réciproque en matière d'impôts pour les échanges de
-renseignements avec l'administration française.
+L'administration des impôts peut échanger des renseignements avec les administrations financières de Saint-Pierre-et-
+Miquelon, de Mayotte, de Nouvelle-Calédonie, de Polynésie française, des îles Wallis et Futuna et des Terres australes et
+antarctiques françaises et autres collectivités territoriales de la République française relevant d'un régime fiscal
+spécifique ainsi qu'avec les Etats ayant conclu avec la France une convention d'assistance réciproque en matière d'impôts
+pour les échanges de renseignements avec l'administration française.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+**Liens**:
 
-  - CGI 2006 (AL. 2 2EME PHRASE)
-  - Décret n°1934-07-20 ANNEXE ART. 143 (LOI 1934-07-06 ART. 13)
-  - Loi n°1941-01-13 ANNEXE I ART. 143
+  - HISTO: Edition du 31 août 2004
+
+_Modifié par_:
+
+  - Loi n°76-1212 du 24 décembre 1976 - art. 1 (Ab) JORF 28 décembre 1976
+  - Loi n°99-209 du 19 mars 1999 - art. 1 (V) JORF 21 mars 1999
+  - Loi n°99-209 du 19 mars 1999 - art. 233 (V) JORF 21 mars 1999
+  - Loi n°2001-616 du 11 juillet 2001 - art. 1 (Ab) JORF 13 juillet 2001
+  - Loi n°2003-660 2003-07-21 art. 61 I JORF 22 juillet 2003
 
 _Codifié par_:
 
-  - Décret n°81-859 1981-09-15
-
-**Liens**:
-
-  - HISTO: Edition du 1er juillet 1981
+  - Décret n°2004-1070 2004-10-08
 
 _Cité par_:
 
@@ -7355,17 +7358,19 @@ publique, les agents de la direction générale de la comptabilité publique, de
 indirects, de la direction générale des impôts et de la direction générale de la concurrence, de la consommation et de la
 répression des fraudes doivent répondre aux demandes formulées par les officiers et agents de police judiciaire concernant
 les renseignements et documents de nature financière, fiscale ou douanière, sans que puisse être opposée l'obligation au
-secret.
+secret. Dans ce même cadre, les officiers et agents de police judiciaire doivent communiquer aux agents des quatre directions
+précitées tous les éléments susceptibles de comporter une implication de nature financière, fiscale ou douanière, sans que
+puisse être opposée l'obligation au secret.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2002-1094 2002-08-29 art. 5 JORF 30 août 2002
+  - Loi n°2004-204 du 9 mars 2004 - art. 16 () JORF 10 mars 2004
 
 _Codifié par_:
 
-  - Décret n°2002-1208 2002-09-27
+  - Décret n°2004-1070 2004-10-08
 
 _Cité par_:
 
@@ -7374,7 +7379,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2002
+  - HISTO: Edition du 31 août 2004
 
 
 ##### III : Dérogations au profit de diverses commissions<a id=83></a>
@@ -7501,27 +7506,34 @@ _Modifié par_:
 
 ###### Article L139 A
 
-La commission de surendettement des particuliers prévue à l'article L331-1 du code de la consommation peut obtenir de
-l'administration des impôts communication de tout renseignement de nature à lui donner une exacte information sur la
-situation du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables en cours.
+La commission de surendettement des particuliers prévue à l'article L. 331-1 du code de la consommation peut obtenir
+communication auprès des administrations publiques de tout renseignement sur la situation du débiteur conformément au
+huitième alinéa de l'article L. 331-3 du même code ci-après reproduit :
+
+"Art. L. 331-3, 8e alinéa. - Nonobstant toute disposition contraire, la commission peut obtenir communication, auprès des
+administrations publiques, des établissements de crédit, des organismes de sécurité et de prévoyance sociale ainsi que des
+services chargés de centraliser les risques bancaires et les incidents de paiement, de tout renseignement de nature à lui
+donner une exacte information sur la situation du débiteur, l'évolution possible de celle-ci et les procédures de
+conciliation amiables en cours."
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995
+  - HISTO: 2004)
+  - HISTO: Edition du 31 août 2004
 
 _Codifié par_:
 
-  - Décret n°97-662 1997-05-28
+  - Décret n°2004-1070 2004-10-08
+
+_Modifié par_:
+
+  - Décret n°2004-1070 du 8 octobre 2004 - art. 4 () JORF 10 octobre 2004
 
 _Cite_:
 
   - Code de la consommation - art. L331-1 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
 
 _Cité par_:
 
@@ -7831,26 +7843,32 @@ _Cite_:
 
 ###### Article L145 D
 
-Pour l'application des articles L332-1 à L332-3 du code de la consommation, le juge de l'exécution peut obtenir communication
-de tout renseignement lui permettant d'apprécier la situation du débiteur et l'évolution possible de celle-ci.
+Dans le cadre du contrôle des mesures recommandées par la commission de surendettement des particuliers prévu aux articles L.
+332-1 à L. 332-3 du code de la consommation, le juge de l'exécution peut obtenir communication de tout renseignement sur la
+situation du débiteur conformément au sixième alinéa de l'article L. 332-2 du même code ci-après reproduit :
+
+"Art. L. 332-2, 6e alinéa. - Nonobstant toute disposition contraire, le juge peut obtenir communication de tout renseignement
+lui permettant d'apprécier la situation du débiteur et l'évolution possible de celle-ci."
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°95-125 du 8 février 1995 - art. 31 () JORF 9 février 1995
+  - HISTO: 2004)
+  - PILOTE_SUIVEUR: Code de la consommation - art. L332-2 (M)
+  - HISTO: Edition du 31 août 2004
 
 _Codifié par_:
 
-  - Décret n°97-662 1997-05-28
+  - Décret n°2004-1070 2004-10-08
+
+_Modifié par_:
+
+  - Décret n°2004-1070 du 8 octobre 2004 - art. 4 () JORF 10 octobre 2004
 
 _Cite_:
 
-  - Code de la consommation L313-1 à L332-3
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
+  - Code de la consommation L332-1 à L332-3, L332-2
 
 
 ###### Article L146
@@ -8136,21 +8154,17 @@ _Codifié par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-###### Article L151-1
+###### Article L151 A
 
 Aux fins d'assurer l'exécution d'un titre exécutoire, l'huissier de justice peut obtenir l'adresse des organismes auprès
 desquels un compte est ouvert au nom du débiteur.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Cité par_:
 
-  - HISTO: Edition du 1er janvier 2004
-  - HISTO: Edition du 31 août 2004
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales L151 A
+  - Arrêté du 14 juin 1982 - art. 4 (V)
+  - Livre des procédures fiscales - art. L132 A (V)
 
 _Créé par_:
 
@@ -8160,9 +8174,13 @@ _Codifié par_:
 
   - Décret n°2004-1070 2004-10-08
 
-_Transféré par_:
+**Liens**:
 
-  - Décret n°2004-1070 du 8 octobre 2004 - art. 4 () JORF 10 octobre 2004
+  - HISTO: Edition du 31 août 2004
+
+_Anciens textes_:
+
+  - Livre des procédures fiscales L151-1
 
 
 ##### VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale<a id=86></a>
@@ -14369,8 +14387,8 @@ _Cite_:
 
 La direction générale des douanes et droits indirects exerce les compétences prévues à l'article L. 26.
 
-La direction générale des impôts exerce également ces compétences dans le cadre du contrôle des obligations résultant du 2°
-du II et du III de l'article 298 bis du code général des impôts et de l'application de l'article 290 quater du même code.
+La direction générale des impôts exerce également ces compétences dans le cadre du contrôle des obligations résultant du III
+de l'article 298 bis du code général des impôts et de l'application de l'article 290 quater du même code.
 
 **Liens relatifs à cet article**
 
@@ -14379,13 +14397,17 @@ _Cite_:
   - CGI 298 bis, 290 quater
   - Livre des procédures fiscales - art. L26 (M)
 
-_Créé par_:
-
-  - Décret n°93-265 1993-02-26 art. 12 2 et 15 JORF 28 février 1993
-
 _Codifié par_:
 
-  - Décret n°93-1095 1993-09-16
+  - Décret n°2004-1070 2004-10-08
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2004
+
+_Modifié par_:
+
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
 
 
 ###### Article R27-1
@@ -14471,86 +14493,26 @@ _Cite_:
   - Livre des procédures fiscales - art. L30 (V)
 
 
-###### Article R33-1
+###### Article R36 B-1
 
-En application de l'article 355 du code général des impôts, les agents du service des douanes et droits indirects sont
-autorisés à faire toutes les vérifications nécessaires, au moyen du densimètre, du thermomètre et de l'alambic d'essai, pour
-suivre la fermentation dans les cuves et foudres, reconnaître la densité et le titre alcoométrique volumique des moûts
-pendant toute la durée de la fabrication et constater les différences anormales, telles que :
-
-affaiblissement simultané de la richesse alcoolique et de la densité originelle du moût, élévation de la densité originelle
-et diminution de la richesse alcoolique, abaissement de la richesse alcoolique et élévation de la densité du moût privé
-d'alcool, ces différences étant de nature à dénoter des manoeuvres frauduleuses, telles que, notamment, substitution,
-décharges partielles, allongement.
-
-Ces différences sont constatées par procès-verbal.
-
-Les agents sont également autorisés à opérer, sur les matières premières, les produits en cours de fabrication et les
-boissons, les prélèvements d'échantillons qu'ils jugent nécessaires.
+La direction générale des douanes et droits indirects exerce les compétences prévues aux articles L. 28, L. 29, L. 31, L. 32,
+L. 34, L 34 A, L. 35, L. 36 et L. 36 A.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 355
-
-_Anciens textes_:
-
-  - CGIAN3 130
-
 _Modifié par_:
 
-  - Décret n°93-10 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
 
 _Codifié par_:
 
   - Décret n°2004-1070 2004-10-08
 
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 355 (Ab)
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993
-  - HISTO: Edition du 31 août 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-
-###### Article R36 B-1
-
-La direction générale des douanes et droits indirects exerce les compétences prévues aux articles L. 28, L. 29, L. 31, L. 32,
-L. 33, L. 34, L 34 A, L. 35, L. 36 et L. 36 A.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi - art. 18 (V) JORF 31 décembre 1999
-
-_Codifié par_:
-
-  - Décret n°2000-478 2000-06-02
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2000
-
 _Cite_:
 
-  - Livre des procédures fiscales - art. L28 (MMN)
-  - Livre des procédures fiscales - art. L29 (M)
-  - Livre des procédures fiscales - art. L31 (M)
-  - Livre des procédures fiscales - art. L32 (M)
-  - Livre des procédures fiscales - art. L33 (M)
-  - Livre des procédures fiscales - art. L34 (M)
-  - Livre des procédures fiscales - art. L34 A (M)
-  - Livre des procédures fiscales - art. L35 (M)
-  - Livre des procédures fiscales - art. L36 (M)
-  - Livre des procédures fiscales - art. L36 A (M)
+  - Livre des procédures fiscales - art. L28 (V)
+  - Livre des procédures fiscales - art. L31 (V)
+  - Livre des procédures fiscales - art. L34 (V)
 
 
 ##### Section III : Modalités d'exercice du droit de contrôle<a id=184></a>
@@ -15551,9 +15513,9 @@ _Cité par_:
 Le droit de communication mentionné à l'article L. 81 est exercé par les agents de la direction générale des impôts. Le droit
 de communication visé au premier alinéa de l'article précité peut être exercé par les agents de la direction générale des
 douanes et droits indirects dans les conditions définies aux articles L. 82 C, L. 83, L. 84, au premier alinéa de l'article
-L. 85, aux articles L. 85-A, L. 90, L. 92, L. 95, L. 101, R. 81-1, R. 81-3, R. 81-4, R. 101-1 et A. 85-1 en ce qui concerne
-les contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et la contribution prévue
-par l'article 527 du code général des impôts.
+L. 85, aux articles L. 85-A, L. 90, L. 92, L. 95, L. 101, R. 81-1, R. 81-4, R. 101-1 et A. 85-1 en ce qui concerne les
+contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et la contribution prévue par
+l'article 527 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -15568,7 +15530,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-588 du 21 juin 2004 - art. 2 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
+  - Décret n°2004-501 du 2 juin 2004 - art. 2 () JORF 9 juin 2004
+
+_Codifié par_:
+
+  - Décret n°2004-1070 2004-10-08
 
 _Cité par_:
 
@@ -18322,8 +18288,8 @@ _Modifié par_:
 ###### Article R214-1
 
 Les agents mentionnés à l'article L. 214 sont les agents de la direction générale des douanes et droits indirects et ceux de
-la direction générale des impôts qui contrôlent les obligations résultant du 2° du II et du III de l'article 298 bis du code
-général des impôts et appliquent l'article 290 quater du même code.
+la direction générale des impôts qui contrôlent les obligations résultant du III de l'article 298 bis du code général des
+impôts et appliquent l'article 290 quater du même code.
 
 **Liens relatifs à cet article**
 
@@ -18332,13 +18298,17 @@ _Cite_:
   - CGI 298 bis, 290 quater
   - Livre des procédures fiscales - art. L214 (M)
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°93-265 1993-02-26 art. 6 2, 7 2 et 15 JORF 28 février 1993
+  - HISTO: Edition du 31 août 2004
+
+_Modifié par_:
+
+  - Ordonnance 2004-281 2004-03-25 art. 15 1 JORF 27 mars 2004
 
 _Codifié par_:
 
-  - Décret n°93-1095 1993-09-16
+  - Décret n°2004-1070 2004-10-08
 
 
 ##### III : Rédaction des procès-verbaux<a id=234></a>
@@ -18560,8 +18530,8 @@ _Cité par_:
 
 La direction générale des douanes et droits indirects exerce les compétences prévues à l'article L. 235.
 
-La direction générale des impôts exerce également ces compétences dans le cadre du contrôle des obligations résultant du 2°
-du II et du III de l'article 298 bis du code général des impôts et de l'application de l'article 290 quater du même code.
+La direction générale des impôts exerce également ces compétences dans le cadre du contrôle des obligations résultant du III
+de l'article 298 bis du code général des impôts et de l'application de l'article 290 quater du même code.
 
 **Liens relatifs à cet article**
 
@@ -18570,21 +18540,25 @@ _Cite_:
   - CGI 298 bis, 290 quater
   - Livre des procédures fiscales - art. L235 (P)
 
-_Créé par_:
-
-  - Décret n°93-265 1993-02-26 art. 8 2, 9 2, 12 2 et 15 JORF 28 février 1993
-
 _Codifié par_:
 
-  - Décret n°93-1095 1993-09-16
+  - Décret n°2004-1070 2004-10-08
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2004
+
+_Modifié par_:
+
+  - Ordonnance 2004-281 2004-03-25 art. 15 1 JORF 27 mars 2004
 
 
 ###### Article R236-1
 
 La direction générale des douanes et droits indirects exerce les compétences prévues à l'article L. 236.
 
-La direction générale des impôts exerce également ces compétences dans le cadre du contrôle des obligations résultant du 2°
-du II et du III de l'article 298 bis du code général des impôts et de l'application de l'article 290 quater du même code.
+La direction générale des impôts exerce également ces compétences dans le cadre du contrôle des obligations résultant du III
+de l'article 298 bis du code général des impôts et de l'application de l'article 290 quater du même code.
 
 **Liens relatifs à cet article**
 
@@ -18593,13 +18567,17 @@ _Cite_:
   - CGI 298 bis, 290 quater
   - Livre des procédures fiscales - art. L236 (M)
 
-_Créé par_:
-
-  - Décret n°93-265 1993-02-26 art. 8 2, 9 2, 12 2 et 15 JORF 28 février 1993
-
 _Codifié par_:
 
-  - Décret n°93-1095 1993-09-16
+  - Décret n°2004-1070 2004-10-08
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2004
+
+_Modifié par_:
+
+  - Ordonnance 2004-281 2004-03-25 art. 15 1 JORF 27 mars 2004
 
 
 ###### Article R237-1
@@ -18626,7 +18604,7 @@ _Cite_:
 
 Les procès-verbaux mentionnés à l'article L. 238 sont ceux établis par la direction générale des douanes et droits indirects
 et la direction générale des impôts en ce qui concerne, pour cette dernière direction, le contrôle des obligations résultant
-du 2° du II et du III de l'article 298 bis du code général des impôts et l'application de l'article 290 quater du même code.
+du III de l'article 298 bis du code général des impôts et l'application de l'article 290 quater du même code.
 
 **Liens relatifs à cet article**
 
@@ -18635,13 +18613,17 @@ _Cite_:
   - CGI 298 bis, 290 quater
   - Livre des procédures fiscales - art. L238 (M)
 
-_Créé par_:
-
-  - Décret n°93-265 1993-02-26 art. 8 2, 9 2, 12 2 et 15 JORF 28 février 1993
-
 _Codifié par_:
 
-  - Décret n°93-1095 1993-09-16
+  - Décret n°2004-1070 2004-10-08
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2004
+
+_Modifié par_:
+
+  - Ordonnance 2004-281 2004-03-25 art. 15 1 JORF 27 mars 2004
 
 
 #### Chapitre III : Les remises et transactions à titre gracieux<a id=238></a>
@@ -18803,24 +18785,26 @@ _Cite_:
 
 ###### Article R*247-5 B
 
-En matière d'amendes prévues à l'article 467 du code des douanes et d'amendes prévues à l'article 15 ter de la loi n° 92-676
-du 17 juillet 1992, la décision sur les demandes tendant à obtenir une remise, modération ou transaction, relève de la
-compétence du directeur régional des douanes et droits indirects.
+En matière d'amendes prévues à l'article 467 du code des douanes, la décision sur les demandes tendant à obtenir une remise,
+modération ou transaction, relève de la compétence du directeur régional des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2004-639 du 2 juillet 2004 - art. 53 (V) JORF 3 juillet 2004
+
+_Codifié par_:
+
+  - Décret n°2004-1070 2004-10-08
+
 _Cite_:
 
-  - Loi n°92-676 1992-07-17 art. 15 ter
   - Code des douanes - art. 467 (M)
-
-_Créé par_:
-
-  - Décret n°2002-1115 du 2 septembre 2002 - art. 1 () JORF 3 septembre 2002
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2003
+  - HISTO: Edition du 31 août 2004
 
 
 ###### Article R*247-5 C
