@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1938-06-01
+Version Consolidée au 1977-12-30
 ## Contenu: 
   - [Partie législative (art. L28)](#1)
     - [Première partie : Partie législative (art. L28)](#2)
