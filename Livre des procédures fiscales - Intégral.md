@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1987-01-01
+Version Consolidée au 1987-01-17
 ## Contenu: 
   - [Partie législative (art. L1 à L277)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -210,7 +210,7 @@ Version Consolidée au 1987-01-01
           - [Section IV : Procédures de rectification (art. R*57-1 à R62-3)](#207)
             - [I : Procédure de rectification contradictoire (art. R*57-1 à R60-2 A)](#208)
             - [II : Procédure de règlement particulière. (art. R62-1 à R62-3)](#209)
-        - [Chapitre II : Le droit de communication (art. R*81-2 à R*101-1)](#210)
+        - [Chapitre II : Le droit de communication (art. R*81-1 à R*101-1)](#210)
           - [Section I : Conditions d'exercice du droit de communication (art. R*85-1 à R87-2)](#211)
             - [6° : Personnes ayant la qualité de commerçant. (art. R*85-1)](#212)
             - [9° : Institutions et organismes versant des rémunérations ou répartissant des fonds (art. R87-1 à R87-2)](#213)
@@ -272,8 +272,8 @@ Version Consolidée au 1987-01-01
         - [DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS (art. R*24-1)](#269)
         - [PROCEDURES DE REDRESSEMENT (art. R*60-1 à R*59 B-1)](#270)
           - [PROCEDURE DE REDRESSEMENT CONTRADICTOIRE. (art. R*59 B-1)](#271)
-      - [LE DROIT DE COMMUNICATION (art. R*81-1 à R*94-1)](#272)
-        - [DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION. (art. R*81-1 à R*94-1)](#273)
+      - [LE DROIT DE COMMUNICATION (art. R*94-1)](#272)
+        - [DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION. (art. R*94-1)](#273)
     - [LE CONTENTIEUX DE L'IMPOT (art. R*190-1 à R*247-17)](#274)
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE. (art. R*190-1 à R*192-1)](#275)
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT (art. R*200-18)](#276)
@@ -11793,6 +11793,52 @@ _Cite_:
 
 #### Chapitre II : Le droit de communication<a id=210></a>
 
+###### Article R*81-1
+
+Lorsqu'il concerne les documents mentionnés aux articles L. 83 à L. 85 et L. 87, le droit de communication défini à l'article
+L. 81 ne peut être exercé que par les fonctionnaires titulaires ou stagiaires, appartenant à des corps  des catégories A et B
+et agissant soit dans l'ensemble du département où ils exercent leurs fonctions, soit lorsqu'il est plus étendu, dans le
+ressort territorial du service auquel ils sont affectés.
+
+Toutefois, ce droit peut être exercé par des fonctionnaires ayant le grade d'agent de constatation ou d'assiette lorsqu'ils
+agissent sur ordre écrit d'un agent ayant au moins le grade de contrôleur ; cet ordre, qui doit être présenté au
+contribuable, précise le nom du ou des contribuables intéressés.
+
+Le droit de communication peut également, lorsque les besoins du service le requièrent et qu'il n'existe aucun fonctionnaire
+apte à l'exercer, être confié par intérim à d'anciens fonctionnaires des mêmes catégories ou grades.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGIAN2 406 bis (AL. 1)
+  - CGIAN2 409 (P.)
+
+_Modifié par_:
+
+  - Décret n°87-24 1987-01-15 art. 1 JORF 17 janvier 1987
+
+_Cité par_:
+
+  - Décret n°2000-738 du 1 août 2000 - art. 2-1 (VT)
+  - Décret n°2006-1723 du 23 décembre 2006 - art. 2 (Ab)
+  - Décret n°2009-707 du 16 juin 2009 - art. 4 (M)
+  - Arrêté du 4 juin 2018 (VT)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 409 (V)
+  - Livre des procédures fiscales - art. R*96 E-1 (V)
+  - Livre des procédures fiscales - art. R81-5 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 10 août 1987
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L81 (MMN)
+  - Livre des procédures fiscales - art. L87 (MMN)
+  - Livre des procédures fiscales L83 à L85, L87, L81
+
+
 ###### Article R*81-2
 
 Les fonctionnaires qui ont compétence pour procéder au contrôle d'une déclaration de revenu global ou à la vérification de la
@@ -15787,50 +15833,6 @@ _Cité par_:
 ### LE DROIT DE COMMUNICATION<a id=272></a>
 
 #### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION.<a id=273></a>
-
-###### Article R*81-1
-
-Lorsqu'il concerne les documents mentionnés aux articles L. 83 à L. 85 et L. 87, le droit de communication défini à l'article
-L. 81 ne peut être exercé que par les fonctionnaires titulaires ou stagiaires, appartenant à des corps des catégories A et B
-et agissant dans le ressort territorial du service auquel ils sont affectés.
-
-Toutefois, ce droit peut être exercé par des fonctionnaires ayant le grade d'agent de constatation ou d'assiette lorsqu'ils
-agissent sur ordre écrit d'un agent ayant au moins le grade de contrôleur ; cet ordre, qui doit être présenté au
-contribuable, précise le nom du ou des contribuables intéressés.
-
-Le droit de communication peut également, lorsque les besoins du service le requièrent et qu'il n'existe aucun fonctionnaire
-apte à l'exercer, être confié par intérim à d'anciens fonctionnaires des mêmes catégories ou grades.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 4 juin 2018 (VT)
-  - Décret n°2000-738 du 1 août 2000 - art. 2-1 (VT)
-  - Décret n°2006-1723 du 23 décembre 2006 - art. 2 (Ab)
-  - Décret n°2009-707 du 16 juin 2009 - art. 4 (M)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 409 (V)
-  - Livre des procédures fiscales - art. R*96 E-1 (V)
-  - Livre des procédures fiscales - art. R81-5 (V)
-
-_Cite_:
-
-  - CGI L81
-  - CGI L83
-  - CGI L84
-  - CGI L85
-  - CGI L87
-  - CGI R81-1 AL. 1
-
-_Anciens textes_:
-
-  - CGIAN2 406 bis (AL. 1)
-  - CGIAN2 409 (P.)
-
-_Modifié par_:
-
-  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
-
 
 ###### Article R*94-1
 
