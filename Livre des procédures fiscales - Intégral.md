@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-02-12
+Version Consolidée au 2004-02-25
 ## Contenu: 
   - [Partie législative (art. L1 à L288)](#1)
     - [Première partie : Partie législative (art. L1 à L288)](#2)
@@ -238,7 +238,7 @@ Version Consolidée au 2004-02-12
           - [Section II : Exercice des poursuites pénales (art. R*228-1 à R238-1)](#235)
             - [I : Dispositions communes (art. R*228-1 à R*228-6)](#236)
             - [III : Dispositions particulières aux contributions indirectes (art. R235-1 à R238-1)](#237)
-        - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247-1 à R*251 A-5)](#238)
+        - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247 A-1 à R*251 A-5)](#238)
           - [Les taxes d'urbanisme (art. R*251 A-1 à R*251 A-5)](#239)
       - [Titre IV : Le recouvrement de l'impôt (art. R*257-1 à R283 B-10)](#240)
         - [Chapitre premier : Les procédures de recouvrement (art. R*257-1 à R*275-1)](#241)
@@ -18758,6 +18758,32 @@ _Codifié par_:
 
 #### Chapitre III : Les remises et transactions à titre gracieux<a id=238></a>
 
+###### Article R*247 A-1
+
+La saisine de la commission de surendettement mentionnée à l'article L. 331-1 du code de la consommation vaut demande de
+remise gracieuse d'impôts directs dès lors que cette saisine satisfait aux conditions prévues à l'article R. 331-7-3 du même
+code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2004-180 du 24 février 2004 - art. 5 () JORF 25 février 2004
+
+_Cite_:
+
+  - Code de la consommation - art. L331-1 (M)
+
+_Cité par_:
+
+  - Code de la consommation - art. R335-4 (Ab)
+  - Code de la consommation - art. R711-1 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
+
+
 ###### Article R*247-1
 
 Les demandes prévues à l'article L. 247 tendant à obtenir à titre gracieux une remise, une modération ou une transaction,
@@ -18936,6 +18962,37 @@ _Créé par_:
 _Cité par_:
 
   - Livre des procédures fiscales - art. R*247-12 (V)
+
+
+###### Article R*247-10 A
+
+La saisine de la commission de surendettement mentionnée à l'article L. 331-1 du code de la consommation par des tiers tenus
+au paiement de l'impôt vaut demande de dispense de paiement au sens de l'article R. 247-10 du présent livre dès lors que
+cette saisine satisfait aux conditions prévues à l'article R. 331-7-3 du code de la consommation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2004-180 du 24 février 2004 - art. 5 () JORF 25 février 2004
+
+_Transféré par_:
+
+  - Décret n°2005-331 du 6 avril 2005 - art. 2 () JORF 8 avril 2005
+
+_Cite_:
+
+  - Code de la consommation - art. L331-1 (M)
+  - Code de la consommation L331-1, R331-7-3
+  - Livre des procédures fiscales - art. R247-10 (M)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
+
+_Nouveaux textes_:
+
+  - Livre des procédures fiscales R247-18
 
 
 ###### Article R*247-12
