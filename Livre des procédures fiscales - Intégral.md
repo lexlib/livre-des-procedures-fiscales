@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-02-23
 ## Contenu: 
   - [Partie législative (art. L1 à L283)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -11789,8 +11789,7 @@ _Cité par_:
 ###### Article R*1-1
 
 L'administration soumet à la commission départementale des impôts directs et des taxes sur le chiffre d'affaires les
-propositions mentionnées à l'article L. 1 entre le 1er décembre de l'année de l'imposition et le 15 février de l'année
-suivante [*période*].
+propositions mentionnées à l'article L. 1 au plus tard le 31 mai suivant l'année d'imposition.
 
 **Liens relatifs à cet article**
 
@@ -11798,41 +11797,43 @@ _Anciens textes_:
 
   - CGI 66 1 (AL. 2 2ème LIGNE)
 
+_Modifié par_:
+
+  - Décret n°93-230 du 14 février 1993 - art. 1 () JORF 23 février 1993
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1998-12-09 5E-6-98
+
 _Cite_:
 
-  - CGI L1
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
+  - Livre des procédures fiscales - art. L1 (V)
 
 
 ###### Article R*1-2
 
-Les membres de la commission départementale [*des impots directs et des taxes sur le chiffre d'affaires*] doivent avoir
-connaissance du montant des bénéfices forfaitaires adoptés dans le département et dans les départements limitrophes au titre
-de l'année précédente.
+Les membres de la commission départementale doivent avoir connaissance du montant des bénéfices forfaitaires adoptés dans le
+département et dans les départements limitrophes au titre de l'année précédente. 
 
 La commission recueille l'avis du directeur départemental de l'agriculture et de la forêt. Celui-ci peut se faire représenter
-par un fonctionnaire de son service.
+par un fonctionnaire de son service. 
 
-Elle prend sa décision dans les conditions prévues à l'article 1651-7 du code général des impôts, au plus tard le 15 février
-suivant l'année d'imposition. Toutefois, pour les cultures spéciales dont la valeur des récoltes ne peut être appréciée avec
-une exactitude suffisante à cette date, la décision peut être retardée jusqu'au 31 mai.
+Elle prend sa décision à la majorité des voix ou, en cas de partage des voix, dans les conditions prévues au second alinéa de
+l'article 1651 du code général des impôts au plus tard le 31 mai suivant l'année d'imposition.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1651 7
-
 _Modifié par_:
 
-  - Décret n°84-1193 du 28 décembre 1984 - art. 1 (Ab) JORF 29 décembre 1984
+  - Décret n°93-230 du 14 février 1993 - art. 2 () JORF 23 février 1993
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°86-1087 1986-10-07
+  - Code général des impôts, CGI. - art. 1651 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Instruction 1998-12-09 5E-6-98
 
 
 ###### Article R*2-1
