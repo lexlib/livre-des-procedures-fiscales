@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-07-19
+Version Consolidée au 1985-07-26
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -9703,8 +9703,7 @@ _Cite_:
 
 Les caisses des organisations autonomes d'allocation de vieillesse désignées à l'article L. 645 du code de la sécurité
 sociale et aux articles 1108 et 1136 du code rural peuvent recevoir de l'administration des impôts communication des
-renseignements détenus par celle-ci et nécessaires à l'instruction des demandes tendant à l'attribution de l'allocation de
-vieillesse.
+renseignements détenus par celle-ci et nécessaires à l'accomplissement de leur mission.
 
 **Liens relatifs à cet article**
 
@@ -9720,9 +9719,13 @@ _Anciens textes_:
 
 _Cite_:
 
+  - Code de la sécurité sociale L645
   - Code rural 1108
   - Code rural 1136
-  - Code de la sécurité sociale L645
+
+_Modifié par_:
+
+  - Loi n°85-772 du 25 juillet 1985 - art. 28 () JORF 26 juillet 1985
 
 
 ###### Article L160
