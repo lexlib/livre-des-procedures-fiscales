@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2000-03-31
+Version Consolidée au 2000-08-31
 ## Contenu: 
   - [Partie législative (art. L1 à L288)](#1)
     - [Première partie : Partie législative (art. L1 à L288)](#2)
@@ -83,7 +83,7 @@ Version Consolidée au 2000-03-31
             - [2° : Publicité de l'impôt (art. L111 à L112)](#80)
           - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L166)](#81)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#82)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 J)](#83)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 L)](#83)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139 A)](#84)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 C)](#85)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151)](#86)
@@ -7181,6 +7181,35 @@ _Cité par_:
 _Cite_:
 
   - Livre des procédures fiscales - art. L135 B (M)
+
+
+###### Article L135 L
+
+Dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité
+publique, les agents de la direction générale de la comptabilité publique, de la direction générale des douanes et droits
+indirects, de la direction générale des impôts et de la direction générale de la concurrence, de la consommation et de la
+répression des fraudes doivent répondre aux demandes formulées par les officiers et agents de police judiciaire concernant
+les renseignements et documents de nature financière, fiscale ou douanière, sans que puisse être opposée l'obligation au
+secret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2002-1094 2002-08-29 art. 5 JORF 30 août 2002
+
+_Codifié par_:
+
+  - Décret n°2002-1208 2002-09-27
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1649 quater-0 B bis (V)
+  - Code général des impôts, CGI. - art. 1649 quater-0 B ter (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2002
 
 
 ##### III : Dérogations au profit de diverses commissions<a id=84></a>
