@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2001-03-31
+Version Consolidée au 2001-10-06
 ## Contenu: 
   - [Partie législative (art. L1 à L288)](#1)
     - [Première partie : Partie législative (art. L1 à L288)](#2)
@@ -18878,13 +18878,11 @@ Après examen de la demande, la décision appartient :
 
 a) Au trésorier-payeur général sur avis conforme du directeur des services fiscaux lorsque les sommes n'excèdent pas 2 000
 000 F par cote. Toutefois, lorsque les sommes n'excèdent pas 250 000 F par cote, le trésorier-payeur général prend la
-décision si le directeur des services fiscaux n'a pas formulé son avis dans le délai de trois mois.
+décision si le directeur des services fiscaux n'a pas formulé son avis dans le délai de deux mois.
 
-b) Abrogé (M).
+b) Abrogé.
 
-c) ((Au ministre de l'économie, des finances et de l'industrie, dans les autres cas.)) (M)
-
-(M) Modification.
+c) Au ministre de l'économie, des finances et de l'industrie, dans les autres cas.
 
 **Liens relatifs à cet article**
 
@@ -18893,12 +18891,6 @@ _Anciens textes_:
   - CGIAN3 424 1
   - CGIAN3 425 1
 
-_Modifié par_:
-
-  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
-  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (M) JORF 27 décembre 1997
-  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
-
 _Cité par_:
 
   - Décret n°97-1194 du 19 décembre 1997 - art. Annexe (V)
@@ -18906,13 +18898,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*247-10 A (T)
   - Livre des procédures fiscales - art. R*247-18 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°98-401 1998-05-22
-
-**Liens**:
-
-  - HISTO: Edition du 22 avril 1998
+  - Décret n°2001-907 du 3 octobre 2001 - art. 1 () JORF 6 octobre 2001
 
 
 ###### Article R247-11
