@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1981-07-01
+Version Consolidée au 1981-07-07
 ## Contenu: 
   - [Partie législative (art. L1 à L218)](#1)
     - [Première partie : Partie législative (art. L1 à L218)](#2)
@@ -28,9 +28,9 @@ Version Consolidée au 1981-07-01
           - [Section IV : Procédures de rectification (art. L60 à L63)](#25)
             - [I : Procédure de redressement contradictoire (art. L60 à L61)](#26)
             - [III : Procédure spéciale de l'article 168 du code général des impôts (art. L63)](#27)
-          - [Section V : Procédures d'imposition d'office (art. L70 à L76 A)](#28)
-            - [I : Taxation d'office (art. L70 à L72)](#29)
-              - [B : En cas de défaut de réponse à une demande d'éclaircissements ou de justifications (art. L70)](#30)
+          - [Section V : Procédures d'imposition d'office (art. L69 à L76 A)](#28)
+            - [I : Taxation d'office (art. L69 à L72)](#29)
+              - [B : En cas de défaut de réponse à une demande d'éclaircissements ou de justifications (art. L69 à L70)](#30)
               - [D : En cas de défaut de désignation d'un représentant en France (art. L72)](#31)
             - [IV : Notification et suite des impositions d'office (art. L76 A)](#32)
           - [Section VI : Conséquences et limites des procédures de rectification (art. L78 à L80 A)](#33)
@@ -589,6 +589,45 @@ _Cité par_:
 ##### I : Taxation d'office<a id=29></a>
 
 ##### B : En cas de défaut de réponse à une demande d'éclaircissements ou de justifications<a id=30></a>
+
+###### Article L69
+
+Sous réserve des dispositions particulières au mode de détermination des bénéfices industriels et commerciaux, des bénéfices
+agricoles et des bénéfices non commerciaux, sont taxés d'office à l'impôt sur le revenu les contribuables qui se sont
+abstenus de répondre aux demandes d'éclaircissements ou de justifications prévues à l'article L. 16.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - CGI 179 (AL. 2)
+  - Décret n°48-1986 1948-12-09 ART. 85 (LOI 48-1268 1948-08-17 ART. 5)
+  - Décret n°1934-07-20 ANNEXE ART. 128 2° (LOI 1934-07-06 ART. 13)
+  - Loi n°1941-01-13 ANNEXE I ART. 128 2°
+
+_Codifié par_:
+
+  - Décret n°81-859 1981-09-15
+
+_Cité par_:
+
+  - Loi n°89-936 du 29 décembre 1989 - art. 98 (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1600-0 C (M)
+  - Code de la sécurité sociale. - art. L136-6 (VT)
+  - Code général des impôts, CGI. - art. 151 (V)
+  - Code général des impôts, CGI. - art. 1600-0 H (V)
+  - Livre des procédures fiscales - art. L192 (V)
+  - Livre des procédures fiscales - art. L70 (V)
+  - Livre des procédures fiscales - art. L76 (VD)
+
+**Liens**:
+
+  - HISTO: Edition du 1er juillet 1981
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L16 (V)
+
 
 ###### Article L70
 
