@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-12-21
+Version Consolidée au 1985-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L279)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -92,7 +92,7 @@ Version Consolidée au 1985-12-21
               - [B : Dispositions particulières à certains impôts (art. L171 à L172 C)](#89)
             - [II : Impôts directs locaux et taxes assimilées (art. L173 à L175)](#90)
           - [Section II : Taxes sur le chiffre d'affaires (art. L177)](#91)
-          - [Section III : Contributions indirectes (art. L178 A à L179)](#92)
+          - [Section III : Contributions indirectes (art. L178 à L179)](#92)
           - [Section IV : Droits d'enregistrement, taxe de publicité foncière, impôt de solidarité sur la fortune, droits de timbre, droits et taxes assimilés (art. L181 à L183)](#93)
             - [II : Dispositions particulières (art. L181 à L183)](#94)
           - [Section VII : Dispositions applicables à l'ensemble des impôts (art. L186 à L188)](#95)
@@ -171,8 +171,8 @@ Version Consolidée au 1985-12-21
       - [LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT (art. L199 à L208)](#168)
         - [PROCEDURE DEVANT LES TRIBUNAUX. (art. L199 à L199 A)](#169)
         - [CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX. (art. L208)](#170)
-      - [LES PROCEDURES PENALES (art. L240 à L246)](#171)
-        - [EXERCICE DES POURSUITES PENALES. (art. L240 à L246)](#172)
+      - [LES PROCEDURES PENALES (art. L246)](#171)
+        - [EXERCICE DES POURSUITES PENALES. (art. L246)](#172)
     - [LE RECOUVREMENT DE L'IMPOT (art. L252 à L279)](#173)
       - [LES PROCEDURES DE RECOUVREMENT. (art. L252 à L271)](#174)
         - [MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES. (art. L255)](#175)
@@ -5565,6 +5565,39 @@ _Codifié par_:
 
 ##### Section III : Contributions indirectes<a id=92></a>
 
+###### Article L178
+
+Pour les droits, taxes, redevances, soultes et autres impositions indirectes, le droit de reprise de l'administration
+s'exerce jusqu'à l'expiration de la première année suivant celle au cours de laquelle se situe le fait générateur de l'impôt.
+
+Toutefois, en ce qui concerne l'impôt sur les spectacles prévu à l'article 1559 du code général des impôts, la taxe annuelle
+sur les jeux de boules et de quilles comportant des dispositifs électromécaniques prévue à l'article 1582 bis du même code et
+la taxe spéciale sur le prix des places cinématographiques prévue à l'article 1621 du même code, le droit de reprise de
+l'administration s'exerce dans le délai fixé par l'article L. 176 en matière de taxes sur le chiffre d'affaires.
+
+Des dispositions particulières, prévues aux articles 621 à 624 du code général des impôts, s'appliquent par ailleurs aux
+acquits-à-caution.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1559
+  - CGI 1582 bis
+  - CGI 1621
+  - CGI 621 à 624
+  - CGI L176
+
+_Modifié par_:
+
+  - Loi n°84-1208 1984-12-29 art. 92 Finances pour 1985 JORF 30 décembre 1984
+  - Loi n°85-1403 du 30 décembre 1985 - art. 30 () JORF 31 décembre 1985
+
+_Codifié par_:
+
+  - Décret n°86-1087 1986-10-07
+
+
 ###### Article L178 A
 
 Pour les taxes, cotisations, redevances sur les céréales et produits dérivés, le droit de reprise de l'administration
@@ -7219,6 +7252,30 @@ _Codifié par_:
 _Abrogé par_:
 
   - Loi n°2011-525 du 17 mai 2011 - art. 161
+
+
+###### Article L240
+
+Par décision expresse du tribunal, celui qui est condamné pour une infraction en matière de contributions indirectes peut,
+malgré appel ou pourvoi en cassation, être maintenu en détention jusqu'à ce qu'il ait acquitté le montant des sanctions
+fiscales prononcées contre lui ; la durée de la détention accomplie dans ces conditions à compter de la condamnation s'impute
+sur celle de la contrainte par corps et ne peut excéder la durée prévue par le code de procédure pénale pour une condamnation
+pécuniaire de même montant que celui des sanctions fiscales prononcées.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 10 août 1987
+  - HISTO: Edition du 1er janvier 2004
+
+_Modifié par_:
+
+  - Loi n°85-1407 1986-12-30 art. 76 JORF 31 décembre 1985
+
+_Abrogé par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article L241
@@ -9120,23 +9177,23 @@ _Cité par_:
 
 ###### Article L67
 
-La procédure de taxation d'office prévue à l'article L. 66-1° n'est applicable que si le contribuable n'a pas régularisé sa
-situation dans les trente jours de la notification d'une première mise en demeure [*délai*].
+La procédure de taxation d'office prévue aux 1° et 4° de l'article L. 66 n'est applicable que si le contribuable n'a pas
+régularisé sa situation dans les trente jours de la notification d'une première mise en demeure [*délai*].
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - CGI 179 A (AL. 1)
-  - Loi n°77-1453 1977-12-29 ART. 3 I 1 (AL. 1)
-
 _Cite_:
 
+  - CGI 461
   - CGI L66 1°
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_ASSOCIE: CGI L68
+  - Loi n°85-1403 du 30 décembre 1985 - art. 67 () JORF 31 Décembre 1985
+
+_Codifié par_:
+
+  - Décret n°86-1087 1986-10-07
 
 _Cité par_:
 
@@ -10335,23 +10392,6 @@ _Cité par_:
 ### LES PROCEDURES PENALES<a id=171></a>
 
 #### EXERCICE DES POURSUITES PENALES.<a id=172></a>
-
-###### Article L240
-
-Par décision expresse du tribunal, celui qui est condamné pour une infraction en matière de contributions indirectes peut,
-malgré appel ou pourvoi en cassation, être maintenu en détention jusqu'à ce qu'il ait acquitté le montant des sanctions
-fiscales prononcées contre lui [*paiement*] ; sauf dans le cas de trafic de stupéfiants, la durée de la détention accomplie
-dans ces conditions à compter de la condamnation s'impute sur celle de la contrainte par corps prononcée par le tribunal et
-ne peut excéder le minimum prévu par le code de procédure pénale pour une condamnation pécuniaire de même montant que celui
-des sanctions fiscales prononcées.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 1866 (AL. 2)
-  - Loi n°77-1453 1977-12-29 ART. 15 II
-
 
 ###### Article L246
 
