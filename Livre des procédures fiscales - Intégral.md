@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1990-12-30
+Version Consolidée au 1991-06-24
 ## Contenu: 
   - [Partie législative (art. L1 à L283)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -54,7 +54,7 @@ Version Consolidée au 1990-12-30
               - [D : En cas de défaut de désignation d'un représentant en France (art. L72 à L72 A)](#51)
             - [II : Évaluation d'office (art. L73 à L74)](#52)
             - [IV : Notification et suite des impositions d'office (art. L76 à L76 A)](#53)
-          - [Section VI : Conséquences et limites des procédures de rectification (art. L77 à L80 C)](#54)
+          - [Section VI : Conséquences et limites des procédures de rectification (art. L77 à L80 CA)](#54)
           - [Section VII : Sanctions fiscales (art. L80 D à L80 E)](#55)
         - [Chapitre II : Le droit de communication (art. L81 à L102 A)](#56)
           - [Section I : Définition et étendue du droit de communication (art. L81)](#57)
@@ -91,7 +91,7 @@ Version Consolidée au 1990-12-30
           - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L165)](#88)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#89)
               - [Section II : Dérogations à la règle du secret professionnel (art. L114 A)](#90)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 D)](#91)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 E)](#91)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139 A)](#92)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 A)](#93)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151)](#94)
@@ -103,9 +103,9 @@ Version Consolidée au 1990-12-30
               - [Syndicats. (art. L165)](#100)
         - [Chapitre IV : Les délais de prescription (art. L168 à L189)](#101)
           - [Section I : Impôts directs et taxes assimilées (art. L169 à L175)](#102)
-            - [I : Impôts directs d'État (art. L169 à L172 C)](#103)
+            - [I : Impôts directs d'État (art. L169 à L172 E)](#103)
               - [A : Dispositions générales (art. L169 à L170)](#104)
-              - [B : Dispositions particulières à certains impôts (art. L171 à L172 C)](#105)
+              - [B : Dispositions particulières à certains impôts (art. L171 à L172 E)](#105)
             - [II : Impôts directs locaux et taxes assimilées (art. L173 à L175)](#106)
           - [Section II : Taxes sur le chiffre d'affaires (art. L176 à L177)](#107)
           - [Section III : Contributions indirectes (art. L178 à L179)](#108)
@@ -188,7 +188,7 @@ Version Consolidée au 1990-12-30
                 - [1 : Contributions indirectes (art. R*26-1 à R*32-2)](#185)
                 - [Contributions indirectes. (art. R*26-2 à R33-1)](#186)
                 - [2 : Droits de timbre (art. R37-1)](#187)
-          - [Section III : Modalités d'exercice du droit de contrôle (art. R45 B-1 à R45 D-1)](#188)
+          - [Section III : Modalités d'exercice du droit de contrôle (art. R45 B-1 à R45 E-1)](#188)
           - [Section IV : Procédures de rectification (art. R*57-1 à R*64-1)](#189)
             - [I : Procédure de rectification contradictoire (art. R*57-1 à R60-2 A)](#190)
             - [II : Procédure de règlement particulière. (art. R62-1 à R62-3)](#191)
@@ -940,16 +940,17 @@ retranchées du revenu net global ou ouvrant droit à une réduction d'impôt su
 sexies et 199 septies du code général des impôts, ainsi que des avoirs ou revenus d'avoirs à l'étranger.
 
 L'administration peut demander au contribuable des justifications sur tous les éléments servant de base à la détermination du
-revenu foncier tels qu'ils sont définis aux articles 28 à 33 quater du code général des impôts.    Les demandes visées aux
-alinéas précédents doivent indiquer explicitement les points sur lesquels elles portent et mentionner à l'intéressé le délai
-de réponse dont il dispose en fonction des textes en vigueur.
+revenu foncier tels qu'ils sont définis aux articles 28 à 33 quinquies du code général des impôts.
+
+Les demandes visées aux alinéas précédents doivent indiquer explicitement les points sur lesquels elles portent et mentionner
+à l'intéressé le délai de réponse dont il dispose en fonction des textes en vigueur.
 
 Elle peut également lui demander des justifications lorsqu'elle a réuni des éléments permettant d'établir que le contribuable
 peut avoir des revenus plus importants que ceux qu'il a déclarés. En particulier, si le contribuable allègue la possession de
 bons ou de titres dont les intérêts ou arrérages sont exclus du décompte des revenus imposables en vertu de l'article 157 du
 même code, l'administration peut exiger la preuve de la possession de ces bons ou titres et celle de la date à laquelle ils
 sont entrés dans le patrimoine de l'intéressé. Le contribuable ne peut pas alléguer la vente ou le remboursement de bons
-mentionnés à l'article 125 A-III bis-2° du code général des impôts, ou de titres de même nature quelle que soit leur date
+mentionnés à l'article 125 A III bis 2° du code général des impôts, ou de titres de même nature quelle que soit leur date
 d'émission, lorsqu'il n'avait pas communiqué son identité et son domicile fiscal à l'établissement payeur dans les conditions
 prévues au 4° et 6° du III bis du même article. Il en va de même pour les ventes d'or monnayé ou d'or en barres ou en lingots
 de poids et de titres admis par la Banque de France, lorsque l'identité et le domicile du vendeur n'avaient pas été
@@ -962,13 +963,8 @@ l'intéressé, pour fournir sa réponse, un délai qui ne peut être inférieur 
 
 _Cite_:
 
-  - CGI 125 A III bis 2°, 4°, 6°
-  - CGI 156
-  - CGI 157
-  - CGI 199 septies
-  - CGI 199 sexies
-  - CGI 28 à 33 quater
-  - CGI L11
+  - CGI 156, 157, 28 à 33 quinquies, 199 sexies, 199 septies, 125 A III bis 2°, 4°, 6°
+  - Livre des procédures fiscales - art. L11 (V)
 
 _Anciens textes_:
 
@@ -982,10 +978,14 @@ _Anciens textes_:
   - Loi n°61-1396 1961-12-21 ART. 79 I
   - Loi n°70-576 du 3 juillet 1970 - art. 13, v. init.
 
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
+
 _Cité par_:
 
-  - Code général des impôts, CGI. - art. 204 (V)
   - Loi n°83-1179 du 29 décembre 1983 - art. 91 (V)
+  - Code général des impôts, CGI. - art. 204 (V)
   - Livre des procédures fiscales - art. L192 (VD)
   - Livre des procédures fiscales - art. L62 (V)
   - Livre des procédures fiscales - art. L69 (V)
@@ -993,8 +993,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°89-935 du 29 décembre 1989 - art. 98 7° Finances pour 1990 JORF du 30 décembre 1989(V)
-  - Modification directe incorporée dans l'édition du 15 juin 1990
+  - Loi n°90-1169 du 29 décembre 1990 - art. 39 () JORF 30 décembre 1990
+
+_Codifié par_:
+
+  - Décret n°91-882 1991-09-09
 
 
 ###### Article L16 A
@@ -3848,6 +3851,22 @@ _Cité par_:
   - HISTO: Edition du 31 mars 2000
 
 
+###### Article L80 CA
+
+La juridiction saisie peut, lorsqu'une erreur non substantielle a été commise dans la procédure d'imposition, prononcer, sur
+ce seul motif, la décharge des majorations et amendes, à l'exclusion des droits dus en principal et des intérêts de retard.
+
+Elle prononce la décharge de l'ensemble lorsque l'erreur a eu pour effet de porter atteinte aux droits de la défense ou
+lorsqu'elle est de celles pour lesquelles la nullité est expressément prévue par la loi ou par les engagements internationaux
+conclus par la France.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°90-1169 du 29 décembre 1990 - art. 45 () JORF 30 décembre 1990
+
+
 ##### Section VII : Sanctions fiscales<a id=55></a>
 
 ###### Article L80 D
@@ -4743,6 +4762,30 @@ _Cite_:
   - Code de la sécurité sociale L815-1 à L815-22
 
 
+###### Article L98 A
+
+Les organismes débiteurs du revenu minimum d'insertion sont tenus de fournir à l'administration, avant le 15 février de
+chaque année, la liste des personnes auxquelles l'allocation a été versée ou supprimée entre le 1er octobre de l'année
+précédente et le 31 janvier de l'année et, avant le 15 octobre de chaque année, la liste des personnes auxquelles
+l'allocation a été versée ou supprimée entre le 1er février et le 30 septembre de l'année (1).
+
+(1) Cet article reprend sans modification l'article L98 A.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1414 (M)
+
+_Codifié par_:
+
+  - Décret n°91-882 1991-06-24
+
+_Créé par_:
+
+  - Loi - art. 24 () JORF 30 décembre 1990
+
+
 ###### Article L99
 
 Les organismes ou caisses de sécurité sociale ainsi que les caisses de mutualité sociale agricole, doivent communiquer à
@@ -5301,8 +5344,14 @@ Des dérogations à la règle du secret professionnel sont établies au profit d
 collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
 
 Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 127, L. 130, L. 135, L. 135 B, L. 135
-D, L. 136, L. 139 A, L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au secret professionnel dans
-les termes de l'article 378 du code pénal.
+D, L. 135 E, L. 136, L. 139 A, L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au secret
+professionnel dans les termes de l'article 378 du code pénal.
+
+**Nota:**
+
+NOTA - Loi 92-1336 1992-12-16 art. 333 : toute référence aux dispositions de l'article 378 du code pénal est remplacée par la
+référence aux articles 226-13 et 226-14 du code pénal. Lorsqu'il est fait référence aux peines prévues par l'article 378 du
+code pénal, cette mention vise les peines fixées par l'article 226-13 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -5315,6 +5364,7 @@ _Cite_:
   - CGI L127
   - CGI L130
   - CGI L135
+  - CGI L135 E
   - CGI L136
   - CGI L139 A
   - CGI L152 A
@@ -5351,11 +5401,15 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°89-1010 1989-12-31 art. 7 JORF 2 janvier 1990 en vigueur le 1er mars
+  - Loi n°91-3 1991-01-03 art. 1 JORF 5 janvier 1991
 
 _Codifié par_:
 
-  - Décret n°90-799 1990-09-10
+  - Décret n°91-882 1991-09-09
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°92-1336 1992-12-16 art. 333
 
 _Cité par_:
 
@@ -6041,22 +6095,26 @@ _Cité par_:
 
 ###### Article L135 A
 
-Conformément à l'article L. 950-8 du code du travail, l'administration des impôts est tenue de communiquer aux agents chargés
+Conformément à l'article L. 991-3 du code du travail, l'administration des impôts est tenue de communiquer aux agents chargés
 de la formation professionnelle continue les renseignements nécessaires à l'accomplissement de leur mission.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code du travail - art. L950-8 (M)
-
 _Codifié par_:
 
-  - Décret n°84-876 1984-10-01
+  - Décret n°91-882 1991-09-09
 
-_Créé par_:
+_Cite_:
 
-  - loi 84-130 1984-02-24 art. 43 JORF 25 février 1984
+  - Code du travail - art. L991-3 (T)
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
+
+_Modifié par_:
+
+  - Loi n°90-579 1990-04-04 art. 19 I IV JORF 10 juillet 1990
 
 
 ###### Article L135 B
@@ -6133,6 +6191,39 @@ _Cité par_:
   - Code de la recherche - art. L511-3 (V)
   - Livre des procédures fiscales - art. L113 (V)
   - Livre des procédures fiscales - art. R135 D-1 (V)
+
+
+###### Article L135 E
+
+Les membres de la mission interministérielle d'enquête sur les marchés créée par l'article 1er de la loi n° 91-3 du 3 janvier
+1991 peuvent, pour les nécessités de l'enquête et sans se voir opposer le secret professionnel, accéder à tout document ou
+élément d'information détenu par l'administration des impôts.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 24 juin 1991
+
+_Cite_:
+
+  - Loi n°91-3 1991-01-03 art. 1
+
+_Créé par_:
+
+  - Loi n°91-3 1991-01-03 art. 1 JORF 5 janvier 1991
+
+_Codifié par_:
+
+  - Décret n°91-882 1991-09-09
+
+_Abrogé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 112
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. L113 (VT)
 
 
 ##### III : Dérogations au profit de diverses commissions<a id=92></a>
@@ -7608,6 +7699,23 @@ _Cite_:
   - Livre des procédures fiscales - art. L180 (V)
 
 
+###### Article L172 E
+
+Lorsque le bénéficiaire de la réduction d'impôt visée aux I et II de l'article 88 de la loi n° 81-1160 du 30 décembre 1981
+modifiée est remboursé en tout ou partie de ses dépenses par un tiers, dans le délai de dix ans, il fait l'objet, au titre de
+l'année du remboursement, d'une majoration de son impôt sur le revenu égale à 25 % de la somme remboursée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
+
+_Codifié par_:
+
+  - Décret n°91-882 1991-09-09
+
+
 ##### II : Impôts directs locaux et taxes assimilées<a id=106></a>
 
 ###### Article L173
@@ -8446,13 +8554,13 @@ _Cité par_:
 
 En matière d'impôts directs et de taxes sur le chiffre d'affaires ou de taxes assimilées, les décisions rendues par
 l'administration sur les réclamations contentieuses et qui ne donnent pas entière satisfaction aux intéressés peuvent être
-portées devant le tribunal administratif. Il en est de même pour les décisions prises d'office en matière de transfert ou de
-mutation de cote en application des dispositions de l'article 1404 du code général des impôts ainsi que pour les décisions
-intervenues en cas de contestation pour la fixation du montant des abonnements prévus à l'article 1700 du même code pour les
-établissements soumis à l'impôt sur les spectacles.
+portées devant le tribunal administratif. Il en est de même pour les décisions prises d'office en matière de mutation de cote
+en application des dispositions de l'article 1404 du code général des impôts ainsi que pour les décisions intervenues en cas
+de contestation pour la fixation du montant des abonnements prévus à l'article 1700 du même code pour les établissements
+soumis à l'impôt sur les spectacles.
 
 En matière de droits d'enregistrement, de taxe de publicité foncière, de droits de timbre, de contributions indirectes et de
-taxes assimilées à ces droits, taxes ou contributions, le tribunal compétent est le tribunal de grande instance. Les
+taxes assimilées à ces droits, taxes ou contributions , le tribunal compétent est le tribunal de grande instance. Les
 jugements des tribunaux de grande instance sont sans appel et ne peuvent être attaqués que par voie de cassation.
 
 **Liens relatifs à cet article**
@@ -8475,11 +8583,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°87-502 1987-07-08 art. 15 JORF 9 juillet 1987
+  - Loi n°90-1169 du 29 décembre 1990 - art. 44 () JORF 30 décembre 1990
 
 _Codifié par_:
 
-  - Décret n°87-941 1987-11-23
+  - Décret n°91-882 1991-09-09
 
 _Cité par_:
 
@@ -11055,27 +11163,26 @@ ou considéré comme tacitement accordé.
 
 ###### Article L274 C
 
-Lorsqu'une cotisation de taxe foncière sur les propriétés bâties ou non bâties ou de taxe d'habitation a été mutée ou
-transférée, dans les conditions prévues à l'article 1404 ou au II de l'article 1413 du code général des impôts, au nom d'un
-redevable autre que celui figurant au rôle, l'action du comptable du Trésor à l'égard du nouveau débiteur de l'impôt s'exerce
-à compter de la date de notification de la décision de mutation ou de transfert au redevable dans les délais prévus à
-l'article L. 274.
+Lorsqu'une cotisation de taxe foncière sur les propriétés bâties ou non bâties a été mutée dans les conditions prévues à
+l'article 1404 du code général des impôts, au nom d'un redevable autre que celui figurant au rôle, l'action du comptable du
+Trésor à l'égard du nouveau débiteur de l'impôt s'exerce à compter de la date de notification de la décision de mutation au
+redevable, dans les délais prévus à l'article L. 274.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 1404
-  - CGI 1413 II
   - CGI L274
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°84-1208 du 29 décembre 1984 - art. 104 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+  - Loi n°90-1169 du 29 décembre 1990 - art. 44 () JORF 30 décembre 1990
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°85-1008 1985-09-24
+  - Loi n°93-1352 1993-12-30 art. 85 II, V Finances pour 1994 JORF 31 décembre 1993
+  - Loi n°93-1352 du 30 décembre 1993 - art. 85 (V) JORF 31 décembre 1993
 
 
 ###### Article L275
@@ -12107,22 +12214,71 @@ _Cité par_:
 
 ###### Article R45 D-1
 
-Les conclusions des contrôles des dépenses de formation exposées au titre du crédit d'impôt-formation mentionné à l'article
-L45 D sont communiquées à l'administration des impôts qui les notifie dans les conditions prévues au présent livre.
+Les contrôles de la réalité et du bien-fondé des dépenses de formation exposées au titre du crédit d'impôt-formation
+mentionné à l'article L. 45 D, effectués par les agents commissionnés par l'autorité administrative de l'Etat chargée de la
+formation professionnelle, peuvent être opérés soit sur pièces, soit sur place conformément à la procédure prévue à l'article
+R. 950-24 du code du travail.
+
+A l'occasion des contrôles sur place, les employeurs sont tenus de présenter les documents comptables prévus au titre II du
+livre Ier du code de commerce ainsi que tous documents et pièces de nature à justifier de la réalité et du bien-fondé des
+dépenses exposées au titre du crédit d'impôt-formation.
+
+Les conclusions des contrôles sont communiqués à l'employeur et à l'administration des impôts qui les notifie dans les
+conditions prévues au présent livre.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI L45 D
 
 **Liens**:
 
   - TXT_SOURCE: Loi n°88-1149 1988-12-23 art. 15 V Finances pour 1989
 
+_Modifié par_:
+
+  - Décret n°89-353 du 5 juin 1989 - art. 1 (V) JORF 7 juin 1989
+  - Décret n°89-353 du 5 juin 1989 - art. 2 () JORF 7 juin 1989
+
+_Codifié par_:
+
+  - Décret n°91-882 1991-09-09
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L45 D (M)
+  - Code du travail - art. R950-24 (T)
+
+
+###### Article R45 E-1
+
+Les agents du ministère chargé de l'emploi peuvent procéder à la constatation et la vérification sur place des conditions
+auxquelles est subordonné l'octroi du crédit d'impôt pour accroissement de la durée d'utilisation des équipements et
+réduction de la durée hebdomadaire du travail mentionné à l'article L45 E et des éléments servant à son calcul.
+
+Les entreprises sont alors tenues de présenter tous documents et de laisser procéder à toutes constatations matérielles.
+
+Les conclusions des contrôles sont communiquées à l'entreprise et à l'administration des impôts qui les notifie dans les
+conditions prévues au présent livre.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI Livre des procédures fiscales L45 D
+
 _Créé par_:
 
-  - Décret n°89-353 du 5 juin 1989 - art. 2 () JORF 7 juin 1989
+  - Décret n°90-607 du 12 juillet 1990 - art. 10 (V) JORF 13 juillet 1990
+  - Décret n°90-607 du 12 juillet 1990 - art. 11 () JORF 13 juillet 1990
+
+_Codifié par_:
+
+  - Décret n°91-882 1991-09-09
+  - Décret n°97-662 1997-05-28
+
+**Liens**:
+
+  - PEREMPTION: Décret n°97-662 du 28 mai 1997 - art. 2 () JORF 1er juin 1997
+  - HISTO: Edition du 11 avril 1997
+  - HISTO: Edition du 24 juin 1991
 
 
 ##### Section IV : Procédures de rectification<a id=189></a>
@@ -14608,9 +14764,8 @@ _Cite_:
 
 ###### Article R*210-1
 
-Les dégrèvements contentieux ainsi que les mutations de cote ou transferts d'impôts directs locaux entraînent les
-dégrèvements ou transferts correspondants des taxes établies d'après les mêmes bases, au profit de l'Etat, des départements,
-des communes ou de divers organismes.
+Les dégrèvements contentieux ainsi que les mutations de cote entraînent les dégrèvements correspondants des taxes établies
+d'après les mêmes bases, au profit de l'Etat, des départements, des communes ou de divers organismes.
 
 Toutefois, les décisions d'exonération permanente ou temporaire de la taxe foncière sur les propriétés bâties ou sur les
 propriétés non bâties n'entraînent le dégrèvement correspondant des taxes perçues au profit des départements et des communes
@@ -14625,7 +14780,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°89-948 du 22 décembre 1989 - art. 16 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990 : modification de la table des matières
+  - Loi n°90-1169 du 29 décembre 1990 - art. 44 () JORF 30 décembre 1990
+
+_Codifié par_:
+
+  - Décret n°91-882 1991-09-09
 
 
 ##### Section V : Dégrèvements d'office<a id=229></a>
@@ -14636,9 +14795,8 @@ L'administration des impôts peut prononcer d'office le dégrèvement ou la rest
 jusqu'au 31 décembre de la quatrième année suivant celle au cours de laquelle le délai de réclamation a pris fin, ou, en cas
 d'instance devant les tribunaux, celle au cours de laquelle la décision intervenue a été notifiée [*date limite*].
 
-Elle peut dans ce même délai prononcer d'office les dégrèvements des taxes foncières et de la taxe d'habitation indûment
-établies lorsque l'erreur d'imposition ne peut plus être rectifiée par un transfert de droits au nom de la personne qui
-aurait dû être imposée.
+Elle peut dans ce même délai prononcer d'office les dégrèvements des taxes foncières indûment établies lorsque l'erreur
+d'imposition ne peut plus être rectifiée par une mutation de cote au nom de la personne qui aurait dû être imposée. "
 
 Elle peut prononcer dans le délai de trente ans les dégrèvements d'office prévus aux articles 1390, 1391, 1414, 1414 A et
 1601 du code général des impôts relatifs à la taxe foncière sur les propriétés bâties, à la taxe d'habitation et à la taxe
@@ -14661,11 +14819,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°85-695 du 11 juillet 1985 - art. 34 (V) JORF 12 juillet 1985
+  - Loi n°90-1169 du 29 décembre 1990 - art. 44 () JORF 30 décembre 1990
 
 _Codifié par_:
 
-  - Décret n°85-1008 1985-09-24
+  - Décret n°91-882 1991-09-09
 
 _Cité par_:
 
@@ -14675,18 +14833,17 @@ _Cité par_:
 
 ###### Article R*211-2
 
-Les propositions de dégrèvements d'office, de restitutions, de mutations de cote et de transferts prévues à l'article R.
-211-1 peuvent être faites par les agents de l'administration des impôts et les comptables du Trésor, chargés du recouvrement
-[*autorités compétentes*]. Ces propositions sont portées sur des états adressés au directeur des services fiscaux pour la
-suite à donner.
+Les propositions de dégrèvements d'office, de restitutions et de mutations de cote prévues à l'article R. 211-1 peuvent être
+faites par les agents de l'administration des impôts et les comptables du Trésor, chargés du recouvrement [*autorités
+compétentes*]. Ces propositions sont portées sur des états adressés au directeur des services fiscaux pour la suite à donner.
 
 Les agents appartenant au corps des géomètres du cadastre sont également admis, dans les conditions fixées par le directeur
 général des impôts, à proposer d'office, en matière de taxe foncière, des mutations de cote et le dégrèvement des droits
 formant surtaxe.
 
 Sauf s'il s'agit des dégrèvements d'office prévus par les articles 1390, 1391, 1414 et 1414 A du code général des impôts, les
-propositions de dégrèvements, mutations ou transferts sont communiquées par l'administration au maire ou à la commission
-communale des impôts directs conformément à l'article R. 198-3.
+propositions de dégrèvements ou de mutations sont communiquées par l'administration au maire ou à la commission communale des
+impôts directs conformément à l'article R. 198-3.
 
 **Liens relatifs à cet article**
 
@@ -14701,7 +14858,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°85-695 du 11 juillet 1985 - art. 34 (V) JORF 12 juillet 1985
+  - Loi n°90-1169 du 29 décembre 1990 - art. 44 () JORF 30 décembre 1990
+
+_Codifié par_:
+
+  - Décret n°91-882 1991-09-09
 
 
 #### Chapitre II : Les procédures pénales<a id=230></a>
