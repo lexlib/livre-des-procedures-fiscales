@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1990-06-15
+Version Consolidée au 1990-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L283)](#1)
     - [Première partie : Partie législative (art. L1 à L283)](#2)
@@ -54,7 +54,7 @@ Version Consolidée au 1990-06-15
               - [D : En cas de défaut de désignation d'un représentant en France (art. L72 à L72 A)](#51)
             - [II : Évaluation d'office (art. L73 à L74)](#52)
             - [IV : Notification et suite des impositions d'office (art. L76 à L76 A)](#53)
-          - [Section VI : Conséquences et limites des procédures de rectification (art. L77 à L80 CA)](#54)
+          - [Section VI : Conséquences et limites des procédures de rectification (art. L77 à L80 C)](#54)
           - [Section VII : Sanctions fiscales (art. L80 D à L80 E)](#55)
         - [Chapitre II : Le droit de communication (art. L81 à L102 A)](#56)
           - [Section I : Définition et étendue du droit de communication (art. L81)](#57)
@@ -3835,38 +3835,6 @@ _Cité par_:
   - HISTO: Edition du 31 mars 2000
 
 
-###### Article L80 CA
-
-Lorsqu'une erreur non substantielle, qui n'a pas porté atteinte aux intérêts de la partie qu'elle concerne, a été commise
-dans la mise en oeuvre des articles L. 48, L. 49, L. 54 B, L. 57, L. 59, L. 76, L. 77, L. 80 D et L. 80 E du présent livre
-ainsi que dans la rédaction de l'avis de vérification mentionné à l'article L. 47 et qu'elle ne peut être rectifiée
-spontanément par l'administration, le juge peut autoriser celle-ci, sur sa demande, à la rectifier dans un délai maximum d'un
-mois suivant sa décision.
-
-[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 89-268 DC du 29 décembre
-1989.] cette autorisation peut être accordée [Dispositions déclarées non conformes à la Constitution par décision du Conseil
-constitutionnel n° 89-268 DC du 29 décembre 1989.] En cas de saisine d'un tribunal, elle ne peut toutefois intervenir après
-le jugement rendu en première instance.
-
-" Lorsque la rectification concerne les dispositions des articles L. 54 B, L. 57 premier alinéa, L. 76 et L. 77, le juge
-peut, dans les mêmes conditions, autoriser l'administration à engager une nouvelle procédure de redressements sans que
-puissent être opposées les dispositions des articles L. 12 et L. 50.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI L12, L47, L48, L49, L50, L54 B, L57, L59, L76, L77, L80 D, L80 E
-
-_Abrogé par_:
-
-  - Loi n°90-1169 1990-12-30 art. 45 II Finances rectificative pour 1990 JORF 30 décembre 1990
-
-_Créé par_:
-
-  - Loi n°89-936 du 29 décembre 1989 - art. 102 () JORF 30 décembre 1989
-
-
 ##### Section VII : Sanctions fiscales<a id=55></a>
 
 ###### Article L80 D
@@ -6662,7 +6630,8 @@ _Codifié par_:
 ###### Article L152
 
 Les agents de l'administration des impôts peuvent communiquer aux organismes de sécurité sociale les renseignements
-nécessaires à l'assiette des cotisations et au calcul des prestations.
+nécessaires à l'assiette des cotisations et au calcul des prestations ainsi qu'à l'assiette et au calcul de la contribution
+sociale généralisée.
 
 Ils peuvent également signaler aux directeurs régionaux de la sécurité sociale, aux directeurs régionaux des affaires
 sanitaires et sociales et aux directeurs régionaux et chefs des services départementaux du travail et de la protection
@@ -6704,6 +6673,10 @@ _Anciens textes_:
   - Loi n°52-401 du 14 avril 1952 - art. 15 ()
   - Décret n°77-429 du 22 avril 1977 - art. 18 (Ab)
   - Décret n°77-429 du 22 avril 1977 - art. 2 (Ab)
+
+_Modifié par_:
+
+  - Loi - art. 31 () JORF 30 décembre 1990
 
 
 ###### Article L152 A
