@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-07-01
+Version Consolidée au 2004-07-16
 ## Contenu: 
   - [Partie législative (art. L1 à L288)](#1)
     - [Première partie : Partie législative (art. L1 à L288)](#2)
@@ -171,7 +171,7 @@ Version Consolidée au 2004-07-01
           - [Section I : (art. R*1-1 à R1-3)](#168)
           - [Section II : (art. R*4-1)](#169)
       - [Titre II : Le contrôle de l'impôt (art. R*13-1 à R*178-1)](#170)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. R*13-1 à R*80 B-6)](#171)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. R*13-1 à R*80 C-4)](#171)
           - [Section I : Dispositions générales (art. R*13-1 à R13-2)](#172)
             - [2° : Dispositions relatives aux vérifications des comptabilités (art. R*13-1 à R13-2)](#173)
           - [Section II : Dispositions particulières à certains impôts (art. R16 B-1 à R36 B-1)](#174)
@@ -190,7 +190,7 @@ Version Consolidée au 2004-07-01
             - [II : Procédure de règlement particulière. (art. R62-1 à R62-3)](#187)
             - [III : Procédure spéciale de l'article 168 du code général des impôts (art. R*63-1)](#188)
             - [IV : Procédure de l'abus de droit fiscal (art. R*64-1 à R*64-2)](#189)
-          - [Section VI : Conséquences et limites des procédures de rectification (art. R*80 B-1 à R*80 B-6)](#190)
+          - [Section VI : Conséquences et limites des procédures de rectification (art. R*80 B-1 à R*80 C-4)](#190)
         - [Chapitre I bis : Le droit d'enquête (art. R80 F-1 à R80 F-3)](#191)
         - [Chapitre I ter : Le droit de contrôle des entrepôts (art. R80 K-1)](#192)
         - [Chapitre II : Le droit de communication (art. R*81 A-1 à R102 AA-1)](#193)
@@ -14836,6 +14836,97 @@ dispositions du d de l'article R. 80 B-5 ont été mises en oeuvre, à compter d
 _Créé par_:
 
   - Décret n°97-496 du 16 mai 1997 - art. 1 () JORF 18 mai 1997
+
+
+###### Article R*80 C-1
+
+La demande mentionnée à l'article L. 80 C, établie conformément à un modèle fixé par voie réglementaire, précise le nom de
+l'organisme et son adresse ainsi que l'identité du signataire. Elle fournit une présentation précise et complète de
+l'activité exercée par l'organisme ainsi que toutes les informations nécessaires pour permettre à l'administration
+d'apprécier si celui-ci relève de l'une des catégories mentionnées aux articles 200 et 238 bis du code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2004-692 du 12 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 200 (VT)
+  - Code général des impôts, CGI. - art. 238 bis (V)
+  - Livre des procédures fiscales - art. L80 C (V)
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R*80 C-2 (V)
+  - Livre des procédures fiscales - art. R*80 C-3 (V)
+
+
+###### Article R*80 C-2
+
+La demande mentionnée à l'article R.* 80 C-1 est adressée, par pli recommandé avec demande d'avis de réception, à la
+direction des services fiscaux du siège de l'organisme. Elle peut également faire l'objet d'un dépôt contre décharge.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2004-692 du 12 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2004
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R*80 C-3 (V)
+
+_Cite_:
+
+  - Livre des procédures fiscales R80 C-1
+
+
+###### Article R*80 C-3
+
+Si la demande mentionnée à l'article R. *80 C-1 ne permet pas d'apprécier la situation de l'organisme au regard des
+dispositions des articles 200 et 238 bis du code général des impôts, le directeur invite l'auteur de la demande, par lettre
+recommandée avec demande d'avis de réception, à fournir les éléments complémentaires nécessaires. Ces éléments sont produits
+dans les conditions prévues à l'article R. *80 C-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2004-692 du 12 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 200 (VT)
+  - Code général des impôts, CGI. - art. 238 bis (V)
+  - Livre des procédures fiscales - art. R*80 C-1 (V)
+  - Livre des procédures fiscales - art. R*80 C-2 (V)
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R*80 C-4 (V)
+
+
+###### Article R*80 C-4
+
+Le délai de six mois prévu à l'article L. 80 C court à compter de la réception de la demande ou, si les dispositions de
+l'article R. * 80 C-3 ont été mises en oeuvre, à compter de la réception des compléments demandés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2004-692 du 12 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L80 C (V)
+  - Livre des procédures fiscales - art. R*80 C-3 (V)
 
 
 #### Chapitre I bis : Le droit d'enquête<a id=191></a>
