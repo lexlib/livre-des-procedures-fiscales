@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2005-03-01
+Version Consolidée au 2005-04-09
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -85,7 +85,7 @@ Version Consolidée au 2005-03-01
             - [1° : Délivrance de documents aux contribuables (art. L104 à L110)](#82)
             - [2° : Publicité de l'impôt (art. L111 à L112)](#83)
           - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L166)](#84)
-            - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 C)](#85)
+            - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 B)](#85)
             - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 M)](#86)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139 A)](#87)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 C)](#88)
@@ -6492,29 +6492,6 @@ _Créé par_:
 _Abrogé par_:
 
   - Loi n°2008-1443 du 30 décembre 2008 - art. 69 (V)
-
-
-###### Article L114 C
-
-Pour l'application de la législation en matière d'impôts directs, de droits d'accises sur l'alcool, les boissons alcooliques
-et les tabacs manufacturés et de taxes assises sur les primes d'assurance, l'administration, sur demande d'un Etat membre de
-la Communauté européenne, procède ou fait procéder à la notification de tout acte ou décision émanant de cet Etat selon les
-règles en vigueur en France pour la notification d'actes ou de décisions. Elle peut également demander à un Etat membre de la
-Communauté européenne de procéder ou de faire procéder à la notification d'actes ou de décisions afférents aux mêmes impôts.
-
-**Liens relatifs à cet article**
-
-_Transféré par_:
-
-  - Décret n°2005-331 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
-
-_Nouveaux textes_:
-
-  - Livre des procédures fiscales L289
-
-_Créé par_:
-
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 22 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
 
 
 ##### II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics<a id=86></a>
