@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2005-07-01
+Version Consolidée au 2005-07-14
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -86,7 +86,7 @@ Version Consolidée au 2005-07-01
             - [2° : Publicité de l'impôt (art. L111 à L112)](#83)
           - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L166)](#84)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 B)](#85)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 M)](#86)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 N)](#86)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139 A)](#87)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 C)](#88)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151 A)](#89)
@@ -7683,6 +7683,30 @@ _Cité par_:
 _Créé par_:
 
   - Loi n°2004-204 du 9 mars 2004 - art. 172 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article L135 N
+
+Les agents de la Commission de régulation de l'énergie, habilités et assermentés en application de l'article 43 de la loi n°
+2000-108 du 10 février 2000 relative à la modernisation et au développement du service public de l'électricité, peuvent
+recevoir de l'administration fiscale les renseignements nécessaires à l'établissement du plafonnement de la contribution au
+service public de l'électricité institué par l'article 67 de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les
+orientations de la politique énergétique.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
+
+_Cite_:
+
+  - Loi n°2000-108 du 10 février 2000 - art. 43 (M)
+  - Loi n°2005-781 2005-07-13 art. 67
+
+_Créé par_:
+
+  - Loi n°2005-781 2005-07-13 art. 67 II JORF 14 juillet 2005
 
 
 ##### III : Dérogations au profit de diverses commissions<a id=87></a>
