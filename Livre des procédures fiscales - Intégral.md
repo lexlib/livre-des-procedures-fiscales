@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2005-12-08
+Version Consolidée au 2005-12-20
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -5716,23 +5716,19 @@ l'administration des impôts les faits susceptibles de constituer des infraction
 l'application des lois et règlements relatifs, d'une part, aux impôts et taxes en vigueur et, d'autre part, aux cotisations
 et contributions sociales.
 
-L'administration des impôts communique aux organismes et caisses de sécurité sociale ainsi qu'aux caisses de mutualité
-sociale agricole les faits susceptibles de constituer des infractions qu'elle relève en ce qui concerne l'application des
-lois et règlements relatifs aux cotisations et contributions sociales.
-
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 1999
-
-_Modifié par_:
-
-  - Loi - art. 106 () JORF 31 décembre 1998
 
 _Cité par_:
 
   - Décret n°2004-581 du 21 juin 2004 - art. 4 (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
+
+_Modifié par_:
+
+  - Loi n°2005-1579 du 19 décembre 2005 - art. 92 () JORF 20 décembre 2005
 
 
 ###### Article L101
@@ -8580,25 +8576,25 @@ Le numéro d'inscription au répertoire national d'identification des personnes 
 échanges et traitements nécessaires à la communication des informations mentionnées aux 1° à 4°, lorsqu'elles concernent des
 personnes physiques.
 
-Les agents des administrations fiscales peuvent également signaler aux directeurs régionaux de la sécurité sociale, aux
-directeurs régionaux des affaires sanitaires et sociales et aux directeurs régionaux et chefs des services départementaux du
-travail et de la protection sociale agricoles, les infractions qu'ils constatent en ce qui concerne l'application des lois et
-règlements relatifs au régime général ou au régime agricole de sécurité sociale.
+Dans le but de contrôler les conditions d'ouverture, de maintien ou d'extinction des droits aux prestations de sécurité
+sociale de toute nature, ainsi que le paiement des cotisations et contributions, les organismes et services mentionnés au
+premier alinéa peuvent demander aux administrations fiscales de leur communiquer une liste des personnes qui ont déclaré soit
+n'avoir plus leur domicile en France, soit n'avoir perçu que des revenus du patrimoine ou de placement.
+
+Les agents des administrations fiscales signalent aux directeurs régionaux des affaires sanitaires et sociales et aux chefs
+des services régionaux de l'inspection du travail, de l'emploi et de la politique sociale agricoles, ainsi qu'aux organismes
+de protection sociale les faits susceptibles de constituer des infractions qu'ils relèvent en ce qui concerne l'application
+des lois et règlements relatifs au régime général, au régime des travailleurs indépendants non agricoles, aux régimes
+spéciaux ou au régime agricole de sécurité sociale.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°52-401 du 14 avril 1952 - art. 15 ()
-  - Décret n°77-429 du 22 avril 1977 - art. 18 (Ab)
-  - Décret n°77-429 du 22 avril 1977 - art. 2 (Ab)
-  - CGI 2020 1 3°
 
 _Cité par_:
 
   - Arrêté du 14 juin 1982 - art. 4 (M)
   - Arrêté du 25 juillet 1988 - art. 6 (V)
   - Arrêté du 5 janvier 1990 - art. 6 (V)
+  - Arrêté du 5 juin 2013 - art. 2 (V)
   - Décret n°2002-771 du 3 mai 2002 - art. 1 (V)
   - Décret n°2004-581 du 21 juin 2004 - art. 4 (V)
   - Loi n°2004-803 du 9 août 2004 - art. 18 (M)
@@ -8606,7 +8602,6 @@ _Cité par_:
   - Décret n°2008-983 du 18 septembre 2008 - art. 7
   - Arrêté du 25 septembre 2008 - art. 1 (V)
   - Arrêté du 28 septembre 2010 - art. 1 (V)
-  - Arrêté du 5 juin 2013 - art. 2 (V)
   - Loi n°2015-1702 du 21 décembre 2015 - art. 32
   - Décret n°2019-341 du 19 avril 2019 - art. 2 (V)
   - Code de la construction et de l'habitation. - art. L351-12 (VT)
@@ -8626,14 +8621,20 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*152-1 (V)
   - Livre des procédures fiscales - art. R*288-1 (V)
 
-_Modifié par_:
+_Anciens textes_:
 
-  - Loi - art. 102 () JORF 31 décembre 2002
-  - Loi - art. 136 (V) JORF 31 décembre 2002
+  - CGI 2020 1 3°
+  - Loi n°52-401 du 14 avril 1952 - art. 15 ()
+  - Décret n°77-429 du 22 avril 1977 - art. 18 (Ab)
+  - Décret n°77-429 du 22 avril 1977 - art. 2 (Ab)
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2003
+  - HISTO: Edition du 1er janvier 2006
+
+_Modifié par_:
+
+  - Loi n°2005-1579 du 19 décembre 2005 - art. 92 () JORF 20 décembre 2005
 
 _Cite_:
 
