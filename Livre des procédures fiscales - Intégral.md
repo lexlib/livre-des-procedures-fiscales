@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-06
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -8969,31 +8969,26 @@ _Modifié par_:
 ###### Article L164
 
 Pendant une durée de cinq ans à compter de l'apport en société de biens pouvant faire l'objet du droit de préemption dont
-elles bénéficient en cas d'aliénation à titre onéreux de fonds agricole ou de terrains à vocation agricole les sociétés
-d'aménagement foncier et d'établissement rural (SAFER) reçoivent de l'administration des impôts, sur demande motivée,
-communication de la répartition entre les associés du capital de la société bénéficiaire, en vue de permettre, le cas
-échéant, à ces organismes de faire prononcer l'annulation de ces apports.
+elles bénéficient en cas d'aliénation à titre onéreux de biens immobiliers à utilisation agricole et de biens mobiliers qui
+leur sont attachés ou de terrains à vocation agricole les sociétés d'aménagement foncier et d'établissement rural (SAFER)
+reçoivent de l'administration des impôts, sur demande motivée, communication de la répartition entre les associés du capital
+de la société bénéficiaire, en vue de permettre, le cas échéant, à ces organismes de faire prononcer l'annulation de ces
+apports.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 2016 quater C
-  - Décret n°71-290 1971-04-15 art. 5
-  - Ordonnance 67-824 1967-09-23 art. 3
 
 **Liens**:
 
   - PILOTE_SUIVEUR: Code rural - art. L143-9 (V)
-  - HISTO: Edition du 1er juillet 1981
+  - HISTO: Edition du 1er janvier 2006
 
 _Cité par_:
 
   - Code rural - art. L143-9 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°81-859 1981-09-15
+  - Loi n°2006-11 du 5 janvier 2006 - art. 1 () JORF 6 janvier 2006
 
 
 ##### 3° : Syndicats<a id=98></a>
