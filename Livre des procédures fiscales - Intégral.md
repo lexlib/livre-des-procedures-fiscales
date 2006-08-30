@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2006-08-25
+Version Consolidée au 2006-08-31
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -249,9 +249,9 @@ Version Consolidée au 2006-08-25
             - [III : Dispositions particulières aux contributions indirectes (art. R235-1 à R238-1)](#246)
         - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247 A-1 à R*251 A-5)](#247)
           - [Les taxes d'urbanisme (art. R*251 A-1 à R*251 A-5)](#248)
-      - [Titre IV : Le recouvrement de l'impôt (art. R*256-4 à R283 B-10)](#249)
-        - [Chapitre premier : Les procédures de recouvrement (art. R*256-4 à R*275-1)](#250)
-          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R*256-4 à R256-8)](#251)
+      - [Titre IV : Le recouvrement de l'impôt (art. R*256-5 à R283 B-10)](#249)
+        - [Chapitre premier : Les procédures de recouvrement (art. R*256-5 à R*275-1)](#250)
+          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R*256-5 à R256-8)](#251)
             - [II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects (art. R*256-1 à R256-8)](#252)
           - [Section II : Exercice des poursuites (art. R*260 A-1 à R258-1)](#253)
           - [Section III : Mesures particulières (art. R*267-1 à R*273-1)](#254)
@@ -19297,31 +19297,43 @@ _Abrogé par_:
 
 ##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=251></a>
 
-###### Article R*256-4
+###### Article R*256-5
 
-L'avis de mise en recouvrement collectif est rédigé en un seul exemplaire, dit "original", qui est déposé au service des
-impôts ou à la recette des douanes et droits indirects chargé du recouvrement.
-
-Pour sa notification, il en est établi un "extrait" au nom de chacun des redevables qui y sont inscrits.
-
-Chaque extrait reproduit intégralement le texte de l'original, à l'exception des indications qui concernent personnellement
-les redevables autres que celui auquel il est destiné.
+Le directeur des services fiscaux ou le directeur régional des douanes et droits indirects compétent pour viser et rendre
+exécutoire l'avis de mise en recouvrement est celui sous l'autorité duquel se trouve placé le comptable chargé du
+recouvrement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - CGIAN2 391 2
-
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 42 (V) JORF 31 décembre 2005
-  - loi 2005-1720 2005-12-30 art. 42 II, III, art. 103 Finances rectificative pour 2005 JORF 31 décembre 2005
+  - Décret n°2006-1092 du 29 août 2006 - art. 1 () JORF 31 août 2006
 
 _Abrogé par_:
 
-  - Décret n°2006-1092 du 29 août 2006 - art. 2 (V) JORF 31 août 2006
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 14
+
+
+###### Article R*256-7
+
+L'avis de mise en recouvrement est réputé avoir été notifié :
+
+a) Dans le cas où l'" ampliation " a été effectivement remise par les services postaux au redevable ou à son fondé de
+pouvoir, le jour même de cette remise ;
+
+b) Lorsque la lettre recommandée n'a pu être distribuée du fait du redevable, le jour où en a été faite la première
+présentation.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2006-1092 du 29 août 2006 - art. 1 () JORF 31 août 2006
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R*257-0 A (T)
+  - Livre des procédures fiscales - art. R*257-0 A-1 (V)
 
 
 ###### Article R*257-1
@@ -19417,6 +19429,9 @@ du groupe, l'administration adresse à la société mère, préalablement à la 
 correspondant, un document l'informant du montant global par impôt des droits, des pénalités et des intérêts de retard dont
 elle est redevable. L'avis de mise en recouvrement, qui peut être alors émis sans délai, fait référence à ce document.
 
+L'avis de mise en recouvrement, dans le cas mentionné au deuxième alinéa de l'article L. 256, indique seulement le montant de
+la somme indûment versée, et la date de son versement.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -19426,7 +19441,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-1469 du 23 décembre 2004 - art. 1 () JORF 30 décembre 2004
+  - Décret n°2006-1092 du 29 août 2006 - art. 1 () JORF 31 août 2006
 
 _Cité par_:
 
@@ -19435,37 +19450,28 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article R*256-2
 
-Lorsque les sommes figurant sur l'avis de mise en recouvrement concernent plusieurs redevables tenus à leur paiement
-conjointement ou solidairement, la notification peut être effectuée au moyen d'avis de mise en recouvrement individuels
-établis au nom de chacun de ces redevables ou d'un avis de mise en recouvrement collectif.
-
-L'avis de mise en recouvrement collectif comporte, outre les indications et éléments prévus pour l'avis de mise en
-recouvrement individuel, la référence au texte légal ou réglementaire ou à l'engagement établissant l'obligation de chacune
-des personnes qui sont mentionnées, à l'exception des débiteurs principaux.
+Lorsque le comptable poursuit le recouvrement d'une créance à l'égard de débiteurs tenus conjointement ou solidairement au
+paiement de celle-ci, il notifie préalablement à chacun d'eux un avis de mise en recouvrement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - CGIAN2 389 2
-
-_Codifié par_:
-
-  - Décret n°93-1095 1993-09-16
-
 _Modifié par_:
 
-  - Décret n°93-1095 du 16 septembre 1993 - art. 2 () JORF 18 septembre 1993
+  - Décret n°2006-1092 du 29 août 2006 - art. 1 () JORF 31 août 2006
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article R*256-3
 
-L'avis de mise en recouvrement individuel est rédigé en double exemplaire :
+L'avis de mise en recouvrement est rédigé en double exemplaire :
 
 a) Le premier, dit "original", est déposé au service des impôts ou à la recette des douanes et droits indirects chargé du
 recouvrement ;
@@ -19476,50 +19482,22 @@ b) Le second, dit "ampliation", est destiné à être notifié au redevable ou �
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 42 (V) JORF 31 décembre 2005
-  - loi 2005-1720 2005-12-30 art. 42 II, III, art. 103 Finances rectificative pour 2005 JORF 31 décembre 2005
-
-_Codifié par_:
-
-  - Décret n°2006-357 2006-03-24
+  - Décret n°2006-1092 du 29 août 2006 - art. 1 () JORF 31 août 2006
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
+  - HISTO: Edition du 1er janvier 2007
 
 _Cité par_:
 
   - Livre des procédures fiscales - art. R*256-6 (V)
 
 
-###### Article R*256-5
-
-Le directeur des services fiscaux ou le directeur régional des douanes et droits indirects compétent pour viser et rendre
-exécutoire l'avis de mise en recouvrement individuel ou collectif est celui sous l'autorité duquel se trouve placé le
-comptable chargé du recouvrement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGIAN2 392
-
-_Codifié par_:
-
-  - Décret n°93-1095 1993-09-16
-
-_Modifié par_:
-
-  - Décret n°93-1095 du 16 septembre 1993 - art. 2 () JORF 18 septembre 1993
-
-
 ###### Article R*256-6
 
 La notification de l'avis de mise en recouvrement comporte l'envoi au redevable, soit au lieu de son domicile, de sa
 résidence ou de son siège, soit à l'adresse qu'il a lui-même fait connaître au service des impôts ou au service des douanes
-et droits indirects compétent, de l'"ampliation" si l'avis de mise en recouvrement est individuel ou de l'"extrait" s'il est
-collectif.
+et droits indirects compétent, de l'"ampliation" prévue à l'article R.* 256-3.
 
 Au cas où la lettre recommandée ne pourrait, pour quelque cause que ce soit, être remise au redevable destinataire ou à son
 fondé de pouvoir, il doit être demandé à la Poste de renvoyer au service des impôts ou au service des douanes et droits
@@ -19530,62 +19508,26 @@ adresse connue de l'administration des postes et télécommunications ;
 
 b) D'autre part, du motif de sa non-délivrance.
 
-Dans cette éventualité, l'"ampliation" ou l'"extrait" renvoyé reste déposé au service des impôts ou à la recette des douanes
-et droits indirects chargé du recouvrement où il peut en être délivré copie, à tout moment et sans frais, au redevable lui-
-même ou à son fondé de pouvoir.
+Dans cette éventualité, l'"ampliation" renvoyée reste déposée au service des impôts ou à la recette des douanes et droits
+indirects chargé du recouvrement où il peut en être délivré copie, à tout moment et sans frais, au redevable lui-même ou à
+son fondé de pouvoir.
 
 La notification de l'avis de mise en recouvrement peut également être effectuée par le ministère d'un huissier. Elle est
 alors soumise aux règles de signification des actes d'huissier.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - CGIAN2 393
+  - CGI Livre des procédures fiscales R256-3
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-357 2006-03-24
+  - Décret n°2006-1092 du 29 août 2006 - art. 1 () JORF 31 août 2006
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2006
-
-_Modifié par_:
-
-  - Loi n°2005-1720 2005-12-30 art. 42 II, III, art. 103 Finances rectificative pour 2005 JORF 31 décembre 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 42 (V) JORF 31 décembre 2005
-
-_Cité par_:
-
-  - Livre des procédures fiscales - art. R*257-0 A (T)
-  - Livre des procédures fiscales - art. R*257-0 A-1 (V)
-
-
-###### Article R*256-7
-
-L'avis de mise en recouvrement individuel ou collectif est réputé avoir été notifié :
-
-a) Dans le cas où l'"ampliation" ou l'"extrait" a été effectivement remis par les services postaux au redevable ou à son
-fondé de pouvoir, le jour même de cette remise ;
-
-b) Lorsque la lettre recommandée n'a pu être distribuée du fait du redevable, le jour où en a été faite la première
-présentation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGIAN2 394
-
-_Codifié par_:
-
-  - Décret n°93-1095 1993-09-16
-
-_Modifié par_:
-
-  - Décret n°93-1095 du 16 septembre 1993 - art. 2 () JORF 18 septembre 1993
+  - HISTO: Edition du 1er janvier 2007
 
 _Cité par_:
 
@@ -19783,27 +19725,27 @@ _Abrogé par_:
 ###### Article R*275-1
 
 Lorsque le défaut de paiement ou l'insuffisance, l'inexactitude ou l'omission qui motive l'émission d'un avis de mise en
-recouvrement individuel ou collectif, donne lieu à l'application d'indemnités de retard ou d'intérêts de retard, mention en
-est faite sur cet avis de mise en recouvrement. Cette mention équivaut, en ce qui les concerne, à la notification prévue au
-premier alinéa de l'article L. 275.
+recouvrement, donne lieu à l'application d'indemnités de retard ou d'intérêts de retard, mention en est faite sur cet avis de
+mise en recouvrement. Cette mention équivaut, en ce qui les concerne, à la notification prévue au premier alinéa de l'article
+L. 275.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI L275 AL. 1
+  - Décret n°2006-1092 du 29 août 2006 - art. 1 () JORF 31 août 2006
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - CGIAN2 390
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 14
 
 **Liens**:
 
-  - HISTO: Edition du 1er juillet 1981
+  - HISTO: Edition du 1er janvier 2007
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L275
 
 
 #### Chapitre II : Le sursis de paiement<a id=259></a>
