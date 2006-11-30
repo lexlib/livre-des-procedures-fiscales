@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2006-11-22
+Version Consolidée au 2006-12-01
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -3519,8 +3519,8 @@ les plus-values imposables qu'ils ont réalisés, sous réserve de la procédure
 2° à l'impôt sur les sociétés, les personnes morales passibles de cet impôt qui n'ont pas déposé dans le délai légal leur
 déclaration, sous réserve de la procédure de régularisation prévue à l'article L. 68 ;
 
-3° aux taxes sur le chiffre d'affaires et à la taxe différentielle sur les véhicules à moteur, les personnes qui n'ont pas
-déposé dans le délai légal les déclarations qu'elles sont tenues de souscrire en leur qualité de redevables des taxes ;
+3° aux taxes sur le chiffre d'affaires, les personnes qui n'ont pas déposé dans le délai légal les déclarations qu'elles sont
+tenues de souscrire en leur qualité de redevables des taxes ;
 
 4° aux droits d'enregistrement et aux taxes assimilées, les personnes qui n'ont pas déposé une déclaration ou qui n'ont pas
 présenté un acte à la formalité de l'enregistrement dans le délai légal, sous réserve de la procédure de régularisation
@@ -3529,6 +3529,13 @@ prévue à l'article L. 67 ;
 5° aux taxes assises sur les salaires ou les rémunérations les personnes assujetties à ces taxes qui n'ont pas déposé dans le
 délai légal les déclarations qu'elles sont tenues de souscrire, sous réserve de la procédure de régularisation prévue à
 l'article L. 68.
+
+**Nota:**
+
+Loi 2005-1719 2005-12-30 art. 14 VI Finances pour 2006 : 
+
+" Les dispositions prévues aux II, III, IV et VIII s'appliquent à compter de la période d'imposition s'ouvrant le 1er
+décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -3551,6 +3558,10 @@ _Cite_:
 
   - CGI 150-0 E, 150 VG
 
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
+
 _Cité par_:
 
   - Ordonnance n°96-50 du 24 janvier 1996 - art. 15 (V)
@@ -3563,8 +3574,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-1484 2004-12-30 art. 42 II, III Finances pour 2005 JORF 31 décembre 2004 en vigueur le 1er mars 2005
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 42 (V) JORF 31 décembre 2004 en vigueur le 1er mars 2005
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005 en vigueur le 1er décembre 2006
 
 
 ###### Article L67
