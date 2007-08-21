@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2007-05-02
+Version Consolidée au 2007-08-22
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -9652,10 +9652,14 @@ Lorsqu'une succession n'a pas été déclarée ou lorsque des biens n'ont pas é
 le délai de reprise prévu à l'article L. 180 est décompté à partir du jour, soit de la publicité d'un acte soumis à la
 formalité fusionnée et qui mentionne exactement la date et le lieu du décès ainsi que le nom et l'adresse de l'un au moins
 des héritiers et autres ayants droit, soit de l'enregistrement d'un écrit ou d'une déclaration portant les mêmes mentions. En
-aucun cas il ne peut en résulter une prolongation du délai de dix ans fixé par l'article L. 186.
+aucun cas il ne peut en résulter une prolongation du délai fixé par l'article L. 186. 
 
 Le délai de reprise ainsi déterminé ne concerne que les droits d'enregistrement exigibles sur des biens, sommes ou valeurs
 expressément mentionnés dans l'écrit ou la déclaration comme dépendant de la succession.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux procédures de contrôle engagées à compter du 1er juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -9664,24 +9668,24 @@ _Anciens textes_:
   - CGI 1971 2
   - Décret n°1934-07-20 art. 7
   - Décret-loi 1937-07-08 art. 13
-  - Loi n°1914-01-31
-  - Loi n°1918-04-18 art. 11
   - Loi n°63-1316 1963-12-27 art. 18
   - Loi n°69-1168 1969-12-26 art. 1 II, art. 5
   - Loi n°69-1168 du 26 décembre 1969 - art. 5, v. init.
-
-**Liens**:
-
-  - HISTO: Edition du 1er juillet 1981
+  - Loi n°1914-01-31
+  - Loi n°1918-04-18 art. 11
 
 _Codifié par_:
 
-  - Décret n°81-859 1981-09-15
+  - L'article sera codifié ultérieurement
+
+_Modifié par_:
+
+  - Loi n°2007-1223 du 21 août 2007 - art. 12 (V)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L180 (M)
-  - Livre des procédures fiscales - art. L186 (M)
+  - Livre des procédures fiscales - art. L180 (V)
+  - Livre des procédures fiscales - art. L186 (V)
 
 _Cité par_:
 
@@ -9768,9 +9772,11 @@ _Cite_:
 ###### Article L186
 
 Dans tous les cas où il n'est pas prévu un délai de prescription plus court, le droit de reprise de l'administration s'exerce
-pendant dix ans à partir du jour du fait générateur de l'impôt.
+jusqu'à l'expiration de la sixième année suivant celle du fait générateur de l'impôt.
 
-*Cf. Instruction 1996-03-27 13L-2-96*.
+**Nota:**
+
+Ces dispositions s'appliquent aux procédures de contrôle engagées à compter du 1er juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -9781,14 +9787,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°81-859 1981-09-15
+  - L'article sera codifié ultérieurement
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 1er juillet 1981
-  - TXT_ASSOCIE: Instruction 1996-03-27 13L-2-96
-  - TXT_ASSOCIE: Jurisprudence 1998-01-15 13L-1-98
-  - TXT_ASSOCIE: Jurisprudence 1998-09-24 13L-9-98
+  - Loi n°2007-1223 du 21 août 2007 - art. 12 (V) JORF 22 août 2007
 
 _Cité par_:
 
