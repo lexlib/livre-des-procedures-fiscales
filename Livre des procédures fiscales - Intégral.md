@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2007-10-01
+Version Consolidée au 2007-11-09
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -19902,18 +19902,18 @@ _Cité par_:
 
 ###### Article R277-7
 
-En cas de réclamation relative à l'assiette d'imposition et portant sur un montant de droits inférieur à 3 000 euros, le
+En cas de réclamation relative à l'assiette d'imposition et portant sur un montant de droits inférieur à 4 500 euros, le
 débiteur est dispensé de constituer des garanties.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-246 du 18 février 2002 - art. 1 () JORF 24 février 2002
+  - Décret n°2007-1584 du 7 novembre 2007 - art. 1 () JORF 9 novembre 2007
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: Edition du 31 mars 2002
+  - L'article sera codifié ultérieurement
 
 
 #### Chapitre III : Le contentieux du recouvrement<a id=245></a>
