@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2007-12-28
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -12,7 +12,7 @@ Version Consolidée au 2007-12-22
           - [Section I : Dispositions générales (art. L10 à L14)](#9)
             - [1° : Dispositions relatives à l'examen contradictoire de l'ensemble de la situation fiscale personnelle (art. L12)](#10)
             - [2° : Dispositions relatives aux vérifications des comptabilités (art. L13 à L13-0 A)](#11)
-            - [2° bis : Dispositions relatives au contrôle sur demande (art. L13 C)](#12)
+            - [2° bis : Dispositions relatives au contrôle sur demande (art. L13 C à L13 CA)](#12)
             - [3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant (art. L14)](#13)
           - [Section II : Dispositions particulières à certains impôts (art. L15 à L38)](#14)
             - [I : Dispositions particulières aux impôts directs (art. L15 à L16 A)](#15)
@@ -97,9 +97,9 @@ Version Consolidée au 2007-12-22
               - [3° : Syndicats (art. L165 à L166)](#94)
         - [Chapitre IV : Les délais de prescription (art. L168 à L189 A)](#95)
           - [Section I : Impôts directs et taxes assimilées (art. L169 à L175)](#96)
-            - [I : Impôts directs d'État (art. L169 à L172 F)](#97)
+            - [I : Impôts directs d'État (art. L169 à L172 G)](#97)
               - [A : Dispositions générales (art. L169 à L170)](#98)
-              - [B : Dispositions particulières à certains impôts (art. L171 à L172 F)](#99)
+              - [B : Dispositions particulières à certains impôts (art. L171 à L172 G)](#99)
             - [II : Impôts directs locaux et taxes assimilées (art. L173 à L175)](#100)
           - [Section II : Taxes sur le chiffre d'affaires (art. L176 à L177)](#101)
           - [Section III : Contributions indirectes (art. L178 à L179)](#102)
@@ -832,6 +832,32 @@ _Cite_:
 
   - Livre des procédures fiscales - art. L13 (V)
   - Livre des procédures fiscales - art. L62 (V)
+
+
+###### Article L13 CA
+
+Le contrôle sur demande prévu à l'article L. 13 C, en tant qu'il porte sur le crédit d'impôt défini à l'article 244 quater B
+du code général des impôts, est étendu à toutes les entreprises.
+
+**Nota:**
+
+dispositions applicables aux crédits d'impôt calculés au titre des dépenses de recherche exposées à compter du 1er janvier
+2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 69
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 244 quater B (V)
+  - Livre des procédures fiscales - art. L13 C (V)
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 376 (V)
 
 
 ##### 3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant<a id=13></a>
@@ -8941,43 +8967,47 @@ _Cité par_:
 
 ###### Article L169 A
 
-Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique également :
+Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique également : 
 
-1° A la retenue à la source sur les revenus de capitaux mobiliers prévue à l'article 119 bis du code général des impôts ;
+1° A la retenue à la source sur les revenus de capitaux mobiliers prévue à l'article 119 bis du code général des impôts ; 
 
-2° Au prélèvement sur les produits de placement à revenu fixe prévu à l'article 125 A ;
+2° Aux prélèvements prévus aux articles 117 quater et 125 A ; 
 
-3° (abrogé).
+3° (abrogé). 
 
-4° (abrogé).
+4° (abrogé). 
 
-5° (Disposition devenue sans objet : loi n° 88-1149 du 23 décembre 1988, art. 23) ;
+5° (Disposition devenue sans objet : loi n° 88-1149 du 23 décembre 1988, art. 23) ; 
 
-6° A la taxe sur les salaires ;
+6° A la taxe sur les salaires ; 
 
-7° A tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu ou de l'impôt sur les sociétés.
+7° A tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu ou de l'impôt sur les sociétés. 
 
 8° au supplément d'imposition visé au II de l'article 1647 E.
+
+**Nota:**
+
+dispositions applicables aux revenus perçus et aux gains et profits réalisés à compter du 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 119 bis, 125 A, 223 sexies, 1647 E
-  - Livre des procédures fiscales - art. L169 (M)
+  - Loi n°88-1149 du 23 décembre 1988 - art. 23
+  - CODE GENERAL DES IMPOTS, CGI. - art. 119 bis (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 125 A (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1647 E (V)
+  - Code général des impôts, CGI. - art. 117 quater
+  - Livre des procédures fiscales - art. L169 (V)
 
 _Modifié par_:
 
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 10
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 162 (M)
   - CODE GENERAL DES IMPOTS, CGI. - art. 239 bis B (M)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article L170
@@ -9212,6 +9242,28 @@ _Cite_:
 _Créé par_:
 
   - Loi n°2004-1484 du 30 décembre 2004 - art. 41 (V) JORF 31 décembre 2004
+
+
+###### Article L172 G
+
+Pour le crédit d'impôt défini à l'article 244 quater B du code général des impôts, le droit de reprise de l'administration
+s'exerce jusqu'à la fin de la troisième année suivant celle du dépôt de la déclaration spéciale prévue pour le calcul de ce
+crédit d'impôt.
+
+**Nota:**
+
+dispositions applicables aux crédits d'impôt calculés au titre des dépenses de recherche exposées à compter du 1er janvier
+2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 69
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 244 quater B (V)
 
 
 ##### II : Impôts directs locaux et taxes assimilées<a id=100></a>
@@ -9568,33 +9620,19 @@ _Cité par_:
 
 ###### Article L182
 
-En ce qui concerne le droit de timbre sur les opérations de bourses de valeurs prévu à l'article 978 du code général des
-impôts, et la taxe sur les conventions d'assurance prévue à l'article 991 du même code, le droit de reprise de
-l'administration s'exerce dans le délai fixé par l'article L. 176 pour les taxes sur le chiffre d'affaires.
+En ce qui concerne la taxe sur les conventions d'assurance prévue à l'article 991 du code général des impôts, le droit de
+reprise de l'administration s'exerce dans le délai fixé par l'article L. 176 pour les taxes sur le chiffre d'affaires.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CGI 1971 3
-  - Loi n°63-1316 1963-12-27 art. 15 3 (al. 2)
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 11
 
 _Cite_:
 
-  - CGI 978, 991
-  - Livre des procédures fiscales - art. L176 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 15 juillet 1988
-
-_Modifié par_:
-
-  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
-
-_Codifié par_:
-
-  - Décret n°88-1002 1988-10-20
+  - Code général des impôts, CGI. - art. 991
+  - Livre des procédures fiscales - art. L176 (V)
 
 
 ###### Article L183
