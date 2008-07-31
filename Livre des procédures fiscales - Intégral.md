@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2008-05-01
+Version Consolidée au 2008-08-01
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -267,14 +267,15 @@ Version Consolidée au 2008-05-01
         - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#264)
           - [Section I : Conditions d'exercice du droit de communication (art. A85-1)](#265)
           - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#266)
-      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A225 A-1)](#267)
+      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#267)
         - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#268)
           - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#269)
-        - [Chapitre II : Les procédures pénales (art. A225 A-1)](#270)
+        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#270)
           - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#271)
             - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#272)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#273)
-        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#274)
+          - [Section II : Exercice des poursuites pénales (art. A228-1)](#273)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#274)
+        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#275)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -14533,18 +14534,19 @@ _Créé par_:
 ###### Article R*57-1
 
 La proposition de rectification prévue par l'article L. 57 fait connaître au contribuable la nature et les motifs de la
-rectification envisagée. L'administration invite, en même temps, le contribuable à faire parvenir son acceptation ou ses
-observations dans un délai de trente jours à compter de la réception de la proposition.
+rectification envisagée.L'administration invite, en même temps, le contribuable à faire parvenir son acceptation ou ses
+observations dans un délai de trente jours à compter de la réception de la proposition, prorogé, le cas échéant, dans les
+conditions prévues au deuxième alinéa de cet article.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2004-282 du 25 mars 2004 - art. 1 () JORF 27 mars 2004 en vigueur le 1er juin 2004
+  - Décret n°2008-749 du 29 juillet 2008 - art. 1
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 août 2004
+  - Livre des procédures fiscales - art. L57
 
 
 ###### Article R*59 B-1
@@ -18421,9 +18423,15 @@ _Codifié par_:
 
 ###### Article R*228-1
 
-La commission des infractions fiscales prévue à l'article L. 228 est saisie par le ministre chargé des finances ou, sur
-délégation, par des chefs de services de l'administration centrale de la direction générale des impôts et de la direction de
-la comptabilité publique.
+La commission des infractions fiscales prévue à l'article L. 228 est saisie par le ministre chargé du budget ou, sur
+délégation, par le directeur général, les directeurs adjoints, les chefs de services, les sous-directeurs ou les chefs de
+bureaux de l'administration centrale de la direction générale des finances publiques. 
+
+Un arrêté du ministre chargé du budget fixe la liste des autorités mentionnées au premier alinéa pouvant saisir la
+commission. 
+
+Le changement de ministre ne met pas fin à cette délégation, sauf si le ministre en décide autrement par arrêté publié au
+Journal officiel de la République française.
 
 L'autorité qui saisit la commission lui adresse le dossier de l'affaire accompagné de ses propositions.
 
@@ -18436,15 +18444,15 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°81-618 1981-05-18 ART. 1 JORF 21 MAI 1981
-
-_Codifié par_:
-
-  - Décret n°82-882 1982-10-15
+  - Décret n°2008-752 du 29 juillet 2008 - art. 1
 
 _Cité par_:
 
   - Livre des procédures fiscales - art. A228-1 (V)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L228
 
 
 ###### Article R*228-2
@@ -21611,9 +21619,29 @@ _Cite_:
   - Livre des procédures fiscales - art. L225 A (V)
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=273></a>
+##### Section II : Exercice des poursuites pénales<a id=273></a>
 
-#### Chapitre II : Le sursis de paiement<a id=274></a>
+###### Article A228-1
+
+Les autorités bénéficiaires de la délégation de signature du ministre chargé du budget pour saisir la commission des
+infractions fiscales prévue à l'article R. * 228-1 sont le directeur général des finances publiques, l'adjoint au directeur
+général chargé de la fiscalité, le sous-directeur chargé de la sous-direction du contrôle fiscal et le chef du bureau
+affaires particulières et affaires pénales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 29 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R*228-1
+
+
+### Titre IV : Le recouvrement de l'impôt<a id=274></a>
+
+#### Chapitre II : Le sursis de paiement<a id=275></a>
 
 ###### Article A277-1
 
