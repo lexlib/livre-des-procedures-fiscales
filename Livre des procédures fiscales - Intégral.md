@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2008-10-03
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -15055,20 +15055,16 @@ _Cite_:
 
 ###### Article R60-2 A
 
-A la demande de l'un de ses membres, la commission départementale peut, si elle l'estime utile, entendre en séance tout
-fonctionnaire qui a pris part à la détermination de la base d'imposition qui fait l'objet du désaccord dont elle est saisie
-ou, en cas d'absence ou de mutation, son successeur ou remplaçant.
+A la demande de l'un de ses membres,  la commission départementale ou nationale des impôts directs et des taxes sur le
+chiffre d'affaires peut, si elle l'estime utile, entendre en séance tout fonctionnaire qui a pris part à la détermination de
+la base d'imposition qui fait l'objet du désaccord dont elle est saisie ou, en cas d'absence ou de mutation, son successeur
+ou remplaçant.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°84-876 1984-10-01
-
-**Liens**:
-
-  - HISTO: Edition du 20 juillet 1984
-  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+  - Décret n°2008-1011 du 30 septembre 2008 - art. 2
 
 
 ##### III : Procédure spéciale de l'article 168 du code général des impôts<a id=179></a>
