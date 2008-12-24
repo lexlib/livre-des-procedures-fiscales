@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2008-11-01
+Version Consolidée au 2008-12-25
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -217,65 +217,66 @@ Version Consolidée au 2008-11-01
             - [III : Instruction des réclamations (art. R*198-1 à R*198-11)](#214)
           - [Section II : Procédure devant les tribunaux (art. R*199-1 à R*202-6)](#215)
             - [I : Tribunaux compétents (art. R*199-1 à R*199-2)](#216)
-            - [II : Règles de procédure (art. R*200-1 à R*202-6)](#217)
-              - [B : Procédure devant le tribunal administratif et la cour administrative d'appel. (art. R*200-1 à R*200-18)](#218)
-              - [C : Procédure devant le tribunal de grande instance et la cour d'appel (art. R*202-1 à R*202-6)](#219)
-          - [Section III : Compensations (art. R*203-1)](#220)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. R*207-1 à R*210-1)](#221)
-          - [Section V : Dégrèvements d'office (art. R*211-1 à R*211-2)](#222)
-        - [Chapitre II : Les procédures pénales (art. R*213-3 à R238-1)](#223)
-          - [Section I : Constatation des infractions par procès-verbal (art. R*213-3 à R*226-3)](#224)
-            - [II : Agents compétents pour constater les infractions par procès-verbal (art. R*213-3 à R214-1)](#225)
-            - [III : Rédaction des procès-verbaux (art. R*226-1 à R*226-3)](#226)
-          - [Section II : Exercice des poursuites pénales (art. R*228-1 à R238-1)](#227)
-            - [I : Dispositions communes (art. R*228-1 à R*228-6)](#228)
-            - [III : Dispositions particulières aux contributions indirectes (art. R235-1 à R238-1)](#229)
-        - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247 A-1 à R*251 A-5)](#230)
-          - [Les taxes d'urbanisme (art. R*251 A-1 à R*251 A-5)](#231)
-      - [Titre IV : Le recouvrement de l'impôt (art. R*256-5 à R283 B-10)](#232)
-        - [Chapitre premier : Les procédures de recouvrement (art. R*256-5 à R*275-1)](#233)
-          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R*256-5 à R256-8)](#234)
-            - [II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects (art. R*256-1 à R256-8)](#235)
-          - [Section II : Exercice des poursuites (art. R*260 A-1 à R258-1)](#236)
-          - [Section III : Mesures particulières (art. R*267-1 à R*273-1)](#237)
-            - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*267-1)](#238)
-            - [5° : Vente de fonds de commerce (art. R268-1)](#239)
-            - [10° : Taxes sur le chiffre d'affaires (art. R*273-1)](#240)
-          - [Section IV : Prescription de l'action en vue du recouvrement (art. R*275-1)](#241)
-        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-7)](#242)
-        - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#243)
-        - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. R283 A-10 à R283 B-10)](#244)
-          - [Demande d'assistance (art. R283 A-1 à R283 A-2)](#245)
-          - [Demande de renseignements (art. R283 A-3 à R283 A-9)](#246)
-          - [Demande de notification (art. R283 A-11 à R283 A-16)](#247)
-          - [Transmission des renseignements (art. R283 A-17 à R283 A-18)](#248)
-          - [Demande de recouvrement ou de mesures conservatoires (art. R283 B-1 à R283 B-10)](#249)
-      - [Titre V : Dispositions communes (art. R*287-1 à R289-2)](#250)
-        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. R*287-1 à R*288-3)](#251)
-        - [Chapitre III : Dispositions communautaires (art. R289-1 à R289-2)](#252)
-  - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#253)
-    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-10)](#254)
-      - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#255)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A47 A-1)](#256)
-          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#257)
-            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#258)
-              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#259)
-                - [1 : Contributions indirectes (art. A26-1 à A27-1)](#260)
-                  - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#261)
-                - [2 : Droits de timbre (art. A37-1)](#262)
-          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1)](#263)
-        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#264)
-          - [Section I : Conditions d'exercice du droit de communication (art. A85-1)](#265)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#266)
-      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#267)
-        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#268)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#269)
-        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#270)
-          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#271)
-            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#272)
-          - [Section II : Exercice des poursuites pénales (art. A228-1)](#273)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#274)
-        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#275)
+            - [II : Règles de procédure (art.  à R*202-6)](#217)
+              - [B : Procédure devant le tribunal administratif et la cour administrative d'appel. (art.  à R*199-2)](#218)
+              - [B : Procédure devant le tribunal administratif, la cour administrative d'appel et le Conseil d'Etat (art. R*200-1 à R*201-1)](#219)
+              - [C : Procédure devant le tribunal de grande instance et la cour d'appel (art. R*202-1 à R*202-6)](#220)
+          - [Section III : Compensations (art. R*203-1)](#221)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. R*207-1 à R*210-1)](#222)
+          - [Section V : Dégrèvements d'office (art. R*211-1 à R*211-2)](#223)
+        - [Chapitre II : Les procédures pénales (art. R*213-3 à R238-1)](#224)
+          - [Section I : Constatation des infractions par procès-verbal (art. R*213-3 à R*226-3)](#225)
+            - [II : Agents compétents pour constater les infractions par procès-verbal (art. R*213-3 à R214-1)](#226)
+            - [III : Rédaction des procès-verbaux (art. R*226-1 à R*226-3)](#227)
+          - [Section II : Exercice des poursuites pénales (art. R*228-1 à R238-1)](#228)
+            - [I : Dispositions communes (art. R*228-1 à R*228-6)](#229)
+            - [III : Dispositions particulières aux contributions indirectes (art. R235-1 à R238-1)](#230)
+        - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247 A-1 à R*251 A-5)](#231)
+          - [Les taxes d'urbanisme (art. R*251 A-1 à R*251 A-5)](#232)
+      - [Titre IV : Le recouvrement de l'impôt (art. R*256-5 à R283 B-10)](#233)
+        - [Chapitre premier : Les procédures de recouvrement (art. R*256-5 à R*275-1)](#234)
+          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R*256-5 à R256-8)](#235)
+            - [II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects (art. R*256-1 à R256-8)](#236)
+          - [Section II : Exercice des poursuites (art. R*260 A-1 à R258-1)](#237)
+          - [Section III : Mesures particulières (art. R*267-1 à R*273-1)](#238)
+            - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*267-1)](#239)
+            - [5° : Vente de fonds de commerce (art. R268-1)](#240)
+            - [10° : Taxes sur le chiffre d'affaires (art. R*273-1)](#241)
+          - [Section IV : Prescription de l'action en vue du recouvrement (art. R*275-1)](#242)
+        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-7)](#243)
+        - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#244)
+        - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. R283 A-10 à R283 B-10)](#245)
+          - [Demande d'assistance (art. R283 A-1 à R283 A-2)](#246)
+          - [Demande de renseignements (art. R283 A-3 à R283 A-9)](#247)
+          - [Demande de notification (art. R283 A-11 à R283 A-16)](#248)
+          - [Transmission des renseignements (art. R283 A-17 à R283 A-18)](#249)
+          - [Demande de recouvrement ou de mesures conservatoires (art. R283 B-1 à R283 B-10)](#250)
+      - [Titre V : Dispositions communes (art. R*287-1 à R289-2)](#251)
+        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. R*287-1 à R*288-3)](#252)
+        - [Chapitre III : Dispositions communautaires (art. R289-1 à R289-2)](#253)
+  - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#254)
+    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-10)](#255)
+      - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#256)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A47 A-1)](#257)
+          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#258)
+            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#259)
+              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#260)
+                - [1 : Contributions indirectes (art. A26-1 à A27-1)](#261)
+                  - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#262)
+                - [2 : Droits de timbre (art. A37-1)](#263)
+          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1)](#264)
+        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#265)
+          - [Section I : Conditions d'exercice du droit de communication (art. A85-1)](#266)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#267)
+      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#268)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#269)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#270)
+        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#271)
+          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#272)
+            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#273)
+          - [Section II : Exercice des poursuites pénales (art. A228-1)](#274)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#275)
+        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#276)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -15150,65 +15151,46 @@ _Cite_:
 ###### Article R*60-1
 
 Lorsque le litige est soumis à la commission départementale des impôts directs et des taxes sur le chiffre d'affaires, en
-application de l'article L. 59 A, le contribuable est convoqué trente jours au moins avant la date de la réunion. Le rapport
+application de l'article L. 59 A, ou à la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires, en
+application de l'article L. 59 C, le contribuable est convoqué trente jours au moins avant la date de la réunion. Le rapport
 et les documents mentionnés à l'article L. 60 doivent être tenus à sa disposition, au secrétariat de la commission, pendant
 le délai de trente jours qui précède la réunion de cette commission.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI L59 A
-  - CGI L60
-
 _Modifié par_:
 
-  - Décret n°2005-1284 du 11 octobre 2005 - art. 1 () JORF 18 octobre 2005
+  - Décret n°2008-1393 du 19 décembre 2008 - art. 1
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2006
+  - Livre des procédures fiscales - art. L59 A
+  - Livre des procédures fiscales - art. L59 C
+  - Livre des procédures fiscales - art. L60
 
 
 ###### Article R*60-2
 
-Devant la commission départementale, le contribuable peut se faire assister par deux conseils de son choix.
+Devant la commission départementale ou nationale des impôts directs et des taxes sur le chiffre d'affaires, le contribuable
+peut se faire assister par deux conseils de son choix.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CGI 1651 bis 2
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
-
-**Liens**:
-
-  - HISTO: Edition du 1er juillet 1981
-  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+  - Décret n°2008-1393 du 19 décembre 2008 - art. 2
 
 
 ###### Article R*60-3
 
-L'avis ou la décision de la commission départementale doit être motivé. Il est notifié au contribuable par l'administration
-des impôts.
+L'avis ou la décision de la commission départementale ou nationale des impôts directs et des taxes sur le chiffre d'affaires
+doit être motivé. Il est notifié au contribuable par l'administration des impôts.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CGI 1651 bis 3
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
-
-**Liens**:
-
-  - HISTO: Edition du 1er juillet 1981
-  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+  - Décret n°2008-1393 du 19 décembre 2008 - art. 3
 
 
 ###### Article R*61 A-1
@@ -18027,6 +18009,8 @@ _Codifié par_:
 
 ##### B : Procédure devant le tribunal administratif et la cour administrative d'appel.<a id=218></a>
 
+##### B : Procédure devant le tribunal administratif, la cour administrative d'appel et le Conseil d'Etat<a id=219></a>
+
 ###### Article R*200-1
 
 Les dispositions du code de justice administrative sont applicables aux affaires portées devant le tribunal administratif ou
@@ -18272,7 +18256,20 @@ _Modifié par_:
   - HISTO: Edition du 18 août 1993
 
 
-##### C : Procédure devant le tribunal de grande instance et la cour d'appel<a id=219></a>
+###### Article R*201-1
+
+Un conseiller d'Etat ne peut siéger dans une formation de jugement ayant à connaître d'un litige portant sur une imposition
+dont il a eu à apprécier la base comme président de la Commission nationale des impôts directs et des taxes sur le chiffre
+d'affaires.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2008-1393 du 19 décembre 2008 - art. 4
+
+
+##### C : Procédure devant le tribunal de grande instance et la cour d'appel<a id=220></a>
 
 ###### Article R*202-1
 
@@ -18461,7 +18458,7 @@ _Cite_:
   - Livre des procédures fiscales - art. R*202-4
 
 
-##### Section III : Compensations<a id=220></a>
+##### Section III : Compensations<a id=221></a>
 
 ###### Article R*203-1
 
@@ -18484,7 +18481,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L203 (V)
 
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=221></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=222></a>
 
 ###### Article R*207-1
 
@@ -18762,7 +18759,7 @@ _Modifié par_:
   - Loi n°93-1352 1993-12-29 art. 85 I IV Finances pour 1994, JORF 30 décembre 1993
 
 
-##### Section V : Dégrèvements d'office<a id=222></a>
+##### Section V : Dégrèvements d'office<a id=223></a>
 
 ###### Article R*211-1
 
@@ -18833,11 +18830,11 @@ _Codifié par_:
   - Décret n°2001-436 2001-05-21
 
 
-#### Chapitre II : Les procédures pénales<a id=223></a>
+#### Chapitre II : Les procédures pénales<a id=224></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=224></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=225></a>
 
-##### II : Agents compétents pour constater les infractions par procès-verbal<a id=225></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal<a id=226></a>
 
 ###### Article R*213-3
 
@@ -18915,7 +18912,7 @@ _Codifié par_:
   - Décret n°2004-1070 2004-10-08
 
 
-##### III : Rédaction des procès-verbaux<a id=226></a>
+##### III : Rédaction des procès-verbaux<a id=227></a>
 
 ###### Article R*226-1
 
@@ -18985,9 +18982,9 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### Section II : Exercice des poursuites pénales<a id=227></a>
+##### Section II : Exercice des poursuites pénales<a id=228></a>
 
-##### I : Dispositions communes<a id=228></a>
+##### I : Dispositions communes<a id=229></a>
 
 ###### Article R*228-1
 
@@ -19134,7 +19131,7 @@ _Cité par_:
   - HISTO: Edition du 31 août 2002
 
 
-##### III : Dispositions particulières aux contributions indirectes<a id=229></a>
+##### III : Dispositions particulières aux contributions indirectes<a id=230></a>
 
 ###### Article R235-1
 
@@ -19236,7 +19233,7 @@ _Modifié par_:
   - Ordonnance 2004-281 2004-03-25 art. 15 1 JORF 27 mars 2004
 
 
-#### Chapitre III : Les remises et transactions à titre gracieux<a id=230></a>
+#### Chapitre III : Les remises et transactions à titre gracieux<a id=231></a>
 
 ###### Article R*247 A-1
 
@@ -19788,7 +19785,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L247 (M)
 
 
-##### Les taxes d'urbanisme<a id=231></a>
+##### Les taxes d'urbanisme<a id=232></a>
 
 ###### Article R*251 A-1
 
@@ -19916,11 +19913,11 @@ _Abrogé par_:
   - HISTO: Edition du 11 avril 1997
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=232></a>
+### Titre IV : Le recouvrement de l'impôt<a id=233></a>
 
-#### Chapitre premier : Les procédures de recouvrement<a id=233></a>
+#### Chapitre premier : Les procédures de recouvrement<a id=234></a>
 
-##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=234></a>
+##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=235></a>
 
 ###### Article R*256-5
 
@@ -20037,7 +20034,7 @@ _Abrogé par_:
   - HISTO: Edition du 18 août 1993
 
 
-##### II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects<a id=235></a>
+##### II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects<a id=236></a>
 
 ###### Article R*256-1
 
@@ -20208,7 +20205,7 @@ _Cite_:
   - HISTO: Edition du 1er janvier 2006
 
 
-##### Section II : Exercice des poursuites<a id=236></a>
+##### Section II : Exercice des poursuites<a id=237></a>
 
 ###### Article R*260 A-1
 
@@ -20252,9 +20249,9 @@ _Cite_:
   - Livre des procédures fiscales - art. L258
 
 
-##### Section III : Mesures particulières<a id=237></a>
+##### Section III : Mesures particulières<a id=238></a>
 
-##### 4° : Responsabilité des dirigeants et gérants de sociétés<a id=238></a>
+##### 4° : Responsabilité des dirigeants et gérants de sociétés<a id=239></a>
 
 ###### Article R*267-1
 
@@ -20284,7 +20281,7 @@ _Anciens textes_:
   - Livre des procédures fiscales R266-1
 
 
-##### 5° : Vente de fonds de commerce<a id=239></a>
+##### 5° : Vente de fonds de commerce<a id=240></a>
 
 ###### Article R268-1
 
@@ -20307,7 +20304,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L268 (MMN)
 
 
-##### 10° : Taxes sur le chiffre d'affaires<a id=240></a>
+##### 10° : Taxes sur le chiffre d'affaires<a id=241></a>
 
 ###### Article R*273-1
 
@@ -20346,7 +20343,7 @@ _Abrogé par_:
   - HISTO: Edition du 1er juillet 1981
 
 
-##### Section IV : Prescription de l'action en vue du recouvrement<a id=241></a>
+##### Section IV : Prescription de l'action en vue du recouvrement<a id=242></a>
 
 ###### Article R*275-1
 
@@ -20374,7 +20371,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L275
 
 
-#### Chapitre II : Le sursis de paiement<a id=242></a>
+#### Chapitre II : Le sursis de paiement<a id=243></a>
 
 ###### Article R*277-1
 
@@ -20575,7 +20572,7 @@ _Codifié par_:
   - L'article sera codifié ultérieurement
 
 
-#### Chapitre III : Le contentieux du recouvrement<a id=243></a>
+#### Chapitre III : Le contentieux du recouvrement<a id=244></a>
 
 ###### Article R*281-1
 
@@ -20814,7 +20811,7 @@ _Cité par_:
   - HISTO: Edition du 18 août 1993
 
 
-#### Chapitre IV : Assistance au recouvrement au sein de l'Union européenne<a id=244></a>
+#### Chapitre IV : Assistance au recouvrement au sein de l'Union européenne<a id=245></a>
 
 ###### Article R283 A-10
 
@@ -20837,7 +20834,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R283 A-18 (Ab)
 
 
-##### Demande d'assistance<a id=245></a>
+##### Demande d'assistance<a id=246></a>
 
 ###### Article R283 A-1
 
@@ -20899,7 +20896,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L283 B (M)
 
 
-##### Demande de renseignements<a id=246></a>
+##### Demande de renseignements<a id=247></a>
 
 ###### Article R283 A-3
 
@@ -21108,7 +21105,7 @@ _Abrogé par_:
   - Décret n°2012-417 du 28 mars 2012 - art. 1
 
 
-##### Demande de notification<a id=247></a>
+##### Demande de notification<a id=248></a>
 
 ###### Article R283 A-11
 
@@ -21257,7 +21254,7 @@ _Abrogé par_:
   - Décret n°2012-417 du 28 mars 2012 - art. 1
 
 
-##### Transmission des renseignements<a id=248></a>
+##### Transmission des renseignements<a id=249></a>
 
 ###### Article R283 A-17
 
@@ -21317,7 +21314,7 @@ _Cite_:
   - Livre des procédures fiscales - art. R283 A-10
 
 
-##### Demande de recouvrement ou de mesures conservatoires<a id=249></a>
+##### Demande de recouvrement ou de mesures conservatoires<a id=250></a>
 
 ###### Article R283 B-1
 
@@ -21635,9 +21632,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R283 B-8 (V)
 
 
-### Titre V : Dispositions communes<a id=250></a>
+### Titre V : Dispositions communes<a id=251></a>
 
-#### Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques<a id=251></a>
+#### Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques<a id=252></a>
 
 ###### Article R*287-1
 
@@ -21788,7 +21785,7 @@ _Cite_:
   - Code de procédure civile - art. 760
 
 
-#### Chapitre III : Dispositions communautaires<a id=252></a>
+#### Chapitre III : Dispositions communautaires<a id=253></a>
 
 ###### Article R289-1
 
@@ -21819,21 +21816,21 @@ _Créé par_:
   - Décret n°2006-1042 du 24 août 2006 - art. 1 () JORF 25 août 2006
 
 
-# Partie réglementaire - Arrêtés<a id=253></a>
+# Partie réglementaire - Arrêtés<a id=254></a>
 
-## Troisième partie : Partie réglementaire, arrêtés<a id=254></a>
+## Troisième partie : Partie réglementaire, arrêtés<a id=255></a>
 
-### Titre II : Le contrôle de l'impôt<a id=255></a>
+### Titre II : Le contrôle de l'impôt<a id=256></a>
 
-#### Chapitre premier : Le droit de contrôle de l'administration<a id=256></a>
+#### Chapitre premier : Le droit de contrôle de l'administration<a id=257></a>
 
-##### Section II : Dispositions particulières à certains impôts<a id=257></a>
+##### Section II : Dispositions particulières à certains impôts<a id=258></a>
 
-##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=258></a>
+##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=259></a>
 
-##### B : Contrôle sur les lieux d'exercice de l'activité<a id=259></a>
+##### B : Contrôle sur les lieux d'exercice de l'activité<a id=260></a>
 
-##### 1 : Contributions indirectes<a id=260></a>
+##### 1 : Contributions indirectes<a id=261></a>
 
 ###### Article A26-1
 
@@ -21942,7 +21939,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 153 (V)
 
 
-##### Dispositions applicables dans les départements d'outre-mer.<a id=261></a>
+##### Dispositions applicables dans les départements d'outre-mer.<a id=262></a>
 
 ###### Article A27-1
 
@@ -21966,7 +21963,7 @@ _Anciens textes_:
   - CGIAN4 56 D ter
 
 
-##### 2 : Droits de timbre<a id=262></a>
+##### 2 : Droits de timbre<a id=263></a>
 
 ###### Article A37-1
 
@@ -22000,7 +21997,7 @@ _Modifié par_:
   - Loi n°2006-1771 du 30 décembre 2006 - art. 139 (V) JORF 31 décembre 2006
 
 
-##### Section III : Modalités d'exercice du droit de contrôle<a id=263></a>
+##### Section III : Modalités d'exercice du droit de contrôle<a id=264></a>
 
 ###### Article A47 A-1
 
@@ -22059,9 +22056,9 @@ _Cite_:
   - Livre des procédures fiscales - art. L47 A
 
 
-#### Chapitre II : Le droit de communication<a id=264></a>
+#### Chapitre II : Le droit de communication<a id=265></a>
 
-##### Section I : Conditions d'exercice du droit de communication<a id=265></a>
+##### Section I : Conditions d'exercice du droit de communication<a id=266></a>
 
 ###### Article A85-1
 
@@ -22101,7 +22098,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R81-5 (VD)
 
 
-##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=266></a>
+##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=267></a>
 
 ###### Article A97-1
 
@@ -22172,11 +22169,11 @@ _Anciens textes_:
   - CGIAN4 211
 
 
-### Titre III : Le contentieux de l'impôt<a id=267></a>
+### Titre III : Le contentieux de l'impôt<a id=268></a>
 
-#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=268></a>
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=269></a>
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=269></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=270></a>
 
 ###### Article A208-1
 
@@ -22195,11 +22192,11 @@ _Cite_:
   - Livre des procédures fiscales - art. R*208-4 (V)
 
 
-#### Chapitre II : Les procédures pénales<a id=270></a>
+#### Chapitre II : Les procédures pénales<a id=271></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=271></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=272></a>
 
-##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=272></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=273></a>
 
 ###### Article A225 A-1
 
@@ -22220,7 +22217,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L225 A (V)
 
 
-##### Section II : Exercice des poursuites pénales<a id=273></a>
+##### Section II : Exercice des poursuites pénales<a id=274></a>
 
 ###### Article A228-1
 
@@ -22240,9 +22237,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*228-1
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=274></a>
+### Titre IV : Le recouvrement de l'impôt<a id=275></a>
 
-#### Chapitre II : Le sursis de paiement<a id=275></a>
+#### Chapitre II : Le sursis de paiement<a id=276></a>
 
 ###### Article A277-1
 
