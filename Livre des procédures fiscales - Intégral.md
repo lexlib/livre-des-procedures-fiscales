@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-03-28
+Version Consolidée au 2009-04-10
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -89,7 +89,7 @@ Version Consolidée au 2009-03-28
             - [2° : Publicité de l'impôt (art. L111 à L112)](#86)
           - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L166 A)](#87)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#88)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 T)](#89)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 V)](#89)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139 A)](#90)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 C)](#91)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151 A)](#92)
@@ -1028,19 +1028,19 @@ instance dans le ressort duquel sont situés les lieux à visiter.
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
 doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite.
 
-L'ordonnance  comporte :
+L'ordonnance comporte : 
 
 a) L'adresse des lieux à visiter ;
 
-b) Le nom et la qualité du fonctionnaire habilité qui a sollicité  et obtenu l'autorisation de procéder aux opérations de
+b) Le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de
 visite ;
 
-c) L'autorisation donnée au fonctionnaire qui procède aux  opérations de visite de recueillir sur place, dans les conditions
-prévues au III  bis, des renseignements et justifications auprès de l'occupant des lieux ou de  son représentant et, s'il est
-présent, du contribuable mentionné au I, ainsi que  l'autorisation de demander à ceux-ci de justifier pendant la visite de
-leur  identité et de leur adresse, dans les mêmes conditions.
+c) L'autorisation donnée au fonctionnaire qui procède aux opérations de visite de recueillir sur place, dans les conditions
+prévues au III bis, des renseignements et justifications auprès de l'occupant des lieux ou de son représentant et, s'il est
+présent, du contribuable mentionné au I, ainsi que l'autorisation de demander à ceux-ci de justifier pendant la visite de
+leur identité et de leur adresse, dans les mêmes conditions.
 
-la mention de la faculté pour le contribuable de faire appel à un conseil de son choix.
+d) La mention de la faculté pour le contribuable de faire appel à un conseil de son choix.
 
 L'exercice de cette faculté n'entraîne pas la suspension des opérations de visite et de saisie. 
 
@@ -1099,17 +1099,17 @@ prendre connaissance des pièces et documents avant leur saisie.
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
 dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable.
 
-III bis. ― Au cours de la visite, les agents des impôts habilités peuvent  recueillir, sur place, des renseignements et
-justifications concernant les  agissements du contribuable mentionné au I auprès de l'occupant des lieux ou de  son
-représentant et, s'il est présent, de ce contribuable, après les avoir  informés que leur consentement est nécessaire. Ces
-renseignements et  justifications sont consignés dans un compte rendu annexé au procès-verbal  mentionné au IV et qui est
-établi par les agents des impôts et signé par ces  agents, les personnes dont les renseignements et justifications ont été
+III bis. ― Au cours de la visite, les agents des impôts habilités peuvent recueillir, sur place, des renseignements et
+justifications concernant les agissements du contribuable mentionné au I auprès de l'occupant des lieux ou de son
+représentant et, s'il est présent, de ce contribuable, après les avoir informés que leur consentement est nécessaire. Ces
+renseignements et justifications sont consignés dans un compte rendu annexé au procès-verbal mentionné au IV et qui est
+établi par les agents des impôts et signé par ces agents, les personnes dont les renseignements et justifications ont été
 recueillis ainsi que l'officier de police judiciaire présent.
 
-Les agents des impôts peuvent demander à l'occupant des lieux ou à  son représentant et au contribuable, s'ils y consentent,
-de justifier de leur  identité et de leur adresse.
+Les agents des impôts peuvent demander à l'occupant des lieux ou à son représentant et au contribuable, s'ils y consentent,
+de justifier de leur identité et de leur adresse.
 
-Mention des consentements est  portée au compte rendu ainsi que, le cas échéant, du refus de signer.  
+Mention des consentements est portée au compte rendu ainsi que, le cas échéant, du refus de signer. 
 
 IV. Un procès-verbal relatant les modalités et le déroulement de l'opération et consignant les constatations effectuées est
 dressé sur-le-champ par les agents de l'administration des impôts. Un inventaire des pièces et documents saisis lui est
@@ -1146,11 +1146,11 @@ VI.L'administration des impôts ne peut opposer au contribuable les informations
 et documents saisis ou de leur reproduction et mise en oeuvre des procédures de contrôle visées aux premier et deuxième
 alinéas de l'article L. 47.
 
-Toutefois, si,  à l'expiration d'un délai de trente jours suivant la notification d'une mise en  demeure adressée au
-contribuable, à laquelle est annexé un récapitulatif des  diligences accomplies par l'administration pour la restitution des
-pièces et  documents saisis ou de leur reproduction, ceux-ci n'ont pu être restitués du  fait du contribuable, les
-informations recueillies sont opposables à ce dernier  après mise en œuvre des procédures de contrôle mentionnées aux premier
-et  deuxième alinéas de l'article L. 47 et dans les conditions prévues à l'article  L. 76 C.
+Toutefois, si, à l'expiration d'un délai de trente jours suivant la notification d'une mise en demeure adressée au
+contribuable, à laquelle est annexé un récapitulatif des diligences accomplies par l'administration pour la restitution des
+pièces et documents saisis ou de leur reproduction, ceux-ci n'ont pu être restitués du fait du contribuable, les informations
+recueillies sont opposables à ce dernier après mise en œuvre des procédures de contrôle mentionnées aux premier et deuxième
+alinéas de l'article L. 47 et dans les conditions prévues à l'article L. 76 C.
 
 **Liens relatifs à cet article**
 
@@ -1170,7 +1170,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 54
+  - Décret n°2009-388 du 7 avril 2009 - art. 1
 
 _Cite_:
 
@@ -6165,27 +6165,32 @@ _Abrogé par_:
 
 ###### Article L102 AA
 
-I. Les régisseurs de messages publicitaires mentionnés au a du 1° du II de l'article 302 bis KB du code général des impôts
-sont tenus de fournir à chaque éditeur d'un service de télévision mentionné au I de cet article ainsi qu'à l'administration
-des impôts, avant le 15 février de chaque année, un état récapitulatif des sommes qu'ils ont encaissées au cours de l'année
-civile précédente en rémunération de la diffusion des messages publicitaires par le service de télévision concerné.
+I. Les régisseurs de messages publicitaires mentionnés au a du 1° du II de l'article 1609 sexdecies du code général des
+impôts sont tenus de fournir à chaque éditeur d'un service de télévision mentionné au I de cet article ainsi qu'à
+l'administration des impôts, avant le 15 février de chaque année, un état récapitulatif des sommes qu'ils ont encaissées au
+cours de l'année civile précédente en rémunération de la diffusion des messages publicitaires par le service de télévision
+concerné. 
 
-II. - Les personnes mentionnées au c du 1° du II de l'article 302 bis KB du code général des impôts assurant l'encaissement
+II.-Les personnes mentionnées au c du 1° du II de l'article 1609 sexdecies du code général des impôts assurant l'encaissement
 des sommes versées par les opérateurs de communications électroniques sont tenues de fournir à chaque éditeur de services de
 télévision ainsi qu'à l'administration des impôts, avant le 15 février de chaque année, un état récapitulatif des sommes
-prévues au c du 1° du II de cet article qu'elles ont encaissées au cours de l'année civile précédente.
+prévues au c du 1° du II de cet article qu'elles ont encaissées au cours de l'année civile précédente. 
 
 III. Un décret fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 302 bis KB
-
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 90 (V)
+  - Décret n°2009-388 du 7 avril 2009 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 9
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1609 sexdecies
 
 _Cité par_:
 
@@ -6194,6 +6199,10 @@ _Cité par_:
   - Livre des procédures fiscales - art. R102 AA (P)
   - Livre des procédures fiscales - art. R102 AA-1 (P)
   - Livre des procédures fiscales - art. R102 AA-1 (V)
+
+_Nouveaux textes_:
+
+  - Code du cinéma et de l'image animée - art. L115-13 (VD)
 
 
 #### Chapitre II bis : Obligation et délais de conservation des documents<a id=82></a>
@@ -6741,11 +6750,15 @@ _Codifié par_:
 ###### Article L113
 
 Des dérogations à la règle du secret professionnel sont établies au profit d'administrations et autorités administratives,
-collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
+collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section. 
 
 Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 127, L. 130, L. 135, L. 135 B, L. 135
-D, L. 135 E, L. 135 F, L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 136, L. 139 A, L. 152 A, L. 158, L. 161 et L. 166 sont eux-
-mêmes soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
+D, L. 135 E, L. 135 F, L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 136, L. 139 A, L. 152 A, L. 158 et L. 166 sont eux-mêmes
+soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 138-II de la loi n° 2006-1640 du 21 décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -6774,19 +6787,9 @@ _Anciens textes_:
   - Loi n°80-546 1980-07-17 art. 1
   - Code de la famille et de l'aide sociale. - art. 135 (M)
 
-_Cite_:
-
-  - CGI Livre des procédures fiscales L123, L124, L127, L130, L135, L135 B, L135 D, L135 E, L135 F, L135 H, L135 I, L135 J, L135 O, L136, L139 A, L152 A, L158, L161
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
 _Modifié par_:
 
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 101 () JORF 31 décembre 2006
+  - Décret n°2009-388 du 7 avril 2009 - art. 1
 
 _Cité par_:
 
@@ -6794,6 +6797,27 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L651-5-1 (T)
   - Livre des procédures fiscales - art. R*113-1 (V)
   - Livre des procédures fiscales - art. R135 D-1 (V)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L123 (V)
+  - Livre des procédures fiscales - art. L127 (V)
+  - Livre des procédures fiscales - art. L130 (V)
+  - Livre des procédures fiscales - art. L135 (V)
+  - Livre des procédures fiscales - art. L135 B (V)
+  - Livre des procédures fiscales - art. L135 D (V)
+  - Livre des procédures fiscales - art. L135 E (V)
+  - Livre des procédures fiscales - art. L135 F (V)
+  - Livre des procédures fiscales - art. L135 H (V)
+  - Livre des procédures fiscales - art. L135 I (V)
+  - Livre des procédures fiscales - art. L135 J (V)
+  - Livre des procédures fiscales - art. L135 O (V)
+  - Livre des procédures fiscales - art. L136 (V)
+  - Livre des procédures fiscales - art. L139 A (V)
+  - Livre des procédures fiscales - art. L152 A (V)
+  - Livre des procédures fiscales - art. L158 (V)
+  - Livre des procédures fiscales - art. L166 (V)
+  - Code pénal - art. 226-13 (V)
 
 
 ##### I : Dérogations en matière d'assistance fiscale internationale<a id=88></a>
@@ -7576,17 +7600,22 @@ prestations.
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 1er, 3 et 12 I de l'ordonnance 2007-329 du 12 mars 2007.
+Dispositions devenues sans objet en conséquence de l'article 17 II et III de la loi n° 2009-1674 du 30 décembre 2009.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-295 du 1er avril 2008 - art. 1
+  - Décret n°2009-388 du 7 avril 2009 - art. 1
+  - Décret n°2010-422  du 27 avril 2010 - art. 1
+
+**Liens**:
+
+  - PERIME: Décret n°2010-422  du 27 avril 2010 - art. 1
 
 _Cite_:
 
-  - Code du travail - art. L5427-2
+  - Code du travail - art. L5427-2 (V)
 
 
 ###### Article L135
@@ -8161,6 +8190,29 @@ _Cite_:
   - Code monétaire et financier - art. L562-5
 
 
+###### Article L135 V
+
+Conformément aux dispositions de l'article L. 232-20 du code du sport, les agents de l'administration des impôts, des douanes
+et de la direction générale de la concurrence, de la consommation et de la répression des fraudes sont habilités à se
+communiquer entre eux et aux services mentionnés à cet article tous renseignements obtenus dans l'accomplissement de leur
+mission respective et relatifs aux substances et procédés mentionnés à l'article L. 232-9 du même code.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article L232-20 du code du sport.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-388 du 7 avril 2009 - art. 1
+
+_Cite_:
+
+  - Code du sport. - art. L232-20
+  - Code du sport. - art. L232-9
+
+
 ##### III : Dérogations au profit de diverses commissions<a id=90></a>
 
 ###### Article L136
@@ -8648,36 +8700,6 @@ _Modifié par_:
 _Codifié par_:
 
   - Décret n°99-383 1999-05-18
-
-
-###### Article L146 B
-
-Ainsi qu'il est dit au troisième alinéa de l'article 706-11 du code de procédure pénale et pour l'application de cet article
-et de l'article 706-9 du même code, le fonds de garantie des victimes des actes de terrorisme et d'autres infractions peut
-demander au procureur de la République de requérir de toute personne ou administration la communication de renseignements sur
-la situation professionnelle, financière, fiscale ou sociale des personnes ayant à répondre du dommage. Le secret
-professionnel ne peut être opposé au procureur de la République. Les renseignements ainsi recueillis ne peuvent être utilisés
-à d'autres fins que celles prévues au présent article ; leur divulgation est interdite.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°99-383 1999-05-18
-
-_Créé par_:
-
-  - Décret n°99-383 du 18 mai 1999 - art. 1 ()
-
-**Liens**:
-
-  - DISJOINT: Décret n°2009-388 du 7 avril 2009 - art. 1
-  - PILOTE_SUIVEUR: Code de procédure pénale - art. 706-11
-  - HISTO: Edition du 31 mars 1999
-
-_Cite_:
-
-  - Code de procédure pénale - art. 706-9
 
 
 ###### Article L147
@@ -9193,30 +9215,34 @@ _Cite_:
 
 Le centre national de la cinématographie, ainsi que les sociétés d'auteurs, d'éditeurs, de compositeurs ou de distributeurs
 peuvent recevoir communication, de la part de l'administration des impôts, de tous les renseignements relatifs aux recettes
-réalisées par les entreprises soumises à leur contrôle.
+réalisées par les entreprises soumises à leur contrôle. 
+
+Le Centre national de cinématographie peut recevoir communication de l'administration des impôts, pour chaque redevable, de
+tous renseignements relatifs au montant de la taxe mentionnée à l'article 1609 sexdecies B du code général des impôts.
+
+**Nota:**
+
+L'article 1er du décret n° 2009-389 du 7 avril 2009 transfère la dernière phrase de l'article 302 bis KE du code des impôts
+sous le second alinéa de l'article L. 163 du livre des procédures fiscales, disposition déjà introduite par l'article 1er du
+décret n° 2009-388 du 7 avril 2009.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 1559, 1560
-
-_Anciens textes_:
-
-  - CGI 1567 (1RE PHRASE)
-  - Décret-loi 1939-07-29 ART. 3
-  - Loi n°1941-12-31 ART. 9
+  - Décret n°2009-388 du 7 avril 2009 - art. 1
+  - Décret n°2009-389 du 7 avril 2009 - art. 1
 
 _Cité par_:
 
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
   - Code du cinéma et de l'image animée - art. L115-27 (V)
   - Code du cinéma et de l'image animée - art. L413-4 (V)
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
   - Livre des procédures fiscales - art. L113 (V)
 
-_Modifié par_:
+_Cite_:
 
-  - Loi n°83-1179 du 29 décembre 1983 - art. 93 (V) JORF 30 décembre 1983
+  - Code général des impôts, CGI. - art. 1609 sexdecies B (V)
 
 
 ##### 2° : SAFER<a id=96></a>
@@ -9492,7 +9518,7 @@ Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique é
 
 1° A la retenue à la source sur les revenus de capitaux mobiliers prévue à l'article 119 bis du code général des impôts ; 
 
-2° Aux prélèvements prévus aux articles 117 quater et 125 A ; 
+2° Aux prélèvements prévus aux articles 117 quater et 125 A du code général des impôts ; 
 
 3° (abrogé). 
 
@@ -9504,25 +9530,21 @@ Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique é
 
 7° A tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu ou de l'impôt sur les sociétés. 
 
-8° A la cotisation minimale de taxe professionnelle prévue au II de l'article 1647 E.
-
-**Nota:**
-
-Loi n° 2007-1824 du 25 décembre 2007 de finances rectificative pour 2007, article 68 VI : Le présent article entre en vigueur
-à une date fixée par décret et au plus tard le 1er janvier 2009. L'article 1 du décret n° 2008-591 du 23 juin 2008 a fixé
-cette date au 1er novembre 2008.
+8° A la cotisation minimale de taxe professionnelle prévue au II de l'article 1647 E du code général des impôts
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 68
-
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 125 A
+  - Loi n°88-1149 du 23 décembre 1988 - art. 23
+  - Code général des impôts, CGI. - art. 117 quater
+  - Code général des impôts, CGI. - art. 119 bis
   - Code général des impôts, CGI. - art. 1647 E
   - Livre des procédures fiscales - art. L169
+
+_Modifié par_:
+
+  - Décret n°2009-388 du 7 avril 2009 - art. 1
 
 _Cité par_:
 
@@ -9667,33 +9689,27 @@ _Cite_:
 
 Les conditions dans lesquelles est exercé le droit de reprise en ce qui concerne le prélèvement spécial sur la fraction des
 bénéfices résultant de la production, de la distribution ou de la représentation de films pornographiques ou d'incitation à
-la violence prévu à l'article 235 ter L du code général des impôts sont fixées par décret en Conseil d'Etat.
+la violence prévu à l'article 1605 sexies du code général des impôts sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 235 ter L
-
-_Anciens textes_:
-
-  - CGI 235 ter L (AL. DERNIER P.)
-  - Loi n°75-1278 1975-12-30 ART. 11 IV
-  - Décret n°76-1226 1976-12-28 ART. 4
-
-**Liens**:
-
-  - HISTO: Edition du 1er juillet 1981
-
-_Codifié par_:
-
-  - Décret n°81-859 1981-09-15
+  - Décret n°2009-388 du 7 avril 2009 - art. 1
 
 _Cité par_:
 
   - Code du cinéma et de l'image animée - art. L336-3 (Ab)
   - Code général des impôts, CGI. - art. 235 ter L (T)
   - Livre des procédures fiscales - art. R*172 B-1 (P)
+
+_Abrogé par_:
+
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 20
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1605 sexies
 
 
 ###### Article L172 C
@@ -12297,24 +12313,20 @@ Les demandes présentées par les contribuables en vue d'obtenir la remise des m
 général des impôts sont soumises pour avis à la commission départementale des impôts directs et des taxes sur le chiffre
 d'affaires ou à la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires lorsque ces majorations
 sont consécutives à des rectifications relevant de la compétence de l'une ou l'autre de ces commissions, telle qu'elle est
-définie aux articles L. 59, L. 59 A et L. 59 C du présent livre.
-
-**Nota:**
-
-dispositions applicables aux propositions de rectifications adressées à compter du 1er juillet 2008.
+définie aux articles L. 59, L. 59 A et L. 59 C.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1729
-  - Livre des procédures fiscales - art. L59
-  - Livre des procédures fiscales - art. L59 A
-  - Livre des procédures fiscales - art. L59 C
-
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 16 (V)
+  - Décret n°2009-388 du 7 avril 2009 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1729 (V)
+  - Livre des procédures fiscales - art. L59 (V)
+  - Livre des procédures fiscales - art. L59 A (V)
+  - Livre des procédures fiscales - art. L59 C (V)
 
 
 ###### Article L251
@@ -14482,15 +14494,15 @@ l'administration l'ensemble de ces renseignements et justifications.
 en demeure de compléter sa réponse dans un délai de trente jours en précisant les compléments de réponse à fournir. 
 
 3. En l'absence de réponse, ou en cas de réponse insuffisante, dans le délai prévu au 1 prorogé le cas échéant du délai prévu
-au 2, l'entité juridique doit déposer dans un délai de trente jours la déclaration mentionnée à l'article 990 F au titre de
-l'année au cours de laquelle l'engagement prévu au d du 3° du 990 E n'a pas été respecté ainsi qu'au titre des années
-antérieures non prescrites.
+au 2, l'entité juridique doit déposer dans un délai de trente jours la déclaration mentionnée à l'article 990 F du code
+général des impôts au titre de l'année au cours de laquelle l'engagement prévu au d du 3° du 990 E du même code n'a pas été
+respecté ainsi qu'au titre des années antérieures non prescrites.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-354 du 15 avril 2008 - art. 3
+  - Décret n°2009-388 du 7 avril 2009 - art. 2
 
 _Cite_:
 
@@ -14777,70 +14789,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-
-###### Article R27-1
-
-Lors des visites et vérifications effectuées par les agents du service des douanes et droits indirects dans les conditions
-fixées à l'article L. 27, les fabricants d'isoglucose et les fabriquants de sirop d'inuline sont tenus d'ouvrir, à toute
-demande, leurs fabriques, ateliers, magasins et tous autres bâtiments, entrepôts et locaux professionnels enclavés dans la
-même enceinte que la fabrique ou dépendant de cette dernière.
-
-Ils sont également tenus de fournir la main-d'oeuvre et les matériels nécessaires pour le pesage et le mesurage de
-l'isoglucose ou du sirop d'inuline lors des exercices, des recensements, des inventaires, des prélèvements d'échantillons et
-autres contrôles de la production.
-
-**Nota:**
-
-Article devenu sans objet en conséquence de la loi n° 2006-1666 du 21 décembre 2006, article 92-I [1°] et III, conformément
-au décret n° 2009-388 du 7 avril 2009, article 2.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°95-1185 du 6 novembre 1995 - art. 3 () JORF 9 novembre 1995
-
-**Liens**:
-
-  - PERIME: Décret n°2009-388 du 7 avril 2009 - art. 2
-  - HISTO: Edition du 12 mai 1996
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 Q (P)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 564 quater (Ab)
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L27
-
-
-###### Article R27-2
-
-Chez les fabricants d'isoglucose et les fabricants de sirop d'inuline, les agents du service des douanes et droits indirects
-peuvent effectuer tous inventaires ou prélèvements d'échantillons qui leur paraissent nécessaires.
-
-**Nota:**
-
-Article devenu sans objet en conséquence de la loi n° 2006-1666 du 21 décembre 2006, article 92-I [1°] et III, conformément
-au décret n° 2009-388 du 7 avril 2009, article 2.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°95-1185 du 6 novembre 1995 - art. 3 () JORF 9 novembre 1995
-
-**Liens**:
-
-  - PERIME: Décret n°2009-388 du 7 avril 2009 - art. 2
-  - HISTO: Edition du 12 mai 1996
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 U (P)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 564 quater (Ab)
 
 
 ###### Article R30-2
@@ -15219,27 +15167,23 @@ _Cite_:
 
 ###### Article R*64-2
 
-Lorsque l'administration se prévaut des dispositions du cinquième alinéa de l'article L. 64, le contribuable dispose d'un
-délai de trente jours à compter de la réception de la réponse de l'administration à ses observations pour demander que le
-litige soit soumis à l'avis du comité consultatif pour la répression des abus de droit.
+Lorsque l'administration se prévaut des dispositions de l'article L. 64, le contribuable dispose d'un délai de trente jours à
+compter de la réception de la réponse de l'administration à ses observations pour demander que le litige soit soumis à l'avis
+du comité consultatif de l'abus de droit fiscal.
+
+**Nota:**
+
+Modifications apportées en conséquence de l'article 35 I et IX de la loi n° 2008-1443 du 30 décembre 2008.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2002-922 2002-06-06
-
 _Modifié par_:
 
-  - Décret n°2002-922 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
+  - Décret n°2009-388 du 7 avril 2009 - art. 2
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L64 (M)
+  - Livre des procédures fiscales - art. L64 (V)
 
 
 ##### Section VI : Conséquences et limites des procédures de rectification<a id=184></a>
@@ -15451,23 +15395,23 @@ _Cite_:
 
 ###### Article R*80 B-8
 
-Le délai de quatre mois prévu aux 4° et 5° de l'article L. 80 B court à compter de la réception de la demande d'appréciation
-ou, si les dispositions de l'article R.* 80 B-3 ont été mises en oeuvre, à compter de la réception des compléments demandés.
+Le délai de trois mois prévu aux 4° et 5° de l'article L. 80 B court à compter de la réception de la demande d'appréciation
+ou, si les dispositions de l'article R. * 80 B-3 ont été mises en oeuvre, à compter de la réception des compléments demandés.
+
+**Nota:**
+
+Modifications apportées en conséquence de l'article 5 III 2° et IV de la loi n° 2008-776 du 4 août 2008
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2006-1276 du 18 octobre 2006 - art. 1 () JORF 20 octobre 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - Décret n°2009-388 du 7 avril 2009 - art. 2
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L80 B (M)
-  - Livre des procédures fiscales L80 B, R80 B-3
+  - Livre des procédures fiscales - art. L80 B
+  - Livre des procédures fiscales - art. R*80 B-3
 
 
 ###### Article R*80 B-9
@@ -17926,13 +17870,13 @@ _Codifié par_:
 
 Par dérogation aux dispositions des articles R. 431-4 et R. 431-5 du code de justice administrative, les requêtes au tribunal
 peuvent être signées d'un mandataire autre que ceux qui sont mentionnés à l'article R. 431-2 du même code. En ce cas, les
-dispositions de l'article R. 197-4 du présent livre sont applicables.
+dispositions de l'article R. 197-4 sont applicables. 
 
 Le demandeur ne peut contester devant le tribunal administratif des impositions différentes de celles qu'il a visées dans sa
-réclamation à l'administration.
+réclamation à l'administration. 
 
 Les vices de forme prévus aux a, b, et d de l'article R. 197-3 peuvent, lorsqu'ils ont motivé le rejet d'une réclamation par
-l'administration, être utilement couverts dans la demande adressée au tribunal administratif.
+l'administration, être utilement couverts dans la demande adressée au tribunal administratif. 
 
 Il en est de même pour le défaut de signature de la réclamation lorsque l'administration a omis d'en demander la
 régularisation dans les conditions prévues au c du même article.
@@ -17941,11 +17885,7 @@ régularisation dans les conditions prévues au c du même article.
 
 _Modifié par_:
 
-  - Décret n°2000-389 du 4 mai 2000 - art. 1 (V)
-  - Décret n°2000-389 du 4 mai 2000 - art. 3 (V)
-  - Décret n°2000-389 du 4 mai 2000 - art. 5 (V)
-  - Décret n°2000-389 du 4 mai 2000 - art. 7 (V)
-  - Décret n°2001-436 du 21 mai 2001 - art. 2
+  - Décret n°2009-388 du 7 avril 2009 - art. 2
 
 **Liens**:
 
@@ -17955,6 +17895,13 @@ _Cité par_:
 
   - Code de justice administrative - art. R431-6 (V)
   - Code général des impôts, CGI. - art. 866 (V)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R*197-3
+  - Livre des procédures fiscales - art. R*197-4
+  - Code de justice administrative - art. R431-2
+  - Code de justice administrative - art. R431-4
 
 
 ###### Article R*200-3
@@ -19979,7 +19926,7 @@ fondé de pouvoir, il doit être demandé à la Poste de renvoyer au service des
 indirects expéditeur, le pli non distribué annoté :
 
 a) D'une part, de la date de sa première présentation à l'adresse indiquée à la souscription ou, s'il y a lieu, à la nouvelle
-adresse connue de l'administration des postes et télécommunications ;
+adresse connue de La Poste ;
 
 b) D'autre part, du motif de sa non-délivrance.
 
@@ -19990,6 +19937,10 @@ son fondé de pouvoir.
 La notification de l'avis de mise en recouvrement peut également être effectuée par le ministère d'un huissier. Elle est
 alors soumise aux règles de signification des actes d'huissier.
 
+**Nota:**
+
+Modifications apportées en conséquence des articles 1 et 41 de la loi n° 90-568 du 2 juillet 1990.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -19998,11 +19949,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2006-1092 du 29 août 2006 - art. 1 () JORF 31 août 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - Décret n°2009-388 du 7 avril 2009 - art. 2
 
 _Cité par_:
 
