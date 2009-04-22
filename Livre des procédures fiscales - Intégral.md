@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-04-18
+Version Consolidée au 2009-04-23
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -12844,25 +12844,30 @@ _Cité par_:
 
 ###### Article L259
 
-Par dérogation au deuxième alinéa de l'article L. 258, lorsqu'un commandement est signifié par le comptable du Trésor,
-l'envoi de la lettre simple prévu par l'article 658 du code de procédure civile n'est obligatoire que lorsqu'il y a dépôt de
-l'acte en mairie ; lorsque la copie de l'acte est remise à un voisin, il est laissé au domicile un avis de passage
-mentionnant la nature de l'acte et précisant le voisin à qui la copie a été remise. 
+Par dérogation au deuxième alinéa de l'article L. 258, lorsqu'un commandement est signifié par le comptable public, l'envoi
+de la lettre simple prévu par l'article 658 du code de procédure civile n'est obligatoire que lorsqu'il y a dépôt de l'acte
+en mairie ; lorsque la copie de l'acte est remise à un voisin, il est laissé au domicile un avis de passage mentionnant la
+nature de l'acte et précisant le voisin à qui la copie a été remise. 
 
 Toutefois, les commandements peuvent être notifiés par la poste ; ces actes de poursuites échappent alors aux conditions
-générales de validité des actes des huissiers de justice, telles qu'elles sont tracées par le code de procédure civile.
+générales de validité des actes des huissiers de justice, telles qu'elles sont tracées par le code de procédure civile. 
+
+Le commandement interrompt la prescription de l'action en recouvrement.
 
 **Nota:**
 
-_Modification effectuée en conséquence de l'article 26 IV premier alinéa de la loi n° 2007-1787 du 20 décembre 2007.
-
+_
 _
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-295 du 1er avril 2008 - art. 1
+  - Loi n°2009-431 du 20 avril 2009 - art. 18
+
+_Abrogé par_:
+
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 _Cité par_:
 
