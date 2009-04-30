@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-04-23
+Version Consolidée au 2009-05-01
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -6559,17 +6559,17 @@ _Modifié par_:
 ###### Article L106
 
 Les agents de l'administration des impôts peuvent délivrer des extraits des registres de l'enregistrement clos depuis moins
-de cent ans.
+de cinquante ans. 
 
 Ces extraits ne peuvent être délivrés que sur une ordonnance du juge du tribunal d'instance s'ils sont demandés par des
-personnes autres que les parties contractantes ou leurs ayants cause.
+personnes autres que les parties contractantes ou leurs ayants cause. 
 
 Ces extraits peuvent être délivrés, pour les besoins des recherches généalogiques nécessaires au règlement d'une succession,
 au notaire chargé dudit règlement ou aux personnes agissant à sa demande, sans qu'il soit besoin de demander l'ordonnance du
-juge du tribunal d'instance mentionnée au deuxième alinéa.
+juge du tribunal d'instance mentionnée au deuxième alinéa. 
 
 Dans les conditions prévues au deuxième alinéa, il peut être délivré copie ou extrait du double des actes sous signature
-privée déposé au service des impôts en application de l'article 849 du code général des impôts.
+privée déposé au service des impôts en application de l'article 849 du code général des impôts. 
 
 Le maire ou les personnes agissant à sa demande peuvent, sur délibération du conseil municipal, sans qu'il soit besoin de
 demander l'ordonnance du juge du tribunal d'instance, obtenir des extraits des registres de l'enregistrement clos depuis
@@ -6589,11 +6589,6 @@ _Anciens textes_:
   - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
   - Loi n°48-1268 du 17 août 1948 - art. 6, v. init.
 
-_Cite_:
-
-  - CGI 849
-  - Code civil - art. 713 (M)
-
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 849 (M)
@@ -6601,13 +6596,13 @@ _Cité par_:
   - Livre des procédures fiscales - art. R106-1 (Ab)
   - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2005
+  - Code civil - art. 713
 
 _Modifié par_:
 
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 99 () JORF 31 décembre 2004
+  - Ordonnance n°2009-483 du 29 avril 2009 - art. 14
 
 
 ###### Article L107
