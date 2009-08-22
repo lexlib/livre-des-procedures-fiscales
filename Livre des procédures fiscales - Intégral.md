@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-08-01
+Version Consolidée au 2009-08-23
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -20512,15 +20512,17 @@ _Cite_:
 
 Le comptable compétent invite le contribuable qui a demandé à différer le paiement des impositions à constituer les garanties
 prévues à l'article L. 277. Le contribuable dispose d'un délai de quinze jours à compter de la réception de l'invitation
-formulée par le comptable pour faire connaître les garanties qu'il s'engage à constituer.
+formulée par le comptable pour faire connaître les garanties qu'il s'engage à constituer. 
 
 Ces garanties peuvent être constituées par un versement en espèces qui sera effectué à un compte d'attente au Trésor, par des
 créances sur le Trésor, par la présentation d'une caution, par des valeurs mobilières, des marchandises déposées dans des
 magasins agréés par l'Etat et faisant l'objet d'un warrant endossé à l'ordre du Trésor, par des affectations hypothécaires,
-par des nantissements de fonds de commerce.
+par des nantissements de fonds de commerce. 
 
-Si le comptable estime ne pas pouvoir accepter les garanties offertes par le contribuable parce qu'elles ne répondent pas aux
-conditions prévues au deuxième alinéa, il lui notifie sa décision par lettre recommandée.
+Si le comptable estime ne pas pouvoir accepter les garanties offertes à sa demande ou spontanément par le contribuable parce
+qu'elles ne répondent pas aux conditions prévues au deuxième alinéa, il lui notifie sa décision par par pli recommandé avec
+demande d'avis de réception postal dans un délai de quarante-cinq jours à compter du dépôt de l'offre. A défaut de réponse
+par le comptable dans ce délai, les garanties offertes sont réputées acceptées.
 
 **Liens relatifs à cet article**
 
@@ -20528,17 +20530,13 @@ _Anciens textes_:
 
   - CGI 1952 1 (AL. 2, AL. 4, AL. 5)
 
-_Cite_:
-
-  - CGI L277
-
 _Modifié par_:
 
-  - Décret n°92-219 du 5 mars 1992 - art. 1 () JORF 11 mars 1992
+  - Décret n°2009-985 du 20 août 2009 - art. 1
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 4 juillet 1992
+  - Livre des procédures fiscales - art. L277
 
 _Cité par_:
 
@@ -20551,27 +20549,23 @@ _Cité par_:
 
 En cas de dépréciation ou d'insuffisance révélée des garanties constituées, l'administration peut à tout moment, dans les
 mêmes conditions que celles prévues par les articles L. 277 et L. 279, demander au redevable, par lettre recommandée avec
-avis de réception, un complément de garantie pour assurer le recouvrement de la somme contestée. Les poursuites sont reprises
-si le redevable ne satisfait pas, dans le délai d'un mois, à cette demande.
+avis de réception, un complément de garantie pour assurer le recouvrement de la somme contestée. Si le redevable ne satisfait
+pas, dans le délai de quarante-cinq jours, à cette demande, le comptable peut prendre des mesures conservatoires.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI L277
-  - CGI L279
 
 _Anciens textes_:
 
   - CGIAN2 396
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°81-860 1981-09-15
+  - Décret n°2009-985 du 20 août 2009 - art. 2
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er juillet 1981
+  - Livre des procédures fiscales - art. L277
+  - Livre des procédures fiscales - art. L279
 
 _Cité par_:
 
@@ -20579,59 +20573,41 @@ _Cité par_:
   - Livre des procédures fiscales - art. R277-8 (V)
 
 
-###### Article R277-3
+###### Article R277-3-1
 
-Lorsque des garanties autres que celles qui sont prévues à l'article R. 277-1 sont offertes, elles ne peuvent être acceptées,
-sur la proposition du comptable chargé du recouvrement, que par le trésorier-payeur général ou par le receveur général des
-finances, trésorier-payeur général de la région parisienne s'il s'agit d'impôts directs perçus par voie de rôle, et par le
-directeur des services fiscaux ou le directeur régional des douanes et droits indirects, selon le cas, s'il s'agit d'autres
-impôts, droits ou taxes.
+Lorsque le redevable fournit des garanties suffisantes, au sens de l'article R. * 277-1, à l'appui d'une réclamation assortie
+d'une demande de sursis de paiement, celles-ci se substituent aux sommes ou biens appréhendés avant la réclamation pour le
+recouvrement des créances qui font l'objet de la contestation.
+
+Dans ce cas, le comptable restitue les biens ou sommes appréhendés, avant la réclamation mentionnée à l'article L. 277, pour
+le montant des créances effectivement garanties.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - CGIAN3 416 A
-
-_Modifié par_:
-
-  - Décret n°93-10 du 4 janvier 1993 - art. 4 (V) JORF 5 janvier 1993
-
-_Codifié par_:
-
-  - Décret n°93-1095 1993-09-16
-
-_Abrogé par_:
-
-  - Décret n°2009-986 du 20 août 2009 - art. 5
+  - Décret n°2009-986 du 20 août 2009 - art. 1
 
 _Cite_:
 
-  - Livre des procédures fiscales
+  - Livre des procédures fiscales - art. L277
+  - Livre des procédures fiscales - art. R*277-1
 
 
 ###### Article R277-4
 
 Le contribuable peut être admis par le comptable chargé du recouvrement, à toute époque, à remplacer la garantie qu'il a
-constituée par l'une des autres garanties prévues à l'article R. 277-3, d'une valeur au moins égale.
+constituée  par une autre garantie, d'une valeur au moins égale.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI R277-3
 
 _Anciens textes_:
 
   - CGIAN3 416 C
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°81-860 1981-09-15
-
-**Liens**:
-
-  - HISTO: Edition du 1er juillet 1981
+  - Décret n°2009-986 du 20 août 2009 - art. 2
 
 _Cité par_:
 
@@ -20642,25 +20618,15 @@ _Cité par_:
 ###### Article R277-5
 
 A défaut de constitution de garantie le contribuable qui a demandé à différer le paiement de l'impôt peut, en cas de saisie
-de matériel ou de marchandises indispensables à l'exercice de sa profession, être autorisé, soit par le trésorier-payeur
-général ou par le receveur général des finances, trésorier-payeur général de la région parisienne, soit par le directeur des
-services fiscaux ou le directeur régional des douanes et droits indirects, selon le cas, après avis du comptable chargé du
+de matériel ou de marchandises indispensables à l'exercice de sa profession, être autorisé, par le comptable chargé du
 recouvrement, à vendre des objets saisis, à charge par lui soit de les remplacer par des objets de valeur au moins égale,
 soit d'en consigner le prix de vente.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - CGIAN3 416 D
-
 _Modifié par_:
 
-  - Décret n°93-10 du 4 janvier 1993 - art. 4 (V) JORF 5 janvier 1993
-
-_Codifié par_:
-
-  - Décret n°93-1095 1993-09-16
+  - Décret n°2009-986 du 20 août 2009 - art. 3
 
 
 ###### Article R277-6
@@ -20693,18 +20659,14 @@ _Cité par_:
 
 ###### Article R277-7
 
-En cas de réclamation relative à l'assiette d'imposition et portant sur un montant de droits inférieur à 4 500 euros, le
-débiteur est dispensé de constituer des garanties.
+En cas de réclamation relative à l'assiette d'imposition et portant sur un montant de droits supérieur à 4 500 €, le débiteur
+doit constituer des garanties portant sur le montant des droits contestés.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-1584 du 7 novembre 2007 - art. 1 () JORF 9 novembre 2007
-
-_Codifié par_:
-
-  - L'article sera codifié ultérieurement
+  - Décret n°2009-986 du 20 août 2009 - art. 4
 
 
 #### Chapitre III : Le contentieux du recouvrement<a id=247></a>
