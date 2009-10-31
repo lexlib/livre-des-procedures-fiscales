@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-09-07
+Version Consolidée au 2009-11-01
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -3059,8 +3059,9 @@ _Modifié par_:
 
 Sous réserve des dispositions de l'article L. 56, lorsque l'administration des impôts constate une insuffisance, une
 inexactitude, une omission ou une dissimulation dans les éléments servant de base au calcul des impôts, droits, taxes,
-redevances ou sommes quelconques dues en vertu du code général des impôts, les rectifications correspondantes sont effectuées
-suivant la procédure de rectification contradictoire définie aux articles L. 57 à L. 61 A. 
+redevances ou sommes quelconques dues en vertu du code général des impôts ou de l'article L. 2333-55-2 du code général des
+collectivités territoriales, les rectifications correspondantes sont effectuées suivant la procédure de rectification
+contradictoire définie aux articles L. 57 à L. 61 A.
 
 Cette procédure s'applique également lorsque l'administration effectue la reconstitution du montant déclaré du bénéfice
 industriel ou commercial, du bénéfice non commercial, du bénéfice agricole ou du chiffre d'affaires déterminé selon un mode
@@ -3070,8 +3071,8 @@ réel d'imposition.
 
 _Anciens textes_:
 
-  - Loi n°63-1316 1963-12-27 ART. 24 1
   - CGI 1649 QUINQUIES A 1 (SAUF 6ème, 7ème, 8ème LIGNES)
+  - Loi n°63-1316 1963-12-27 ART. 24 1
   - Décret n°71-290 1971-04-15 ART. 3
 
 _Cité par_:
@@ -3097,18 +3098,15 @@ _Cité par_:
   - Livre des procédures fiscales - art. L49 (V)
   - Livre des procédures fiscales - art. L80 L (V)
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 31 août 2004
+  - Loi n°2009-888 du 22 juillet 2009 - art. 27 (V)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L56 (V)
-  - Livre des procédures fiscales - art. L57 (V)
-
-_Modifié par_:
-
-  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
+  - Livre des procédures fiscales - art. L56
+  - Livre des procédures fiscales - art. L57
+  - Code général des collectivités territoriales - art. L2333-55-2
 
 
 ###### Article L56
