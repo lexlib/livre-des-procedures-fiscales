@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-01-20
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -262,7 +262,7 @@ Version Consolidée au 2010-01-01
   - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#259)
     - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-10)](#260)
       - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#261)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A47 A-1)](#262)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A80 CB-3-5)](#262)
           - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#263)
             - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#264)
               - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#265)
@@ -270,18 +270,19 @@ Version Consolidée au 2010-01-01
                   - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#267)
                 - [2 : Droits de timbre (art. A37-1)](#268)
           - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1)](#269)
-        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#270)
-          - [Section I : Conditions d'exercice du droit de communication (art. A85-1)](#271)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#272)
-      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#273)
-        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#274)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#275)
-        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#276)
-          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#277)
-            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#278)
-          - [Section II : Exercice des poursuites pénales (art. A228-1)](#279)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#280)
-        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#281)
+          - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-3-5)](#270)
+        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#271)
+          - [Section I : Conditions d'exercice du droit de communication (art. A85-1)](#272)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#273)
+      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#274)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#275)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#276)
+        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#277)
+          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#278)
+            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#279)
+          - [Section II : Exercice des poursuites pénales (art. A228-1)](#280)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#281)
+        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#282)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -22924,9 +22925,163 @@ _Cite_:
   - Livre des procédures fiscales - art. L47 A
 
 
-#### Chapitre II : Le droit de communication<a id=270></a>
+##### Section VI : Conséquences et limites des procédures de rectification<a id=270></a>
 
-##### Section I : Conditions d'exercice du droit de communication<a id=271></a>
+###### Article A80 CB-3-1
+
+Le collège national de la direction générale des finances publiques mentionné à l'article R. * 80 CB-3 est composé : 
+
+― du directeur, adjoint au directeur général des finances publiques, chargé de la fiscalité, ou de son représentant, qui
+assure la fonction de président du collège ; 
+
+― du directeur de la législation fiscale ou de son représentant. Il assure la présidence du collège en cas d'absence ou
+d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ; 
+
+― du chef du service juridique de la fiscalité ou de son représentant ; 
+
+― du sous-directeur de la sous-direction du contrôle fiscal ou de son représentant ; 
+
+― du directeur en charge de la direction des vérifications nationales et internationales ou de son représentant ; 
+
+― du chef des services fiscaux ou de l'administrateur général des finances publiques de la direction nationale de
+vérification des situations fiscales personnelles ou de son représentant. 
+
+Chaque représentant a au moins le grade de directeur divisionnaire des impôts ou un grade équivalent.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 8 janvier 2010 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R*80 CB-3
+
+
+###### Article A80 CB-3-2
+
+La compétence géographique de chaque collège territorial est définie en annexe I à l'arrêté du 8 janvier 2010 pris pour
+l'application de l'article R. * 80 CB-3 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 8 janvier 2010 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R*80 CB-3
+
+
+###### Article A80 CB-3-3
+
+Les collèges territoriaux des finances publiques sont composés : 
+
+― d'un chef des services fiscaux ou d'un administrateur général des finances publiques d'une direction dont le département
+est de la compétence géographique du collège. Il est président du collège ; 
+
+― d'un directeur de la direction de contrôle fiscal ou de la direction spécialisée des finances publiques en matière de
+contrôle fiscal dont l'un des départements de son ressort territorial est de la compétence géographique du collège. Il assure
+la présidence du collège en cas d'absence ou d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'article
+R. * 80 CB-3 ; 
+
+― d'un directeur départemental des impôts ou d'un administrateur des finances publiques d'une direction dont le département
+est de la compétence géographique du collège ; 
+
+― de trois directeurs divisionnaires des impôts de directions dont le département est de la compétence géographique du
+collège. 
+
+Les membres du collège sont désignés par le chef des services fiscaux ou l'administrateur général des finances publiques de
+la direction de rattachement du collège.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 8 janvier 2010 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R*80 CB-3
+
+
+###### Article A80 CB-3-4
+
+Le collège national de la direction générale des douanes et droits indirects mentionné à l'article R. * 80 CB-3 est composé :
+
+– du directeur général des douanes et droits indirects ou de son représentant, qui assure la fonction de président du
+collège ;
+
+– du sous-directeur de la fiscalité ou de son représentant ; il assure la présidence du collège en cas d'absence ou
+d'empêchement ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ;
+
+– du sous-directeur des affaires juridiques, du contentieux, des contrôles et de la lutte contre la fraude, ou de son
+représentant ;
+
+– du chef du bureau des contributions indirectes ou de son représentant ;
+
+– du chef du bureau de la fiscalité, des transports et des politiques fiscales communautaires ou de son représentant ;
+
+– du chef de la direction nationale du renseignement et des enquêtes douanières ou de son représentant.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 8 janvier 2010 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R*80 CB-3
+
+
+###### Article A80 CB-3-5
+
+I.-Les collèges territoriaux sont composés pour chaque direction interrégionale des douanes et droits indirects mentionnée en
+annexe au décret n° 2007-1665 du 26 novembre 2007 relatif à l'organisation des services déconcentrés de la direction générale
+des douanes et droits indirects :
+
+- du directeur interrégional des douanes et droits indirects ou son représentant, qui assure la fonction de président du
+collège ;
+
+- de quatre directeurs régionaux de la circonscription interrégionale, désignés par le directeur interrégional des douanes et
+droits indirects, ou leurs représentants. A défaut d'un nombre suffisant de directeurs régionaux dans la circonscription
+interrégionale, siègent les directeurs des services douaniers ou les inspecteurs principaux des douanes, en poste dans cette
+circonscription, désignés à cet effet par le directeur interrégional des douanes et droits indirects ;
+
+- d'un chef de service régional d'enquêtes, désigné par le directeur interrégional des douanes et droits indirects, autre que
+celui dont dépend le service dont la position fait l'objet de la demande de second examen, ou son représentant.
+
+En cas d'absence ou d'empêchement ou dans le cas mentionné au cinquième alinéa de l'article R. * 80 CB-3, le collège est
+présidé par le membre du conseil ayant le plus d'ancienneté dans le grade le plus élevé parmi les membres présents.
+
+II.-Pour ce qui concerne la direction régionale de La Réunion, le collège territorial est composé :
+
+- du directeur régional des douanes et droits indirects ou son représentant, qui assure la fonction de président ;
+
+- de cinq membres de la direction régionale des douanes et droits indirects désignés par le directeur régional des douanes et
+droits indirects.
+
+En cas d'absence ou d'empêchement ou dans le cas mentionné au cinquième alinéa de l'article R. * 80 CB-3, le collège est
+présidé par le membre du conseil ayant le plus d'ancienneté dans le grade le plus élevé parmi les membres présents.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2007-1665 du 26 novembre 2007 (V)
+  - Livre des procédures fiscales - art. R*80 CB-3
+
+_Créé par_:
+
+  - Arrêté du 8 janvier 2010 - art. 1
+
+
+#### Chapitre II : Le droit de communication<a id=271></a>
+
+##### Section I : Conditions d'exercice du droit de communication<a id=272></a>
 
 ###### Article A85-1
 
@@ -22966,7 +23121,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R81-5 (VD)
 
 
-##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=272></a>
+##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=273></a>
 
 ###### Article A97-1
 
@@ -23037,11 +23192,11 @@ _Anciens textes_:
   - CGIAN4 211
 
 
-### Titre III : Le contentieux de l'impôt<a id=273></a>
+### Titre III : Le contentieux de l'impôt<a id=274></a>
 
-#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=274></a>
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=275></a>
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=275></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=276></a>
 
 ###### Article A208-1
 
@@ -23060,11 +23215,11 @@ _Cite_:
   - Livre des procédures fiscales - art. R*208-4 (V)
 
 
-#### Chapitre II : Les procédures pénales<a id=276></a>
+#### Chapitre II : Les procédures pénales<a id=277></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=277></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=278></a>
 
-##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=278></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=279></a>
 
 ###### Article A225 A-1
 
@@ -23085,7 +23240,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L225 A (V)
 
 
-##### Section II : Exercice des poursuites pénales<a id=279></a>
+##### Section II : Exercice des poursuites pénales<a id=280></a>
 
 ###### Article A228-1
 
@@ -23105,9 +23260,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*228-1
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=280></a>
+### Titre IV : Le recouvrement de l'impôt<a id=281></a>
 
-#### Chapitre II : Le sursis de paiement<a id=281></a>
+#### Chapitre II : Le sursis de paiement<a id=282></a>
 
 ###### Article A277-1
 
