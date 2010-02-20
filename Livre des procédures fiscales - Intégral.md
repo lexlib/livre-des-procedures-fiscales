@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-02-13
+Version Consolidée au 2010-02-21
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -262,7 +262,7 @@ Version Consolidée au 2010-02-13
   - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#259)
     - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-10)](#260)
       - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#261)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A80 CB-3-5)](#262)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A80 CB-6-1)](#262)
           - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#263)
             - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#264)
               - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#265)
@@ -270,7 +270,7 @@ Version Consolidée au 2010-02-13
                   - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#267)
                 - [2 : Droits de timbre (art. A37-1)](#268)
           - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1)](#269)
-          - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-3-5)](#270)
+          - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-6-1)](#270)
         - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#271)
           - [Section I : Conditions d'exercice du droit de communication (art. A85-1)](#272)
           - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#273)
@@ -23002,6 +23002,35 @@ _Cite_:
 _Créé par_:
 
   - Arrêté du 8 janvier 2010 - art. 1
+
+
+###### Article A80 CB-6-1
+
+Le collège national de la direction générale pour la recherche et l'innovation mentionné à l'article R. * 80 CB-6 est
+composé :
+
+- du chef du service des entreprises, du transfert de technologie et de l'action régionale, ou de son représentant, qui
+assure la fonction de président du collège ;
+
+- du chef du secteur mathématiques, physique, nanosciences, sciences et technologies de l'information et de la communication
+du service de la stratégie de la recherche et de l'innovation, ou de son représentant. Il assure la présidence du collège en
+cas d'absence ou d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ;
+
+- du chef du secteur énergie, développement durable, chimie et procédés du service de la stratégie de la recherche et de
+l'innovation, ou de son représentant ;
+
+- du chef du secteur biologie et santé du service de la stratégie de la recherche et de l'innovation, ou de son représentant.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 12 février 2010 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R*80 CB-3
+  - Livre des procédures fiscales - art. R*80 CB-6
 
 
 #### Chapitre II : Le droit de communication<a id=271></a>
