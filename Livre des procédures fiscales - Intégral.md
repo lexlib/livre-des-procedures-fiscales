@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-08
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -6084,7 +6084,8 @@ les assurances maladie et maternité ;
 4° les caisses de base du régime social des indépendants mentionnées à l'article L. 611-3 du code de la sécurité sociale ; 
 
 5° les sociétés et organismes qui assurent le service des prestations prévues par les articles L752-1 à L752-21 du code rural
-relatifs à l'assurance des personnes non salariées contre les accidents et les maladies professionnelles dans l'agriculture. 
+et de la pêche maritime relatifs à l'assurance des personnes non salariées contre les accidents et les maladies
+professionnelles dans l'agriculture. 
 
 Ce relevé mentionne, notamment, le montant des honoraires versés par les assurés aux praticiens. 
 
@@ -6096,16 +6097,12 @@ montant total des honoraires qui leur sont effectivement versés par les assuré
 _Anciens textes_:
 
   - CGI 1994 (AL. 1 SAUF LA DERNIERE PHRASE, AL. 2)
+  - Loi n°1942-10-24 ART. 15
+  - Loi n°48-809 1948-05-13 ART. 24 (AL. 1), ART. 25
   - Loi n°52-401 du 14 avril 1952 - art. 53 (V)
   - Ordonnance 67-828 1967-09-23 ART. 17
   - Loi n°68-1172 1968-12-27 ART. 5 II
   - Loi n°72-1121 du 20 décembre 1972 - art. 54, v. init.
-  - Loi n°1942-10-24 ART. 15
-  - Loi n°48-809 1948-05-13 ART. 24 (AL. 1), ART. 25
-
-_Modifié par_:
-
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 112
 
 _Cité par_:
 
@@ -6118,6 +6115,11 @@ _Cité par_:
   - Livre des procédures fiscales - art. A97-1 (V)
   - Livre des procédures fiscales - art. R*97-1 (V)
   - Livre des procédures fiscales - art. R*97-2 (V)
+
+_Modifié par_:
+
+  - Décret n°2011-646 du 9 juin 2011 - art. 1
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cite_:
 
@@ -6193,7 +6195,7 @@ employeurs au cours de l'année précédente.
 
 La Caisse centrale de la mutualité sociale agricole communique à l'administration fiscale, dans les conditions prévues au
 premier alinéa, les déclarations de salaires relevant du titre emploi simplifié agricole prévu à l'article L. 712-1 du code
-rural.
+rural et de la pêche maritime.
 
 L'organisme habilité mentionné au premier alinéa de l'article L. 7122-23 du code du travail communique à l'administration
 fiscale, dans les conditions prévues au premier alinéa, les déclarations prévues par l'article R. 7122-29 du même code. 
@@ -6217,7 +6219,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-422  du 27 avril 2010 - art. 1
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2011-646 du 9 juin 2011 - art. 1
 
 _Cite_:
 
@@ -8353,30 +8356,22 @@ _Cité par_:
 
 ###### Article L139
 
-La commission départementale prévue à l'article L121-8 du code rural peut se faire communiquer par l'administration des
-impôts les éléments non nominatifs d'information nécessaires à sa mission, notamment, les valeurs retenues à l'occasion des
-mutations intervenues et le prix des baux constatés, au cours de l'année précédente et au besoin au cours des cinq dernières
-années.
+La commission départementale prévue à l'article L. 121-8 du code rural et de la pêche maritime peut se faire communiquer par
+l'administration des impôts les éléments non nominatifs d'information nécessaires à sa mission, notamment, les valeurs
+retenues à l'occasion des mutations intervenues et le prix des baux constatés, au cours de l'année précédente et au besoin au
+cours des cinq dernières années.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural L121-8
-
-_Codifié par_:
-
-  - Décret n°93-1095 1993-09-16
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993
-
 _Modifié par_:
 
-  - Loi n°92-1283 1992-12-11 art. 2, 3, 5 et annexe JORF 12 décembre 1992
-  - Loi n°92-1283 du 11 décembre 1992 - art. 2 (V) JORF 12 décembre 1992
-  - Loi n°92-1283 du 11 décembre 1992 - art. 3 (V) JORF 12 décembre 1992
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2011-646 du 9 juin 2011 - art. 1 (V)
+  - Décret n°2011-646 du 9 juin 2011 - art. 1
+
+_Cite_:
+
+  - Code rural - art. L121-8 (VT)
 
 
 ###### Article L139 A
@@ -17706,30 +17701,23 @@ _Cite_:
 ###### Article R152-2
 
 En cas de contrôle effectué en application de l'article L. 243-7 du code de la sécurité sociale ou, pour le régime agricole,
-de l'article L. 724-7 du code rural, l'organisme chargé du recouvrement des cotisations de sécurité sociale et d'allocations
-familiales peut demander à la direction des services fiscaux du département dont relève l'entreprise, qui répond dans un
-délai de six mois suivant la saisine, si elle constitue une jeune entreprise innovante au sens de l'article 44 sexies-0 A du
-code général des impôts au titre d'un ou de plusieurs exercices donnés.
+de l'article L. 724-7 du code rural et de la pêche maritime, l'organisme chargé du recouvrement des cotisations de sécurité
+sociale et d'allocations familiales peut demander à la direction des services fiscaux du département dont relève
+l'entreprise, qui répond dans un délai de six mois suivant la saisine, si elle constitue une jeune entreprise innovante au
+sens de l'article 44 sexies-0 A du code général des impôts au titre d'un ou de plusieurs exercices donnés.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2011-646 du 9 juin 2011 - art. 2
+
 _Cite_:
 
-  - CGI 44 sexies-0 A
-  - Code rural L724-7
-  - Code de la sécurité sociale. - art. L243-7 (M)
-
-_Créé par_:
-
-  - Décret n°2004-581 du 21 juin 2004 - art. 4 (V) JORF 22 juin 2004
-
-_Codifié par_:
-
-  - Décret n°2005-331 2005-04-06
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
+  - Code général des impôts, CGI. - art. 44 sexies-0 A (V)
+  - Code rural - art. L724-7 (V)
+  - Code de la sécurité sociale. - art. L243-7 (V)
 
 
 #### Chapitre IV : Les délais de prescription<a id=208></a>
