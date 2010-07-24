@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-07-25
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -89,7 +89,7 @@ Version Consolidée au 2010-07-14
             - [2° : Publicité de l'impôt (art. L111 à L112)](#86)
           - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L166 C)](#87)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#88)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 X)](#89)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 Y)](#89)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139 A)](#90)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 C)](#91)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151 A)](#92)
@@ -8083,17 +8083,17 @@ _Cité par_:
 
 ###### Article L135 T
 
-Les services de l'Etat chargés de mettre en œuvre les mesures de gel des avoirs dans le cadre des articles L. 562-1 et L.
-562-5 du code monétaire et financier ou du règlement (CE) n° 2580 / 2001 du 27 décembre 2001 concernant l'adoption de
-certaines mesures restrictives à l'encontre de certaines personnes et entités dans le cadre de la lutte contre le terrorisme
-et au titre des sanctions financières internationales décidées par l'Union européenne ou l'Organisation des Nations unies
-peuvent recevoir de l'administration des impôts tous les renseignements nécessaires à l'accomplissement de ces missions.
+Les services de l'Etat chargés de mettre en œuvre les mesures de gel des avoirs dans le cadre des articles L. 562-1  à L.
+562-5 du code monétaire et financier ou du règlement (CE) n° 2580/2001 du 27 décembre 2001 concernant l'adoption de certaines
+mesures restrictives à l'encontre de certaines personnes et entités dans le cadre de la lutte contre le terrorisme et au
+titre des sanctions financières internationales décidées par l'Union européenne ou l'Organisation des Nations unies peuvent
+recevoir de l'administration des impôts tous les renseignements nécessaires à l'accomplissement de ces missions.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 11
+  - Loi n°2010-853 du 23 juillet 2010 - art. 23 (V)
 
 _Cite_:
 
@@ -8195,6 +8195,36 @@ _Modifié par_:
 _Cité par_:
 
   - Livre des procédures fiscales - art. L273 A (VD)
+
+
+###### Article L135 Y
+
+L'administration chargée du recouvrement de la taxe sur les surfaces commerciales prévue à l'article 3 de la loi n° 72-657 du
+13 juillet 1972 instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés transmet aux
+services des ministres chargés du commerce, de la consommation et de la concurrence, à des fins exclusives de réalisation
+d'études économiques, les données suivantes issues des déclarations des redevables de la taxe : le nom de l'établissement,
+l'identifiant SIRET, le secteur d'activité, le chiffre d'affaires hors taxe par établissement, la surface de locaux destinés
+à la vente au détail et le nombre de positions de ravitaillement de carburant de l'établissement.
+
+Ces données, hormis le chiffre d'affaires, sont communiquées par les services du ministre chargé du commerce aux chambres de
+commerce et d'industrie territoriales et départementales d'Ile-de-France pour l'exercice de leurs missions prévues à
+l'article L. 711-2 du code de commerce et afin d'alimenter leurs bases de données et d'information dans les conditions fixées
+par voie réglementaire.
+
+Les bénéficiaires de ces communications sont astreints, pour les données dont ils ont à connaître en application du présent
+article, au secret professionnel sous les sanctions prévues à l'article 226-13 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°72-657 du 13 juillet 1972 - art. 3
+  - Code de commerce - art. L711-2
+  - Code pénal - art. 226-13
+
+_Créé par_:
+
+  - Loi n°2010-853 du 23 juillet 2010 - art. 44
 
 
 ##### III : Dérogations au profit de diverses commissions<a id=90></a>
