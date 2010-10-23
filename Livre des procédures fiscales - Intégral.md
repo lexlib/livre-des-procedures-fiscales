@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-09-01
+Version Consolidée au 2010-10-24
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -8515,32 +8515,24 @@ _Cite_:
 
 ###### Article L145 D
 
-Dans le cadre du contrôle des mesures recommandées par la commission de surendettement des particuliers prévu aux articles L.
-332-1 à L. 332-3 du code de la consommation, le juge de l'exécution peut obtenir communication de tout renseignement sur la
-situation du débiteur conformément au sixième alinéa de l'article L. 332-2 du même code ci-après reproduit :
-
-"Art. L. 332-2, 6e alinéa. - Nonobstant toute disposition contraire, le juge peut obtenir communication de tout renseignement
-lui permettant d'apprécier la situation du débiteur et l'évolution possible de celle-ci."
+Dans le cadre du contrôle des mesures recommandées par la commission de surendettement des particuliers ou du contrôle de sa
+recommandation aux fins de rétablissement personnel sans liquidation judiciaire prévus aux articles L. 332-2 à L. 332-5-1 du
+code de la consommation, le juge de l'exécution peut obtenir communication de tout renseignement sur la situation du débiteur
+conformément aux articles précités.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - HISTO: 2004)
-  - PILOTE_SUIVEUR: Code de la consommation - art. L332-2 (M)
-  - HISTO: Edition du 31 août 2004
-
 _Codifié par_:
 
-  - Décret n°2004-1070 2004-10-08
+  - Décret n°2004-1070 du 8 octobre 2004
 
 _Modifié par_:
 
-  - Décret n°2004-1070 du 8 octobre 2004 - art. 4 () JORF 10 octobre 2004
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 43
 
 _Cite_:
 
-  - Code de la consommation L332-1 à L332-3, L332-2
+  - Code de la consommation - art. L332-2
 
 
 ###### Article L146
@@ -12078,23 +12070,19 @@ _Cite_:
 
 Les contribuables de bonne foi, en situation de gêne ou d'indigence, qui ont déposé auprès de la commission de surendettement
 des particuliers visée à l'article L. 331-1 du code de la consommation une demande faisant état de dettes fiscales et qui ne
-font pas l'objet d'une procédure de rétablissement personnel prévue à l'article L. 332-6 dudit code bénéficient d'un remise
-d'impôts directs au moins équivalente à celle recommandée par ladite commission pour les autres créances.
+font pas l'objet d'une procédure de rétablissement personnel prévue aux articles L. 332-5 ou L. 332-6 dudit code bénéficient
+d'un remise d'impôts directs au moins équivalente à celle recommandée par ladite commission pour les autres créances.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 42
+
 _Cite_:
 
-  - Code de la consommation - art. L331-1 (M)
-  - Code de la consommation - art. L332-6 (Ab)
-
-**Liens**:
-
-  - HISTO: Edition du 31 août 2003
-
-_Créé par_:
-
-  - Loi n°2003-710 du 1 août 2003 - art. 45 () JORF 2 août 2003
+  - Code de la consommation - art. L331-1
+  - Code de la consommation - art. L332-5
 
 
 ###### Article L247 B
