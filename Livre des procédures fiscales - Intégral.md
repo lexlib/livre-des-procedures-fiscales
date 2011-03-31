@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2011-04-01
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -20849,7 +20849,7 @@ _Cité par_:
 Le comptable mentionné aux premier, deuxième et troisième alinéas de l'article L. 256 est le comptable de la direction
 générale des impôts ou le comptable de la direction générale des douanes et droits indirects en ce qui concerne, pour ce
 dernier, le recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et
-de la contribution prévue par l'article 527 du code général des impôts. 
+de la contribution prévue par l'article 527 du code général des impôts.
 
 Le comptable public compétent pour établir l'avis de mise en recouvrement est soit celui du lieu de déclaration ou
 d'imposition du redevable, soit, dans le cas où ce lieu a été ou aurait dû être modifié, celui compétent à l'issue de ce
@@ -20860,17 +20860,19 @@ alinéa de l'article L. 256, est le directeur des services fiscaux ou le directe
 pour ce dernier, le recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes
 règles et de la contribution prévue par l'article 527 du code général des impôts.
 
+Les avis de mise en recouvrement résultant de l'engagement par la direction nationale des vérifications de situations
+fiscales d'une procédure de rectification ou d'une procédure d'imposition d'office sont établis, signés et rendus exécutoires
+par le comptable chargé du pôle de recouvrement spécialisé de Paris Sud-Ouest.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2005-1720 2005-12-30 art. 42 II, III, art. 103 Finances rectificative pour 2005 JORF 31 décembre 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 42 (V) JORF 31 décembre 2005
 
 _Codifié par_:
 
-  - Décret n°2006-357 2006-03-24
+  - Décret n°2006-357 du 24 mars 2006
+
+_Modifié par_:
+
+  - Décret n°2011-303 du 21 mars 2011 - art. 2
 
 _Cité par_:
 
@@ -20884,12 +20886,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 527 (V)
-  - Livre des procédures fiscales - art. L256 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
+  - CGI 527
+  - Livre des procédures fiscales - art. L256
 
 
 ##### Section II : Exercice des poursuites<a id=246></a>
