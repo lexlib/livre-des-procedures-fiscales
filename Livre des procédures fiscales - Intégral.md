@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-07-01
+Version Consolidée au 2011-07-31
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -1624,37 +1624,36 @@ _Cité par_:
 ###### Article L19
 
 A l'occasion du contrôle des déclarations de succession, l'administration des impôts peut demander aux héritiers et autres
-ayants droit des éclaircissements ou des justifications au sujet des titres, valeurs et créances non énoncés dans la
+ayants droit des éclaircissements ou des justifications au sujet des titres, valeurs et créances ainsi que des biens ou
+droits placés dans un trust défini à l'article 792-0 bis et des produits qui y sont capitalisés, non énoncés dans la
 déclaration et qui sont présumés faire partie de la succession en application de l'article 752, premier alinéa, du code
-général des impôts.
+général des impôts. 
 
 Les mesures destinées à l'application du présent article sont fixées par décret en Conseil d'Etat.
 
+**Nota:**
+
+Loi n° 2011-900 du 29 juillet 2011 de finances rectificative pour 2011 article 14 III : Le II s'applique aux donations
+consenties et pour des décès intervenus à compter de la publication de la présente loi.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 752 (AL. 3, AL. 4)
-  - Décret n°71-290 1971-04-15 ART. 1
-  - Loi n°1936-12-31 ART. 47, ART. 48
-  - Loi n°63-254 du 15 mars 1963 - art. 25, v. init.
-
-_Cite_:
-
-  - CGI 752 AL. 1
 
 _Codifié par_:
 
-  - Décret n°81-859 1981-09-15
+  - Décret n°81-859 du 15 septembre 1981
+
+_Modifié par_:
+
+  - Loi n°2011-900 du 29 juillet 2011 - art. 14 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 792-0 bis
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS, CGI. - art. 752 (M)
   - Livre des procédures fiscales - art. R*19-1 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er juillet 1981
 
 
 ###### Article L20
@@ -1828,37 +1827,42 @@ _Cité par_:
 
 ###### Article L23 A
 
-En vue du contrôle de l'impôt de solidarité sur la fortune, l'administration peut demander au contribuable des
-éclaircissements. Elle peut en outre lui demander des justifications sur la composition de l'actif et du passif de son
-patrimoine.
+En vue du contrôle de l'impôt de solidarité sur la fortune, l'administration peut demander : 
+
+a) Aux redevables mentionnés au 2 du I de l'article 885 W du code général des impôts, la composition et l'évaluation
+détaillée de l'actif et du passif de leur patrimoine ; 
+
+b) A tous les redevables, des éclaircissements et des justifications sur la composition de l'actif et du passif de leur
+patrimoine. 
 
 Ces demandes, qui sont indépendantes d'une procédure d'examen de situation fiscale personnelle, fixent au contribuable un
-délai de réponse qui ne peut être inférieur à deux mois.
+délai de réponse qui ne peut être inférieur à deux mois. 
 
-En l'absence de réponse ou si les justifications prévues à l'article 885 Z du code général des impôts ou demandées en
-application du premier alinéa sont estimées insuffisantes, l'administration peut rectifier les déclarations d'impôt de
-solidarité sur la fortune en se conformant à la procédure de rectification contradictoire prévue à l'article L. 55.
+En l'absence de réponse aux demandes mentionnées aux a et b ou si les éclaircissements ou justifications sont estimés
+insuffisants, l'administration peut rectifier les déclarations d'impôt de solidarité sur la fortune en se conformant à la
+procédure de rectification contradictoire prévue à l'article L. 55.
+
+**Nota:**
+
+Loi n° 2011-900 du 29 juillet 2011 de finances rectificative pour 2011 art 1 III : les dispositions du présent article
+s'appliquent à l'impôt de solidarité sur la fortune dû à compter de l'année 2012.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2011-900 du 29 juillet 2011 - art. 1 (V)
+
 _Cite_:
 
-  - CGI 885 Z
-  - Livre des procédures fiscales - art. L55 (M)
-
-**Liens**:
-
-  - HISTO: Edition du 31 août 2004
+  - Code général des impôts, CGI. - art. 885 W
+  - Livre des procédures fiscales - art. L55
 
 _Cité par_:
 
   - Livre des procédures fiscales - art. L180 (V)
   - Livre des procédures fiscales - art. L181-0 A (M)
   - Livre des procédures fiscales - art. L62 (V)
-
-_Modifié par_:
-
-  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=29></a>
@@ -3893,7 +3897,7 @@ Sont taxés d'office :
 
 1° à l'impôt sur le revenu, les contribuables qui n'ont pas déposé dans le délai légal la déclaration d'ensemble de leurs
 revenus ou qui n'ont pas déclaré, en application des articles 150-0 E et 150 VG du code général des impôts, les gains nets et
-les plus-values imposables qu'ils ont réalisés, sous réserve de la procédure de régularisation prévue à l'article L. 67 ;
+les plus-values imposables qu'ils ont réalisés, sous réserve de la procédure de régularisation prévue à l'article L. 67 ; 
 
 2° à l'impôt sur les sociétés, les personnes morales passibles de cet impôt qui n'ont pas déposé dans le délai légal leur
 déclaration, sous réserve de la procédure de régularisation prévue à l'article L. 68 ;
@@ -3905,16 +3909,17 @@ tenues de souscrire en leur qualité de redevables des taxes ;
 présenté un acte à la formalité de l'enregistrement dans le délai légal, sous réserve de la procédure de régularisation
 prévue à l'article L. 67 ;
 
+Le présent 4° s'applique aux personnes mentionnées au 2 du I de l'article 885 W du code général des impôts qui n'ont pas
+indiqué la valeur nette taxable de leur patrimoine dans la déclaration prévue à l'article 170 de ce même code.
+
 5° aux taxes assises sur les salaires ou les rémunérations les personnes assujetties à ces taxes qui n'ont pas déposé dans le
 délai légal les déclarations qu'elles sont tenues de souscrire, sous réserve de la procédure de régularisation prévue à
 l'article L. 68.
 
 **Nota:**
 
-Loi 2005-1719 2005-12-30 art. 14 VI Finances pour 2006 : 
-
-" Les dispositions prévues aux II, III, IV et VIII s'appliquent à compter de la période d'imposition s'ouvrant le 1er
-décembre 2006.
+Loi n° 2011-900 du 29 juillet 2011 de finances rectificative pour 2011 art 1 III : les dispositions du présent article
+s'appliquent à l'impôt de solidarité sur la fortune dû à compter de l'année 2012.
 
 **Liens relatifs à cet article**
 
@@ -3933,14 +3938,6 @@ _Anciens textes_:
   - Loi n°76-660 1976-07-19 art. 8 I
   - Loi n°78-1240 du 29 décembre 1978 - art. 41 ()
 
-_Cite_:
-
-  - CGI 150-0 E, 150 VG
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
-
 _Cité par_:
 
   - Ordonnance n°96-50 du 24 janvier 1996 - art. 15 (V)
@@ -3953,7 +3950,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 14 (V) JORF 31 décembre 2005 en vigueur le 1er décembre 2006
+  - Loi n°2011-900 du 29 juillet 2011 - art. 1 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 150 VG (V)
+  - Code général des impôts, CGI. - art. 150-0 E (V)
+  - Code général des impôts, CGI. - art. 170 (V)
+  - Code général des impôts, CGI. - art. 885 W (V)
 
 
 ###### Article L67
@@ -10053,30 +10057,26 @@ divers organismes, à l'exception de la taxe professionnelle, de la cotisation f
 la valeur ajoutée des entreprises et de leurs taxes additionnelles, le droit de reprise de l'administration des impôts
 s'exerce jusqu'à la fin de l'année suivant celle au titre de laquelle l'imposition est due. 
 
-Toutefois, lorsque le revenu fiscal de référence ou le nombre de personnes à charge ou encore le quotient familial à raison
-desquels le contribuable a bénéficié d'une exonération, d'un dégrèvement ou d'un abattement, en application des articles
-1391, 1391 B, 1391 B bis, 1414, 1414 A, 1414 B et des 1 et 3 du II de l'article 1411 du code général des impôts, fait
+Toutefois, lorsque les revenus ou le nombre de personnes à charge ou encore le quotient familial à raison desquels le
+contribuable a bénéficié d'une exonération, d'un dégrèvement ou d'un abattement, en application des articles 1391,1391 B,
+1391 B bis, 1391 B ter, 1414,1414 A, 1414 B et des 1 et 3 du II de l'article 1411 du code général des impôts, font
 ultérieurement l'objet d'une rectification, l'imposition correspondant au montant de l'exonération, du dégrèvement ou de
 l'abattement accordés à tort est établie et mise en recouvrement dans le délai fixé en matière d'impôt sur le revenu au
 premier alinéa de l'article L. 169.
-
-**Nota:**
-
-Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 article 37 II : Le I de l'article 37 s'applique aux
-impositions de taxe d'habitation et de taxe foncière sur les propriétés bâties établies au titre des années 2009 et
-suivantes.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-  - Décret n°2010-422  du 27 avril 2010 - art. 1
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (M)
+  - Loi n°2011-900 du 29 juillet 2011 - art. 31 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1391
+  - Code général des impôts, CGI. - art. 1411 (V)
   - Code général des impôts, CGI. - art. 1414
+  - Livre des procédures fiscales - art. L169 (V)
 
 _Cité par_:
 
@@ -10331,28 +10331,38 @@ _Modifié par_:
 Pour les droits d'enregistrement, la taxe de publicité foncière, les droits de timbre, ainsi que les taxes, redevances et
 autres impositions assimilées, le droit de reprise de l'administration s'exerce jusqu'à l'expiration de la troisième année
 suivant celle de l'enregistrement d'un acte ou d'une déclaration ou de l'accomplissement de la formalité fusionnée définie à
-l'article 647 du code général des impôts.
+l'article 647 du code général des impôts ou, pour l'impôt de solidarité sur la fortune des redevables ayant respecté
+l'obligation prévue au 2 du I de l'article 885 W du même code, jusqu'à l'expiration de la troisième année suivant celle au
+titre de laquelle l'imposition est due.
 
 Toutefois, ce délai n'est opposable à l'administration que si l'exigibilité des droits et taxes a été suffisamment révélée
-par le document enregistré ou présenté à la formalité, sans qu'il soit nécessaire de procéder à des recherches ultérieures.
+par le document enregistré ou présenté à la formalité ou, pour l'impôt de solidarité sur la fortune des redevables mentionnés
+au même 2 du I de l'article 885 W, par la réponse du redevable à la demande de l'administration prévue au a de l'article L.
+23 A du présent livre, sans qu'il soit nécessaire de procéder à des recherches ultérieures.
+
+Pour les redevables de l'impôt de solidarité sur la fortune mentionnés audit 2, lorsque les obligations déclaratives
+incombant au redevable en application des articles 1649 A et 1649 AA du même code n'ont pas été respectées par le redevable,
+le délai prévu au premier alinéa du présent article n'est pas non plus opposable à l'administration pour les biens ou droits
+afférents aux obligations déclaratives qui n'ont pas été respectées.
+
+**Nota:**
+
+Loi n° 2011-900 du 29 juillet 2011 de finances rectificative pour 2011 art 1 III : les dispositions du présent article
+s'appliquent à l'impôt de solidarité sur la fortune dû à compter de l'année 2012.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 647
-
 _Codifié par_:
 
-  - Décret n°97-662 1997-05-28
+  - Décret n°97-662 du 28 mai 1997
 
 _Modifié par_:
 
-  - Décret n°97-662 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
+  - Loi n°2011-900 du 29 juillet 2011 - art. 1 (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 11 avril 1997
+  - Code général des impôts, CGI. - art. 647
 
 _Cité par_:
 
@@ -10408,6 +10418,40 @@ _Cite_:
 _Cité par_:
 
   - Livre des procédures fiscales - art. L183 A (V)
+
+
+###### Article L181 A
+
+Lorsque le donataire opte pour la déclaration ou l'enregistrement du don manuel dans le délai d'un mois suivant le décès du
+donateur, prévus à l'article 635 A du code général des impôts, le droit de reprise de l'administration s'exerce jusqu'à
+l'expiration de la sixième année suivant le décès du donateur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-900 du 29 juillet 2011 - art. 9 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 635 A (V)
+
+
+###### Article L181 B
+
+La valeur des biens faisant l'objet des donations antérieures ajoutée à la valeur des biens compris dans une donation ou une
+déclaration de succession en vertu du deuxième alinéa de l'article 784 du code général des impôts peut, pour l'application de
+ce même alinéa seulement, être rectifiée.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2011-900 du 29 juillet 2011 - art. 7 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 784
 
 
 ###### Article L182
@@ -12829,8 +12873,9 @@ _Cité par_:
 
 ###### Article L253
 
-Un avis d'imposition est adressé sous pli fermé à tout contribuable inscrit au rôle des impôts directs dans les conditions
-prévues aux articles 1658 à 1659 A du code général des impôts.
+Un avis d'imposition est adressé sous pli fermé à tout contribuable inscrit au rôle des impôts directs ou, pour les
+redevables de l'impôt de solidarité sur la fortune relevant des dispositions du 2 du I de l'article 885 W du code général des
+impôts, au rôle de cet impôt, dans les conditions prévues aux articles 1658 à 1659 A du même code.
 
 L'avis d'imposition mentionne le total par nature d'impôt des sommes à acquitter, les conditions d'exigibilité, la date de
 mise en recouvrement et la date limite de paiement. 
@@ -12838,6 +12883,11 @@ mise en recouvrement et la date limite de paiement.
 Les avis d'imposition des contribuables des communes soumises aux prélèvements prévus à l'article L 2531-13 du code général
 des collectivités territoriales mentionnent le montant de la contribution de leur commune au fonds de solidarité des communes
 de la région d'Ile-de-France.
+
+**Nota:**
+
+Loi n° 2011-900 du 29 juillet 2011 de finances rectificative pour 2011 art 1 III : les dispositions du présent article
+s'appliquent à l'impôt de solidarité sur la fortune dû à compter de l'année 2012.
 
 **Liens relatifs à cet article**
 
@@ -12860,11 +12910,12 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2011-900 du 29 juillet 2011 - art. 1 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1658 (V)
-  - Code général des collectivités territoriales - art. L2531-13 (V)
+  - Code général des impôts, CGI. - art. 1658
+  - Code général des collectivités territoriales - art. L2531-13
 
 
 ###### Article L255
