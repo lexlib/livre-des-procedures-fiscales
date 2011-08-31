@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-07-31
+Version Consolidée au 2011-09-01
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -212,7 +212,7 @@ Version Consolidée au 2011-07-31
             - [2° : Publicité de l'impôt (art. R111-1 à R111-4)](#209)
           - [Section II : Dérogations à la règle du secret professionnel (art. R*113-1 à R152-2)](#210)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. R*114 A-1 à R*114 A-5)](#211)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. R*135 B-1 à R*135 S-2)](#212)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. R*135 B-1 à R119-1)](#212)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. R145 A-1)](#213)
             - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale (art. R*152-1 à R152-2)](#214)
         - [Chapitre IV : Les délais de prescription (art. R*172 B-1 à R*178-1)](#215)
@@ -17759,6 +17759,57 @@ _Cite_:
   - Livre des procédures fiscales - art. L80 F
   - Livre des procédures fiscales - art. L80 K
   - Livre des procédures fiscales - art. L81
+
+
+###### Article R119-1
+
+I. – Les informations nominatives mentionnées à l'article L. 119 sont limitées aux éléments de la situation fiscale des
+personnes concernées suivants :
+
+1° Le montant des bénéfices agricoles ;
+
+2° Le montant des traitements et salaires ;
+
+3° Le montant des indemnités de fonctions perçues par les élus locaux soumises à la retenue à la source ;
+
+4° Le montant des pensions ;
+
+5° Le montant des bénéfices industriels et commerciaux ;
+
+6° Le montant des bénéfices non commerciaux ;
+
+7° Le montant des revenus tirés de locations meublées ;
+
+8° Le numéro fiscal.
+
+Les informations transmises ne peuvent être utilisées à d'autres fins que l'instruction des demandes d'indemnités
+compensatoires de handicaps naturels. Elles ne peuvent être ni communiquées ni cédées sous forme nominative.
+
+II. – La demande d'informations nominatives qui peut concerner une personne ou une liste de personnes comporte tout ou partie
+des indications suivantes :
+
+1° Le nom de naissance, le nom marital et les prénoms ;
+
+2° Le sexe ;
+
+3° La date et le lieu de naissance ;
+
+4° L'adresse du dernier domicile connu ;
+
+5° Le numéro fiscal.
+
+III. – Il n'est donné suite à une demande qu'en cas de concordance suffisante des éléments d'identification de la personne
+concernée contenus dans la demande avec ceux détenus par l'administration à laquelle elle est adressée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-1032 du 29 août 2011 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L119
 
 
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions<a id=213></a>
