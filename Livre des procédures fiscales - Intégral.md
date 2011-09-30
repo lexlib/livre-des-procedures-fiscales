@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-09-01
+Version Consolidée au 2011-10-01
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -142,8 +142,8 @@ Version Consolidée au 2011-09-01
           - [Les taxes d'urbanisme (art. L251 A)](#139)
       - [Titre IV : Le recouvrement de l'impôt (art. L252 à L283 B)](#140)
         - [Chapitre premier : Les procédures de recouvrement (art. L252 à L275 A)](#141)
-          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. L253 à L257 B)](#142)
-          - [Section II : Exercice des poursuites (art. L258 à L260)](#143)
+          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. L253 à L257-0 B)](#142)
+          - [Section II : Exercice des poursuites (art. L258 A à L260)](#143)
           - [Section III : Mesures particulières (art. L262 à L273 B)](#144)
             - [1° : Avis à tiers détenteur (art. L262 à L263 A)](#145)
             - [2° : Rémunérations du travail (art. L264)](#146)
@@ -244,51 +244,50 @@ Version Consolidée au 2011-09-01
             - [III : Dispositions particulières aux contributions indirectes (art. R235-1 à R238-1)](#241)
         - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247 A-1 à R*251 A-5)](#242)
           - [Les taxes d'urbanisme (art. R*251 A-1 à R*251 A-5)](#243)
-      - [Titre IV : Le recouvrement de l'impôt (art. R*256-5 à R283 B-10)](#244)
-        - [Chapitre premier : Les procédures de recouvrement (art. R*256-5 à R*275-1)](#245)
-          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R*256-5 à R256-8)](#246)
-            - [II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects (art. R*256-1 à R256-8)](#247)
+      - [Titre IV : Le recouvrement de l'impôt (art. R*256-2 à R283 B-10)](#244)
+        - [Chapitre premier : Les procédures de recouvrement (art. R*256-2 à R*275-1)](#245)
+          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R*256-2 à R*256-1)](#246)
+            - [II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects (art. R*256-1)](#247)
           - [Section II : Exercice des poursuites (art. R*260 A-1 à R258-1)](#248)
-          - [Section III : Mesures particulières (art. R*267-1 à R*273-1)](#249)
+          - [Section III : Mesures particulières (art. R*267-1 à R268-1)](#249)
             - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*267-1)](#250)
             - [5° : Vente de fonds de commerce (art. R268-1)](#251)
-            - [10° : Taxes sur le chiffre d'affaires (art. R*273-1)](#252)
-          - [Section IV : Prescription de l'action en vue du recouvrement (art. R*275-1)](#253)
-        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-7)](#254)
-        - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#255)
-        - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. R283 A-10 à R283 B-10)](#256)
-          - [Demande d'assistance (art. R283 A-1 à R283 A-2)](#257)
-          - [Demande de renseignements (art. R283 A-3 à R283 A-9)](#258)
-          - [Demande de notification (art. R283 A-11 à R283 A-16)](#259)
-          - [Transmission des renseignements (art. R283 A-17 à R283 A-18)](#260)
-          - [Demande de recouvrement ou de mesures conservatoires (art. R283 B-1 à R283 B-10)](#261)
-      - [Titre V : Dispositions communes (art. R*287-1 à R289-2)](#262)
-        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. R*287-1 à R*288-3)](#263)
-        - [Chapitre III : Dispositions communautaires (art. R289-1 à R289-2)](#264)
-  - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#265)
-    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-10)](#266)
-      - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#267)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A80 CB-6-1)](#268)
-          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#269)
-            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#270)
-              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#271)
-                - [1 : Contributions indirectes (art. A26-1 à A27-1)](#272)
-                  - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#273)
-                - [2 : Droits de timbre (art. A37-1)](#274)
-          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1)](#275)
-          - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-6-1)](#276)
-        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#277)
-          - [Section I : Conditions d'exercice du droit de communication (art. A85-1)](#278)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#279)
-      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#280)
-        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#281)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#282)
-        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#283)
-          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#284)
-            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#285)
-          - [Section II : Exercice des poursuites pénales (art. A228-1)](#286)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#287)
-        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#288)
+          - [Section IV : Prescription de l'action en vue du recouvrement (art. R*275-1)](#252)
+        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-7)](#253)
+        - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#254)
+        - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. R283 A-10 à R283 B-10)](#255)
+          - [Demande d'assistance (art. R283 A-1 à R283 A-2)](#256)
+          - [Demande de renseignements (art. R283 A-3 à R283 A-9)](#257)
+          - [Demande de notification (art. R283 A-11 à R283 A-16)](#258)
+          - [Transmission des renseignements (art. R283 A-17 à R283 A-18)](#259)
+          - [Demande de recouvrement ou de mesures conservatoires (art. R283 B-1 à R283 B-10)](#260)
+      - [Titre V : Dispositions communes (art. R*287-1 à R289-2)](#261)
+        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. R*287-1 à R*288-3)](#262)
+        - [Chapitre III : Dispositions communautaires (art. R289-1 à R289-2)](#263)
+  - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#264)
+    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-10)](#265)
+      - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#266)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A80 CB-6-1)](#267)
+          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#268)
+            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#269)
+              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#270)
+                - [1 : Contributions indirectes (art. A26-1 à A27-1)](#271)
+                  - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#272)
+                - [2 : Droits de timbre (art. A37-1)](#273)
+          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1)](#274)
+          - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-6-1)](#275)
+        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#276)
+          - [Section I : Conditions d'exercice du droit de communication (art. A85-1)](#277)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#278)
+      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#279)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#280)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#281)
+        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#282)
+          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#283)
+            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#284)
+          - [Section II : Exercice des poursuites pénales (art. A228-1)](#285)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#286)
+        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#287)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -12834,34 +12833,6 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2531-13
 
 
-###### Article L255
-
-Lorsque l'impôt n'a pas été payé à la date limite de paiement et à défaut d'une réclamation assortie d'une demande de sursis
-de paiement formulée  dans les conditions prévues au premier alinéa de l'article L. 277, le comptable du Trésor chargé du
-recouvrement doit envoyer au contribuable une lettre de rappel avant la notification du premier acte de poursuites devant
-donner lieu à des frais.
-
-**Nota:**
-
-Loi n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 article 66 IV : Le présent article s'applique aux
-demandes de sursis de paiement formulées à compter du 1er juillet 2009.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 66 (V)
-
-_Abrogé par_:
-
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 167 bis (Ab)
-  - Livre des procédures fiscales - art. L260 (V)
-
-
 ###### Article L255 A
 
 Les taxes, versements et participations prévus aux articles 1585 A et 1599 octies du code général des impôts et les taxes
@@ -12965,40 +12936,6 @@ _Cité par_:
   - Livre des procédures fiscales - art. L275 A (V)
 
 
-###### Article L257
-
-A défaut de paiement des sommes mentionnées sur l'avis de mise en recouvrement ou de réclamation assortie d'une demande de
-sursis de paiement formulée  dans les conditions prévues au premier  alinéa de l'article L. 277, le comptable chargé du
-recouvrement adresse une mise en demeure avant l'engagement des poursuites.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Nota:**
-
-Loi n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 article 66 IV : Le présent article s'applique aux
-demandes de sursis de paiement formulées à compter du 1er juillet 2009.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 65
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 66 (V)
-
-_Abrogé par_:
-
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
-
-_Cité par_:
-
-  - Code des postes et des communications électronique - art. R*70-1 (Ab)
-  - Livre des procédures fiscales - art. L261 (VT)
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L277
-
-
 ###### Article L257 A
 
 Les avis de mises en recouvrement peuvent être signés et rendus exécutoires et les mises en demeure de payer peuvent être
@@ -13034,79 +12971,157 @@ _Cité par_:
   - Livre des procédures fiscales - art. R257 B-1 (V)
 
 
+###### Article L257-0 A
+
+1. A défaut de paiement des sommes mentionnées sur l'avis d'imposition à la date limite de paiement ou de celles mentionnées
+sur l'avis de mise en recouvrement et en l'absence d'une réclamation assortie d'une demande de sursis de paiement formulée
+dans les conditions prévues au premier alinéa de l'article L. 277, le comptable public compétent adresse au contribuable une
+mise en demeure de payer avant la notification du premier acte de poursuite devant donner lieu à des frais au sens de
+l'article 1912 du code général des impôts.
+
+2. Lorsque la mise en demeure de payer n'a pas été suivie de paiement ou d'une demande de sursis de paiement au sens de
+l'article L. 277, le comptable public compétent peut engager des poursuites à l'expiration d'un délai de trente jours suivant
+sa notification.
+
+3. La mise en demeure de payer interrompt la prescription de l'action en recouvrement. Elle peut être contestée dans les
+conditions prévues à l'article L. 281.
+
+4. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+
+_Modifié par_:
+
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
+
+_Cité par_:
+
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (V)
+  - Code des procédures civiles d'exécution - art. R221-7 (V)
+  - Code général de la propriété des personnes publ... - art. L2323-4 (VD)
+  - Livre des procédures fiscales - art. L257-0 B (V)
+  - Livre des procédures fiscales - art. L258 A (VD)
+  - Livre des procédures fiscales - art. R*257-0 A (T)
+  - Livre des procédures fiscales - art. R*257-0 A-1 (V)
+  - Livre des procédures fiscales - art. R*257-0 B-2 (V)
+  - Livre des procédures fiscales - art. R*257-0 C (T)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1912 (V)
+  - Livre des procédures fiscales - art. L277 (V)
+  - Livre des procédures fiscales - art. L281
+
+
+###### Article L257-0 B
+
+1. La mise en demeure de payer prévue à l'article L. 257-0 A est précédée d'une lettre de relance lorsqu'aucune autre
+défaillance de paiement n'a été constatée pour un même contribuable au titre d'une même catégorie d'impositions au cours des
+trois années précédant la date limite de paiement ou la date de mise en recouvrement de l'imposition dont le recouvrement est
+poursuivi.
+
+Le premier alinéa ne s'applique pas aux impositions résultant de l'application d'une procédure de rectification ou d'une
+procédure d'imposition d'office, aux créances d'un montant supérieur à 15 000 €, aux créances nées postérieurement au
+jugement d'ouverture d'une procédure collective ainsi qu'aux créances des entreprises tenues de souscrire leurs déclarations
+de résultats auprès du service chargé des grandes entreprises.
+
+2. Lorsque la lettre de relance prévue au 1 n'a pas été suivie de paiement et en l'absence d'une réclamation assortie d'une
+demande de sursis de paiement formulée dans les conditions prévues au premier alinéa de l'article L. 277, le comptable public
+compétent peut, à l'expiration d'un délai de trente jours suivant sa notification, adresser une mise en demeure de payer.
+Dans ce cas, le comptable public compétent peut engager des poursuites à l'expiration d'un délai de huit jours suivant la
+notification de la mise en demeure de payer.
+
+3. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+
+_Modifié par_:
+
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+
+_Cité par_:
+
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (V)
+  - Code général de la propriété des personnes publ... - art. L2323-4-1 (VD)
+  - Livre des procédures fiscales - art. L258 A (VD)
+  - Livre des procédures fiscales - art. R*257-0 B (T)
+  - Livre des procédures fiscales - art. R*257-0 B-1 (VD)
+  - Livre des procédures fiscales - art. R*257-0 B-2 (V)
+  - Livre des procédures fiscales - art. R*257-0 C (T)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L257-0 A (V)
+  - Livre des procédures fiscales - art. L277
+
+
 ##### Section II : Exercice des poursuites<a id=143></a>
 
-###### Article L258
+###### Article L258 A
 
-Si la lettre de rappel ou la mise en demeure n'a pas été suivie de paiement ou de la mise en jeu des dispositions de
-l'article L. 277, le comptable public compétent peut, à l'expiration d'un délai de vingt jours suivant l'une ou l'autre de
-ces formalités, engager des poursuites. 
-
-Sous réserve des dispositions des articles L. 259 à L. 261, ces poursuites sont effectuées dans les formes prévues par le
-code de procédure civile pour le recouvrement des créances. 
+1. Sous réserve des dispositions de l'article L. 260, les poursuites prévues au 2 des articles L. 257-0 A et L. 257-0 B sont
+effectuées dans les formes prévues par le code de procédure civile pour le recouvrement des créances. 
 
 Elles sont opérées par huissier de justice ou par tout agent de l'administration habilité à exercer des poursuites au nom du
-comptable.
+comptable. 
 
-**Nota:**
+2. Lorsqu'une saisie-vente est diligentée, la notification de la mise en demeure de payer tient lieu du commandement prescrit
+par le code de procédure civile. La saisie peut être pratiquée sans autre formalité à l'expiration du délai fixé au 2 de
+l'article L. 257-0 A et à la seconde phrase du 2 de l'article L. 257-0 B. 
 
-_Modification effectuée en conséquence de l'article 26 IV premier alinéa de la loi n° 2007-1787 du 20 décembre 2007._
+3. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Décret n°93-265 du 26 février 1993 - art. 10 (V)
-  - Loi - art. 21 (V)
-  - Décret n°2011-1303 du 14 octobre 2011 (V)
-  - Code général de la propriété des personnes publ... - art. L2323-4 (VT)
-  - Code général de la propriété des personnes publ... - art. L2323-5 (V)
-  - Livre des procédures fiscales - art. L259 (VT)
-  - Livre des procédures fiscales - art. L261 (VT)
-  - Livre des procédures fiscales - art. R*273-1 (Ab)
-  - Livre des procédures fiscales - art. R258-1 (VT)
+  - Décret n°92-755 du 31 juillet 1992 - art. 294 (Ab)
+  - Code des procédures civiles d'exécution - art. R122-2 (V)
+  - Code général de la propriété des personnes publ... - art. L2323-4 (VD)
+  - Code général de la propriété des personnes publ... - art. L2323-4-1 (VD)
 
-_Modifié par_:
-
-  - Décret n°2008-295 du 1er avril 2008 - art. 1
-
-_Abrogé par_:
+_Créé par_:
 
   - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L277
+  - Livre des procédures fiscales - art. L257-0 A
+  - Livre des procédures fiscales - art. L257-0 B
+  - Livre des procédures fiscales - art. L260
 
 
 ###### Article L260
 
-Dans le cas où une majoration de droit ou des intérêts de retard ont été appliqués au contribuable pour non-déclaration ou
-déclaration tardive ou insuffisante des revenus et bénéfices imposables, le comptable du Trésor peut faire signifier un
-commandement au contribuable dès l'exigibilité de l'impôt sans que la lettre de rappel prévue à l'article L. 255 soit
-préalablement notifiée. 
+Dans les cas mentionnés au 2 de l'article 1663 du code général des impôts, le comptable public compétent peut faire signifier
+une mise en demeure de payer au contribuable dès l'exigibilité de l'impôt sur le revenu, des contributions sociales
+recouvrées comme en matière d'impôt sur le revenu, de la taxe d'habitation, des taxes foncières sur les propriétés bâties et
+non bâties et des impositions recouvrées comme les impositions précitées.
 
-La saisie peut alors être pratiquée un jour après la signification du commandement.
+La saisie peut alors être pratiquée un jour franc après la signification de la mise en demeure de payer.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - CGI 1842 2
-  - Ordonnance n°58-1372 du 29 décembre 1958 - art. 55 ()
-  - Loi n°72-1121 1972-12-20 ART. 14 II
-
 _Codifié par_:
 
-  - Décret n°81-859 1981-09-15
+  - Décret n°81-859 du 15 septembre 1981
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 1er juillet 1981
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L255 (M)
+  - Code général des impôts, CGI. - art. 1663 (V)
 
 _Cité par_:
 
@@ -13666,37 +13681,6 @@ _Anciens textes_:
 _Cite_:
 
   - Loi n°94-112 du 9 février 1994 - art. 11
-
-
-###### Article L275
-
-La notification d'un avis de mise en recouvrement interrompt la prescription courant contre l'administration et y substitue
-la prescription quadriennale (1).
-
-Le délai de quatre ans mentionné au premier alinéa est interrompu dans les conditions indiquées à l'article L. 274.
-
-(1) La nouvelle prescription s'applique aux procédures de recouvrement en cours au 1er janvier 1985, sans que la durée totale
-de la prescription applicable puisse excéder l'ancien délai.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI L274
-
-_Modifié par_:
-
-  - Loi n°84-1208 du 29 décembre 1984 - art. 103 (V) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
-
-_Cité par_:
-
-  - Loi n°84-1208 du 29 décembre 1984 - art. 103 (V)
-  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
-  - Livre des procédures fiscales - art. R*275-1 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 
 ###### Article L275 A
@@ -20467,21 +20451,88 @@ _Abrogé par_:
 
 ##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=246></a>
 
-###### Article R*256-5
+###### Article R*256-2
 
-Le directeur des services fiscaux ou le directeur régional des douanes et droits indirects compétent pour viser et rendre
-exécutoire l'avis de mise en recouvrement est celui sous l'autorité duquel se trouve placé le comptable chargé du
-recouvrement.
+Lorsque le comptable poursuit le recouvrement d'une créance à l'égard de débiteurs tenus conjointement ou solidairement au
+paiement de celle-ci, il notifie préalablement à chacun d'eux un avis de mise en recouvrement à moins qu'ils n'aient la
+qualité de représentant ou d'ayant cause du contribuable, telle que mentionnée à l'article 1682 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2006-1092 du 29 août 2006 - art. 1 () JORF 31 août 2006
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 6
 
-_Abrogé par_:
+_Cite_:
 
-  - Décret n°2011-1302 du 14 octobre 2011 - art. 14
+  - Code général des impôts, CGI. - art. 1682
+
+
+###### Article R*256-3
+
+L'avis de mise en recouvrement est rédigé en double exemplaire :
+
+a) Le premier, dit " original ", est déposé au service compétent de la direction générale des finances publiques ou à la
+recette des douanes et droits indirects chargé du recouvrement ;
+
+b) Le second, dit " ampliation ", est destiné à être notifié au redevable ou à son fondé de pouvoir.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 7
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R*256-6 (V)
+
+
+###### Article R*256-6
+
+La notification de l'avis de mise en recouvrement comporte l'envoi au redevable, soit au lieu de son domicile, de sa
+résidence ou de son siège, soit à l'adresse qu'il a lui-même fait connaître au service compétent de la direction générale des
+finances publiques ou au service des douanes et droits indirects compétent, de l'" ampliation " prévue à l'article R. *
+256-3.
+
+Au cas où la lettre recommandée ne pourrait, pour quelque cause que ce soit, être remise au redevable destinataire ou à son
+fondé de pouvoir, il doit être demandé à la Poste de renvoyer au service compétent de la direction générale des finances
+publiques ou au service des douanes et droits indirects expéditeur, le pli non distribué annoté : 
+
+a) D'une part, de la date de sa première présentation à l'adresse indiquée à la souscription ou, s'il y a lieu, à la nouvelle
+adresse connue de La Poste ; 
+
+b) D'autre part, du motif de sa non-délivrance. 
+
+Dans cette éventualité, l'" ampliation " renvoyée reste déposée au service compétent de la direction générale des finances
+publiques ou à la recette des douanes et droits indirects chargé du recouvrement où il peut en être délivré copie, à tout
+moment et sans frais, au redevable lui-même ou à son fondé de pouvoir. 
+
+La notification de l'avis de mise en recouvrement peut également être effectuée par le ministère d'un huissier. Elle est
+alors soumise aux règles de signification des actes d'huissier.
+
+**Nota:**
+
+Conformément à l'article 16 II du décret n° 2011-1302 du 14 octobre 2011, ces dispositions entrent en vigueur le 1er octobre
+2011, y compris pour les procédures en cours à cette date, à l'exception de celles portant sur des créances étrangères à
+l'impôt et au domaine recouvrées comme en matière d'impôts directs pour lesquelles la date d'entrée en vigueur est fixée
+conformément au J du I de l'article 55 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010, c'est-
+à-dire par décret, et au plus tard, le 31 décembre 2012.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 8
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R*256-3 (V)
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R*257-0 A (T)
+  - Livre des procédures fiscales - art. R*257-0 A-1 (V)
 
 
 ###### Article R*256-7
@@ -20506,13 +20557,14 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*257-0 A-1 (V)
 
 
-###### Article R*257-1
+###### Article R*257-0 A
 
-La mise en demeure mentionnée à l'article L. 257 comporte les éléments nécessaires à l'identification du ou des avis de mise
-en recouvrement dont elle procède, ainsi que l'indication du montant total des sommes restant dues, frais en sus.
+La mise en demeure de payer mentionnée à l'article L. 257-0 A indique les références du ou des avis de mise en recouvrement
+et rôles dont elle procède ainsi que le montant des sommes restant dues. 
 
-Lorsque la mise en demeure est notifiée par lettre recommandée, cette notification est effectuée selon la procédure prévue à
-l'article R. 256-6. Elle produit ses effets dans les conditions prévues à l'article R. 256-7.
+Lorsque la mise en demeure de payer est notifiée par lettre recommandée avec avis de réception, cette notification est
+effectuée selon la procédure prévue à l'article R. * 256-6 et produit ses effets dans les conditions prévues à l'article R. *
+256-7.
 
 **Nota:**
 
@@ -20520,66 +20572,141 @@ Conformément à l'article 16 II du décret n° 2011-1302 du 14 octobre 2011, ce
 2011, y compris pour les procédures en cours à cette date, à l'exception de celles portant sur des créances étrangères à
 l'impôt et au domaine recouvrées comme en matière d'impôts directs pour lesquelles la date d'entrée en vigueur est fixée
 conformément au J du I de l'article 55 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010, c'est-
-à-dire par décret, et au plus tard le 31 décembre 2012..
+à-dire par décret, et au plus tard, le 31 décembre 2012.
 
 **Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 9
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-654 du 4 mai 2012 - art. 2
 
 _Cite_:
 
-  - CGI R256-7
+  - Livre des procédures fiscales - art. L257-0 A
+  - Livre des procédures fiscales - art. R*256-6
+  - Livre des procédures fiscales - art. R*256-7
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - CGIAN2 395 1, 3
-
-_Codifié par_:
-
-  - Décret n°93-1095 du 16 septembre 1993
-
-_Modifié par_:
-
-  - Décret n°93-1095 du 16 septembre 1993 - art. 2 () JORF 18 septembre 1993
-
-_Abrogé par_:
-
-  - Décret n°2011-1302 du 14 octobre 2011 - art. 14
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993
+  - Livre des procédures fiscales - art. R*257-0 A-1 (V)
 
 
-###### Article R*257-2
+###### Article R*257-0 B
 
-Toute personne tenue au paiement d'une imposition ou d'une dette incombant à une autre personne peut, sur sa demande et sur
-justification de ses qualités, obtenir sans frais copie de l'avis de mise en recouvrement authentifiant cette imposition ou
-cette dette.
+Pour l'application du 1 de l'article L. 257-0 B, constituent une même catégorie d'impositions : 
 
-Lorsque le ou les avis de mise en recouvrement auxquels se réfère la mise en demeure ont été émis au nom d'une telle
-personne, la mise en demeure comporte la référence au texte législatif ou réglementaire, ou à l'engagement établissant
-l'obligation de la personne qui y est désignée.
+a) L'impôt sur le revenu, les prélèvements sociaux recouvrés comme en matière d'impôt sur le revenu, la taxe d'habitation,
+les taxes foncières sur les propriétés bâties et non bâties, les impositions recouvrées comme les impositions précitées ainsi
+que l'impôt de solidarité sur la fortune ; 
+
+b) Les droits d'enregistrement, la taxe de publicité foncière et les droits de timbre ; 
+
+c) Les impositions autres que celles mentionnées au a et au b.
+
+**Nota:**
+
+Conformément à l'article 16 II du décret n° 2011-1302 du 14 octobre 2011, ces dispositions entrent en vigueur le 1er octobre
+2011, y compris pour les procédures en cours à cette date, à l'exception de celles portant sur des créances étrangères à
+l'impôt et au domaine recouvrées comme en matière d'impôts directs pour lesquelles la date d'entrée en vigueur est fixée
+conformément au J du I de l'article 55 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010, c'est-
+à-dire par décret, et au plus tard, le 31 décembre 2012.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - CGIAN2 395 2
-
-_Codifié par_:
-
-  - Décret n°93-1095 1993-09-16
-
-_Modifié par_:
-
-  - Décret n°93-1095 du 16 septembre 1993 - art. 2 () JORF 18 septembre 1993
-
-_Abrogé par_:
-
-  - Décret n°2011-1302 du 14 octobre 2011 - art. 14
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 9
 
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - TRANSFERE: Décret n°2012-654 du 4 mai 2012 - art. 2
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L257-0 B
+
+_Nouveaux textes_:
+
+  - Livre des procédures fiscales - art. R*257-0 B-1 (V)
+
+
+###### Article R*257-0 C
+
+Le comptable public compétent mentionné à l'article L. 257-0 A et au 2 de l'article L. 257-0 B est le comptable de la
+direction générale des finances publiques ou le comptable de la direction générale des douanes et droits indirects selon la
+nature des impôts dont la perception lui incombe.
+
+**Nota:**
+
+Conformément à l'article 16 II du décret n° 2011-1302 du 14 octobre 2011, ces dispositions entrent en vigueur le 1er octobre
+2011, y compris pour les procédures en cours à cette date, à l'exception de celles portant sur des créances étrangères à
+l'impôt et au domaine recouvrées comme en matière d'impôts directs pour lesquelles la date d'entrée en vigueur est fixée
+conformément au J du I de l'article 55 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010, c'est-
+à-dire par décret, et au plus tard, le 31 décembre 2012.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 9
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-654 du 4 mai 2012 - art. 2
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L257-0 A
+  - Livre des procédures fiscales - art. L257-0 B
+
+_Nouveaux textes_:
+
+  - Livre des procédures fiscales - art. R*257-0 B-2 (V)
+
+
+###### Article R256-8
+
+Le comptable mentionné aux premier, deuxième et troisième alinéas de l'article L. 256 est le comptable de la direction
+générale des finances publiques ou le comptable de la direction générale des douanes et droits indirects en ce qui concerne,
+pour ce dernier, le recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes
+règles et de la contribution prévue par l'article 527 du code général des impôts. 
+
+Le comptable public compétent pour établir l'avis de mise en recouvrement est soit celui du lieu de déclaration ou
+d'imposition du redevable, soit, dans le cas où ce lieu a été ou aurait dû être modifié, celui compétent à l'issue de ce
+changement, même si les sommes dues se rapportent à la période antérieure à ce changement. 
+
+Les avis de mise en recouvrement résultant de l'engagement par la direction nationale des vérifications de situations
+fiscales d'une procédure de rectification ou d'une procédure d'imposition d'office sont établis, signés et rendus exécutoires
+par le comptable chargé du pôle de recouvrement spécialisé de Paris Sud-Ouest.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-357 du 24 mars 2006
+
+_Modifié par_:
+
+  - Décret n°2011-1303 du 14 octobre 2011 - art. 14
+
+_Cité par_:
+
+  - Décret n°2013-1193 du 19 décembre 2013 (V)
+  - Décret n°2015-607 du 3 juin 2015 (V)
+  - Décret n°2017-214 du 20 février 2017 - art. 1 (V)
+  - Décret n°2017-381 du 22 mars 2017 (V)
+  - Décret n°2017-1305 du 24 août 2017 - art. 1 (V)
+  - Arrêté du 20 février 2018 (V)
+  - Arrêté du 6 juillet 2018 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 527
+  - Livre des procédures fiscales - art. L256
 
 
 ###### Article R257 B-1
@@ -20644,145 +20771,21 @@ _Cité par_:
   - HISTO: Edition du 1er janvier 2007
 
 
-###### Article R*256-2
-
-Lorsque le comptable poursuit le recouvrement d'une créance à l'égard de débiteurs tenus conjointement ou solidairement au
-paiement de celle-ci, il notifie préalablement à chacun d'eux un avis de mise en recouvrement.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2006-1092 du 29 août 2006 - art. 1 () JORF 31 août 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
-
-###### Article R*256-3
-
-L'avis de mise en recouvrement est rédigé en double exemplaire :
-
-a) Le premier, dit "original", est déposé au service des impôts ou à la recette des douanes et droits indirects chargé du
-recouvrement ;
-
-b) Le second, dit "ampliation", est destiné à être notifié au redevable ou à son fondé de pouvoir.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2006-1092 du 29 août 2006 - art. 1 () JORF 31 août 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
-_Cité par_:
-
-  - Livre des procédures fiscales - art. R*256-6 (V)
-
-
-###### Article R*256-6
-
-La notification de l'avis de mise en recouvrement comporte l'envoi au redevable, soit au lieu de son domicile, de sa
-résidence ou de son siège, soit à l'adresse qu'il a lui-même fait connaître au service des impôts ou au service des douanes
-et droits indirects compétent, de l'"ampliation" prévue à l'article R.* 256-3.
-
-Au cas où la lettre recommandée ne pourrait, pour quelque cause que ce soit, être remise au redevable destinataire ou à son
-fondé de pouvoir, il doit être demandé à la Poste de renvoyer au service des impôts ou au service des douanes et droits
-indirects expéditeur, le pli non distribué annoté :
-
-a) D'une part, de la date de sa première présentation à l'adresse indiquée à la souscription ou, s'il y a lieu, à la nouvelle
-adresse connue de La Poste ;
-
-b) D'autre part, du motif de sa non-délivrance.
-
-Dans cette éventualité, l'"ampliation" renvoyée reste déposée au service des impôts ou à la recette des douanes et droits
-indirects chargé du recouvrement où il peut en être délivré copie, à tout moment et sans frais, au redevable lui-même ou à
-son fondé de pouvoir.
-
-La notification de l'avis de mise en recouvrement peut également être effectuée par le ministère d'un huissier. Elle est
-alors soumise aux règles de signification des actes d'huissier.
-
-**Nota:**
-
-Modifications apportées en conséquence des articles 1 et 41 de la loi n° 90-568 du 2 juillet 1990.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI Livre des procédures fiscales R256-3
-
-_Modifié par_:
-
-  - Décret n°2009-388 du 7 avril 2009 - art. 2
-
-_Cité par_:
-
-  - Livre des procédures fiscales - art. R*257-0 A (T)
-  - Livre des procédures fiscales - art. R*257-0 A-1 (V)
-
-
-###### Article R256-8
-
-Le comptable mentionné aux premier, deuxième et troisième alinéas de l'article L. 256 est le comptable de la direction
-générale des impôts ou le comptable de la direction générale des douanes et droits indirects en ce qui concerne, pour ce
-dernier, le recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et
-de la contribution prévue par l'article 527 du code général des impôts.
-
-Le comptable public compétent pour établir l'avis de mise en recouvrement est soit celui du lieu de déclaration ou
-d'imposition du redevable, soit, dans le cas où ce lieu a été ou aurait dû être modifié, celui compétent à l'issue de ce
-changement, même si les sommes dues se rapportent à la période antérieure à ce changement.
-
-L'autorité administrative habilitée à signer et rendre exécutoires les avis de mise en recouvrement, mentionnée au troisième
-alinéa de l'article L. 256, est le directeur des services fiscaux ou le directeur régional des douanes en ce qui concerne,
-pour ce dernier, le recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes
-règles et de la contribution prévue par l'article 527 du code général des impôts.
-
-Les avis de mise en recouvrement résultant de l'engagement par la direction nationale des vérifications de situations
-fiscales d'une procédure de rectification ou d'une procédure d'imposition d'office sont établis, signés et rendus exécutoires
-par le comptable chargé du pôle de recouvrement spécialisé de Paris Sud-Ouest.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-357 du 24 mars 2006
-
-_Modifié par_:
-
-  - Décret n°2011-303 du 21 mars 2011 - art. 2
-
-_Cité par_:
-
-  - Décret n°2013-1193 du 19 décembre 2013 (V)
-  - Décret n°2015-607 du 3 juin 2015 (V)
-  - Décret n°2017-214 du 20 février 2017 - art. 1 (V)
-  - Décret n°2017-381 du 22 mars 2017 (V)
-  - Décret n°2017-1305 du 24 août 2017 - art. 1 (V)
-  - Arrêté du 20 février 2018 (V)
-  - Arrêté du 6 juillet 2018 (V)
-
-_Cite_:
-
-  - CGI 527
-  - Livre des procédures fiscales - art. L256
-
-
 ##### Section II : Exercice des poursuites<a id=248></a>
 
 ###### Article R*260 A-1
 
-Les biens saisis ne peuvent être vendus qu'après autorisation du receveur des finances ou du trésorier-payeur général.
+Les biens meubles saisis ne peuvent être vendus qu'après autorisation du directeur départemental des finances publiques.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°88-1002 1988-10-20
+  - Décret n°88-1002 du 20 octobre 1988
+
+_Modifié par_:
+
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 10
 
 
 ###### Article R258-1
@@ -20852,65 +20855,26 @@ _Anciens textes_:
 
 ###### Article R268-1
 
-Le comptable public compétent pour faire application de l'article L. 268 est le comptable du Trésor, celui de la direction
-générale des impôts ou de la direction générale des douanes et droits indirects selon la nature des impôts dont la perception
+Le comptable public compétent pour faire application de l'article L. 268 est le comptable de la direction générale des
+finances publiques ou de la direction générale des douanes et droits indirects selon la nature des impôts dont la perception
 leur incombe.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°93-265 1993-02-26 art. 11 2 et 15 JORF 28 février 1993
-
 _Codifié par_:
 
-  - Décret n°93-1095 1993-09-16
+  - Décret n°93-1095 du 16 septembre 1993
+
+_Modifié par_:
+
+  - Décret n°2011-1303 du 14 octobre 2011 - art. 15
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L268 (MMN)
+  - Livre des procédures fiscales - art. L268
 
 
-##### 10° : Taxes sur le chiffre d'affaires<a id=252></a>
-
-###### Article R*273-1
-
-Pour assurer le recouvrement des taxes sur le chiffre d'affaires et des taxes assimilées exigibles dans les conditions
-prévues aux articles 385 et 386 de l'annexe II au code général des impôts, le comptable de la direction générale des impôts
-peut, en application de l'article L. 273, établir un avis de mise en recouvrement qui est visé et rendu exécutoire par le
-directeur des services fiscaux. Si nécessité l'oblige et à titre exceptionnel, il peut, par dérogation aux dispositions des
-articles L. 256 et L. 258, poursuivre immédiatement, avant toute notification au redevable en cause, l'exécution de cet avis
-de mise en recouvrement en prenant des sûretés sur tous les biens et avoirs du contribuable et, notamment, en faisant
-procéder au blocage de tous comptes courants, de dépôts ou d'avances ouverts à l'intéressé. L'avis de mise en recouvrement
-est ensuite notifié dans les formes ordinaires.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 385, 386
-  - Livre des procédures fiscales - art. L256
-  - Livre des procédures fiscales - art. L258
-  - Livre des procédures fiscales - art. L273
-
-_Anciens textes_:
-
-  - CGIAN2 387
-
-_Codifié par_:
-
-  - Décret n°81-860 du 15 septembre 1981
-
-_Abrogé par_:
-
-  - Décret n°2011-1302 du 14 octobre 2011 - art. 14
-
-**Liens**:
-
-  - HISTO: Edition du 1er juillet 1981
-
-
-##### Section IV : Prescription de l'action en vue du recouvrement<a id=253></a>
+##### Section IV : Prescription de l'action en vue du recouvrement<a id=252></a>
 
 ###### Article R*275-1
 
@@ -20938,7 +20902,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L275
 
 
-#### Chapitre II : Le sursis de paiement<a id=254></a>
+#### Chapitre II : Le sursis de paiement<a id=253></a>
 
 ###### Article R*277-1
 
@@ -21048,24 +21012,19 @@ _Modifié par_:
 
 ###### Article R277-6
 
-Un arrêté du ministre chargé des finances détermine les conditions dans lesquelles les valeurs mobilières peuvent être
+Un arrêté du ministre chargé du budget détermine les conditions dans lesquelles les valeurs mobilières peuvent être
 constituées en garantie et notamment la nature de ces valeurs, ainsi que le montant pour lequel elles sont admises, ce
 montant étant calculé d'après le dernier cours coté au jour du dépôt.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: CGI A277-1 à A277-10
-  - HISTO: Edition du 1er juillet 1981
-
-_Anciens textes_:
-
-  - CGIAN3 416 B
-
 _Codifié par_:
 
-  - Décret n°81-860 1981-09-15
+  - Décret n°81-860 du 15 septembre 1981
+
+_Modifié par_:
+
+  - Décret n°2011-1303 du 14 octobre 2011 - art. 16
 
 _Cité par_:
 
@@ -21085,7 +21044,7 @@ _Modifié par_:
   - Décret n°2009-986 du 20 août 2009 - art. 4
 
 
-#### Chapitre III : Le contentieux du recouvrement<a id=255></a>
+#### Chapitre III : Le contentieux du recouvrement<a id=254></a>
 
 ###### Article R*281-1
 
@@ -21095,11 +21054,10 @@ la personne solidaire.
 Elles font l'objet d'une demande qui doit être adressée, appuyée de toutes les justifications utiles, en premier lieu, au
 chef du service du département ou de la région dans lesquels est effectuée la poursuite. Le chef de service compétent est :
 
-a) Le trésorier-payeur général si le recouvrement incombe à un comptable du Trésor ;
+a) Le directeur départemental des finances publiques ou le responsable du service à compétence nationale si le recouvrement
+incombe à un comptable de la direction générale des finances publiques ;
 
-b) Le directeur des services fiscaux si le recouvrement incombe à un comptable de la direction générale des impôts ;
-
-c) Le directeur régional des douanes et droits indirects si le recouvrement incombe à un comptable de la direction générale
+b) Le directeur régional des douanes et droits indirects si le recouvrement incombe à un comptable de la direction générale
 des douanes et droits indirects.
 
 **Liens relatifs à cet article**
@@ -21115,78 +21073,40 @@ _Anciens textes_:
   - CGI 1846 (AL. 1)
   - CGI 1917 (AL. 1, AL. 3, 1ère LIGNE)
 
-**Liens**:
-
-  - TXT_ASSOCIE: CGI R281-2 A R281-5
-  - HISTO: Edition du 18 août 1993
-
 _Modifié par_:
 
-  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-  - Décret n°93-311 du 9 mars 1993 - art. 25 () JORF 11 mars 1993
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 11
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L281 (V)
+  - Livre des procédures fiscales - art. L281
 
 
-###### Article R*281-2
+###### Article R*281-3-1
 
-La demande prévue par l'article R. 281-1 doit, sous peine de nullité, être présentée au trésorier-payeur général dans un
-délai de deux mois à partir de la notification de l'acte si le motif invoqué est un vice de forme ou, s'il s'agit de tout
-autre motif, dans un délai de deux mois après le premier acte qui permet d'invoquer ce motif.
+La demande prévue à l'article R. * 281-1 doit, sous peine d'irrecevabilité, être présentée, selon le cas, au directeur
+départemental des finances publiques, au responsable du service à compétence nationale ou au directeur régional des douanes
+et droits indirects dans un délai de deux mois à partir de la notification : 
+
+a) De l'acte de poursuite dont la régularité en la forme est contestée ; 
+
+b) De tout acte de poursuite si le motif invoqué porte sur l'obligation de payer ou le montant de la dette ; 
+
+c) Du premier acte de poursuite permettant d'invoquer tout autre motif.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - CGI 1846 (AL. 2 2ème PHRASE)
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 12
 
-_Cite_:
+_Cité par_:
 
-  - CGI R281-1
-
-_Codifié par_:
-
-  - Décret n°81-860 1981-09-15
-
-_Abrogé par_:
-
-  - Décret n°2011-1302 du 14 octobre 2011 - art. 14
-
-**Liens**:
-
-  - HISTO: Edition du 1er septembre 1982
-
-
-###### Article R*281-3
-
-La demande prévue par l'article R 281-1 doit, sous peine de nullité, être présentée, selon le cas, au directeur des services
-fiscaux ou au directeur régional des douanes et droits indirects dans un délai de deux mois à partir de la notification de
-l'acte.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 1917 (AL. 3 1ère LIGNE)
+  - Code général des impôts, CGI. - art. 1723 terdecies (Ab)
 
 _Cite_:
 
-  - CGI R281-1
-
-_Modifié par_:
-
-  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-  - Décret n°93-311 du 9 mars 1993 - art. 26 () JORF 11 mars 1993
-
-_Abrogé par_:
-
-  - Décret n°2011-1302 du 14 octobre 2011 - art. 14
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993
+  - Livre des procédures fiscales - art. R*281-1 (V)
 
 
 ###### Article R*281-4
@@ -21284,43 +21204,35 @@ _Cite_:
 
 ###### Article R*283-1
 
-La demande en revendication d'objets saisis prévue par l'article L 283 est adressée, suivant le cas, au trésorier-payeur
-général ou au directeur des services fiscaux du département, ou au directeur régional des douanes et droits indirects de la
-région dans laquelle a été pratiquée la saisie. Elle doit, sous peine de nullité, être présentée dans un délai de deux mois à
-partir de la date à laquelle la personne qui revendique les objets a eu connaissance de la saisie [*point de départ*].
+La demande en revendication d'objets saisis prévue par l'article L 283 est adressée, suivant le cas, au directeur
+départemental des finances publiques ou au responsable du service à compétence nationale, ou au directeur régional des
+douanes et droits indirects de la région dans laquelle a été pratiquée la saisie. Elle doit, sous peine d'irrecevabilité,
+être présentée dans un délai de deux mois à partir de la date à laquelle la personne qui revendique les objets a eu
+connaissance de la saisie.
 
-La demande reçoit une suite dans les conditions prévues aux articles R 281-4 et R 281-5.
+La demande reçoit une suite dans les conditions prévues aux articles R 281-4 et R 281-5. 
 
 Le dépôt d'une demande en revendication d'objets saisis suspend de plein droit les poursuites sur les biens saisis dont la
 propriété est discutée.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - CGI 1910 (AL. 1 SAUF LES 3 PREMIERES LIGNES, AL. 2 1ère PHRASE, 2ème PHRASE SAUF P. DU 1er MEMBRE DE PHRASE, 3ème PHRASE, 4ème PHRASE)
-
-_Cite_:
-
-  - CGI L283
-  - CGI R281-4
-  - CGI R281-5
-
 _Modifié par_:
 
-  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-  - Décret n°93-311 du 9 mars 1993 - art. 27 () JORF 11 mars 1993
+  - Décret n°2011-1302 du 14 octobre 2011 - art. 13
 
 _Cité par_:
 
   - Code général de la propriété des personnes publ... - art. R2323-5 (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 18 août 1993
+  - Livre des procédures fiscales - art. L283
+  - Livre des procédures fiscales - art. R*281-4
+  - Livre des procédures fiscales - art. R*281-5
 
 
-#### Chapitre IV : Assistance au recouvrement au sein de l'Union européenne<a id=256></a>
+#### Chapitre IV : Assistance au recouvrement au sein de l'Union européenne<a id=255></a>
 
 ###### Article R283 A-10
 
@@ -21343,7 +21255,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R283 A-18 (Ab)
 
 
-##### Demande d'assistance<a id=257></a>
+##### Demande d'assistance<a id=256></a>
 
 ###### Article R283 A-1
 
@@ -21405,7 +21317,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L283 B (M)
 
 
-##### Demande de renseignements<a id=258></a>
+##### Demande de renseignements<a id=257></a>
 
 ###### Article R283 A-3
 
@@ -21614,7 +21526,7 @@ _Abrogé par_:
   - Décret n°2012-417 du 28 mars 2012 - art. 1
 
 
-##### Demande de notification<a id=259></a>
+##### Demande de notification<a id=258></a>
 
 ###### Article R283 A-11
 
@@ -21763,7 +21675,7 @@ _Abrogé par_:
   - Décret n°2012-417 du 28 mars 2012 - art. 1
 
 
-##### Transmission des renseignements<a id=260></a>
+##### Transmission des renseignements<a id=259></a>
 
 ###### Article R283 A-17
 
@@ -21823,7 +21735,7 @@ _Cite_:
   - Livre des procédures fiscales - art. R283 A-10
 
 
-##### Demande de recouvrement ou de mesures conservatoires<a id=261></a>
+##### Demande de recouvrement ou de mesures conservatoires<a id=260></a>
 
 ###### Article R283 B-1
 
@@ -22135,9 +22047,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R283 A-8
 
 
-### Titre V : Dispositions communes<a id=262></a>
+### Titre V : Dispositions communes<a id=261></a>
 
-#### Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques<a id=263></a>
+#### Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques<a id=262></a>
 
 ###### Article R*287-1
 
@@ -22288,7 +22200,7 @@ _Cite_:
   - Code de procédure civile - art. 760
 
 
-#### Chapitre III : Dispositions communautaires<a id=264></a>
+#### Chapitre III : Dispositions communautaires<a id=263></a>
 
 ###### Article R289-1
 
@@ -22319,21 +22231,21 @@ _Créé par_:
   - Décret n°2006-1042 du 24 août 2006 - art. 1 () JORF 25 août 2006
 
 
-# Partie réglementaire - Arrêtés<a id=265></a>
+# Partie réglementaire - Arrêtés<a id=264></a>
 
-## Troisième partie : Partie réglementaire, arrêtés<a id=266></a>
+## Troisième partie : Partie réglementaire, arrêtés<a id=265></a>
 
-### Titre II : Le contrôle de l'impôt<a id=267></a>
+### Titre II : Le contrôle de l'impôt<a id=266></a>
 
-#### Chapitre premier : Le droit de contrôle de l'administration<a id=268></a>
+#### Chapitre premier : Le droit de contrôle de l'administration<a id=267></a>
 
-##### Section II : Dispositions particulières à certains impôts<a id=269></a>
+##### Section II : Dispositions particulières à certains impôts<a id=268></a>
 
-##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=270></a>
+##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=269></a>
 
-##### B : Contrôle sur les lieux d'exercice de l'activité<a id=271></a>
+##### B : Contrôle sur les lieux d'exercice de l'activité<a id=270></a>
 
-##### 1 : Contributions indirectes<a id=272></a>
+##### 1 : Contributions indirectes<a id=271></a>
 
 ###### Article A26-1
 
@@ -22442,7 +22354,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 153 (V)
 
 
-##### Dispositions applicables dans les départements d'outre-mer.<a id=273></a>
+##### Dispositions applicables dans les départements d'outre-mer.<a id=272></a>
 
 ###### Article A27-1
 
@@ -22466,7 +22378,7 @@ _Anciens textes_:
   - CGIAN4 56 D ter
 
 
-##### 2 : Droits de timbre<a id=274></a>
+##### 2 : Droits de timbre<a id=273></a>
 
 ###### Article A37-1
 
@@ -22500,7 +22412,7 @@ _Modifié par_:
   - Loi n°2006-1771 du 30 décembre 2006 - art. 139 (V) JORF 31 décembre 2006
 
 
-##### Section III : Modalités d'exercice du droit de contrôle<a id=275></a>
+##### Section III : Modalités d'exercice du droit de contrôle<a id=274></a>
 
 ###### Article A47 A-1
 
@@ -22559,7 +22471,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L47 A
 
 
-##### Section VI : Conséquences et limites des procédures de rectification<a id=276></a>
+##### Section VI : Conséquences et limites des procédures de rectification<a id=275></a>
 
 ###### Article A80 CB-3-1
 
@@ -22744,9 +22656,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*80 CB-6
 
 
-#### Chapitre II : Le droit de communication<a id=277></a>
+#### Chapitre II : Le droit de communication<a id=276></a>
 
-##### Section I : Conditions d'exercice du droit de communication<a id=278></a>
+##### Section I : Conditions d'exercice du droit de communication<a id=277></a>
 
 ###### Article A85-1
 
@@ -22786,7 +22698,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R81-5 (VD)
 
 
-##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=279></a>
+##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=278></a>
 
 ###### Article A97-1
 
@@ -22857,11 +22769,11 @@ _Anciens textes_:
   - CGIAN4 211
 
 
-### Titre III : Le contentieux de l'impôt<a id=280></a>
+### Titre III : Le contentieux de l'impôt<a id=279></a>
 
-#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=281></a>
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=280></a>
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=282></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=281></a>
 
 ###### Article A208-1
 
@@ -22880,11 +22792,11 @@ _Cite_:
   - Livre des procédures fiscales - art. R*208-4 (V)
 
 
-#### Chapitre II : Les procédures pénales<a id=283></a>
+#### Chapitre II : Les procédures pénales<a id=282></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=284></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=283></a>
 
-##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=285></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=284></a>
 
 ###### Article A225 A-1
 
@@ -22905,7 +22817,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L225 A (V)
 
 
-##### Section II : Exercice des poursuites pénales<a id=286></a>
+##### Section II : Exercice des poursuites pénales<a id=285></a>
 
 ###### Article A228-1
 
@@ -22925,9 +22837,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*228-1
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=287></a>
+### Titre IV : Le recouvrement de l'impôt<a id=286></a>
 
-#### Chapitre II : Le sursis de paiement<a id=288></a>
+#### Chapitre II : Le sursis de paiement<a id=287></a>
 
 ###### Article A277-1
 
