@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-01-21
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -209,7 +209,7 @@ Version Consolidée au 2012-01-01
         - [Chapitre II bis : Obligation et délais de conservation des documents (art. R*102 C-1)](#206)
         - [Chapitre III : Le secret professionnel en matière fiscale (art. R*103-1 à R152-2)](#207)
           - [Section I : Portée et limites de la règle du secret professionnel (art. R*103-1 à R111-4)](#208)
-            - [1° : Délivrance de documents aux contribuables (art. R*109-1 à R109-2)](#209)
+            - [1° : Délivrance de documents aux contribuables (art. R* 107 A-1 à R109-2)](#209)
             - [2° : Publicité de l'impôt (art. R111-1 à R111-4)](#210)
           - [Section II : Dérogations à la règle du secret professionnel (art. R*113-1 à R152-2)](#211)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. R*114 A-1 à R*114 A-5)](#212)
@@ -17121,6 +17121,129 @@ _Cite_:
 
 
 ##### 1° : Délivrance de documents aux contribuables<a id=209></a>
+
+###### Article R* 107 A-1
+
+La demande de communication des informations mentionnées à l'article L. 107 A est effectuée par écrit. Elle comporte les nom
+et prénoms ou la raison sociale du demandeur, la commune de situation des immeubles, l'arrondissement pour les communes de
+Paris, Lyon et Marseille, ainsi que la personne ou les immeubles concernés. Un immeuble s'entend comme une parcelle ou un lot
+de copropriété.
+
+Une demande ne peut mentionner plus d'une commune ou d'un arrondissement, et plus d'une personne ou plus de cinq immeubles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-59 du 18 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L107 A
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R* 107 A-7 (V)
+
+
+###### Article R* 107 A-2
+
+La communication des informations susmentionnées a lieu sous la forme d'un relevé de propriété issu de la matrice cadastrale.
+Elle est assurée par les services de l'administration fiscale et des communes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-59 du 18 janvier 2012 - art. 1
+
+
+###### Article R* 107 A-3
+
+I. – Le caractère ponctuel de la communication est défini par le nombre de demandes présentées par un usager auprès d'un
+service, qui ne peut être supérieur à cinq par semaine dans la limite de dix par mois civil.
+
+II. – La limite prévue au I n'est toutefois pas opposable :
+
+1° Aux titulaires de droits réels immobiliers ou à leurs mandataires et, pour les majeurs protégés par la loi ou les mineurs,
+à une personne chargée de la mesure de protection ou de l'autorité parentale, pour les immeubles sur lesquels s'exercent ces
+droits ;
+
+2° Aux autorités ou administrations agissant dans le cadre de procédures judiciaires ou administratives visant les personnes
+ou la définition des propriétés. Toutefois, dans ce cas, l'administration fiscale peut opposer la limite prévue au I si la
+demande émane d'autorités ou d'administrations disposant annuellement des informations mentionnées à l'article L. 107 A.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-59 du 18 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L107 A
+
+
+###### Article R* 107 A-4
+
+Dans le cas où une personne agit sur mandat, il lui est interdit de conserver les informations qui lui ont été délivrées au-
+delà de ce qui est strictement nécessaire à l'accomplissement de son mandat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-59 du 18 janvier 2012 - art. 1
+
+
+###### Article R* 107 A-5
+
+Les modalités d'établissement et de contrôle des demandes sont fixées par l'administration fiscale pour ce qui concerne ses
+services, et par le maire pour ce qui concerne sa commune.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-59 du 18 janvier 2012 - art. 1
+
+
+###### Article R* 107 A-6
+
+La communication des informations susmentionnées est réalisée, si le demandeur en a fait le choix, par voie électronique à
+l'exclusion de tout autre moyen. Dans ce cas, elle a lieu par courrier électronique si le demandeur a fourni une adresse
+électronique unique et valide ou dans le cadre d'une application informatique à accès contrôlé dotée d'une traçabilité et
+dont le responsable a satisfait aux formalités préalables du chapitre IV de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978
+
+_Créé par_:
+
+  - Décret n°2012-59 du 18 janvier 2012 - art. 1
+
+
+###### Article R* 107 A-7
+
+Les modalités de communication prévues par les articles R. * 107 A-1 à R. * 107 A-6 ne font pas obstacle à la délivrance, par
+l'administration fiscale, de la documentation cadastrale sous forme de fichiers à d'autres services ou personnes établissant
+agir dans le cadre d'une mission de service public, le cas échéant en qualité de délégataire, à condition que les
+informations transmises ne fassent pas l'objet d'une diffusion à d'autres usagers.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-59 du 18 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R* 107 A-1
+
 
 ###### Article R*109-1
 
