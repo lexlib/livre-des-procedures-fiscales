@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-03-24
+Version Consolidée au 2012-03-30
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -245,7 +245,7 @@ Version Consolidée au 2012-03-24
             - [I : Dispositions communes (art. R*228-1 à R*228-6)](#242)
             - [III : Dispositions particulières aux contributions indirectes (art. R235-1 à R238-1)](#243)
         - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247 A-1 à R247-11)](#244)
-      - [Titre IV : Le recouvrement de l'impôt (art. R*256-1 à R283 B-10)](#245)
+      - [Titre IV : Le recouvrement de l'impôt (art. R*256-1 à R283 D-1)](#245)
         - [Chapitre premier : Les procédures de recouvrement (art. R*256-1 à R268-1)](#246)
           - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R*256-1 à R257 B-1)](#247)
           - [Section II : Exercice des poursuites (art. R*260 A-1 à R258-1)](#248)
@@ -254,39 +254,34 @@ Version Consolidée au 2012-03-24
             - [5° : Vente de fonds de commerce (art. R268-1)](#251)
         - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-7)](#252)
         - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#253)
-        - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. R283 A-10 à R283 B-10)](#254)
-          - [Demande d'assistance (art. R283 A-1 à R283 A-2)](#255)
-          - [Demande de renseignements (art. R283 A-3 à R283 A-9)](#256)
-          - [Demande de notification (art. R283 A-11 à R283 A-16)](#257)
-          - [Transmission des renseignements (art. R283 A-17 à R283 A-18)](#258)
-          - [Demande de recouvrement ou de mesures conservatoires (art. R283 B-1 à R283 B-10)](#259)
-      - [Titre V : Dispositions communes (art. R*287-1 à R289-2)](#260)
-        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. R*287-1 à R*288-3)](#261)
-        - [Chapitre III : Dispositions communautaires (art. R289-1 à R289-2)](#262)
-  - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#263)
-    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-10)](#264)
-      - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#265)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A80 CB-6-1)](#266)
-          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#267)
-            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#268)
-              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#269)
-                - [1 : Contributions indirectes (art. A26-1 à A27-1)](#270)
-                  - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#271)
-                - [2 : Droits de timbre (art. A37-1)](#272)
-          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1)](#273)
-          - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-6-1)](#274)
-        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#275)
-          - [Section I : Conditions d'exercice du droit de communication (art. A85-1)](#276)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#277)
-      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#278)
-        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#279)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#280)
-        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#281)
-          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#282)
-            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#283)
-          - [Section II : Exercice des poursuites pénales (art. A228-1)](#284)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#285)
-        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#286)
+        - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. R283 A-1 à R283 D-1)](#254)
+      - [Titre V : Dispositions communes (art. R*287-1 à R289-2)](#255)
+        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. R*287-1 à R*288-3)](#256)
+        - [Chapitre III : Dispositions communautaires (art. R289-1 à R289-2)](#257)
+  - [Partie réglementaire - Arrêtés (art. A26-1 à A277-10)](#258)
+    - [Troisième partie : Partie réglementaire, arrêtés (art. A26-1 à A277-10)](#259)
+      - [Titre II : Le contrôle de l'impôt (art. A26-1 à A97-3)](#260)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. A26-1 à A80 CB-6-1)](#261)
+          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#262)
+            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#263)
+              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#264)
+                - [1 : Contributions indirectes (art. A26-1 à A27-1)](#265)
+                  - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#266)
+                - [2 : Droits de timbre (art. A37-1)](#267)
+          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1)](#268)
+          - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-6-1)](#269)
+        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#270)
+          - [Section I : Conditions d'exercice du droit de communication (art. A85-1)](#271)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#272)
+      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#273)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#274)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#275)
+        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#276)
+          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#277)
+            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#278)
+          - [Section II : Exercice des poursuites pénales (art. A228-1)](#279)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#280)
+        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#281)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -21624,6 +21619,100 @@ _Cite_:
 
 #### Chapitre IV : Assistance au recouvrement au sein de l'Union européenne<a id=254></a>
 
+###### Article R283 A-1
+
+La demande d'assistance mentionnée à l'article L. 283 A peut être formulée, soit pour une créance unique, soit pour plusieurs
+créances, dès lors que celles-ci sont à la charge d'une même personne. 
+
+Elle peut concerner : 
+
+1° Un débiteur ; 
+
+2° Un codébiteur ; 
+
+3° Une personne, autre que le débiteur, tenue au paiement de la créance en application des dispositions en vigueur dans
+l'Etat membre requérant ; 
+
+4° Une tierce partie détenant des biens appartenant à une des personnes désignées ci-dessus ou qui a des dettes envers une de
+ces personnes.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2012-417 du 28 mars 2012 - art. 1
+
+_Cité par_:
+
+  - Décret n°2012-417 du 28 mars 2012 - art. 2 (V)
+  - Décret n°2012-417 du 28 mars 2012 - art. 3 (V)
+  - Code général des collectivités territoriales - art. D1617-25 (V)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L283 A
+
+
+###### Article R283 A-2
+
+La demande d'assistance, le formulaire de notification uniformisé et l'instrument uniformisé permettant l'adoption de mesures
+exécutoires sur le territoire français sont accompagnés d'une traduction en langue française.
+
+Les documents dont la notification est demandée peuvent être envoyés dans une langue officielle de l'Etat membre requérant.
+
+Les administrations financières peuvent demander la traduction dans la langue française des documents autres que ceux
+mentionnés au deuxième alinéa qui accompagnent la demande de notification.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2012-417 du 28 mars 2012 - art. 1
+
+
+###### Article R283 A-3
+
+La demande de renseignements, de notification et de recouvrement ou de prise de mesures conservatoires est établie par écrit.
+
+Cette demande ainsi que tous les documents permettant l'adoption de mesures exécutoires ou conservatoires ou tout autre
+document relatif à la créance sont transmis par voie électronique à l'Etat membre requis.
+
+En cas de difficultés techniques, ils peuvent valablement être transmis par voie postale sans pour autant que la validité des
+informations obtenues ou des mesures prises dans le cadre d'une demande d'assistance ne soit compromise.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2012-417 du 28 mars 2012 - art. 1
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R283 B-1 (V)
+
+
+###### Article R283 A-4
+
+La demande de notification adressée par l'Etat membre requérant est accompagnée d'un formulaire de notification uniformisé
+qui contient au minimum les informations suivantes :
+
+1° Le nom et l'adresse du destinataire et tout autre renseignement utile à son identification ;
+
+2° L'objet de la notification et le délai dans lequel elle doit être effectuée ;
+
+3° Une description des documents qui sont joints ainsi que la nature et le montant de la créance concernée ;
+
+4° Les noms, adresses et coordonnées du service responsable du document qui est joint et, s'il diffère, du service auprès
+duquel des informations complémentaires peuvent être obtenues concernant l'acte ou la décision y compris judiciaire notifié
+ou concernant les possibilités de contestation de l'obligation de paiement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2012-417 du 28 mars 2012 - art. 1
+
+
 ###### Article R283 A-10
 
 Sur demande de l'Etat membre requérant, les administrations financières procèdent à la notification au destinataire de tous
@@ -21645,801 +21734,196 @@ _Cité par_:
   - Livre des procédures fiscales - art. R283 A-18 (Ab)
 
 
-##### Demande d'assistance<a id=255></a>
-
-###### Article R283 A-1
-
-La demande d'assistance mentionnée à l'article L. 283 A peut être formulée, soit pour une créance unique, soit pour plusieurs
-créances, dès lors que celles-ci sont à la charge d'une même personne.
-
-La demande d'assistance, le titre exécutoire permettant le recouvrement et les autres pièces annexées sont accompagnés d'une
-traduction en français.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Cité par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 2 (V)
-  - Décret n°2012-417 du 28 mars 2012 - art. 3 (V)
-  - Code général des collectivités territoriales - art. D1617-25 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L283 A (V)
-
-
-###### Article R283 A-2
-
-Lorsque les administrations financières décident de ne pas répondre à la demande d'assistance en application de l'article L.
-283 B, elles informent l'Etat membre requérant par écrit des motifs de leur refus, dès qu'elles arrêtent leur décision et, en
-tout état de cause, avant l'expiration d'un délai de trois mois à compter de la réception de la demande.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L283 B (M)
-
-
-##### Demande de renseignements<a id=256></a>
-
-###### Article R283 A-3
-
-La demande de renseignements peut concerner :
-
-a) Le débiteur ;
-
-b) Toute autre personne tenue au paiement de la créance en application des dispositions en vigueur dans l'Etat membre
-requérant ;
-
-c) Ou, toute tierce partie détenant des biens appartenant à une des personnes désignées ci-dessus.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-
-_Cité par_:
-
-  - Livre des procédures fiscales - art. R283 B-1 (V)
-
-
-###### Article R283 A-4
-
-La demande de renseignements est établie par écrit selon le modèle figurant en annexe I au décret n° 2003-1387 du 31 décembre
-2003.
-
-Elle indique le nom, l'adresse et tout autre renseignement utile à l'identification de la personne sur laquelle portent les
-renseignements à fournir auquel l'Etat membre requérant a normalement accès ainsi que la nature et le montant de la créance
-au titre de laquelle la demande est formulée.
-
-Si la demande ne peut être transmise par voie électronique, elle porte le cachet officiel de l'Etat membre requérant et est
-signée par un agent de ce dernier dûment autorisé à la formuler.
-
-Si une demande de renseignements similaire a été adressée à un autre Etat membre de la Communauté européenne, l'Etat membre
-requérant en fait mention dans sa demande de renseignements.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2003-1387 2003-12-31 annexe I
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article R283 A-5
-
-L'Etat membre requérant peut, à tout moment, retirer la demande de renseignements qu'il a formulée ; la décision de retrait
-est communiquée par écrit à l'administration financière concernée.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article R283 A-6
-
-Les documents et renseignements communiqués aux administrations financières par l'Etat membre requérant ne peuvent être
-transmis :
-
-a) Qu'à la personne visée dans la demande d'assistance ;
-
-b) Qu'aux personnes et autorités chargées du recouvrement des créances, et aux seules fins de celui-ci ;
-
-c) Qu'aux autorités judiciaires saisies des affaires concernant le recouvrement des créances.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-###### Article R283 A-7
-
-Les administrations financières accusent réception de la demande de renseignements par écrit dans les plus brefs délais et,
-en tout état de cause, dans les sept jours suivant celui de cette réception.
-
-Dès réception de la demande, les administrations financières invitent, si nécessaire, l'Etat membre requérant à fournir tous
-renseignements supplémentaires nécessaires auxquels il a normalement accès.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-###### Article R283 A-8
-
-Lorsque les administrations financières décident de ne pas donner une suite favorable à la demande de renseignements qui leur
-a été adressée, elles notifient par écrit à l'Etat membre requérant les motifs qui s'opposent à ce que sa demande soit
-satisfaite en se référant expressément aux dispositions des douzième et treizième alinéas de l'article L. 283 B.
-
-Cette notification doit être faite dès que les administrations financières ont arrêté leur décision et, en tout état de
-cause, avant l'expiration d'un délai de trois mois à compter de la date de l'accusé de réception de la demande.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L283 B
-
-_Cité par_:
-
-  - Livre des procédures fiscales - art. R283 B-10 (Ab)
-
-
-###### Article R283 A-9
-
-Les administrations financières transmettent à l'Etat membre requérant les renseignements demandés au fur et à mesure de leur
-obtention. Ils sont communiqués en français ou dans une autre langue, convenue avec cet Etat.
-
-Au cas où tout ou partie des renseignements demandés n'ont pu être obtenus dans des délais raisonnables, les administrations
-financières en précisent les raisons à l'Etat membre requérant.
-
-En tout état de cause, à l'expiration d'un délai de six mois à compter de la date de l'accusé de réception de la demande, les
-administrations financières informent l'Etat membre requérant du résultat de leurs recherches.
-
-Compte tenu des informations qui lui ont été communiquées, cet Etat peut demander aux administrations financières de
-poursuivre leurs recherches. Cette demande doit être faite par écrit dans un délai de deux mois à compter de la réception de
-la communication du résultat des premières recherches. Elle doit être traitée conformément aux dispositions prévues pour la
-demande initiale.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-##### Demande de notification<a id=257></a>
-
-###### Article R283 A-11
-
-Les administrations financières vérifient que la demande de notification qui leur est adressée par l'Etat membre requérant
-est établie par écrit, en double exemplaire, selon le modèle figurant à l'annexe II au décret n° 2003-1387 du 31 décembre
-2003. Cette demande doit porter le cachet officiel de l'Etat membre requérant et être signée par un agent de ce dernier
-dûment autorisé à la formuler. Elle est accompagnée de l'acte ou de la décision, en double exemplaire, dont la notification
-est sollicitée.
-
-La demande de notification indique le nom et l'adresse du destinataire, la nature et l'objet de l'acte ou de la décision à
-notifier et, le cas échéant, le nom et l'adresse du débiteur, la créance visée dans l'acte ou la décision ainsi que tous
-autres renseignements utiles.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2003-1387 du 31 décembre 2003
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-###### Article R283 A-12
-
-La demande de notification peut viser toute personne physique ou morale qui, conformément aux dispositions en vigueur dans
-l'Etat membre requérant, doit avoir connaissance d'un acte ou d'une décision la concernant.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-###### Article R283 A-13
-
-Les administrations financières accusent réception par écrit de la demande de notification dans les plus brefs délais et, en
-tout état de cause, dans les sept jours de cette réception.
-
-Dès réception de la demande de notification, les administrations financières prennent les mesures nécessaires en vue de faire
-procéder à cette notification conformément aux dispositions en vigueur.
-
-Si nécessaire, et dans le respect de la date limite de notification indiquée dans la demande, les administrations financières
-invitent l'Etat membre requérant à fournir des renseignements supplémentaires.
-
-L'Etat membre requérant fournit tous les renseignements supplémentaires auxquels il a normalement accès.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-###### Article R283 A-14
-
-En aucun cas, les administrations financières ne mettent en cause la validité de l'acte ou de la décision dont la
-notification est demandée.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-###### Article R283 A-15
-
-Dans la mesure où l'acte ou la décision dont la notification est demandée ne l'indique pas, la demande de notification se
-réfère aux règles en vigueur dans l'Etat membre requérant concernant la procédure de contestation ou de recouvrement de la
-créance.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-###### Article R283 A-16
-
-Les administrations financières informent sans délai l'Etat membre requérant de la suite donnée à sa demande, et en
-particulier de la date à laquelle la décision ou l'acte a été notifié au destinataire en lui renvoyant un des exemplaires de
-sa demande dont l'attestation est dûment complétée.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-##### Transmission des renseignements<a id=258></a>
-
-###### Article R283 A-17
-
-Par "transmission par voie électronique", on entend la transmission au moyen d'équipements électroniques de traitement des
-données, y compris la compression numérique, par fil, radio, procédés optiques ou électromagnétiques ; et par "réseau CCN-
-CSI" la plate-forme commune basée sur le réseau commun de communication (CCN) et sur l'interface du système commun (CSI),
-développée par la Communauté européenne pour assurer les transmissions par voie électronique entre autorités compétentes dans
-le domaine des douanes et de la fiscalité.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-###### Article R283 A-18
-
-Tous les renseignements communiqués par écrit sont transmis de préférence par voie électronique, sauf :
-
-a) La demande de notification visée à l'article R. 283 A-10 ainsi que l'acte ou la décision dont la notification est
-demandée ;
-
-b) Les demandes de recouvrement ou de mesures conservatoires mentionnées à l'article L. 283 B, ainsi que le titre exécutoire
-qui les accompagne.
-
-Les administrations financières et l'Etat membre requérant peuvent se mettre d'accord pour renoncer à la communication sur
-papier des demandes et instruments énumérés au premier alinéa.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L283 B
-  - Livre des procédures fiscales - art. R283 A-10
-
-
-##### Demande de recouvrement ou de mesures conservatoires<a id=259></a>
-
 ###### Article R283 B-1
 
-La demande de recouvrement ou de mesures conservatoires faite en application de l'article L. 283 B peut concerner toute
-personne mentionnée à l'article R. 283 A-3.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L283 B (M)
-  - Livre des procédures fiscales - art. R283 A-3 (V)
-
-
-###### Article R283 B-2
-
-1° Les administrations financières vérifient que la demande de recouvrement ou de mesures conservatoires qui leur est
-adressée par l'Etat membre requérant est établie selon le modèle figurant à l'annexe III au décret n° 2003-1387  du 31
-décembre 2003 ;
-
-2° Cette demande contient une déclaration certifiant que les conditions prévues aux 1° et 2° de l'article L. 283 B pour
-l'engagement de la procédure d'assistance mutuelle en la matière sont remplies, porte le cachet officiel de l'Etat membre
-requérant et est signée par un agent de ce dernier dûment autorisé à formuler une telle demande.
-
-Elle indique, en outre, la date à compter de laquelle et la période pendant laquelle l'exécution est possible selon les
-règles de droit en vigueur dans cet Etat.
-
-3° Elle est accompagnée d'un exemplaire officiel ou d'une copie certifiée conforme du titre qui en permet l'exécution, émis
-dans l'Etat membre de la Communauté européenne et, le cas échéant, de l'original ou d'une copie certifiée conforme d'autres
-documents nécessaires pour le recouvrement.
-
-4° Le titre exécutoire peut être délivré globalement pour plusieurs créances dès lors qu'il concerne une même personne.
-
-Les créances faisant l'objet d'un même titre exécutoire sont considérées comme constituant une créance unique.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2003-1387 du 31 décembre 2003
-  - Livre des procédures fiscales - art. L283 B
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-###### Article R283 B-3
-
-Les administrations financières vérifient que la demande de recouvrement ou de mesures conservatoires émises par l'Etat
-membre requérant indique la nature et le montant de la créance à recouvrer (principal, intérêts, pénalités, amendes et
-frais).
-
-Si la monnaie de l'Etat membre de la Communauté européenne est différente de l'euro, les montants de la créance à recouvrer
-sont spécifiés dans les deux monnaies.
-
-Le taux de change à utiliser est le dernier cours de vente constaté sur le ou les marchés de change les plus représentatifs
-de l'Etat membre requérant à la date où la demande de recouvrement est signée.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-_Cité par_:
-
-  - Livre des procédures fiscales - art. R283 B-8 (Ab)
-
-
-###### Article R283 B-4
-
-Les administrations financières accusent réception de la demande par écrit, dans les plus brefs délais et, en tout état de
-cause, au plus tard dans les sept jours de la réception de la demande de recouvrement ou de mesures conservatoires et
-informent sans délai l'Etat membre requérant des suites données à sa demande et l'invite, le cas échéant, à la compléter de
-tous les renseignements auxquels il a accès.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-###### Article R283 B-5
-
-Lorsque la créance est contestée dans l'Etat membre requérant et que l'instance compétente devant laquelle l'action a été
-portée est un tribunal judiciaire ou administratif, la décision de ce tribunal, pour autant qu'elle soit favorable à l'Etat
-requérant et qu'elle permette le recouvrement de la créance dans cet Etat, constitue le "titre permettant l'exécution". Le
-recouvrement de la créance est effectué sur la base de cette décision.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-###### Article R283 B-6
-
-Si, malgré la contestation de la créance ou du titre, l'Etat membre requérant demande, conformément aux dispositions en
-vigueur sur son territoire, de prendre des mesures conservatoires ou de recouvrer la créance contestée, mais que les
-dispositions du code général des impôts et du présent livre ne le permettent pas, les administrations financières en
-informent l'Etat membre requérant au plus tard dans un délai d'un mois à compter de la réception de la notification de la
-contestation de la créance.
-
-Dès qu'elles en ont connaissance, les administrations financières informent par écrit l'Etat membre requérant de toute action
-engagée tendant au remboursement des sommes recouvrées ou la compensation concernant les créances contestées dans l'Etat
-requérant et pour lesquelles cet Etat a demandé la poursuite du recouvrement.
-
-Les administrations financières associent l'Etat membre requérant aux procédures de règlement du montant à rembourser et de
-la compensation due. Sur leur demande motivée, l'Etat membre requérant transfère les sommes remboursées et la compensation
-payée dans un délai de deux mois à compter de la réception de cette demande.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-###### Article R283 B-7
-
-Lorsque la créance ne peut être recouvrée ou faire l'objet de mesures conservatoires dans des délais raisonnables, les
-administrations financières en précisent les raisons à l'Etat membre requérant.
-
-En tout état de cause, à l'expiration d'un délai de six mois à compter de la date de l'accusé de réception de la demande, les
-administrations financières informent l'Etat membre requérant du résultat de la procédure de recouvrement ou des mesures
-conservatoires qu'elles ont engagées.
-
-Compte tenu des informations qui lui sont communiquées, l'Etat membre requérant peut leur demander de poursuivre la procédure
-de recouvrement ou d'engager des mesures conservatoires. Cette demande est faite par écrit dans un délai de deux mois à
-compter de la réception de la communication du résultat de la procédure engagée. Elle est traitée selon les dispositions
-prévues pour la demande initiale.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-_Abrogé par_:
-
-  - Décret n°2012-417 du 28 mars 2012 - art. 1
-
-
-###### Article R283 B-8
-
-Le recouvrement est effectué en euros. Les administrations financières transfèrent à l'Etat membre requérant, dans le délai
-d'un mois suivant la date du recouvrement, le montant total de la créance recouvrée. 
-
-Les administrations financières et l'Etat membre requérant peuvent convenir de dispositions différentes pour le transfert des
-montants inférieurs au seuil mentionné à l'article L. 283 B. 
-
-Abstraction faite des sommes éventuellement perçues par les administrations financières au titre des intérêts, la créance est
-réputée recouvrée à proportion du recouvrement du montant exprimé en euros, sur la base, le cas échéant, du taux de change
-visé au troisième alinéa de l'article R. 283 B-3.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
+L'autorité requise informe l'autorité requérante des motifs mentionnés aux articles L. 283 A à L. 283 C qui s'opposent à ce
+que la demande d'assistance soit satisfaite.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-422  du 27 avril 2010 - art. 2
-
-_Abrogé par_:
-
   - Décret n°2012-417 du 28 mars 2012 - art. 1
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L283 B
-  - Livre des procédures fiscales - art. R283 B-3
-
-_Cité par_:
-
-  - Livre des procédures fiscales - art. R283 B-10 (V)
+  - Livre des procédures fiscales - art. L283 A
 
 
 ###### Article R283 B-9
 
-Les administrations financières peuvent, après avoir consulté l'Etat membre requérant, octroyer un délai de paiement au
-redevable.
+Les administrations financières peuvent octroyer un délai de paiement au redevable ou autoriser un paiement échelonné de la
+dette. Elles en informent l'Etat membre requérant.
 
-Les intérêts perçus du fait des délais de paiement éventuellement octroyés ou ceux perçus pour tout retard de paiement sont
-transférés à l'Etat membre de la Communauté européenne qui a demandé l'assistance.
-
-**Nota:**
-
-Ces dispositions s'appliquent dans les mêmes conditions aux créances mentionnées au premier alinéa de l'article 381 bis du
-code des douanes : voir article 2 du décret 2003-1387 du 31 décembre 2003.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2003-1387 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2004
-
-
-###### Article R283 B-10
-
-1° Les administrations financières arrêtent la procédure engagée lorsqu'elles sont informées par écrit par l'Etat membre
-requérant que la demande de recouvrement ou de mesures conservatoires est devenue sans objet par suite du paiement ou de
-l'annulation de la créance ou pour toute autre raison. 
-
-2° Lorsque le montant de la créance qui fait l'objet de la demande de recouvrement ou de mesures conservatoires se trouve
-ajusté pour quelque raison que ce soit, l'Etat membre requérant en informe immédiatement par écrit les administrations
-financières et délivre un nouveau titre exécutoire si nécessaire. 
-
-3° Si l'ajustement entraîne une diminution du montant de la créance, les administrations financières poursuivent l'action
-entreprise en vue du recouvrement ou de mesures conservatoires dans la limite de la somme à percevoir. Si, au moment où elles
-sont informées de la diminution du montant de la créance, le recouvrement d'un montant dépassant la somme restant à percevoir
-a déjà été effectué sans que la procédure de transfert visée à l'article R. 283 B-8 ait toutefois été déjà engagée, les
-administrations financières procèdent au remboursement du trop-perçu. 
-
-4° Si l'ajustement entraîne une augmentation du montant de la créance, l'Etat membre requérant adresse, dans les plus brefs
-délais, aux administrations financières une demande complémentaire de recouvrement ou de mesures conservatoires. Cette
-demande complémentaire est traitée, en principe, par ces administrations conjointement avec la demande initiale. Lorsque,
-compte tenu de l'état d'avancement de la procédure en cours, cette jonction est impossible, les administrations financières
-ne sont tenues de donner suite à la demande complémentaire que si elle porte sur un montant égal ou supérieur à celui
-mentionné au quatrième alinéa de l'article L. 283 B. 
-
-5° Le cas échéant, pour la conversion en euros du montant ajusté de la créance, l'Etat membre requérant utilise le taux de
-change appliqué dans sa demande initiale.
+Les intérêts perçus du fait des délais de paiement éventuellement octroyés ou du paiement échelonné autorisé ou ceux perçus
+pour tout retard de paiement sont transférés à l'Etat membre requérant.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-422  du 27 avril 2010 - art. 2
+  - Décret n°2012-417 du 28 mars 2012 - art. 1
 
-_Abrogé par_:
+
+###### Article R283 C-1
+
+L'instrument uniformisé permettant l'adoption de mesures exécutoires dans l'Etat membre requis et établi par l'Etat membre
+requérant, mentionné au VI de l'article L. 283 C, comporte au minimum les informations suivantes :
+
+1° Les informations permettant d'identifier le titre exécutoire, la période couverte par la créance, les dates utiles à
+l'engagement des mesures d'exécution, la nature, la date de mise en recouvrement et le montant de la créance à recouvrer
+(principal, intérêts, pénalités, amendes, majoration et frais) ;
+
+2° Le nom, l'adresse du destinataire et tout autre renseignement utile à son identification ;
+
+3° Les noms, adresses et coordonnées du service responsable de la liquidation de la créance et, s'il diffère, du service
+auprès duquel des informations complémentaires peuvent être obtenues concernant la créance ou les possibilités de contester
+l'obligation de payer.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
 
   - Décret n°2012-417 du 28 mars 2012 - art. 1
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. R283 A-8
+  - Livre des procédures fiscales - art. L283 C
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R283 C-4 (V)
 
 
-### Titre V : Dispositions communes<a id=260></a>
+###### Article R283 C-2
 
-#### Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques<a id=261></a>
+I. – Les administrations financières vérifient que la demande de recouvrement ou de mesures conservatoires qui leur est
+adressée par l'Etat membre requérant est accompagnée de l'instrument uniformisé mentionné au VI de l'article L. 283 C. 
+
+II. – Cette demande contient une déclaration certifiant que les conditions prévues aux articles L. 283 B et L. 283 C pour
+l'engagement de la procédure d'assistance mutuelle sont remplies. Elle peut être aussi accompagnée d'autres documents
+relatifs à la créance concernée, émanant de l'Etat membre requérant. 
+
+III. – La demande de prise de mesures conservatoires est accompagnée, le cas échéant, du document établi par l'autorité
+requérante l'autorisant, conformément à sa législation, à prendre des mesures conservatoires ainsi que de tout autre document
+relatif à la créance concernée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-417 du 28 mars 2012 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L283 B (V)
+  - Livre des procédures fiscales - art. L283 C (V)
+
+
+###### Article R283 C-3
+
+I. – La contestation relative à la validité de la notification, par l'Etat membre requérant, de la créance, du titre
+exécutoire ou de l'instrument uniformisé permettant l'adoption de mesures exécutoires dans l'Etat membre requis est portée
+par son destinataire devant l'instance compétente de l'Etat membre requérant.
+
+Toute contestation relative à la créance, au titre exécutoire établi par l'Etat membre requérant ou à l'instrument uniformisé
+permettant l'adoption de mesures exécutoires dans l'Etat membre requis est portée devant l'instance compétente de l'Etat
+membre requérant.
+
+Lorsque la contestation de la créance, du titre exécutoire ou de l'instrument uniformisé permettant l'adoption de mesures
+exécutoires dans l'Etat membre requis intervient au cours de la procédure de recouvrement effectuée dans l'Etat requis, ce
+dernier informe le redevable qu'il doit porter la contestation devant l'instance compétente de l'Etat membre requérant.
+
+L'Etat membre requérant informe l'Etat membre requis de cette contestation et lui précise le montant de la créance non
+contesté.
+
+II. – Toute contestation relative aux mesures exécutoires prises par l'Etat membre requis ou à la validité de la
+notification, par ce même Etat membre, de la créance, du titre exécutoire ou de l'instrument uniformisé permettant l'adoption
+de mesures exécutoires dans l'Etat membre requis est portée par son destinataire devant l'instance compétente de l'Etat
+membre requis.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-417 du 28 mars 2012 - art. 1
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R283 C-4 (V)
+
+
+###### Article R283 C-4
+
+I. – L'Etat requérant informe sans délai les administrations financières de toute modification intervenant dans sa demande de
+recouvrement et leur en communique les motifs.
+
+Si cette modification fait suite à une décision de justice portant sur les contestations mentionnées au I de l'article R. 283
+C-3 rendue dans l'Etat membre requérant, cette décision doit être jointe à la demande de modification accompagnée d'un nouvel
+instrument uniformisé.
+
+Les administrations financières poursuivent le recouvrement sur la base de ce nouvel instrument.
+
+Toutefois, les procédures de recouvrement ou les mesures conservatoires prises par les administrations financières sur le
+fondement de l'instrument uniformisé original peuvent être poursuivies sur la base du nouvel instrument uniformisé.
+
+Le nouvel instrument uniformisé remplit les conditions prévues au VI de l'article L. 283 C et comporte les éléments
+mentionnés à l'article R. 283 C-1.
+
+II. – L'Etat requérant informe sans délai les administrations financières du retrait de sa demande de recouvrement et leur en
+communique les motifs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-417 du 28 mars 2012 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L283 C (V)
+  - Livre des procédures fiscales - art. R283 C-1
+  - Livre des procédures fiscales - art. R283 C-3
+
+
+###### Article R283 C-5
+
+L'autorité requérante et l'autorité requise s'informent mutuellement de toute mesure qui, conformément au XII de l'article L.
+283 C, interrompt, suspend ou prolonge le délai de prescription de la créance pour laquelle le recouvrement ou les mesures
+conservatoires ont été demandées ou qui est susceptible de produire un tel effet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-417 du 28 mars 2012 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L283 C (V)
+
+
+###### Article R283 D-1
+
+Les documents et renseignements communiqués aux administrations financières par l'Etat membre requérant ne peuvent être
+transmis qu'aux personnes suivantes :
+
+1° La personne visée dans la demande d'assistance ;
+
+2° Les personnes et autorités chargées du recouvrement des créances, aux seules fins de celui-ci ;
+
+3° Les autorités judiciaires saisies des affaires concernant le recouvrement des créances.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-417 du 28 mars 2012 - art. 1
+
+
+### Titre V : Dispositions communes<a id=255></a>
+
+#### Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques<a id=256></a>
 
 ###### Article R*287-1
 
@@ -22590,7 +22074,7 @@ _Cite_:
   - Code de procédure civile - art. 760
 
 
-#### Chapitre III : Dispositions communautaires<a id=262></a>
+#### Chapitre III : Dispositions communautaires<a id=257></a>
 
 ###### Article R289-1
 
@@ -22621,21 +22105,21 @@ _Créé par_:
   - Décret n°2006-1042 du 24 août 2006 - art. 1 () JORF 25 août 2006
 
 
-# Partie réglementaire - Arrêtés<a id=263></a>
+# Partie réglementaire - Arrêtés<a id=258></a>
 
-## Troisième partie : Partie réglementaire, arrêtés<a id=264></a>
+## Troisième partie : Partie réglementaire, arrêtés<a id=259></a>
 
-### Titre II : Le contrôle de l'impôt<a id=265></a>
+### Titre II : Le contrôle de l'impôt<a id=260></a>
 
-#### Chapitre premier : Le droit de contrôle de l'administration<a id=266></a>
+#### Chapitre premier : Le droit de contrôle de l'administration<a id=261></a>
 
-##### Section II : Dispositions particulières à certains impôts<a id=267></a>
+##### Section II : Dispositions particulières à certains impôts<a id=262></a>
 
-##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=268></a>
+##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=263></a>
 
-##### B : Contrôle sur les lieux d'exercice de l'activité<a id=269></a>
+##### B : Contrôle sur les lieux d'exercice de l'activité<a id=264></a>
 
-##### 1 : Contributions indirectes<a id=270></a>
+##### 1 : Contributions indirectes<a id=265></a>
 
 ###### Article A26-1
 
@@ -22744,7 +22228,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 153 (V)
 
 
-##### Dispositions applicables dans les départements d'outre-mer.<a id=271></a>
+##### Dispositions applicables dans les départements d'outre-mer.<a id=266></a>
 
 ###### Article A27-1
 
@@ -22768,7 +22252,7 @@ _Anciens textes_:
   - CGIAN4 56 D ter
 
 
-##### 2 : Droits de timbre<a id=272></a>
+##### 2 : Droits de timbre<a id=267></a>
 
 ###### Article A37-1
 
@@ -22802,7 +22286,7 @@ _Modifié par_:
   - Loi n°2006-1771 du 30 décembre 2006 - art. 139 (V) JORF 31 décembre 2006
 
 
-##### Section III : Modalités d'exercice du droit de contrôle<a id=273></a>
+##### Section III : Modalités d'exercice du droit de contrôle<a id=268></a>
 
 ###### Article A47 A-1
 
@@ -22861,7 +22345,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L47 A
 
 
-##### Section VI : Conséquences et limites des procédures de rectification<a id=274></a>
+##### Section VI : Conséquences et limites des procédures de rectification<a id=269></a>
 
 ###### Article A80 CB-3-1
 
@@ -23046,9 +22530,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*80 CB-6
 
 
-#### Chapitre II : Le droit de communication<a id=275></a>
+#### Chapitre II : Le droit de communication<a id=270></a>
 
-##### Section I : Conditions d'exercice du droit de communication<a id=276></a>
+##### Section I : Conditions d'exercice du droit de communication<a id=271></a>
 
 ###### Article A85-1
 
@@ -23088,7 +22572,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R81-5 (VD)
 
 
-##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=277></a>
+##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=272></a>
 
 ###### Article A97-1
 
@@ -23159,11 +22643,11 @@ _Anciens textes_:
   - CGIAN4 211
 
 
-### Titre III : Le contentieux de l'impôt<a id=278></a>
+### Titre III : Le contentieux de l'impôt<a id=273></a>
 
-#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=279></a>
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=274></a>
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=280></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=275></a>
 
 ###### Article A208-1
 
@@ -23182,11 +22666,11 @@ _Cite_:
   - Livre des procédures fiscales - art. R*208-4 (V)
 
 
-#### Chapitre II : Les procédures pénales<a id=281></a>
+#### Chapitre II : Les procédures pénales<a id=276></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=282></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=277></a>
 
-##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=283></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=278></a>
 
 ###### Article A225 A-1
 
@@ -23207,7 +22691,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L225 A (V)
 
 
-##### Section II : Exercice des poursuites pénales<a id=284></a>
+##### Section II : Exercice des poursuites pénales<a id=279></a>
 
 ###### Article A228-1
 
@@ -23226,9 +22710,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*228-1
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=285></a>
+### Titre IV : Le recouvrement de l'impôt<a id=280></a>
 
-#### Chapitre II : Le sursis de paiement<a id=286></a>
+#### Chapitre II : Le sursis de paiement<a id=281></a>
 
 ###### Article A277-1
 
