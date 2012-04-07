@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-04-01
+Version Consolidée au 2012-04-08
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -20971,6 +20971,30 @@ _Cite_:
 _Cité par_:
 
   - Livre des procédures fiscales - art. R*277-8 (V)
+
+
+###### Article R*277-8
+
+Le contribuable qui demande à bénéficier du sursis de paiement prévu au V de l'article 167 bis du code général des impôts
+fait parvenir au service des impôts des particuliers non résidents dans les trente jours précédant le transfert de son
+domicile fiscal hors de France, une proposition de garanties. 
+
+Les dispositions des deuxième et troisième alinéas de l'article R. * 277-1, des articles R. * 277-2, R. 277-4 et R. 277-6
+sont applicables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-457 du 6 avril 2012 - art. 2
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 167 bis
+  - Livre des procédures fiscales - art. R*277-1 (V)
+  - Livre des procédures fiscales - art. R*277-2 (V)
+  - Livre des procédures fiscales - art. R277-4 (V)
+  - Livre des procédures fiscales - art. R277-6 (V)
 
 
 ###### Article R277-3-1
