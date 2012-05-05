@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-04-08
+Version Consolidée au 2012-05-06
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -18803,7 +18803,7 @@ l'administration. Les modes de preuve doivent être compatibles avec le caractè
 Les parties ne sont pas obligées de recourir au ministère d'un avocat.
 
 Le tribunal accorde aux parties ou aux agents de l'administration qui suivent les instances, les délais nécessaires pour
-présenter leur défense. Cette disposition est applicable, devant la cour d'appel, à l'égard des avoués constitués.
+présenter leur défense. Cette disposition est applicable, devant la cour d'appel, à l'égard des avocats constitués.
 
 Les notifications sont valablement faites au domicile réel du contribuable alors même que celui-ci aurait constitué
 mandataire et élu domicile chez ce dernier. Si le contribuable est domicilié hors de France, la notification est faite au
@@ -18811,20 +18811,9 @@ domicile élu en France par lui.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - CGI 1938 3 (Al. 3)
-  - CGI 1947 2, 3
-  - CGI 1959 2
-
 _Modifié par_:
 
-  - Décret n°98-127 du 4 mars 1998 - art. 2 () JORF 5 mars 1998
-
-**Liens**:
-
-  - HISTO: Edition du 22 avril 1998
-  - TXT_ASSOCIE: Instruction 1998-03-21 13O-3-98
+  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 _Cité par_:
 
@@ -18866,7 +18855,7 @@ L'expertise est faite par un seul expert.
 La décision qui ordonne l'expertise et désigne l'expert fixe sa mission ainsi que le délai dans lequel il est tenu de déposer
 son rapport au secrétariat-greffe.
 
-Le secrétaire-greffier informe les parties, par lettre recommandée avec demande d'avis de réception, ou en appel les avoués
+Le secrétaire-greffier informe les parties, par lettre recommandée avec demande d'avis de réception, ou en appel les avocats
 constitués, du dépôt du rapport au secrétariat-greffe. Les observations du contribuable et de l'administration sur ce rapport
 sont formulées par conclusions régulières dans les deux mois qui suivent cette notification.
 
@@ -18876,11 +18865,7 @@ La juridiction saisie statue à l'expiration de ce délai.
 
 _Modifié par_:
 
-  - Décret n°98-127 du 4 mars 1998 - art. 4 () JORF 5 mars 1998
-
-**Liens**:
-
-  - HISTO: Edition du 22 avril 1998
+  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 _Cité par_:
 
