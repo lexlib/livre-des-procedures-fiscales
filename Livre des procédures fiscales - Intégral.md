@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-05-06
+Version Consolidée au 2012-05-07
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -94,7 +94,7 @@ Version Consolidée au 2012-05-06
           - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L166 D)](#91)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#92)
             - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 ZA)](#93)
-            - [III : Dérogations au profit de diverses commissions (art. L136 à L139 A)](#94)
+            - [III : Dérogations au profit de diverses commissions (art. L136 à L139 B)](#94)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 C)](#95)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151 A)](#96)
             - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale (art. L152 à L162 B)](#97)
@@ -520,17 +520,17 @@ _Cite_:
 
 Dans le cadre des procédures prévues au présent livre, les agents de la direction générale des finances publiques peuvent
 rechercher et constater les infractions aux interdictions mentionnées à l'article L. 8221-1 du code du travail, dans les
-conditions prévues par les articles L. 8271-7 à L. 8271-11 de ce code.
+conditions prévues par les articles L. 8271-7 à L. 8271-10 de ce code.
 
 **Nota:**
 
-_Modifications effectuées en conséquence des articles 1, 3 et 12 I de l'ordonnance n° 2007-329 du 12 mars 2007._
+Modifications effectuées en conséquence des articles 84-II et 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 76
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 _Cite_:
 
@@ -1576,15 +1576,10 @@ _Cité par_:
 A l'occasion du contrôle des déclarations de succession, l'administration des impôts peut demander aux héritiers et autres
 ayants droit des éclaircissements ou des justifications au sujet des titres, valeurs et créances ainsi que des biens ou
 droits placés dans un trust défini à l'article 792-0 bis et des produits qui y sont capitalisés, non énoncés dans la
-déclaration et qui sont présumés faire partie de la succession en application de l'article 752, premier alinéa, du code
+déclaration et qui sont présumés faire partie de la succession en application du premier alinéa de l'article 752 du code
 général des impôts. 
 
 Les mesures destinées à l'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Nota:**
-
-Loi n° 2011-900 du 29 juillet 2011 de finances rectificative pour 2011 article 14 III : Le II s'applique aux donations
-consenties et pour des décès intervenus à compter de la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -1594,7 +1589,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-900 du 29 juillet 2011 - art. 14 (V)
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 _Cite_:
 
@@ -2347,12 +2342,12 @@ code général des impôts et aux législations édictant les mêmes règles en 
 habilités à cet effet par le ministre chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où les
 pièces, documents, objets ou marchandises se rapportant à ces infractions ainsi que les biens et avoirs en provenant
 directement ou indirectement sont susceptibles d'être détenus et procéder à leur saisie, quel qu'en soit le support. Ils sont
-accompagnés d'un officier de police judiciaire.
+accompagnés d'un officier de police judiciaire. 
 
 Les agents habilités peuvent procéder, à l'occasion de la visite, à la saisie des pièces et documents, quel qu'en soit le
 support, ainsi que des objets ou des marchandises se rapportant aux infractions précitées. Ils peuvent saisir les biens et
 avoirs provenant directement ou indirectement des infractions précitées uniquement dans le cas de visites autorisées en
-application du 2 du présent article.
+application du 2.
 
 2. Hormis les cas de flagrance, chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention
 du tribunal de grande instance dans le ressort duquel sont situés les locaux à visiter. 
@@ -2360,7 +2355,7 @@ du tribunal de grande instance dans le ressort duquel sont situés les locaux à
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
 doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite. 
 
-Il désigne l'officier de police judiciaire chargé d'assister à ces opérations et de le tenir informé de leur déroulement.
+Il désigne l'officier de police judiciaire chargé d'assister à ces opérations et de le tenir informé de leur déroulement. 
 
 L'ordonnance comporte : 
 
@@ -2370,13 +2365,13 @@ le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'au
 visite. 
 
 la mention de la faculté pour l'occupant des lieux ou son représentant, ainsi que l'auteur présumé des infractions
-mentionnées au 1, de faire appel à un conseil de son choix.
+mentionnées au 1, de faire appel à un conseil de son choix. 
 
 L'exercice de cette faculté n'entraîne pas la suspension des opérations de visite et de saisie. 
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
 l'espèce, l'existence des infractions dont la preuve est recherchée. Il se prononce par une mention expresse sur la saisie de
-biens et avoirs pouvant provenir directement ou indirectement des infractions dont la preuve est recherchée.
+biens et avoirs pouvant provenir directement ou indirectement des infractions dont la preuve est recherchée. 
 
 Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
 la personne occupant les lieux visités est titulaire et où des pièces, documents, objets ou marchandises se rapportant aux
@@ -2393,22 +2388,22 @@ La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée
 tribunal de grande instance, il délivre une commission rogatoire, pour exercer ce contrôle, au juge des libertés et de la
 détention du tribunal de grande instance dans le ressort duquel s'effectue la visite. 
 
-Il peut se rendre dans les locaux pendant l'intervention.
+Il peut se rendre dans les locaux pendant l'intervention. 
 
-A tout moment, il peut décider la suspension ou l'arrêt de la visite.
+A tout moment, il peut décider la suspension ou l'arrêt de la visite. 
 
-L'ordonnance est exécutoire au seul vu de la minute.
+L'ordonnance est exécutoire au seul vu de la minute. 
 
 L'ordonnance est notifiée, verbalement et sur place au moment de la visite, à l'occupant des lieux ou à son représentant qui
 en reçoit copie intégrale contre récépissé ou émargement au procès-verbal prévu au 4. En l'absence de l'occupant des lieux ou
 de son représentant, l'ordonnance est notifiée après la visite par lettre recommandée avec avis de réception. La notification
 est réputée faite à la date de réception figurant sur l'avis. Une copie est également adressée par lettre recommandée avec
 demande d'avis de réception à l'auteur présumé des infractions mentionnées au 1, nonobstant les dispositions de l'article L.
-103.
+103. 
 
 A défaut de réception, il est procédé à la signification de l'ordonnance par acte d'huissier de justice. 
 
-Le délai et la voie de recours sont mentionnés dans l'ordonnance.
+Le délai et la voie de recours sont mentionnés dans l'ordonnance. 
 
 L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. Les parties ne sont pas tenues de
 constituer avocat. 
@@ -2419,7 +2414,7 @@ quinze jours. Ce délai court à compter soit de la remise, soit de la réceptio
 appel n'est pas suspensif. 
 
 Le greffe du tribunal de grande instance transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les
-parties peuvent le consulter.
+parties peuvent le consulter. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
 le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
@@ -2430,17 +2425,17 @@ des lieux ou de son représentant ; en cas d'impossibilité, l'officier de polic
 dehors des personnes relevant de son autorité ou de celle de l'administration des douanes et droits indirects. 
 
 Les agents de l'administration des douanes et droits indirects mentionnés au 1, l'occupant des lieux ou son représentant et
-l'officier de police judiciaire peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
+l'officier de police judiciaire peuvent seuls prendre connaissance des pièces et documents avant leur saisie. 
 
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
-dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable.
+dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable. 
 
 4. Le procès-verbal de visite relatant les modalités et le déroulement de l'opération est dressé sur-le-champ par les agents
 de l'administration des douanes et droits indirects. Un inventaire des pièces et documents saisis, ainsi que des biens et
 avoirs provenant directement ou indirectement des infractions dont la preuve est recherchée, lui est annexé. Le procès-verbal
 et l'inventaire sont signés par les agents de l'administration des douanes et droits indirects et par l'officier de police
-judiciaire ainsi que par les personnes mentionnées au premier alinéa du 3 ci-dessus ; en cas de refus de signer, mention en
-est faite au procès-verbal. 
+judiciaire ainsi que par les personnes mentionnées au premier alinéa du 3 ; en cas de refus de signer, mention en est faite
+au procès-verbal. 
 
 Si l'inventaire sur place présente des difficultés, les pièces, documents, biens et avoirs saisis sont placés sous scellés.
 L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de
@@ -2452,7 +2447,7 @@ est également adressée par lettre recommandée avec demande d'avis de récepti
 au 1, nonobstant les dispositions de l'article L. 103. 
 
 Si le juge constate que les biens et avoirs saisis ne proviennent pas directement ou indirectement des infractions dont la
-preuve est recherchée, il ordonne la mainlevée de la saisie et la restitution des biens et avoirs concernés.
+preuve est recherchée, il ordonne la mainlevée de la saisie et la restitution des biens et avoirs concernés. 
 
 Les pièces et documents saisis sont restitués à l'occupant des lieux après exécution de la transaction consécutive à la
 rédaction du procès-verbal de constatation des infractions prévu par l'article L. 212 A ; en cas de poursuites judiciaires,
@@ -2465,24 +2460,18 @@ la voie de recours. Les parties ne sont pas tenues de constituer avocat.
 Suivant les règles prévues par le code de procédure civile, ce recours doit être exclusivement formé par déclaration remise
 ou adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai
 de quinze jours. Ce délai court à compter de la remise ou de la réception soit du procès-verbal, soit de l'inventaire,
-mentionnés au premier alinéa. Ce recours n'est pas suspensif.
+mentionnés au premier alinéa. Ce recours n'est pas suspensif. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles prévues par
 le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
 
 6. Les informations recueillies ne peuvent être exploitées dans le cadre d'une procédure de vérification de comptabilité ou
 de contrôle de revenu qu'après restitution des pièces ou de leur reproduction et mise en oeuvre des procédures de contrôle
-visées aux premier et deuxième alinéas de l'article L. 47. 
+visées aux premier et deuxième alinéas de l'article L. 47.
 
 7. Les dispositions des 1 à 6 peuvent être mises en oeuvre par les agents habilités à cet effet par le directeur général des
 finances publiques, pour la recherche et la constatation des infractions aux dispositions de l'article 290 quater et du III
 de l'article 298 bis du code général des impôts.
-
-**Nota:**
-
-Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 164 V : Les modifications induites par la loi n° 2008-776 sont
-applicables aux opérations de visite et de saisie pour lesquelles l'ordonnance d'autorisation a été notifiée ou signifiée à
-compter de la date d'entrée en vigueur de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -2497,8 +2486,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-94 du 25 janvier 2011 - art. 31
-  - Loi n°2011-267 du 14 mars 2011 - art. 110
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 _Anciens textes_:
 
@@ -2509,7 +2497,8 @@ _Cite_:
 
   - Code général des impôts, CGI. - art. 290 quater
   - Code général des impôts, CGI. - art. 298 bis
-  - Livre des procédures fiscales - art. L103
+  - Livre des procédures fiscales - art. L103 (V)
+  - Livre des procédures fiscales - art. L212 A (V)
   - Livre des procédures fiscales - art. L47
 
 
@@ -4099,7 +4088,7 @@ c. Ou que la différence entre le montant des achats figurant sur le registre pr
 réels est supérieure de 10 % au premier chiffre ; 
 
 d. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 8221-1 du code du travail dans le
-cadre des articles L. 8271-7 à L. 8271-11 du même code ; 
+cadre des articles L. 8271-7 à L. 8271-10 du même code ; 
 
 1° ter Le bénéfice imposable des fiducies lorsque la déclaration annuelle prévue à l'article 238 quater M du code général des
 impôts n'a pas été déposée dans le délai légal par le fiduciaire ; 
@@ -4116,13 +4105,13 @@ b. Ou que la différence entre le montant des recettes déclarées et celui du m
 % du premier montant ; 
 
 c. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 8221-1 du code du travail dans le
-cadre des articles L. 8271-7 à L. 8271-11 du même code ; 
+cadre des articles L. 8271-7 à L. 8271-10 du même code ; 
 
 3° Les revenus fonciers des contribuables qui se sont abstenus de répondre aux demandes de justifications mentionnées au
-deuxième alinéa de l'article L. 16. 
+deuxième alinéa de l'article L. 16.
 
 4° Les gains de cession de valeurs mobilières ou de droits sociaux des contribuables qui se sont abstenus de répondre aux
-demandes de justifications mentionnées au deuxième alinéa de l'article L. 16. 
+demandes de justifications mentionnées au deuxième alinéa de l'article L. 16.
 
 5° Les plus-values réalisées par les contribuables qui se sont abstenus de répondre aux demandes de justifications
 mentionnées au deuxième alinéa de l'article L. 16. 
@@ -4131,13 +4120,13 @@ Les dispositions de l'article L. 68 sont applicables dans les cas d'évaluation 
 
 **Nota:**
 
-_Modifications effectuées en conséquence des articles 1, 3 et 12 I de l'ordonnance n° 2007-329 du 12 mars 2007._
+Modifications effectuées en conséquence des articles 84-II et 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 10
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 _Cite_:
 
@@ -6026,32 +6015,34 @@ _Cite_:
 
 ###### Article L96 G
 
-Les agents des impôts peuvent se faire communiquer les données conservées et  traitées par les opérateurs de communications
-électroniques dans le cadre de  l'article L. 34-1 du code des postes et des communications  électroniques et par les
-prestataires mentionnés aux 1 et 2 du I de l'article 6 de la  loi n° 2004-575 du 21 juin 2004 pour  la confiance dans
-l'économie numérique dans les conditions prévues par cet  article. 
+Les agents des impôts peuvent se faire communiquer les données conservées et traitées par les opérateurs de communications
+électroniques dans le cadre de l'article L. 34-1 du code des postes et des communications électroniques et par les
+prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
+l'économie numérique dans les conditions prévues par cet article.
 
-Ils peuvent également se faire communiquer les  données traitées et conservées relatives à l'identification du vendeur ou du
-prestataire, à la nature des biens ou des services vendus, à la date et au  montant des ventes ou prestations effectuées par
-les opérateurs des services  prévus au d du 2 de l'article 11 du règlement (CE) n° 1777 / 2005 du Conseil du 17 octobre  2005
-portant mesures d'exécution de la directive 77 / 388 / CEE relative au  système commun de taxe sur la valeur ajoutée et, sous
-les réserves prévues au V de l'article L. 34-1 du code des postes et des  communications électroniques, les données traitées
-et conservées par les opérateurs  des services prévus au e du 2 de l'article 11 du règlement (CE) n° 1777  / 2005 du Conseil
-du 17 octobre 2005 précité.
+Ils peuvent également se faire communiquer les données traitées et conservées relatives à l'identification du vendeur ou du
+prestataire, à la nature des biens ou des services vendus, à la date et au montant des ventes ou prestations effectuées par
+les opérateurs des services prévus au d du 2 de l'article 11 du règlement (CE) n° 1777/2005 du Conseil du 17 octobre 2005
+portant mesures d'exécution de la directive 77/388/CEE relative au système commun de taxe sur la valeur ajoutée et, sous les
+réserves prévues au VI de l'article L. 34-1 du code des postes et des communications électroniques, les données traitées et
+conservées par les opérateurs des services prévus au e du 2 de l'article 11 du règlement (CE) n° 1777/2005 du Conseil du 17
+octobre 2005 précité.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 7 (1°) de l'ordonnance n° 2011-1012 du 24 août 2011.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2004-575 du 21 juin 2004 - art. 6
-  - V de l'article L. 34-1 du code des postes et des communications électroniques
-  - article L. 34-1 du code des postes et des communications électroniques
-  - d du 2 de l'article 11 du règlement (CE) n°1777/2005
+  - Code des postes et des communications électroniques - art. L34-1
   - e du 2 de l'article 11 du règlement (CE) n°1777/2005
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 55
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 
 ##### 25° Fabricants et marchands de métaux précieux<a id=83></a>
@@ -7534,26 +7525,25 @@ _Codifié par_:
 
 ###### Article L132 A
 
-L'administration des impôts est tenue de communiquer à l'administration publique qui demande le paiement direct d'une pension
-alimentaire les renseignements mentionnés à l'article L. 151.
+Conformément aux dispositions des articles L. 152-1 du code des procédures civiles d'exécution et L. 213-5 du même code,
+l'administration des impôts est tenue de communiquer à l'administration publique qui demande le paiement direct d'une pension
+alimentaire les renseignements mentionnés au II de l'article L. 151 A.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - HISTO: Edition du 15 juillet 1985
-
-_Créé par_:
-
-  - Loi n°73-5 du 2 janvier 1973 - art. 6 (V) JORF 3 janvier 1973 en vigueur le 1er février 1974
-
 _Codifié par_:
 
-  - Décret n°85-1008 1985-09-24
+  - Décret n°85-1008 du 24 septembre 1985
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L151 (M)
+  - Code des procédures civiles d'exécution - art. L152-1 (VD)
+  - Code des procédures civiles d'exécution - art. L213-5 (VD)
+  - Livre des procédures fiscales - art. L151 A
+
+_Modifié par_:
+
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 
 ###### Article L133
@@ -7594,15 +7584,10 @@ _Cite_:
 
 ###### Article L134
 
-Conformément aux dispositions prévues aux articles L. 8271-1, L. 8271-2, L. 8271-4, L. 8271-5 et L. 8271-7 du code du
-travail, ainsi qu'au deuxième alinéa de l'article L. 133-9-3 du code de la sécurité sociale les agents de la direction
-générale des impôts et de la direction générale des douanes et droits indirects peuvent communiquer et obtenir communication
-de tous documents ou renseignements utiles à la lutte contre le travail illégal.
-
-**Nota:**
-
-_Modifications effectuées en conséquence des articles 1er, 3 et 12 I de l'ordonnance 2007-329 du 12 mars 2007 et du code de
-la sécurité sociale art. L. 133-9-3._
+Conformément aux dispositions prévues aux articles L. 8271-1, L. 8271-1-2, L. 8271-2, L. 8271-4 et L. 8271-5 du code du
+travail, ainsi qu'au deuxième alinéa de l'article L. 133-9-3 du code de la sécurité sociale, les agents de la direction
+générale des finances publiques et de la direction générale des douanes et droits indirects peuvent communiquer et obtenir
+communication de tous documents ou renseignements utiles à la lutte contre le travail illégal.
 
 **Liens relatifs à cet article**
 
@@ -7612,15 +7597,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-295 du 1er avril 2008 - art. 1
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 _Cite_:
 
   - Code du travail - art. L8271-1
+  - Code du travail - art. L8271-1-2
   - Code du travail - art. L8271-2
   - Code du travail - art. L8271-4
   - Code du travail - art. L8271-5
-  - Code du travail - art. L8271-7
   - Code de la sécurité sociale. - art. L133-9-3
 
 
@@ -8128,30 +8113,41 @@ _Cité par_:
 
 Conformément au troisième alinéa de l'article L. 216-4 du code de l'environnement, le secret professionnel ne peut être
 opposé aux agents mentionnés à l'article L. 216-3 du même code qui sont chargés de procéder à la recherche et à la
-constatation des infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L. 211-7, L. 211-12, du II de
-l'article L. 212-5-1 et des articles L. 214-1 à L. 214-9, L. 214-11 à L. 214-13, L. 214-17, L. 214-18, L. 216-6 à L. 216-8 et
-L. 216-10 à L. 216-12 du code précité, ainsi que des textes et des décisions pris pour leur application.
+constatation des infractions aux dispositions des articles L. 211-2, L. 211-3, 
+L. 211-5, L. 211-7, L. 211-12, L. 211-14, du II de l'article L. 212-5-1, de l'article L. 213-10-8 et des articles L. 214-1 à
+L. 214-9, L. 214-11, L. 214-12, L. 214-17, L. 214-18, L. 216-6 à L. 216-8 et L. 216-10 à L. 216-12 du code précité, ainsi que
+des textes et des décisions pris pour leur application.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 108
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 _Cite_:
 
-  - Livre des procédures fiscales
-  - Code de l'environnement
+  - Code de l'environnement - art. L211-12
+  - Code de l'environnement - art. L211-14
+  - Code de l'environnement - art. L211-2
+  - Code de l'environnement - art. L211-3
+  - Code de l'environnement - art. L211-5
+  - Code de l'environnement - art. L211-7
+  - Code de l'environnement - art. L212-5-1
+  - Code de l'environnement - art. L213-10-8
+  - Code de l'environnement - art. L214-1
+  - Code de l'environnement - art. L214-11
+  - Code de l'environnement - art. L214-12
   - Code de l'environnement - art. L214-17
-  - Code de l'environnement - art. L214-18
+  - Code de l'environnement - art. L216-10
   - Code de l'environnement - art. L216-3
   - Code de l'environnement - art. L216-4
+  - Code de l'environnement - art. L216-6
 
 
 ###### Article L135 Q
 
-Conformément au premier alinéa et au 6° de l'article L. 1617-5 du code général des collectivités territoriales, le secret
-professionnel ne peut être opposé aux comptables directs du Trésor chargés du recouvrement d'une créance assise et liquidée
+Conformément au premier alinéa et au 8° de l'article L. 1617-5 du code général des collectivités territoriales, le secret
+professionnel ne peut être opposé aux comptables publics compétents chargés du recouvrement d'une créance assise et liquidée
 par une collectivité territoriale, ses établissements publics ou des établissements publics de santé en ce qui concerne les
 informations et renseignements nécessaires à l'exercice de cette mission.
 
@@ -8159,19 +8155,15 @@ informations et renseignements nécessaires à l'exercice de cette mission.
 
 _Codifié par_:
 
-  - Décret n°2007-485 2007-03-30
+  - Décret n°2007-485 du 30 mars 2007
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-485 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L1617-5 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - Code général des collectivités territoriales - art. L1617-5
 
 
 ###### Article L135 R
@@ -8530,6 +8522,28 @@ _Cité par_:
   - Livre des procédures fiscales - art. L113 (V)
 
 
+###### Article L139 B
+
+La Commission pour la transparence financière de la vie politique peut demander à l'administration fiscale communication de
+la copie des déclarations souscrites, en application des articles 170 à 175 A du code général des impôts et, le cas échéant,
+en application du 1 du I de l'article 885 W du même code, par un député, conformément au deuxième alinéa de l'article LO
+135-3 du code électoral, ou par les personnes mentionnées aux articles 1er et 2 de la loi n° 88-227 du 11 mars 1988 relative
+à la transparence financière de la vie politique, conformément au II de l'article 3 de cette même loi.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°88-227 du 11 mars 1988 - art. 1 (V)
+  - Code général des impôts, CGI. - art. 170
+  - Code général des impôts, CGI. - art. 885 W
+  - Code électoral - art. LO135-3
+
+_Créé par_:
+
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
+
+
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions<a id=95></a>
 
 ###### Article L140
@@ -8791,9 +8805,15 @@ _Cite_:
 
 ###### Article L145 D
 
-Dans le cadre du contrôle des mesures imposées ou recommandées par la commission de surendettement des particuliers prévu aux
-articles L. 332-1 à L. 332-3 du code de la consommation, le juge de l'exécution peut obtenir communication de tout
-renseignement sur la situation du débiteur conformément au sixième alinéa de l'article L. 332-2 du même code.
+Dans le cadre du contrôle des mesures imposées ou recommandées par la commission de surendettement des particuliers ou du
+contrôle de sa recommandation aux fins de rétablissement personnel sans liquidation judiciaire prévus aux articles L. 332-2 à
+L. 332-5-1 du code de la consommation, le juge peut obtenir communication de tout renseignement sur la situation du débiteur
+conformément aux articles précités.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 43 des loi n° 2010-737 du 1er juillet 2010 et n° 2010-1249 du 22 octobre
+2010 et des article 3 (4°) et 7 de l'ordonnance n° 2011-1895 du 19 décembre 2011.
 
 **Liens relatifs à cet article**
 
@@ -8803,11 +8823,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-646 du 9 juin 2011 - art. 1
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 _Cite_:
 
-  - Code de la consommation - art. L332-1
+  - Code de la consommation - art. L332-2
 
 
 ###### Article L146
@@ -8873,32 +8893,6 @@ _Cite_:
 _Modifié par_:
 
   - Ordonnance n°2010-420  du 27 avril 2010 - art. 91
-
-
-###### Article L147 B
-
-Aux fins d'assurer l'exécution d'un titre exécutoire, le procureur de la République peut obtenir des renseignements
-relatifs :
-
-a. à l'adresse du débiteur ;
-
-b. à l'adresse de son employeur.
-
-**Nota:**
-
-Décret n° 2012-654 du 4 mai 2012 article 1 : L'article L. 147 B devient sans objet en conséquence de l'article 5-II de la loi
-n° 2010-1609 du 22 décembre 2010.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2004-130 du 11 février 2004 - art. 62 () JORF 12 février 2004
-
-**Liens**:
-
-  - PERIME: Décret n°2012-654 du 4 mai 2012 - art. 1
-  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article L147 C
@@ -8995,65 +8989,18 @@ _Codifié par_:
   - Décret n°81-859 1981-09-15
 
 
-###### Article L151
-
-L'administration est tenue de communiquer à l'huissier de justice chargé par le créancier de former la demande de paiement
-direct d'une pension alimentaire, tous les renseignements dont elle dispose ou peut disposer permettant de déterminer
-l'adresse du débiteur de la pension, l'identité et l'adresse de son employeur ou de toute autre personne débitrice ou
-dépositaire de sommes liquides ou exigibles.
-
-**Nota:**
-
-Décret n° 2012-654 du 4 mai 2012 article 1 : L'article L. 151 devient sans objet, en conséquence de l'article 5-II de la loi
-n° 2010-1609 du 22 décembre 2010.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 2020 ter (AL. 1)
-  - Loi n°75-617 1975-07-11 ART. 16 I
-
-_Modifié par_:
-
-  - Loi n°75-617 1975-07-11 art. 16 JORF 12 juillet 1975
-
-_Cité par_:
-
-  - Arrêté du 14 juin 1982 - art. 4 (V)
-  - Livre des procédures fiscales - art. L132 A (V)
-
-_Codifié par_:
-
-  - Décret n°2007-485 2007-03-30
-
-**Liens**:
-
-  - PERIME: Décret n°2012-654 du 4 mai 2012 - art. 1
-  - HISTO: Edition du 1er janvier 2007
-
-
 ###### Article L151 A
 
-I. - Aux fins d'assurer l'exécution d'un titre exécutoire, l'huissier de justice peut obtenir l'adresse des organismes auprès
-desquels un compte est ouvert au nom du débiteur.
+I.-Aux fins d'assurer l'exécution d'un titre exécutoire, l'huissier de justice peut obtenir l'adresse des organismes auprès
+desquels un compte est ouvert au nom du débiteur. 
 
-II. - Sous réserve des dispositions de l'article 6 de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le
-secret en matière de statistiques, les administrations fiscales communiquent à l'huissier de justice chargé de l'exécution,
-porteur d'un titre exécutoire, les renseignements qu'elles détiennent permettant de déterminer l'adresse du débiteur,
-l'identité et l'adresse de son employeur ou de tout tiers débiteur ou dépositaire de sommes liquides ou exigibles et la
-composition de son patrimoine immobilier, à l'exclusion de tout autre renseignement, sans pouvoir opposer le secret
-professionnel.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 5-1 et 43 de la loi n° 2010-1609 du 22 décembre 2010.
+II.-Conformément aux dispositions de l'article L. 152-1 du code des procédures civiles d'exécution, les administrations
+fiscales communiquent à l'huissier de justice chargé de l'exécution, porteur d'un titre exécutoire, les renseignements
+qu'elles détiennent permettant de déterminer l'adresse du débiteur, l'identité et l'adresse de son employeur ou de tout tiers
+débiteur ou dépositaire de sommes liquides ou exigibles et la composition de son patrimoine immobilier, à l'exclusion de tout
+autre renseignement, sans pouvoir opposer le secret professionnel.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°51-711 du 7 juin 1951 - art. 6
 
 _Cité par_:
 
@@ -9064,9 +9011,13 @@ _Codifié par_:
 
   - Décret n°2004-1070 du 8 octobre 2004
 
+_Cite_:
+
+  - Code des procédures civiles d'exécution - art. L152-1 (V)
+
 _Modifié par_:
 
-  - Décret n°2011-646 du 9 juin 2011 - art. 1
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 
 ##### VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale<a id=97></a>
@@ -9186,33 +9137,24 @@ _Cite_:
 
 ###### Article L152 B
 
-Pour le recouvrement de la contribution sociale de solidarité prévue à l'article L. 651-1 du code de la sécurité sociale,
-l'organisme chargé du recouvrement peut obtenir des renseignements auprès des administrations fiscales conformément à la
-première phrase de l'article L. 651-5-1 du même code ci-après reproduite : 
-
-Art.L. 651-5-1.-L'organisme chargé du recouvrement de la contribution sociale de solidarité peut obtenir des administrations
-fiscales communication des éléments nécessaires à la détermination de son assiette et de son montant dans les conditions
-prévues à l'article L. 152 du livre des procédures fiscales.
+Conformément à la première phrase de l'article L. 651-5-1 du code de la sécurité sociale, l'organisme chargé du recouvrement
+de la contribution sociale de solidarité prévue à l'article L. 651-1 du même code peut obtenir des renseignements auprès des
+administrations fiscales.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2004-304 2004-03-26
+  - Décret n°2004-304 du 26 mars 2004
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-304 du 26 mars 2004 - art. 4 () JORF 30 mars 2004
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L152 (M)
-  - Code de la sécurité sociale. - art. L651-1 (M)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L651-5-1 (V)
-  - HISTO: Edition du 1er janvier 2004
+  - Code de la sécurité sociale. - art. L651-1
+  - Code de la sécurité sociale. - art. L651-5-1
 
 
 ###### Article L153
@@ -9302,9 +9244,10 @@ _Cité par_:
 
 ###### Article L162 A
 
-Les organismes débiteurs de prestations familiales peuvent obtenir de l'administration des impôts les renseignements prévus à
-l'article L. 151 pour l'exercice de la mission qui leur est confiée par la loi n° 84-1171 du 22 décembre 1984 relative à
-l'intervention de ces organismes pour le recouvrement des créances alimentaires impayées.
+Conformément à l'article L. 581-8 du code de la sécurité sociale, les organismes débiteurs de prestations familiales peuvent
+obtenir de l'administration des impôts, pour l'exercice de la mission qui leur est confiée en vue du recouvrement des
+créances alimentaires impayées, les renseignements mentionnés à l'article L. 152-1 du code des procédures civiles
+d'exécution.
 
 **Liens relatifs à cet article**
 
@@ -9312,23 +9255,18 @@ _Cité par_:
 
   - Arrêté du 14 juin 1982 - art. 4 (V)
 
-_Cite_:
-
-  - CGI L151
-  - Loi n°84-1171 1984-12-22
-
-_Créé par_:
-
-  - Loi n°84-1171 du 22 décembre 1984 - art. 6 (V) JORF 30 décembre 1984, en vigueur le 1er janvier 1985
-  - Loi n°84-1171 du 22 décembre 1984 - art. 7 (V) JORF 30 décembre 1984, en vigueur le 1er janvier 1985
-
 _Codifié par_:
 
-  - Décret n°85-1008 1985-09-24
+  - Décret n°85-1008 du 24 septembre 1985
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 15 juillet 1985
+  - Code des procédures civiles d'exécution - art. L152-1 (V)
+  - Code de la sécurité sociale. - art. L581-8
+
+_Modifié par_:
+
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 
 ###### Article L162 B
@@ -10170,7 +10108,7 @@ _Cité par_:
 
 Pour les taxes sur le chiffre d'affaires, le droit de reprise de l'administration s'exerce jusqu'à la fin de la troisième
 année suivant celle au cours de laquelle la taxe est devenue exigible conformément aux dispositions du 2 de l'article 269 du
-code général des impôts.
+code général des impôts. 
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
 deuxième année qui suit celle au titre de laquelle la taxe est devenue exigible conformément au 2 de l'article 269 du code
@@ -10178,31 +10116,31 @@ général des impôts pour les contribuables dont les revenus bénéficient des 
 169 et pour les périodes pour lesquelles le service des impôts des entreprises a reçu une copie du compte rendu de mission
 prévu aux articles 1649 quater E et 1649 quater H du même code. Cette réduction de délai ne s'applique pas aux contribuables
 pour lesquels des pénalités autres que les intérêts de retard auront été appliquées sur les périodes d'imposition non
-prescrites visées au présent alinéa.
+prescrites visées au présent alinéa. 
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
 dixième année qui suit celle au titre de laquelle la taxe est devenue exigible conformément aux dispositions du 2 de
 l'article 269 du code général des impôts lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les
 conditions prévues à l'article L. 16-0 BA au titre d'une année postérieure ou lorsque le contribuable exerce une activité
-occulte.L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les déclarations
+occulte. L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les déclarations
 qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de formalités des entreprises ou au
-greffe du tribunal de commerce, soit s'est livré à une activité illicite.
+greffe du tribunal de commerce, soit s'est livré à une activité illicite. 
 
 Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du début de la première période sur laquelle
 s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur les sociétés et s'achève le 31 décembre de la
-troisième année suivant celle au cours de laquelle se termine cette période.
+troisième année suivant celle au cours de laquelle se termine cette période. 
 
 Dans les cas prévus aux II et III de l'article 284 du code général des impôts, le droit de reprise de l'administration
 s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle les conditions auxquelles est subordonné
-l'octroi du taux prévu aux 2 à 12 du I de l'article 278 sexies du même code ont cessé d'être remplies.
+l'octroi du taux prévu aux 2 à 12 du I de l'article 278 sexies du même code ont cessé d'être remplies. 
 
-La  taxe mentionnée sur les déclarations souscrites par les assujettis  membres d'un groupe mentionné à l'article 1693 ter du
-code général des  impôts qui a concouru à la détermination du crédit dont bénéficie le  redevable mentionné au 1 du même
-article en application du b du 3 dudit  article peut être remise en cause à hauteur du montant de ce crédit,  nonobstant les
-dispositions prévues aux premier et troisième alinéas du  présent article. 
+La taxe mentionnée sur les déclarations souscrites par les assujettis membres d'un groupe mentionné à l'article 1693 ter du
+code général des impôts qui a concouru à la détermination du crédit dont bénéficie le redevable mentionné au 1 du même
+article en application du b du 3 dudit article peut être remise en cause à hauteur du montant de ce crédit, nonobstant les
+dispositions prévues aux premier et troisième alinéas du présent article. 
 
-Si le groupe a cessé d'exister,  les règles définies à l'alinéa précédent demeurent applicables pour le  contrôle du crédit
-de taxe mentionné au dernier alinéa du même article  1693 ter A.
+Si le groupe a cessé d'exister, les règles définies au sixième alinéa demeurent applicables pour le contrôle du crédit de
+taxe mentionné au second alinéa du même article 1693 ter A.
 
 **Liens relatifs à cet article**
 
@@ -10212,10 +10150,6 @@ _Anciens textes_:
   - Loi n°63-1316 1963-12-27 ART. 15 3 (AL. 1)
   - Loi n°66-10 1966-01-06 ART. 38, ART. 54
   - Loi n°66-10 du 6 janvier 1966 - art. 38, v. init.
-
-_Modifié par_:
-
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 50 (V)
 
 _Cité par_:
 
@@ -10230,10 +10164,20 @@ _Cité par_:
   - Livre des procédures fiscales - art. L51 (VD)
   - Livre des procédures fiscales - art. R*172 B-1 (P)
 
+_Modifié par_:
+
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
+
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 1649 quater E
+  - Code général des impôts, CGI. - art. 1649 quater H
+  - Code général des impôts, CGI. - art. 1693 ter
+  - Code général des impôts, CGI. - art. 1693 ter A
   - Code général des impôts, CGI. - art. 269
+  - Code général des impôts, CGI. - art. 278 sexies
   - Code général des impôts, CGI. - art. 284
+  - Livre des procédures fiscales - art. L169
 
 
 ###### Article L177
@@ -13509,9 +13453,8 @@ La saisie à tiers détenteur est notifiée, avec mention des délais et voies d
 physiques ou morales qui détiennent des fonds pour son compte, qui ont une dette envers lui ou qui lui versent une
 rémunération. 
 
-Elle emporte l'effet d'attribution immédiate, prévu à l'article 43 de la loi n° 91-650 du 9 juillet 1991 portant réforme des
-procédures civiles d'exécution, des sommes saisies disponibles à concurrence des sommes pour lesquelles la saisie est
-pratiquée. 
+Elle emporte l'effet d'attribution immédiate, prévu à l'article L. 211-2 du code des procédures civiles d'exécution, des
+sommes saisies disponibles à concurrence des sommes pour lesquelles la saisie est pratiquée. 
 
 Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, les fonds doivent être reversés dans les
 trente jours qui suivent la réception de la saisie par le tiers détenteur auprès du comptable chargé du recouvrement. 
@@ -13526,20 +13469,19 @@ Si les fonds détenus ou dus par le tiers détenteur sont indisponibles entre se
 chargé du recouvrement dès la réception de la saisie. 
 
 Les contestations relatives à la saisie doivent être adressées à l'administration dont dépend le comptable qui a exercé cette
-poursuite avant tout recours juridictionnel. 
+poursuite avant tout recours juridictionnel.
 
 II. - (Dispositions transférées sous l'article L. 135 X)
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 2, 4 (12°) et 7 de l'ordonnance n° 2011-1895 du 19 décembre 2011.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°91-650 du 9 juillet 1991
-  - Livre des procédures fiscales - art. L252 A
 
 _Modifié par_:
 
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 _Cité par_:
 
@@ -13547,6 +13489,11 @@ _Cité par_:
   - Code des assurances - art. L132-14 (VD)
   - Code du travail - art. R3252-38 (V)
   - Livre des procédures fiscales - art. L135 X (V)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L252 A
+  - Code des procédures civiles d'exécution - art. L211-2 (VD)
 
 
 ##### 12° Entrepreneur individuel à responsabilité limitée<a id=154></a>
@@ -14163,24 +14110,24 @@ _Cité par_:
 
 ###### Article L283 D
 
-I. ― Les administrations financières communiquent aux administrations des autres Etats membres, à leur demande, toute
+I. – Les administrations financières communiquent aux administrations des autres Etats membres, à leur demande, toute
 information vraisemblablement pertinente pour le recouvrement des créances mentionnées aux 1° à 4° du II de l'article L. 283
 A, à l'exception de celle qui ne pourrait être obtenue pour le recouvrement de leurs propres créances de même nature sur la
-base de la législation en vigueur. 
+base de la législation en vigueur.
 
-II. ― Elles ne peuvent fournir des renseignements qui révéleraient un secret commercial, industriel ou professionnel ou dont
-la communication serait de nature à porter atteinte à la sécurité ou à l'ordre publics. 
+II. – Elles ne peuvent fournir des renseignements qui révéleraient un secret commercial, industriel ou professionnel ou dont
+la communication serait de nature à porter atteinte à la sécurité ou à l'ordre publics.
 
 Toutefois, les administrations financières ne peuvent refuser de fournir ces informations pour la seule raison qu'elles sont
 détenues par une banque, un autre établissement financier, une personne désignée ou agissant en qualité d'agent ou de
-fiduciaire ou qu'elles se rapportent à une participation au capital d'une personne. 
+fiduciaire ou qu'elles se rapportent à une participation au capital d'une personne.
 
-III. ― Les informations échangées dans le cadre des dispositions des articles L. 283 A à L. 283 F ne peuvent être transmises
+III. – Les informations échangées dans le cadre des dispositions des articles L. 283 A à L. 283 F ne peuvent être transmises
 qu'aux fins de mise en œuvre de mesures de recouvrement ou conservatoires portant sur les créances mentionnées aux 1° à 4° du
-II de l'article L. 283 A du présent livre. L'administration bénéficiaire de ces informations est soumise au secret
-professionnel dans les termes des articles 226-13 et 226-14 du code pénal. 
+II de l'article L. 283 A. L'administration bénéficiaire de ces informations est soumise au secret professionnel dans les
+termes des articles 226-13 et 226-14 du code pénal.
 
-IV. ― Les informations échangées dans le cadre des dispositions des articles L. 283 A à L. 283 F peuvent être invoquées ou
+IV. – Les informations échangées dans le cadre des dispositions des articles L. 283 A à L. 283 F peuvent être invoquées ou
 utilisées comme preuve par les administrations financières.
 
 **Nota:**
@@ -14191,13 +14138,14 @@ comptables de la direction générale des finances publiques, à l'exclusion des
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+  - Décret n°2012-654 du 4 mai 2012 - art. 1
 
 _Cite_:
 
-  - Code pénal - art. 226-13 (V)
+  - Livre des procédures fiscales - art. L283 A (V)
+  - Code pénal - art. 226-13
 
 
 ###### Article L283 E
@@ -15174,46 +15122,47 @@ _Cité par_:
 
 ###### Article R45 G-1
 
-I. - Pour l'application des dispositions prévues à l'article L. 45 G, l'administration fiscale transmet à la direction
-départementale de l'agriculture et de la forêt du lieu de situation des bois ou, dans les départements d'outre-mer, à la
-direction de l'agriculture et de la forêt, une copie des déclarations souscrites en application du 1° bis et du 1° ter de
-l'article 1395 du code général des impôts et reçues l'année précédente.
+I.-Pour l'application des dispositions prévues à l'article L. 45 G, l'administration fiscale transmet à la direction
+départementale des territoires ou à la direction départementale des territoires et de la mer du lieu de situation des bois
+ou, dans les départements d'outre-mer, à la direction de l'agriculture et de la forêt, une copie des déclarations souscrites
+en application du 1° bis et du 1° ter de l'article 1395 du code général des impôts et reçues l'année précédente. 
 
-II. - Les agents assermentés de l'administration chargée des forêts contrôlent sur place les déclarations mentionnées à
+II.-Les agents assermentés de l'administration chargée des forêts contrôlent sur place les déclarations mentionnées à
 l'article 315 octies de l'annexe III au code général des impôts. Ils informent préalablement les contribuables de la date du
 contrôle et de la possibilité qui leur est offerte d'y assister. Ils peuvent leur demander la transmission, dans un délai de
-trente jours à compter de la date de réception de la lettre les informant du contrôle, des pièces complémentaires suivantes :
+trente jours à compter de la date de réception de la lettre les informant du contrôle, des pièces complémentaires
+suivantes : 
 
 1° Un plan cadastral ou un extrait de plan cadastral identifiant les parcelles cadastrales concernées et matérialisant la ou
-les zones faisant l'objet de la demande d'exonération et un extrait récent de la matrice cadastrale ;
+les zones faisant l'objet de la demande d'exonération et un extrait récent de la matrice cadastrale ; 
 
 2° Un plan de situation extrait d'une carte au 1/25 000 précisant la situation et les voies d'accès ou points d'accès des
-parcelles concernées ;
+parcelles concernées ; 
 
 3° Le cas échéant, les choix de gestion retenus par le document de gestion durable mis en oeuvre sur les parcelles
-concernées.
+concernées. 
 
-III. - Lorsqu'un agent assermenté de l'administration chargée des forêts constate le non-respect de l'un des critères
+III.-Lorsqu'un agent assermenté de l'administration chargée des forêts constate le non-respect de l'un des critères
 permettant d'attester de la réussite de la régénération naturelle ou de l'état de futaie irrégulière en équilibre de
 régénération, ce constat fait l'objet d'un signalement par cette administration au service des impôts du lieu de situation
 des bois avant le 1er janvier de l'année suivant celle au cours de laquelle il est effectué. Le contribuable est en outre
 informé de ce constat.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 20-I, 22 et 24 du décret n° 2009-1484 du 3 décembre 2009.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2012-654 du 4 mai 2012 - art. 2
 
 _Cite_:
 
-  - CGI 1395
-  - CGI Livre des procédures fiscales L45 G
-  - CGIAN3 315 octies
-
-_Créé par_:
-
-  - Décret n°2006-353 du 23 mars 2006 - art. 5 () JORF 25 mars 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
+  - Code général des impôts, annexe 3, CGIAN3. - art. 315 octies
+  - Code général des impôts, CGI. - art. 1395
+  - Livre des procédures fiscales - art. L45 G
 
 
 ##### Section IV : Procédures de rectification<a id=185></a>
@@ -20474,115 +20423,91 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*257-0 A-1 (V)
 
 
-###### Article R*257-0 A
+###### Article R*257-0 A-1
 
-La mise en demeure de payer mentionnée à l'article L. 257-0 A indique les références du ou des avis de mise en recouvrement
-et rôles dont elle procède ainsi que le montant des sommes restant dues. 
+La mise en demeure de payer mentionnée à l'article  L. 257-0 A indique les références du ou des avis de mise en recouvrement
+et rôles dont elle procède ainsi que le montant des sommes restant dues.
 
 Lorsque la mise en demeure de payer est notifiée par lettre recommandée avec avis de réception, cette notification est
-effectuée selon la procédure prévue à l'article R. * 256-6 et produit ses effets dans les conditions prévues à l'article R. *
-256-7.
+effectuée selon la procédure prévue à l'article  R. * 256-6 et produit ses effets dans les conditions prévues à l'article  R.
+* 256-7.
 
 **Nota:**
 
-Conformément à l'article 16 II du décret n° 2011-1302 du 14 octobre 2011, ces dispositions entrent en vigueur le 1er octobre
-2011, y compris pour les procédures en cours à cette date, à l'exception de celles portant sur des créances étrangères à
-l'impôt et au domaine recouvrées comme en matière d'impôts directs pour lesquelles la date d'entrée en vigueur est fixée
-conformément au J du I de l'article 55 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010, c'est-
-à-dire par décret, et au plus tard, le 31 décembre 2012.
+Modifications effectuées en conséquence des articles 9 et 16-II du décret n° 2011-1302 du 14 octobre 2011.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2011-1302 du 14 octobre 2011 - art. 9
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2012-654 du 4 mai 2012 - art. 2
+  - Décret n°2012-654 du 4 mai 2012 - art. 2
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L257-0 A
-  - Livre des procédures fiscales - art. R*256-6
-  - Livre des procédures fiscales - art. R*256-7
+  - Livre des procédures fiscales - art. L257-0 A (V)
+  - Livre des procédures fiscales - art. R*256-6 (V)
+  - Livre des procédures fiscales - art. R*256-7 (V)
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Livre des procédures fiscales - art. R*257-0 A-1 (V)
+  - Livre des procédures fiscales - art. R*257-0 A (T)
 
 
-###### Article R*257-0 B
+###### Article R*257-0 B-1
 
-Pour l'application du 1 de l'article L. 257-0 B, constituent une même catégorie d'impositions : 
+Pour l'application du 1 de l'article  L. 257-0 B, constituent une même catégorie d'impositions :
 
 a) L'impôt sur le revenu, les prélèvements sociaux recouvrés comme en matière d'impôt sur le revenu, la taxe d'habitation,
 les taxes foncières sur les propriétés bâties et non bâties, les impositions recouvrées comme les impositions précitées ainsi
-que l'impôt de solidarité sur la fortune ; 
+que l'impôt de solidarité sur la fortune ;
 
-b) Les droits d'enregistrement, la taxe de publicité foncière et les droits de timbre ; 
+b) Les droits d'enregistrement, la taxe de publicité foncière et les droits de timbre ;
 
 c) Les impositions autres que celles mentionnées au a et au b.
 
 **Nota:**
 
-Conformément à l'article 16 II du décret n° 2011-1302 du 14 octobre 2011, ces dispositions entrent en vigueur le 1er octobre
-2011, y compris pour les procédures en cours à cette date, à l'exception de celles portant sur des créances étrangères à
-l'impôt et au domaine recouvrées comme en matière d'impôts directs pour lesquelles la date d'entrée en vigueur est fixée
-conformément au J du I de l'article 55 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010, c'est-
-à-dire par décret, et au plus tard, le 31 décembre 2012.
+Modifications effectuées en conséquence des articles 9 et 16-II du décret n° 2011-1302 du 14 octobre 2011.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2011-1302 du 14 octobre 2011 - art. 9
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2012-654 du 4 mai 2012 - art. 2
+  - Décret n°2012-654 du 4 mai 2012 - art. 2
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L257-0 B
+  - Livre des procédures fiscales - art. L257-0 B (V)
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Livre des procédures fiscales - art. R*257-0 B-1 (V)
+  - Livre des procédures fiscales - art. R*257-0 B (T)
 
 
-###### Article R*257-0 C
+###### Article R*257-0 B-2
 
-Le comptable public compétent mentionné à l'article L. 257-0 A et au 2 de l'article L. 257-0 B est le comptable de la
+Le comptable public compétent mentionné à l'article  L. 257-0 A et au 2 de l'article  L. 257-0 B est le comptable de la
 direction générale des finances publiques ou le comptable de la direction générale des douanes et droits indirects selon la
 nature des impôts dont la perception lui incombe.
 
 **Nota:**
 
-Conformément à l'article 16 II du décret n° 2011-1302 du 14 octobre 2011, ces dispositions entrent en vigueur le 1er octobre
-2011, y compris pour les procédures en cours à cette date, à l'exception de celles portant sur des créances étrangères à
-l'impôt et au domaine recouvrées comme en matière d'impôts directs pour lesquelles la date d'entrée en vigueur est fixée
-conformément au J du I de l'article 55 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010, c'est-
-à-dire par décret, et au plus tard, le 31 décembre 2012.
+Modifications effectuées en conséquence des articles 9 et 16-II du décret n° 2011-1302 du 14 octobre 2011.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2011-1302 du 14 octobre 2011 - art. 9
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2012-654 du 4 mai 2012 - art. 2
+  - Décret n°2012-654 du 4 mai 2012 - art. 2
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L257-0 A
-  - Livre des procédures fiscales - art. L257-0 B
+  - Livre des procédures fiscales - art. L257-0 A (V)
+  - Livre des procédures fiscales - art. L257-0 B (V)
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Livre des procédures fiscales - art. R*257-0 B-2 (V)
+  - Livre des procédures fiscales - art. R*257-0 C (T)
 
 
 ###### Article R256-8
