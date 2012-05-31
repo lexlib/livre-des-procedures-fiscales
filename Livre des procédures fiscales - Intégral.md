@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-05-24
+Version Consolidée au 2012-06-01
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -12500,52 +12500,52 @@ _Cité par_:
 
 ###### Article L252 B
 
-I. Dès la notification du procès-verbal mentionné à l'article L. 16-0 BA, le comptable peut procéder, par dérogation au
-chapitre IV de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, à des saisies
-conservatoires à hauteur d'un montant qui ne peut excéder : 
+I. Dès la notification du procès-verbal mentionné à l'article L. 16-0 BA, le comptable peut procéder, par dérogation au livre
+V de la partie législative du code des procédures civiles d'exécution, à des saisies conservatoires à hauteur d'un montant
+qui ne peut excéder :
 
 1° Pour l'impôt sur le revenu, le produit résultant de l'application, ou, pour les personnes mentionnées à l'article 1649
-quater-0 B bis du code général des impôts, au montant des revenus déterminés dans les conditions prévues à cet article, 
+quater-0 B bis du code général des impôts, au montant des revenus déterminés dans les conditions prévues à cet article,
 
 au montant du chiffre d'affaires hors taxes réalisé au titre de l'année ou de l'exercice en cours pour lequel aucune
 obligation déclarative n'est échue, jusqu'à la date du procès-verbal de flagrance fiscale diminué d'un abattement
 représentatif de charges et de dépenses aux taux prévus au troisième alinéa du 1 de l'article 50-0 du code général des impôts
-ou au premier alinéa du 1 de l'article 102 ter du même code, selon la nature de l'activité ; 
+ou au premier alinéa du 1 de l'article 102 ter du même code, selon la nature de l'activité ;
 
 des taux prévus au 1 du I de l'article 197 du même code en vigueur pour l'imposition des revenus de la précédente année
 civile à la fraction de chaque part de revenu, le nombre de parts étant fixé, conformément au I de l'article 194 du même code
 pour l'imposition des revenus de la précédente année civile, d'après la situation et les charges de famille du contribuable
-constatées à la date du procès-verbal de flagrance fiscale. 
+constatées à la date du procès-verbal de flagrance fiscale.
 
 Ce produit ne peut être inférieur à celui résultant de l'application, au montant déterminé au deuxième alinéa du présent 1°,
-du taux de 33 1 / 3 % ; 
+du taux de 33 1 / 3 % ;
 
 2° Pour l'impôt sur les sociétés, le produit résultant de l'application des taux prévus à l'article 219 du code général des
 impôts au montant du chiffre d'affaires hors taxes réalisé au titre de l'année ou de l'exercice en cours pour lequel aucune
 obligation déclarative n'est échue, jusqu'à la date du procès-verbal de flagrance fiscale diminué d'un abattement
 représentatif de charges aux taux prévus au troisième alinéa du 1 de l'article 50-0 du même code, selon la nature de
 l'activité. Ce produit est diminué du montant des acomptes trimestriels versés dans les conditions prévues à l'article 1668
-du même code ; 
+du même code ;
 
 3° Pour la taxe sur la valeur ajoutée, le montant obtenu par application des taux prévus aux articles 278 à 281 nonies du
 code général des impôts, selon la nature des opérations, à la base du chiffre d'affaires ou des recettes brutes hors taxes
 réalisés au titre de la période en cours pour laquelle aucune obligation déclarative n'est échue, jusqu'à la date du procès-
 verbal de flagrance fiscale, et sous déduction d'un montant de taxe déductible dans les conditions prévues aux articles 271 à
-273 septies C du même code. 
+273 septies C du même code.
 
 II. Le juge du référé administratif mentionné à l'article L. 279, saisi dans un délai de huit jours à compter de la
 signification de saisies conservatoires mentionnées au I, ordonne qu'il soit mis fin à l'exécution de ces saisies en cas
 d'urgence et s'il est fait état d'un moyen propre à créer, en l'état de l'instruction, un doute sérieux sur la régularité de
-cette procédure. 
+cette procédure.
 
 Le juge du référé statue dans un délai de quinze jours. Faute d'avoir statué dans ce délai, le juge des référés est dessaisi
-au profit du tribunal administratif qui se prononce en urgence. 
+au profit du tribunal administratif qui se prononce en urgence.
 
 La décision du juge du référé est susceptible d'appel devant le tribunal administratif dans le délai de huit jours. Le
-tribunal se prononce en urgence. 
+tribunal se prononce en urgence.
 
 La décision du juge du référé ou du tribunal administratif ordonnant qu'il soit mis fin à l'exécution des saisies entraîne la
-mainlevée immédiate de ces saisies. 
+mainlevée immédiate de ces saisies.
 
 III. Le paiement des impositions dues au titre de l'exercice ou de la période comprenant celle couverte par le procès-verbal
 prévu à l'article L. 16-0 BA entraîne la mainlevée des saisies conservatoires prévues au I, sauf si l'administration réunit
@@ -12574,7 +12574,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 19 (V)
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 _Cité par_:
 
@@ -12853,14 +12853,14 @@ _Cite_:
 ###### Article L258 A
 
 1. Sous réserve des dispositions de l'article L. 260, les poursuites prévues au 2 des articles L. 257-0 A et L. 257-0 B sont
-effectuées dans les formes prévues par le code de procédure civile pour le recouvrement des créances. 
+effectuées dans les formes prévues par le code de procédure civile pour le recouvrement des créances.
 
 Elles sont opérées par huissier de justice ou par tout agent de l'administration habilité à exercer des poursuites au nom du
-comptable. 
+comptable.
 
 2. Lorsqu'une saisie-vente est diligentée, la notification de la mise en demeure de payer tient lieu du commandement prescrit
-par le code de procédure civile. La saisie peut être pratiquée sans autre formalité à l'expiration du délai fixé au 2 de
-l'article L. 257-0 A et à la seconde phrase du 2 de l'article L. 257-0 B. 
+par le code des procédures civiles d'exécution. La saisie peut être pratiquée sans autre formalité à l'expiration du délai
+fixé au 2 de l'article L. 257-0 A et à la seconde phrase du 2 de l'article L. 257-0 B.
 
 3. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
@@ -12873,9 +12873,9 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L2323-4 (VD)
   - Code général de la propriété des personnes publ... - art. L2323-4-1 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 _Cite_:
 
@@ -12979,9 +12979,10 @@ _Cité par_:
 
 L'avis à tiers détenteur a pour effet d'affecter, dès réception, les sommes dont le versement est ainsi demandé au paiement
 des impositions privilégiées, quelle que soit la date à laquelle les créances même conditionnelles ou à terme que le
-redevable possède à l'encontre du tiers détenteur deviennent effectivement exigibles.
+redevable possède à l'encontre du tiers détenteur deviennent effectivement exigibles. 
 
-Il comporte l'effet d'attribution immédiate prévu à l'article 43 de la loi n° 91-650 du 9 juillet 1991.
+Il comporte l'effet d'attribution immédiate prévu à l'article L. 211-2 du code des procédures civiles d'exécution. Les
+dispositions des articles L. 162-1 et L. 162-2 de ce code sont en outre applicables. 
 
 Lorsqu'une personne est simultanément destinataire de plusieurs avis établis au nom du même débiteur, émanant des comptables
 chargés du recouvrement respectivement des impôts directs et des taxes sur le chiffre d'affaires, elle doit, en cas
@@ -13003,28 +13004,10 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°92-837 1992-08-27
-
-**Liens**:
-
-  - HISTO: Edition du 4 juillet 1992
-
-_Cite_:
-
-  - Loi n°91-650 1991-07-09 art. 43
-
-_Modifié par_:
-
-  - Loi n°91-650 1991-07-09 art. 86, art. 97 JORF 14 juillet 1991
-  - Loi n°91-650 du 9 juillet 1991 - art. 86 (V) JORF 14 juillet 1991
-  - Loi - art. 35 () JORF 31 décembre 1991
+  - Décret n°92-837 du 27 août 1992
 
 _Cité par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 230
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 76 (V)
-  - Loi n°2016-816 du 20 juin 2016 - art. 70
-  - Code de l'environnement - art. L122-3-4 (VT)
   - Code de l'environnement - art. L171-8 (VD)
   - Code de l'environnement - art. L216-1 (VT)
   - Code de l'environnement - art. L521-19 (VD)
@@ -13034,6 +13017,23 @@ _Cité par_:
   - Code du travail - art. R3252-37 (V)
   - Code rural - art. L253-9 (V)
   - Code rural et de la pêche maritime - art. L253-12 (VD)
+  - Loi n°2010-788 du 12 juillet 2010 - art. 230
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 76 (V)
+  - Loi n°2016-816 du 20 juin 2016 - art. 70
+  - Code de l'environnement - art. L122-3-4 (VT)
+
+_Cite_:
+
+  - Code des procédures civiles d'exécution - art. L162-1
+  - Code des procédures civiles d'exécution - art. L211-2
+
+_Modifié par_:
+
+  - Loi n°2012-354 du 14 mars 2012 - art. 19 (V)
+
+_Abrogé par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 
 ###### Article L263 A
@@ -13065,7 +13065,7 @@ _Cite_:
 
 ###### Article L264
 
-La cession des rémunérations mentionnées aux articles L. 3252-1 et R. 145-1 du code du travail n'est opposable au comptable
+La cession des rémunérations mentionnées aux articles L. 3252-1 et R. 3252-1 du code du travail n'est opposable au comptable
 chargé du recouvrement d'impositions privilégiées qu'à concurrence de la moitié de la portion saisissable ou cessible.
 
 **Nota:**
@@ -13076,12 +13076,12 @@ _Modifications effectuées en conséquence des articles 1er, 3 et 12 I de l'ordo
 
 _Modifié par_:
 
-  - Décret n°2008-295 du 1er avril 2008 - art. 1
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 _Cite_:
 
   - Code du travail - art. L3252-1
-  - Code du travail - art. R145-1
+  - Code du travail - art. R3252-1 (V)
 
 
 ##### 3° : Obligations des dépositaires publics de fonds<a id=147></a>
@@ -13286,7 +13286,8 @@ physiques ou morales qui détiennent des fonds pour son compte, qui ont une dett
 rémunération. 
 
 Elle emporte l'effet d'attribution immédiate, prévu à l'article L. 211-2 du code des procédures civiles d'exécution, des
-sommes saisies disponibles à concurrence des sommes pour lesquelles la saisie est pratiquée. 
+sommes saisies disponibles à concurrence des sommes pour lesquelles la saisie est pratiquée. Les dispositions des articles L.
+162-1 et L. 162-2 de ce code sont en outre applicables. 
 
 Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, les fonds doivent être reversés dans les
 trente jours qui suivent la réception de la saisie par le tiers détenteur auprès du comptable chargé du recouvrement. 
@@ -13305,15 +13306,11 @@ poursuite avant tout recours juridictionnel.
 
 II. - (Dispositions transférées sous l'article L. 135 X)
 
-**Nota:**
-
-Modifications effectuées en conséquence des articles 2, 4 (12°) et 7 de l'ordonnance n° 2011-1895 du 19 décembre 2011.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-654 du 4 mai 2012 - art. 1
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 _Cité par_:
 
