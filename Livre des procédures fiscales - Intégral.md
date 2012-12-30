@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-12-16
+Version Consolidée au 2012-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -247,7 +247,7 @@ Version Consolidée au 2012-12-16
       - [Titre IV : Le recouvrement de l'impôt (art. R*256-1 à R283 D-1)](#244)
         - [Chapitre premier : Les procédures de recouvrement (art. R*256-1 à R268-1)](#245)
           - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R*256-1 à R257 B-1)](#246)
-          - [Section II : Exercice des poursuites (art. R*260 A-1 à R258-1)](#247)
+          - [Section II : Exercice des poursuites (art. R*260 A-1)](#247)
           - [Section III : Mesures particulières (art. R*267-1 à R268-1)](#248)
             - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*267-1)](#249)
             - [5° : Vente de fonds de commerce (art. R268-1)](#250)
@@ -8228,11 +8228,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-654 du 4 mai 2012 - art. 1
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L1617-5
+  - Code général des collectivités territoriales - art. L1617-5 (V)
 
 
 ###### Article L135 R
@@ -20752,37 +20752,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°2011-1302 du 14 octobre 2011 - art. 10
-
-
-###### Article R258-1
-
-Le comptable public compétent pour engager les poursuites en application de l'article L. 258 est le comptable du Trésor,
-celui de la direction générale des impôts ou de la direction générale des douanes et droits indirects selon la nature des
-impôts dont la perception leur incombe.
-
-**Nota:**
-
-Décret n° 2011-1303 du 14 octobre 2011 article 17 : Le présent article est abrogé. Il reste toutefois applicable aux créances
-étrangères à l'impôt et au domaine recouvrées comme en matière d'impôt direct jusqu'à une date fixée par décret et au plus
-tard jusqu'au 31 décembre 2012.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°93-265 1993-02-26 art. 10 2 et 15 JORF 28 février 1993
-
-_Codifié par_:
-
-  - Décret n°93-1095 du 16 septembre 1993
-
-_Abrogé par_:
-
-  - Décret n°2011-1303 du 14 octobre 2011 - art. 17 (V)
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L258
 
 
 ##### Section III : Mesures particulières<a id=248></a>
