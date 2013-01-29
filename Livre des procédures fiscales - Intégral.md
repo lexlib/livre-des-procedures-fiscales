@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-01-21
+Version Consolidée au 2013-01-30
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -6152,12 +6152,9 @@ _Modifié par_:
 
 ###### Article L96 A
 
-Les établissements de crédit, les établissements de paiement ainsi que les organismes et services mentionnés à l'article L.
-518-1 du code monétaire et financier sont soumis aux dispositions de l'article L. 152-3 de ce même code.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article L. 152-3 du code monétaire et financier.
+Les établissements de crédit, les établissements de monnaie électronique, les établissements de paiement ainsi que les
+organismes et services mentionnés à l'article L. 518-1 du code monétaire et financier sont soumis aux dispositions de
+l'article L. 152-3 de ce même code.
 
 **Liens relatifs à cet article**
 
@@ -6170,7 +6167,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-422  du 27 avril 2010 - art. 1
+  - Loi n°2013-100 du 28 janvier 2013 - art. 24
 
 _Cite_:
 
