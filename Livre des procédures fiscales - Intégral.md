@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-07-01
+Version Consolidée au 2013-07-05
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -20451,7 +20451,7 @@ _Cite_:
 
 ###### Article R*228-2
 
-Lorsque la commission est saisie en application de l'article L. 228, sous réserve des dispositions des troisième à sixième
+Lorsque la commission est saisie en application de l'article L. 228, sous réserve des dispositions des troisième à huitième
 alinéas de cet article, le secrétariat en informe le contribuable par lettre recommandée avec avis de réception. Il lui
 communique l'essentiel des griefs qui motivent cette saisine et l'invite en même temps à faire parvenir à la commission, dans
 un délai de trente jours, les informations qu'il estimerait nécessaires. 
@@ -20468,17 +20468,17 @@ _Codifié par_:
 
   - Décret n°81-860 du 15 septembre 1981
 
-_Modifié par_:
-
-  - Décret n°2010-1324 du 5 novembre 2010 - art. 3
-
 _Cité par_:
 
   - Décret n°2013-576 du 2 juillet 2013 (V)
 
+_Modifié par_:
+
+  - Décret n°2013-576 du 2 juillet 2013 - art. 1
+
 _Cite_:
 
-  - Livre des procédures fiscales - art. L228 (V)
+  - Livre des procédures fiscales - art. L228
 
 
 ###### Article R*228-3
@@ -20547,7 +20547,7 @@ _Créé par_:
 Le président ou, en cas d'absence ou d'empêchement, son suppléant, notifie l'avis de la commission au ministre. Cet avis
 n'est pas motivé. 
 
-Lorsque la commission a été saisie en application de l'article L. 228, sous réserve des dispositions des troisième à sixième
+Lorsque la commission a été saisie en application de l'article L. 228, sous réserve des dispositions des troisième à huitième
 alinéas de cet article, le contribuable est informé de l'avis de la commission par le secrétariat si cet avis est défavorable
 à l'engagement de poursuites ou, dans le cas contraire, par l'administration lors du dépôt de la plainte.
 
@@ -20555,7 +20555,7 @@ alinéas de cet article, le contribuable est informé de l'avis de la commission
 
 _Modifié par_:
 
-  - Décret n°2010-1324 du 5 novembre 2010 - art. 4
+  - Décret n°2013-576 du 2 juillet 2013 - art. 1
 
 _Cité par_:
 
