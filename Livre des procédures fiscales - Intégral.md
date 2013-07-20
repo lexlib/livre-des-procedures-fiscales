@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-07-05
+Version Consolidée au 2013-07-21
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -18682,23 +18682,24 @@ _Codifié par_:
 
 Pour être recevables, les réclamations relatives aux impôts autres que les impôts directs locaux et les taxes annexes à ces
 impôts, doivent être présentées à l'administration au plus tard le 31 décembre de la deuxième année suivant celle, selon le
-cas :
+cas : 
 
-a) De la mise en recouvrement du rôle ou de la notification d'un avis de mise en recouvrement ;
+a) De la mise en recouvrement du rôle ou de la notification d'un avis de mise en recouvrement ; 
 
 b) Du versement de l'impôt contesté lorsque cet impôt n'a pas donné lieu à l'établissement d'un rôle ou à la notification
-d'un avis de mise en recouvrement ;
+d'un avis de mise en recouvrement ; 
 
-c) De la réalisation de l'événement qui motive la réclamation.
+c) De la réalisation de l'événement qui motive la réclamation. Ne constitue pas un tel événement une décision
+juridictionnelle ou un avis mentionné aux troisième et cinquième alinéas de l'article L. 190. 
 
 Toutefois, dans les cas suivants, les réclamations doivent être présentées au plus tard le 31 décembre de l'année suivant
-celle, selon le cas :
+celle, selon le cas : 
 
 a) De la réception par le contribuable d'un nouvel avis d'imposition réparant les erreurs d'expédition que contenait celui
-adressé précédemment ;
+adressé précédemment ; 
 
 b) Au cours de laquelle les retenues à la source et les prélèvements ont été opérés s'il s'agit de contestations relatives à
-l'application de ces retenues ;
+l'application de ces retenues ; 
 
 c) Au cours de laquelle le contribuable a eu connaissance certaine de cotisations d'impôts directs établies à tort ou faisant
 double emploi.
@@ -18714,11 +18715,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°93-1095 1993-09-16
-
-_Modifié par_:
-
-  - Décret n°93-1095 du 16 septembre 1993 - art. 2 () JORF 18 septembre 1992
+  - Décret n°93-1095 du 16 septembre 1993
 
 _Cité par_:
 
@@ -18734,10 +18731,13 @@ _Cité par_:
   - Livre des procédures fiscales - art. A13 F-2 (V)
   - Livre des procédures fiscales - art. R*208 A-1 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 18 août 1993
-  - TXT_ASSOCIE: Jurisprudence 2000-09-14 13O-5-00
+  - Décret n°2013-643 du 18 juillet 2013 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L190
 
 
 ###### Article R*196-2
@@ -18747,7 +18747,8 @@ l'administration des impôts au plus tard le 31 décembre de l'année suivant ce
 
 a) De la mise en recouvrement du rôle ou de la notification d'un avis de mise en recouvrement ; 
 
-b) De la réalisation de l'événement qui motive la réclamation ; 
+b) De la réalisation de l'événement qui motive la réclamation ; ne constitue pas un tel événement une décision
+juridictionnelle ou un avis mentionné aux troisième et cinquième alinéas de l'article L. 190 ; 
 
 c) De la réception par le contribuable d'un nouvel avis d'imposition réparant les erreurs d'expédition que contenait celui
 adressé précédemment ; 
@@ -18771,7 +18772,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-2064 du 30 décembre 2011 - art. 2
+  - Décret n°2013-643 du 18 juillet 2013 - art. 1
 
 _Cité par_:
 
@@ -18782,6 +18783,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1407 ter (V)
   - Code général des impôts, CGI. - art. 1413 (V)
   - Code général des impôts, CGI. - art. 1507 (V)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L190
 
 
 ###### Article R*196-3
