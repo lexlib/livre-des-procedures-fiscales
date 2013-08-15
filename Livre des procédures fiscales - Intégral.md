@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-08-08
+Version Consolidée au 2013-08-16
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -188,7 +188,7 @@ Version Consolidée au 2013-08-08
               - [A : Contrôle à la circulation (art. R24-2 à R24-4)](#185)
               - [B : Contrôle sur les lieux d'exercice d'activité (art. R*26-1 à R36 B-1)](#186)
                 - [1 : Contributions indirectes (art. R*26-1 à R36 B-1)](#187)
-          - [Section III : Modalités d'exercice du droit de contrôle (art. R45 B-1 à R45 G-1)](#188)
+          - [Section III : Modalités d'exercice du droit de contrôle (art. R*45 F-1 à R45 G-1)](#188)
           - [Section IV : Procédures de rectification (art. R*57-1 à R*64-2)](#189)
             - [I : Procédure de rectification contradictoire (art. R*57-1 à R60-2 A)](#190)
             - [III : Procédure spéciale de l'article 168 du code général des impôts (art. R*63-1)](#191)
@@ -15433,6 +15433,126 @@ _Cite_:
 
 ##### Section III : Modalités d'exercice du droit de contrôle<a id=188></a>
 
+###### Article R*45 F-1
+
+En application de l'article L. 45 F, les agents chargés du contrôle procèdent :
+
+1° A l'identification des investissements et à la constatation matérielle de leur réalisation, de leur affectation, de leur
+exploitation et de leur conservation ;
+
+2° A l'examen du respect des conditions législatives et réglementaires de réalisation, d'affectation, d'exploitation et de
+conservation des investissements.
+
+A cette fin, ils peuvent se faire présenter les écritures comptables, factures, contrats, justificatifs et documents de toute
+nature relatifs aux investissements concernés. Ils peuvent obtenir ou prendre copie de ces documents, par tout moyen et sur
+tout support.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-731 du 12 août 2013 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L45 F (V)
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R*45 F-4 (V)
+  - Livre des procédures fiscales - art. R*45 F-5 (V)
+
+
+###### Article R*45 F-2
+
+Le lieu d'exploitation mentionné à l'article L. 45 F correspond :
+
+1° Au siège social des entreprises ayant participé à la réalisation des investissements ainsi qu'à leurs différents
+établissements ;
+
+2° A tout lieu où se situent les investissements.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-731 du 12 août 2013 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L45 F (V)
+
+
+###### Article R*45 F-3
+
+I. – En Guadeloupe, en Guyane, en Martinique, à La Réunion et dans le Département de Mayotte, le contrôle est exercé par des
+agents appartenant à des corps de catégorie A ou B agissant dans le ressort territorial du service auquel ils sont affectés.
+
+II. – En Nouvelle-Calédonie, en Polynésie française, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les
+îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, le contrôle est exercé par des agents
+appartenant à des corps de catégorie A ou B habilités par le directeur général des finances publiques. L'habilitation précise
+le ressort territorial dans lequel les agents exercent ce contrôle. Ce ressort peut être différent de celui de leur service
+d'affectation.
+
+Pour habiliter ces agents, le directeur général des finances publiques peut déléguer sa signature à un ou plusieurs
+fonctionnaires de l'administration centrale de la direction générale des finances publiques ayant au moins le grade
+d'administrateur civil ou d'administrateur général des finances publiques ou un grade équivalent, aux directeurs régionaux
+des finances publiques de la Guadeloupe pour les contrôles exercés à Saint-Barthélemy et Saint-Martin et de La Réunion pour
+les contrôles exercés dans les Terres australes et antarctiques françaises ou aux directeurs locaux des finances publiques de
+la Nouvelle-Calédonie, de la Polynésie française, de Saint-Pierre-et-Miquelon et de Wallis-et-Futuna pour les contrôles
+exercés dans chacune de ces collectivités.
+
+La liste des agents habilités précisant le ressort territorial dans lequel ils exercent le contrôle est publiée au recueil
+des actes administratifs des services de l'Etat dans chacune des collectivités mentionnées au premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-731 du 12 août 2013 - art. 1
+
+
+###### Article R*45 F-4
+
+Un avis informant du contrôle l'entreprise ayant participé à la réalisation des investissements :
+
+1° Est adressé par voie postale à l'entreprise préalablement au contrôle ;
+
+2° Est remis en main propre au représentant légal de l'entreprise ou à la personne recevant les agents en cas de contrôle
+inopiné portant sur les éléments mentionnés au 1° de l'article R. * 45 F-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-731 du 12 août 2013 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R*45 F-1 (V)
+
+
+###### Article R*45 F-5
+
+Les opérations de contrôle, les constatations matérielles et, le cas échéant, la liste des documents mentionnés au dernier
+alinéa de l'article R. * 45 F-1 sont consignées par procès-verbal signé par l'agent chargé du contrôle ainsi que par la
+personne qui a assisté au déroulement du contrôle. En cas de refus de signer ou d'absence de personne lors du contrôle,
+mention en est faite au procès-verbal.
+
+L'original du procès-verbal est conservé par l'administration. Copie en est remise à la personne qui a assisté au déroulement
+du contrôle et adressée à l'entreprise contrôlée ayant participé à la réalisation des investissements.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-731 du 12 août 2013 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R*45 F-1 (V)
+
+
 ###### Article R45 B-1
 
 I. – La réalité de l'affectation à la recherche des dépenses prises en compte pour la détermination du crédit d'impôt
@@ -15508,27 +15628,26 @@ _Cité par_:
 
 ###### Article R45 G-1
 
-I.-Pour l'application des dispositions prévues à l'article L. 45 G, l'administration fiscale transmet à la direction
+I. – Pour l'application des dispositions prévues à l'article L. 45 G, l'administration fiscale transmet à la direction
 départementale des territoires ou à la direction départementale des territoires et de la mer du lieu de situation des bois
 ou, dans les départements d'outre-mer, à la direction de l'agriculture et de la forêt, une copie des déclarations souscrites
-en application du 1° bis et du 1° ter de l'article 1395 du code général des impôts et reçues l'année précédente. 
+en application du 1° bis et du 1° ter de l'article 1395 du code général des impôts et reçues l'année précédente.
 
-II.-Les agents assermentés de l'administration chargée des forêts contrôlent sur place les déclarations mentionnées à
+II. – Les agents assermentés de l'administration chargée des forêts contrôlent sur place les déclarations mentionnées à
 l'article 315 octies de l'annexe III au code général des impôts. Ils informent préalablement les contribuables de la date du
 contrôle et de la possibilité qui leur est offerte d'y assister. Ils peuvent leur demander la transmission, dans un délai de
-trente jours à compter de la date de réception de la lettre les informant du contrôle, des pièces complémentaires
-suivantes : 
+trente jours à compter de la date de réception de la lettre les informant du contrôle, des pièces complémentaires suivantes :
 
 1° Un plan cadastral ou un extrait de plan cadastral identifiant les parcelles cadastrales concernées et matérialisant la ou
-les zones faisant l'objet de la demande d'exonération et un extrait récent de la matrice cadastrale ; 
+les zones faisant l'objet de la demande d'exonération et un extrait récent de la matrice cadastrale ;
 
 2° Un plan de situation extrait d'une carte au 1/25 000 précisant la situation et les voies d'accès ou points d'accès des
-parcelles concernées ; 
+parcelles concernées ;
 
 3° Le cas échéant, les choix de gestion retenus par le document de gestion durable mis en oeuvre sur les parcelles
-concernées. 
+concernées.
 
-III.-Lorsqu'un agent assermenté de l'administration chargée des forêts constate le non-respect de l'un des critères
+III. – Lorsqu'un agent assermenté de l'administration chargée des forêts constate le non-respect de l'un des critères
 permettant d'attester de la réussite de la régénération naturelle ou de l'état de futaie irrégulière en équilibre de
 régénération, ce constat fait l'objet d'un signalement par cette administration au service des impôts du lieu de situation
 des bois avant le 1er janvier de l'année suivant celle au cours de laquelle il est effectué. Le contribuable est en outre
@@ -15540,9 +15659,9 @@ Modifications effectuées en conséquence des articles 20-I, 22 et 24 du décret
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2012-654 du 4 mai 2012 - art. 2
+  - DEPLACE: Décret n°2013-731 du 12 août 2013 - art. 1
 
 _Cite_:
 
