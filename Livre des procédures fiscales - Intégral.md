@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-12-20
+Version Consolidée au 2013-12-22
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -21898,18 +21898,15 @@ d'imposition du redevable, soit, dans le cas où ce lieu a été ou aurait dû �
 changement, même si les sommes dues se rapportent à la période antérieure à ce changement. 
 
 Les avis de mise en recouvrement résultant de l'engagement par la direction nationale des vérifications de situations
-fiscales d'une procédure de rectification ou d'une procédure d'imposition d'office sont établis, signés et rendus exécutoires
-par le comptable chargé du pôle de recouvrement spécialisé de Paris Sud-Ouest.
+fiscales d'une procédure de rectification ou d'une      procédure d'imposition d'office ou du traitement par cette direction
+d'actes ou de déclarations liés à la détention d'avoirs à l'étranger sont établis, signés et rendus exécutoires par le
+comptable chargé du pôle de recouvrement spécialisé de Paris Sud-Ouest.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2006-357 du 24 mars 2006
-
-_Modifié par_:
-
-  - Décret n°2011-1303 du 14 octobre 2011 - art. 14
 
 _Cité par_:
 
@@ -21920,6 +21917,10 @@ _Cité par_:
   - Décret n°2017-1305 du 24 août 2017 - art. 1 (V)
   - Arrêté du 20 février 2018 (V)
   - Arrêté du 6 juillet 2018 (V)
+
+_Modifié par_:
+
+  - Décret n°2013-1193 du 19 décembre 2013 - art. 2
 
 _Cite_:
 
