@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-12-22
+Version Consolidée au 2013-12-25
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -113,7 +113,7 @@ Version Consolidée au 2013-12-22
               - [5° : Prévention de la multidétention de produits d'épargne générale à régime fiscal spécifique (art. L166 A)](#110)
               - [6° : Groupement d'intérêt public France Télé numérique (art. L166 B)](#111)
               - [7° : Professionnels de l'expertise comptable autorisés (art. L166 C)](#112)
-              - [8° : Agence nationale de sécurité du médicament et des produits de santé (art. L166 D)](#113)
+              - [8° : Agence nationale de sécurité du médicament et des produits de santé et Haute Autorité de santé (art. L166 D)](#113)
         - [Chapitre IV : Les délais de prescription (art. L168 à L189 A)](#114)
           - [Section I : Impôts directs et taxes assimilées (art. L169 à L175)](#115)
             - [I : Impôts directs d'État (art. L169 à L172 G)](#116)
@@ -10344,42 +10344,43 @@ _Anciens textes_:
   - Livre des procédures fiscales - art. L166 bis (T)
 
 
-##### 8° : Agence nationale de sécurité du médicament et des produits de santé<a id=113></a>
+##### 8° : Agence nationale de sécurité du médicament et des produits de santé et Haute Autorité de santé<a id=113></a>
 
 ###### Article L166 D
 
-L'administration chargée du recouvrement des taxes prévues aux 
-articles 1600-0 N et 1600-0 O du code général des impôts
-transmet à l'agence mentionnée à l'
-article L. 5311-1 du code de la santé publique
-les données collectées à partir des déclarations des redevables de ces taxes, dans les conditions et suivant les modalités
-déterminées par décret : le nom de l'établissement, l'identifiant SIRET, l'adresse de l'établissement principal ou du siège
-du redevable et le montant acquitté pour chacune des taxes précitées. Les destinataires des informations transmises sont
-astreints, pour les données dont ils ont à connaître en application du présent article, au secret professionnel sous les
-sanctions prévues à l'
-article 226-13 du code pénal
-. 
+L'administration chargée du recouvrement de la taxe prévue à l'article 1600-0 O du code général des impôts transmet à
+l'agence mentionnée à l'article L. 5311-1 du code de la santé publique les données collectées à partir des déclarations des
+redevables de ces taxes, dans les conditions et suivant les modalités déterminées par décret : le nom de l'établissement,
+l'identifiant SIRET, l'adresse de l'établissement principal ou du siège du redevable et le montant acquitté pour chacune des
+taxes précitées. 
 
-L'administration chargée du recouvrement du droit prévu à l'
-article 1635 bis AE du code général des impôts
-et l'agence mentionnée à l'
-article L. 5311-1 du code de la santé publique
-se transmettent spontanément ou sur demande les informations relatives aux droits perçus au titre de l'
-article 1635 bis AE du code général des impôts
-et aux quittances établies conformément à ce même article 1635 bis AE.
+L'administration chargée du recouvrement du droit prévu à l'article 1635 bis AE du code général des impôts et l'agence
+mentionnée à l'article L. 5311-1 du code de la santé publique se transmettent spontanément ou sur demande les informations
+relatives aux droits perçus au titre de l'article 1635 bis AE du code général des impôts et aux quittances établies
+conformément à ce même article 1635 bis AE. 
+
+L'administration chargée du recouvrement des droits prévus aux articles 1635 bis AF à 1635 bis AH du code général des impôts
+et la Haute Autorité de santé mentionnée à l'article L. 161-37 du code de la sécurité sociale se transmettent, spontanément
+ou sur demande, les informations relatives aux droits prévus aux mêmes articles 1635 bis AF à 1635 bis AH.
+
+Les destinataires des informations transmises sont astreints, pour les données dont ils ont à connaître en application du
+présent article, au secret professionnel sous les sanctions prévues à l'article 226-13 du code pénal.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2012-354 du 14 mars 2012 - art. 18
+  - Loi n°2013-1203 du 23 décembre 2013 - art. 11
+  - Loi n°2013-1203 du 23 décembre 2013 - art. 12 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1600-0 N
+  - Code général des impôts, CGI. - art. 1600-0 O (V)
   - Code général des impôts, CGI. - art. 1635 bis AE
-  - Code pénal - art. 226-13
+  - Code général des impôts, CGI. - art. 1635 bis AF (V)
+  - Code pénal - art. 226-13 (V)
   - Code de la santé publique - art. L5311-1
+  - Code de la sécurité sociale. - art. L161-37 (V)
 
 _Cité par_:
 
