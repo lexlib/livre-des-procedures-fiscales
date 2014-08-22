@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2014-08-01
+Version Consolidée au 2014-08-23
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -255,7 +255,7 @@ Version Consolidée au 2014-08-01
       - [Titre IV : Le recouvrement de l'impôt (art. R*256-1 à R283 D-1)](#252)
         - [Chapitre premier : Les procédures de recouvrement (art. R*256-1 à R*273 B-1)](#253)
           - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R*256-1 à R257 B-1)](#254)
-          - [Section II : Exercice des poursuites (art. R*260 A-1)](#255)
+          - [Section II : Exercice des poursuites (art. R*260 A-1 à R258 A-1)](#255)
           - [Section III : Mesures particulières (art. R*267-1 à R*273 B-1)](#256)
             - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*267-1)](#257)
             - [5° : Vente de fonds de commerce (art. R268-1)](#258)
@@ -21572,8 +21572,12 @@ Le comptable public compétent pour établir l'avis de mise en recouvrement est 
 d'imposition du redevable, soit, dans le cas où ce lieu a été ou aurait dû être modifié, celui compétent à l'issue de ce
 changement, même si les sommes dues se rapportent à la période antérieure à ce changement. 
 
+Le comptable chargé d'un pôle de recouvrement spécialisé est compétent, le cas échéant, pour établir, signer et rendre
+exécutoire l'avis de mise en recouvrement des créances qu'il a prises en charge ou dont la responsabilité lui est transférée
+par un autre comptable. 
+
 Les avis de mise en recouvrement résultant de l'engagement par la direction nationale des vérifications de situations
-fiscales d'une procédure de rectification ou d'une      procédure d'imposition d'office ou du traitement par cette direction
+fiscales d'une procédure de rectification ou d'une procédure d'imposition d'office ou du traitement par cette direction
 d'actes ou de déclarations liés à la détention d'avoirs à l'étranger sont établis, signés et rendus exécutoires par le
 comptable chargé du pôle de recouvrement spécialisé de Paris Sud-Ouest.
 
@@ -21594,7 +21598,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1193 du 19 décembre 2013 - art. 2
+  - Décret n°2014-931 du 19 août 2014 - art. 1
 
 _Cite_:
 
@@ -21638,6 +21642,19 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°2011-1302 du 14 octobre 2011 - art. 10
+
+
+###### Article R258 A-1
+
+Les mesures conservatoires initialement prises par un comptable public dans les conditions du livre V de la partie
+législative du code des procédures civiles d'exécution peuvent être converties par ce comptable ou par tout autre comptable
+public devenu compétent postérieurement à la prise de ces mesures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-931 du 19 août 2014 - art. 2
 
 
 ##### Section III : Mesures particulières<a id=256></a>
