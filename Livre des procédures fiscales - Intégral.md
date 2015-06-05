@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2015-05-15
+Version Consolidée au 2015-06-06
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -179,9 +179,9 @@ Version Consolidée au 2015-05-15
         - [Chapitre premier : (art. R*1-1 à R*4-1)](#176)
           - [Section I : (art. R*1-1 à R1-3)](#177)
           - [Section II : (art. R*4-1)](#178)
-      - [Titre II : Le contrôle de l'impôt (art. R*13-1 à R*178-1)](#179)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. R*13-1 à R80 E-1)](#180)
-          - [Section I : Dispositions générales (art. R*13-1 à R13-2)](#181)
+      - [Titre II : Le contrôle de l'impôt (art. R*11 A-1 à R*178-1)](#179)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. R*11 A-1 à R80 E-1)](#180)
+          - [Section I : Dispositions générales (art. R*11 A-1 à R13-2)](#181)
             - [2° : Dispositions relatives aux vérifications des comptabilités (art. R*13-1 à R13-2)](#182)
           - [Section II : Dispositions particulières à certains impôts (art. R*16-0 BA-1 à R36 B-1)](#183)
             - [I bis : Dispositions particulières à l'impôt sur le revenu ou sur les bénéfices et à la taxe sur la valeur ajoutée (art. R*16-0 BA-1 à R16 B-1)](#184)
@@ -281,18 +281,17 @@ Version Consolidée au 2015-05-15
                 - [2 : Droits de timbre (art. A37-1)](#278)
           - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1 à A47 A-3)](#279)
           - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-6-1)](#280)
-        - [Chapitre II : Le droit de communication (art. A85-1 à A97-3)](#281)
-          - [Section I : Conditions d'exercice du droit de communication (art. A85-1)](#282)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#283)
-      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#284)
-        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#285)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#286)
-        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#287)
-          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#288)
-            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#289)
-          - [Section II : Exercice des poursuites pénales (art. A228-1)](#290)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#291)
-        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#292)
+        - [Chapitre II : Le droit de communication (art. A97-1 à A97-3)](#281)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#282)
+      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#283)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#284)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#285)
+        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#286)
+          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#287)
+            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#288)
+          - [Section II : Exercice des poursuites pénales (art. A228-1)](#289)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#290)
+        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#291)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -4472,7 +4471,7 @@ Toutefois, il n'y a pas lieu de procéder à cette mise en demeure :
 2° Si le contribuable a transféré son activité à l'étranger sans déposer la déclaration de ses résultats ou de ses revenus
 non commerciaux ; 
 
-3° Si le contribuable s'est livré à une activité occulte, au sens du troisième alinéa de l'article L. 169 ;
+3° Si le contribuable s'est livré à une activité occulte, au sens du deuxième alinéa de l'article L. 169 ; 
 
 4° Si un contrôle fiscal n'a pu avoir lieu du fait du contribuable ou de tiers ; 
 
@@ -4483,21 +4482,19 @@ BA, au titre de l'année ou de l'exercice au cours duquel le procès-verbal est 
 
 **Nota:**
 
-Conformément à la loi n° 2013-1117 du 6 décembre 2013 article 50 II B, le 3° du présent article s'applique aux avis de
-vérification de comptabilité ou, en cas d'application de l'article L. 47 C du livre des procédures fiscales, aux avis
-d'examen contradictoire de la situation fiscale personnelle ou, dans les cas pour lesquels l'envoi de ces avis n'est pas
-requis, aux propositions de rectification adressées à compter du 8 décembre 2013.
+Modification effectuée en conséquence de l'article 80-1 de la loi n° 2014-1654 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 50
+  - Décret n°2015-609 du 3 juin 2015 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 635
   - Livre des procédures fiscales - art. L16-0 BA
+  - Livre des procédures fiscales - art. L169 (V)
 
 _Cité par_:
 
@@ -8348,45 +8345,6 @@ _Cité par_:
   - Livre des procédures fiscales - art. L113 (V)
 
 
-###### Article L128
-
-Les agents des impôts ne peuvent opposer le secret professionnel aux demandes des renseignements émanant des services de
-l'agence nationale pour l'indemnisation des Français rapatriés d'outre-mer portant sur la situation familiale, patrimoniale
-ou professionnelle des bénéficiaires de la loi n° 70-632 du 15 juillet 1970 relative à une contribution nationale à
-l'indemnisation des Français dépossédés de biens situés dans un territoire antérieurement placé sous la souveraineté, le
-protectorat ou la tutelle de la France et de la loi n° 78-1 du 2 janvier 1978 relative à l'indemnisation des Français
-rapatriés d'outre-mer dépossédés de leurs biens.
-
-**Nota:**
-
-Cet article devient sans objet en application de la loi n° 2013-1278 du 29 décembre 2013, art. 127-I.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 2024
-  - Loi n°70-632 1970-07-15 ART. 38
-  - Loi n°78-1 du 2 janvier 1978 - art. 21 (V)
-
-_Cite_:
-
-  - Loi n°70-632 du 15 juillet 1970
-  - Loi n°78-1 du 2 janvier 1978
-
-_Codifié par_:
-
-  - Décret n°81-859 du 15 septembre 1981
-
-_Cité par_:
-
-  - Arrêté du 14 juin 1982 - art. 4 (V)
-
-**Liens**:
-
-  - PERIME: Décret n°2015-609 du 3 juin 2015 - art. 1
-
-
 ###### Article L130
 
 Cet article reproduit le deuxième alinéa de l'article L. 2234-24 du code de la défense : 
@@ -9061,11 +9019,11 @@ Le président de la collectivité territoriale de Corse et les présidents des c
 communiquer par l'administration en charge des contributions indirectes les éléments d'information que celle-ci détient en
 matière de droit de consommation sur les tabacs manufacturés.
 
+**Nota:**
+
+Modification effectuée en conséquence des articles art. 1er [1°] et art. 51 de la loi n° 2013-403 du 17 mai 2013.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cité par_:
 
@@ -9741,23 +9699,33 @@ _Cite_:
 
 ###### Article L145 A
 
-Conformément aux dispositions du deuxième alinéa du I de l'article L. 611-2 du code de commerce, le président du tribunal de
-commerce peut recevoir de l'administration communication des renseignements de nature à lui donner une exacte information sur
-la situation économique et financière du débiteur.
+I. – Le président du tribunal compétent peut obtenir de l'administration communication des renseignements de nature à lui
+donner une exacte information sur la situation économique et financière du débiteur dans les conditions prévues au deuxième
+alinéa du I de l'article L. 611-2 du code de commerce et au premier alinéa de l'article L. 611-2-1 du code précité. 
+
+II. – Le président du tribunal compétent peut obtenir de l'administration communication de tout renseignement lui permettant
+d'apprécier la situation économique, financière, sociale et patrimoniale du débiteur et ses perspectives de règlement dans
+les conditions prévues au cinquième alinéa de l'article L. 611-6 du code de commerce.
+
+**Nota:**
+
+Modification effectuée en conséquence des articles 2, 4 et 116 de l'ordonnance n° 2014-326 du 12 mars 2014.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2005-845 du 26 juillet 2005 - art. 171 () JORF 27 juillet 2005
-
 _Codifié par_:
 
-  - Décret n°2006-357 2006-03-24
+  - Décret n°2006-357 du 24 mars 2006
+
+_Modifié par_:
+
+  - Décret n°2015-609 du 3 juin 2015 - art. 1
 
 _Cite_:
 
   - Code de commerce - art. L611-2 (V)
+  - Code de commerce - art. L611-2-1 (V)
+  - Code de commerce - art. L611-6 (V)
 
 _Cité par_:
 
@@ -9814,14 +9782,9 @@ _Cite_:
 ###### Article L145 D
 
 Dans le cadre du contrôle des mesures imposées ou recommandées par la commission de surendettement des particuliers ou du
-contrôle de sa recommandation aux fins de rétablissement personnel sans liquidation judiciaire prévus aux articles L. 332-2 à
-L. 332-5-1 du code de la consommation, le juge peut obtenir communication de tout renseignement sur la situation du débiteur
-conformément aux articles précités.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 43 des loi n° 2010-737 du 1er juillet 2010 et n° 2010-1249 du 22 octobre
-2010 et des article 3 (4°) et 7 de l'ordonnance n° 2011-1895 du 19 décembre 2011.
+contrôle de sa recommandation aux fins de rétablissement personnel sans liquidation judiciaire prévus aux  articles L. 332-2
+à L. 332-5-2 du code de la consommation, le juge peut obtenir communication de tout renseignement sur la situation du
+débiteur conformément aux articles précités.
 
 **Liens relatifs à cet article**
 
@@ -9831,7 +9794,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-654 du 4 mai 2012 - art. 1
+  - Décret n°2015-609 du 3 juin 2015 - art. 1
 
 _Cite_:
 
@@ -13493,33 +13456,6 @@ _Cite_:
   - Code de la consommation - art. L332-5
 
 
-###### Article L247 B
-
-Conformément au troisième alinéa de l'article L. 611-7 du code de commerce, les administrations financières peuvent
-lorsqu'une procédure de conciliation instituée par l'article L. 611-4 du même code est engagée, consentir des remises de
-dettes dans les conditions fixées à l'article L. 626-6 du code de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-357 2006-03-24
-
-_Créé par_:
-
-  - Décret n°2006-357 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
-
-**Liens**:
-
-  - DISJOINT: Décret n°2015-609 du 3 juin 2015 - art. 1
-
-_Cite_:
-
-  - Code de commerce - art. L611-4
-  - Code de commerce - art. L611-7
-  - Code de commerce - art. L626-6
-
-
 ###### Article L247 C
 
 Les administrations financières peuvent, lorsqu'un plan de sauvegarde prévu à l'article L. 626-1 du code de commerce est
@@ -15776,6 +15712,48 @@ _Cite_:
 
 ##### Section I : Dispositions générales<a id=181></a>
 
+###### Article R*11 A-1
+
+Dès la publication d'un décret portant nomination du Premier ministre ou relatif à la composition du Gouvernement, la Haute
+Autorité pour la transparence de la vie publique saisit le directeur général des finances publiques aux fins de procéder à la
+vérification de la situation fiscale du ou des membres du Gouvernement nommés.
+
+La vérification porte sur les impositions dues et non encore prescrites au titre de l'impôt sur le revenu et, le cas échéant,
+de l'impôt de solidarité sur la fortune.
+
+Dans le délai d'un mois suivant la nomination du membre du Gouvernement, le directeur général des finances publiques rend
+compte à la Haute Autorité pour la transparence de la vie publique des constats réalisés et, le cas échéant, de la nécessité
+de poursuivre les investigations ou de l'engagement des procédures prévues par le titre II de la première partie.
+
+Au vu du rapport établi en application du troisième alinéa ou sur la base d'éléments dont elle dispose par ailleurs, la Haute
+Autorité pour la transparence de la vie publique peut demander au directeur général des finances publiques de lui fournir des
+informations complémentaires ou de procéder à de nouvelles investigations.
+
+Le directeur général des finances publiques transmet à la Haute Autorité pour la transparence de la vie publique les
+informations demandées ou lui rend compte, le cas échéant, de l'état d'avancement des investigations complémentaires dans un
+délai de quinze jours suivant la demande.
+
+En cas de poursuite des investigations ou de l'engagement des procédures prévues au titre II de la première partie au-delà
+des délais mentionnés aux troisième à cinquième alinéas, le directeur général des finances publiques rend compte à la Haute
+Autorité pour la transparence de la vie publique des constats réalisés et des résultats obtenus et, le cas échéant, de l'état
+d'avancement de ces investigations et procédures au plus tard deux mois après la nomination du membre du Gouvernement.
+
+Au-delà du délai de deux mois mentionné à l'alinéa précédent, le directeur général des finances publiques rend compte à la
+Haute Autorité pour la transparence de la vie publique des constats réalisés et des résultats obtenus dans les meilleurs
+délais possibles et, le cas échéant, de l'état d'avancement des investigations et procédures en cours selon une périodicité
+qui ne peut excéder trois mois.
+
+**Nota:**
+
+Création effectuée en conséquence du décret n° 2014-386 du 29 mars 2014, art. 1er, 2, 3, 4 et 5.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-609 du 3 juin 2015 - art. 2
+
+
 ##### 2° : Dispositions relatives aux vérifications des comptabilités<a id=182></a>
 
 ###### Article R*13-1
@@ -16510,9 +16488,9 @@ _Cité par_:
 
 ###### Article R45 BA-1
 
-I. ― La réalité de la création d'ouvrages réalisés en un seul exemplaire ou en petite série, pour lesquels les dépenses sont
+I. – La réalité de la création d'ouvrages réalisés en un seul exemplaire ou en petite série, pour lesquels les dépenses sont
 prises en compte pour la détermination du crédit d'impôt mentionné à l'article 244 quater O du code général des impôts, est
-vérifiée par un agent dûment mandaté par le directeur général de la compétitivité, de l'industrie et des services.
+vérifiée par un agent dûment mandaté par le directeur général des entreprises.
 
 L'intervention des agents des ministères chargés de l'industrie, du commerce et de l'artisanat peut résulter soit d'une
 initiative de ces ministères, soit d'une demande de l'administration des finances publiques dans le cadre d'un contrôle ou
@@ -16520,7 +16498,7 @@ d'un contentieux fiscal. Lorsque l'administration des finances publiques sollici
 d'un agent des ministères chargés de l'industrie, du commerce et de l'artisanat, ce dernier se coordonne avec le service en
 charge du contrôle.
 
-II. ― 1° Dans le cadre de la procédure mentionnée au I, les agents chargés du contrôle de la réalité de la création
+II. – 1° Dans le cadre de la procédure mentionnée au I, les agents chargés du contrôle de la réalité de la création
 d'ouvrages réalisés en un seul exemplaire ou en petite série, pour lesquels les dépenses sont prises en compte pour la
 détermination du crédit d'impôt, envoient à l'entreprise contrôlée une demande d'éléments justificatifs. L'entreprise répond
 dans un délai de trente jours, éventuellement prorogé de la même durée à sa demande. L'entreprise joint à sa réponse les
@@ -16550,7 +16528,7 @@ réalisés en un seul exemplaire ou en petite série ;
 b) Effectuer toutes constatations matérielles, procéder à des vérifications techniques, en vue de s'assurer de la réalité de
 la création d'ouvrages réalisés en un seul exemplaire ou en petite série à laquelle les dépenses ont été affectées.
 
-III. ― L'avis sur la réalité de la création d'ouvrages réalisés en un seul exemplaire ou en petite série est émis par les
+III. – L'avis sur la réalité de la création d'ouvrages réalisés en un seul exemplaire ou en petite série est émis par les
 agents chargés du contrôle au vu de la réponse de l'entreprise à la demande d'éléments justificatifs qui lui a été adressée,
 des documents mentionnés au II, et, le cas échéant, des réponses aux demandes d'informations complémentaires et des éléments
 recueillis à l'occasion des échanges avec l'entreprise lors de l'entretien dans les locaux de l'administration ou de la
@@ -16565,11 +16543,15 @@ L'avis est notifié à l'entreprise et communiqué à la direction générale de
 réalité de la création d'ouvrages réalisés en un seul exemplaire ou en petite série, pour laquelle les dépenses sont prises
 en compte pour la détermination du crédit d'impôt, est contestée.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 4 du décret n° 2014-1048 du 15 septembre 2014.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1287 du 27 décembre 2013 - art. 1
+  - Décret n°2015-609 du 3 juin 2015 - art. 2
 
 _Cite_:
 
@@ -17865,46 +17847,17 @@ _Cite_:
   - Livre des procédures fiscales - art. L81
 
 
-###### Article R*81-4
-
-Les agents de l'administration peuvent prendre copie des documents dont ils ont connaissance en application de l'article L.
-81.
-
-**Nota:**
-
-Cet article devient sans objet en application de la loi n° 2014-1655 du 29 décembre 2014, art. 21-II A et III C.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°82-882 1982-10-15
-
-_Modifié par_:
-
-  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er JANVIER 1982
-
-**Liens**:
-
-  - PERIME: Décret n°2015-609 du 3 juin 2015 - art. 2
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L81
-
-_Cité par_:
-
-  - Livre des procédures fiscales - art. R81-5 (VD)
-
-
 ###### Article R81-5
 
 Le droit de communication mentionné à l'article L. 81 est exercé par les agents de la direction générale des finances
 publiques. Il peut être exercé par les agents de la direction générale des douanes et droits indirects dans les conditions
-définies aux articles L. 82 C, L. 83, L. 84, au premier alinéa de l'article L. 85, aux articles L. 85-0 B, L. 85 A, L. 87, L.
-90, L. 92, L. 95, L. 96 H, L. 101, au I de l'article R. * 81-1, aux articles R. * 81-4, R. * 101-1 et A. 85-1 en ce qui
-concerne les contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et la contribution
-prévue par l'article 527 du code général des impôts.
+définies aux articles L. 82 C, L. 83, L. 84, L. 85, L. 85-0 B, L. 85 A, L. 87, L. 90, L. 92, L. 95, L. 96 H, L. 101, au I de
+l'article R. * 81-1, et à l'article R. * 101-1 en ce qui concerne les contributions indirectes, droits, taxes, redevances et
+impositions obéissant aux mêmes règles et la contribution prévue par l'article 527 du code général des impôts.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 21-II et III C de la loi n° 2014-1655 du 29 décembre 2014.
 
 **Liens relatifs à cet article**
 
@@ -17918,19 +17871,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1352 du 4 décembre 2012 - art. 1
+  - Décret n°2015-609 du 3 juin 2015 - art. 2
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 527
-  - Livre des procédures fiscales - art. A85-1
   - Livre des procédures fiscales - art. L101
   - Livre des procédures fiscales - art. L81
   - Livre des procédures fiscales - art. L82 C
   - Livre des procédures fiscales - art. L83
   - Livre des procédures fiscales - art. L84
-  - Livre des procédures fiscales - art. L85 (V)
-  - Livre des procédures fiscales - art. L85 A (V)
+  - Livre des procédures fiscales - art. L85
+  - Livre des procédures fiscales - art. L85 A
   - Livre des procédures fiscales - art. L85-0 B
   - Livre des procédures fiscales - art. L87
   - Livre des procédures fiscales - art. L90
@@ -17939,7 +17891,6 @@ _Cite_:
   - Livre des procédures fiscales - art. L96 H
   - Livre des procédures fiscales - art. R*101-1
   - Livre des procédures fiscales - art. R*81-1
-  - Livre des procédures fiscales - art. R*81-4
 
 
 ##### Section I : Conditions d'exercice du droit de communication<a id=208></a>
@@ -18336,13 +18287,13 @@ _Cité par_:
 
 Les informations à communiquer à la direction générale des finances publiques en application de l'article L. 102 AA par les
 services du ministre chargé de l'agriculture, pour chaque établissement ayant reçu l'agrément prévu aux articles L. 233-2 et
-L. 235-1 du code rural et de la pêche maritime susvisé, sont les suivantes : 
+L. 235-1 du code rural et de la pêche maritime, sont les suivantes : 
 
 1° Le nom, l'adresse et le numéro SIRET des établissements agréés ; 
 
 2° Le nombre de carcasses d'animaux abattus, réparti par espèce et par tranche de poids pour les ovins, les caprins et les
-porcins, assujettis à la redevance prévue aux articles 302 bis N à 302 bis R du code général des impôts susvisé, et le taux
-de modulation appliqué à l'abattoir ; 
+porcins, assujettis à la redevance prévue aux articles 302 bis N à 302 bis R du code général des impôts, et le taux de
+modulation appliqué à l'abattoir ; 
 
 3° Le nombre de tonnes de produits de la pêche ou de l'aquaculture assujettis à la redevance prévue à l'article 302 bis WA et
 à la redevance prévue à l'article 302 bis WB du code précité ; 
@@ -18355,15 +18306,17 @@ détermine notamment la nature du support et le format des données transmises.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1687 du 29 décembre 2014 - art. 3
+  - Décret n°2015-609 du 3 juin 2015 - art. 2
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 302 bis N
-  - Code général des impôts, CGI. - art. 302 bis WB (V)
-  - Code général des impôts, CGI. - art. 302 bis WD (V)
+  - Code général des impôts, CGI. - art. 302 bis N (V)
+  - Code général des impôts, CGI. - art. 302 bis WA
+  - Code général des impôts, CGI. - art. 302 bis WB
+  - Code général des impôts, CGI. - art. 302 bis WD
+  - Livre des procédures fiscales - art. L102 AA (V)
   - Code rural - art. L233-2
   - Code rural - art. L235-1
 
@@ -19021,6 +18974,10 @@ Elle peut désigner à cet effet un délégué dont l'identité est préalableme
 L'autorité territoriale ou son délégué désigne, s'il y a lieu, le personnel administratif habilité à utiliser ces
 informations.
 
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er [2°] et 71 du décret n° 2013-938 du 18 octobre 2013.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -19029,7 +18986,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+  - Décret n°2015-609 du 3 juin 2015 - art. 2
 
 _Cite_:
 
@@ -19297,21 +19254,21 @@ _Créé par_:
 
 Les données mentionnées à l'article L. 135 ZB collectées à partir des déclarations des redevables sont transmises, chaque
 année, par la direction générale des finances publiques en charge du recouvrement des redevances prévues aux articles 302 bis
-N à 302 bis WG du code général des impôts susvisé et aux articles L. 236-2 et L. 251-17-1 du code rural et de la pêche
-maritime susvisé aux services du ministre chargé de l'agriculture sur support électronique dans des conditions permettant de
-garantir leur confidentialité. Un protocole entre les services du ministre chargé de l'agriculture et la direction générale
-des finances publiques détermine la nature du support et le format des données transmises par voie électronique.
+N à 302 bis WG du code général des impôts et aux articles L. 236-2 et L. 251-17-1 du code rural et de la pêche maritime aux
+services du ministre chargé de l'agriculture sur support électronique dans des conditions permettant de garantir leur
+confidentialité. Un protocole entre les services du ministre chargé de l'agriculture et la direction générale des finances
+publiques détermine la nature du support et le format des données transmises par voie électronique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1687 du 29 décembre 2014 - art. 3
+  - Décret n°2015-609 du 3 juin 2015 - art. 2
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 302 bis N (V)
-  - Livre des procédures fiscales - art. L135 ZB (V)
+  - Code général des impôts, CGI. - art. 302 bis N
+  - Livre des procédures fiscales - art. L135 ZB
   - Code rural - art. L236-2
   - Code rural - art. L251-17-1
 
@@ -19320,8 +19277,8 @@ _Cite_:
 
 ###### Article R145 A-1
 
-Les formes et le délai de présentation de la demande de renseignements prévue à l'article L. 145 A ainsi que les conséquences
-attachées à leur respect sont régis conformément aux dispositions de l'article R. 611-12 du code de commerce.
+Les formes et le délai de présentation de la demande de renseignements prévue au I de l'article L. 145 A ainsi que les
+conséquences attachées à leur respect sont régis conformément aux dispositions de l'article R. 611-12 du code de commerce.
 
 **Nota:**
 
@@ -19331,7 +19288,7 @@ Modification effectuée en conséquence de l'article R611-12 du code de commerce
 
 _Modifié par_:
 
-  - Décret n°2008-295 du 1er avril 2008 - art. 2
+  - Décret n°2015-609 du 3 juin 2015 - art. 2
 
 _Cite_:
 
@@ -22083,9 +22040,9 @@ exécutoire l'avis de mise en recouvrement des créances qu'il a prises en charg
 par un autre comptable. 
 
 Les avis de mise en recouvrement résultant de l'engagement par la direction nationale des vérifications de situations
-fiscales d'une procédure de rectification ou d'une procédure d'imposition d'office ou du traitement par cette direction
-d'actes ou de déclarations liés à la détention d'avoirs à l'étranger sont établis, signés et rendus exécutoires par le
-comptable chargé du pôle de recouvrement spécialisé de Paris Sud-Ouest.
+fiscales d'une procédure de rectification ou d'une procédure d'imposition d'office ou du traitement   d'actes ou de
+déclarations liés à la détention d'avoirs à l'étranger sont établis, signés et rendus exécutoires par le comptable chargé du
+pôle de recouvrement spécialisé de Paris Sud-Ouest.
 
 **Liens relatifs à cet article**
 
@@ -22105,7 +22062,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-931 du 19 août 2014 - art. 1
+  - Décret n°2015-607 du 3 juin 2015 - art. 1
 
 _Cite_:
 
@@ -24285,47 +24242,7 @@ _Cite_:
 
 #### Chapitre II : Le droit de communication<a id=281></a>
 
-##### Section I : Conditions d'exercice du droit de communication<a id=282></a>
-
-###### Article A85-1
-
-Les directeurs, entrepreneurs, propriétaires d'établissements mentionnés à l'article 1563, troisième alinéa, du code général
-des impôts, dans lesquels il est d'usage de consommer mais pour lesquels soit il n'est pas exigé de prix d'entrée, soit le
-prix d'entrée est inférieur au montant de la première consommation, sont tenus de présenter leurs registres de comptabilité
-ou leurs livres à la première demande des agents du service des douanes et droits indirects chargés de percevoir l'impôt sur
-les spectacles. Ils doivent justifier toutes les inscriptions portées sur ces documents ainsi que, d'une manière générale,
-toutes les opérations effectuées.
-
-**Nota:**
-
-Modification effectuée en conséquence de la loi n° 2014-1654 du 29 décembre 2014, article 21-I (3°)). Cet article devient
-sans objet.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°96-1182 du 30 décembre 1996 - art. 41 (V) JORF 31 décembre 1996
-
-**Liens**:
-
-  - PERIME: Arrêté du 3 juin 2015 - art. 1
-
-_Codifié par_:
-
-  - Arrêté 1997-05-28
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 1563
-
-_Cité par_:
-
-  - Code général des impôts, annexe 4, CGIAN4. - art. 145 (V)
-  - Livre des procédures fiscales - art. R81-5 (VD)
-
-
-##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=283></a>
+##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=282></a>
 
 ###### Article A97-1
 
@@ -24396,11 +24313,11 @@ _Anciens textes_:
   - CGIAN4 211
 
 
-### Titre III : Le contentieux de l'impôt<a id=284></a>
+### Titre III : Le contentieux de l'impôt<a id=283></a>
 
-#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=285></a>
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=284></a>
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=286></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=285></a>
 
 ###### Article A208-1
 
@@ -24419,11 +24336,11 @@ _Cite_:
   - Livre des procédures fiscales - art. R*208-4 (V)
 
 
-#### Chapitre II : Les procédures pénales<a id=287></a>
+#### Chapitre II : Les procédures pénales<a id=286></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=288></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=287></a>
 
-##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=289></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=288></a>
 
 ###### Article A225 A-1
 
@@ -24452,7 +24369,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L225 A
 
 
-##### Section II : Exercice des poursuites pénales<a id=290></a>
+##### Section II : Exercice des poursuites pénales<a id=289></a>
 
 ###### Article A228-1
 
@@ -24471,9 +24388,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*228-1
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=291></a>
+### Titre IV : Le recouvrement de l'impôt<a id=290></a>
 
-#### Chapitre II : Le sursis de paiement<a id=292></a>
+#### Chapitre II : Le sursis de paiement<a id=291></a>
 
 ###### Article A277-1
 
