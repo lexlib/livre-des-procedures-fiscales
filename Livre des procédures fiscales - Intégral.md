@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2015-08-31
+Version Consolidée au 2015-10-16
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -113,7 +113,7 @@ Version Consolidée au 2015-08-31
               - [2° : SAFER (art. L164)](#110)
               - [3° : Syndicats (art. L165 à L166)](#111)
               - [5° : Prévention de la multidétention de produits d'épargne générale à régime fiscal spécifique (art. L166 A)](#112)
-              - [6° : Groupement d'intérêt public France Télé numérique (art. L166 B)](#113)
+              - [6° : Agence nationale des fréquences (art. L166 B)](#113)
               - [7° : Professionnels de l'expertise comptable autorisés (art. L166 C)](#114)
               - [8° : Agence nationale de sécurité du médicament et des produits de santé et Haute Autorité de santé (art. L166 D)](#115)
         - [Chapitre IV : Les délais de prescription (art. L168 à L189)](#116)
@@ -10495,30 +10495,27 @@ _Cite_:
   - Code monétaire et financier - art. L221-38
 
 
-##### 6° : Groupement d'intérêt public France Télé numérique<a id=113></a>
+##### 6° : Agence nationale des fréquences<a id=113></a>
 
 ###### Article L166 B
 
-Pour les besoins de la gestion du fonds d'aide prévu à l'article 102 de la loi n° 86-1067 du 30 septembre 1986 relative à la
-liberté de communication, l'administration des impôts est autorisée à communiquer au groupement d'intérêt public créé par
-l'article 100 de la même loi, à sa demande, les nom, prénom et adresse des personnes visées aux 2° à 3° bis de l'article 1605
-bis du code général des impôts.
+L'Agence nationale des fréquences peut recevoir communication de l'administration fiscale des renseignements utiles à la
+gestion des aides instituées à l'article 99 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°86-1067 du 30 septembre 1986 - art. 102
-  - Code général des impôts, CGI. - art. 1605 bis
+  - Loi n°86-1067 du 30 septembre 1986 - art. 99
 
 _Cité par_:
 
   - Arrêté du 8 mars 1996 - art. 5 (M)
   - Arrêté du 25 mars 2016 - art. 2 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-1572 du 17 décembre 2009 - art. 5
+  - Loi n°2015-1267 du 14 octobre 2015 - art. 17
 
 
 ##### 7° : Professionnels de l'expertise comptable autorisés<a id=114></a>
