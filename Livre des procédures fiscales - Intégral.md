@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2015-12-30
+Version Consolidée au 2015-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L289)](#1)
     - [Première partie : Partie législative (art. L1 à L289)](#2)
@@ -10989,17 +10989,22 @@ Pour le crédit d'impôt défini à l'article 244 quater B du code général des
 s'exerce jusqu'à la fin de la troisième année suivant celle du dépôt de la déclaration spéciale prévue pour le calcul de ce
 crédit d'impôt. 
 
-Le premier alinéa du présent article s'applique également aux crédits d'impôt prévus aux articles 244 quater C et 244 quater
-O du même code. 
+Le premier alinéa du présent article s'applique également au crédit d'impôt prévu à l'article 244 quater O du même code. 
 
-(Alinéa disjoint).
+Pour le crédit d'impôt prévu à l'article 244 quater C du même code, le droit de reprise de l'administration s'exerce jusqu'à
+la fin de la troisième année suivant celle du dépôt de la déclaration prévue à ce même article.
+
+**Nota:**
+
+Conformément au I de l'article 10 de l'ordonnance n° 2015-681 du 18 juin 2015, les présentes dispositions s'appliquent aux
+crédits et réductions d'impôt calculés au titre des exercices clos à compter du 31 décembre 2015.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 66 (V)
-  - Décret n°2013-464 du 3 juin 2013 - art. 1
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 66 (VD)
+  - ORDONNANCE n°2015-681 du 18 juin 2015 - art. 1
 
 _Cite_:
 
