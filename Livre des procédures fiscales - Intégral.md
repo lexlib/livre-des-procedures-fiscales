@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -8392,7 +8392,11 @@ l'article 1407 bis du même code.
 Les informations transmises aux collectivités locales et à leurs groupements dotés d'une fiscalité propre sont couvertes par
 le secret professionnel, et soumises aux dispositions de la loi n° 78-17 du 6 janvier 1978 modifiée relative à
 l'informatique, aux fichiers et aux libertés. Leur utilisation respecte les obligations de discrétion et de sécurité selon
-des modalités définies par un décret en Conseil d'Etat.
+des modalités définies par un décret en Conseil d'Etat. 
+
+A compter de 2018, l'administration fiscale transmet chaque année aux villes et aux établissements publics de coopération
+intercommunale ayant institué la taxe de séjour ou la taxe de séjour forfaitaire, la liste des locaux meublés exonérés de
+contribution foncière économique en application du 3° de l'article 1459 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -8403,6 +8407,8 @@ _Cite_:
   - Loi n°89-462 du 6 juillet 1989 - art. 16
   - Loi n°2005-1719 du 30 décembre 2005 - art. 85
   - Code général des impôts, CGI. - art. 1407 bis
+  - Code général des impôts, CGI. - art. 1459 (V)
+  - Code général des impôts, CGI. - art. 1647 B sexies (V)
   - Code général des impôts, CGI. - art. 232
   - Livre des procédures fiscales - art. L190
   - Code rural - art. L141-1
@@ -8415,7 +8421,7 @@ _Cite_:
 
 _Cité par_:
 
-  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
+  - Loi n°78-753 du 17 juillet 1978 - art. 21 (V)
   - Arrêté du 8 mars 1996 - art. 5 (M)
   - Arrêté du 19 juin 1996 - art. 5 (V)
   - Arrêté du 25 août 2010 - art. 2 (V)
@@ -8430,7 +8436,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 59
 
 
 ###### Article L135 D
