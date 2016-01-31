@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-01-01 00:00:01 +0100
+Version Consolidée au 2016-02-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -265,7 +265,7 @@ Version Consolidée au 2016-01-01 00:00:01 +0100
         - [Chapitre III : Dispositions communautaires (art. R289-1 à R289-2)](#262)
   - [Partie réglementaire - Arrêtés (art. A13 F-1 à A277-10)](#263)
     - [Troisième partie : Partie réglementaire, arrêtés (art. A13 F-1 à A277-10)](#264)
-      - [Titre II : Le contrôle de l'impôt (art. A13 F-1 à A97-3)](#265)
+      - [Titre II : Le contrôle de l'impôt (art. A13 F-1 à A102 B-1)](#265)
         - [Chapitre premier : Le droit de contrôle de l'administration (art. A13 F-1 à A80 CB-6-1)](#266)
           - [Section I : Dispositions générales (art. A13 F-1 à A13 F-2)](#267)
             - [2 quater : Dispositions relatives aux copies de documents (art. A13 F-1 à A13 F-2)](#268)
@@ -279,15 +279,16 @@ Version Consolidée au 2016-01-01 00:00:01 +0100
           - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-6-1)](#276)
         - [Chapitre II : Le droit de communication (art. A97-1 à A97-3)](#277)
           - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#278)
-      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#279)
-        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#280)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#281)
-        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#282)
-          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#283)
-            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#284)
-          - [Section II : Exercice des poursuites pénales (art. A228-1)](#285)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#286)
-        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#287)
+        - [Chapitre II bis : Obligation et délais de conservation des documents (art. A102 B-1)](#279)
+      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#280)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#281)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#282)
+        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#283)
+          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#284)
+            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#285)
+          - [Section II : Exercice des poursuites pénales (art. A228-1)](#286)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#287)
+        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#288)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -24588,11 +24589,45 @@ _Anciens textes_:
   - CGIAN4 211
 
 
-### Titre III : Le contentieux de l'impôt<a id=279></a>
+#### Chapitre II bis : Obligation et délais de conservation des documents<a id=279></a>
 
-#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=280></a>
+###### Article A102 B-1
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=281></a>
+I. – Le transfert des documents mentionnés au I bis de l'article L. 102 B établis originairement sur support papier vers un
+support informatique est réalisé dans des conditions garantissant leur reproduction à l'identique. Le résultat de cette
+numérisation est la copie conforme à l'original en image et en contenu. Les couleurs sont reproduites à l'identique,
+notamment en cas de mise en place d'un code couleur. 
+
+Le document ainsi numérisé est conservé sous format PDF (Portable Document Format) assorti d'une signature électronique
+conforme, au moins, au référentiel général de sécurité (RGS) de niveau une étoile. 
+
+Le document numérisé n'est retenu comme pièce constitutive des contrôles mentionnés au 1° du VII de l'article 289 du code
+général des impôts que s'il fait apparaître tout ajout, remarque ou information qui aurait été annoté sur le document
+papier. 
+
+En cas de modification ou de correction des données portées sur un document numérisé, seul le document corrigé et numérisé à
+nouveau est retenu comme pièce constitutive des contrôles précités. 
+
+II. – Le I est applicable à la documentation décrivant les modalités de réalisation des contrôles mentionnés au 1° du VII de
+l'article 289 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 7 janvier 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 289 (V)
+  - Livre des procédures fiscales - art. L102 B
+
+
+### Titre III : Le contentieux de l'impôt<a id=280></a>
+
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=281></a>
+
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=282></a>
 
 ###### Article A208-1
 
@@ -24611,11 +24646,11 @@ _Cite_:
   - Livre des procédures fiscales - art. R*208-4 (V)
 
 
-#### Chapitre II : Les procédures pénales<a id=282></a>
+#### Chapitre II : Les procédures pénales<a id=283></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=283></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=284></a>
 
-##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=284></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=285></a>
 
 ###### Article A225 A-1
 
@@ -24644,7 +24679,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L225 A
 
 
-##### Section II : Exercice des poursuites pénales<a id=285></a>
+##### Section II : Exercice des poursuites pénales<a id=286></a>
 
 ###### Article A228-1
 
@@ -24663,9 +24698,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*228-1
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=286></a>
+### Titre IV : Le recouvrement de l'impôt<a id=287></a>
 
-#### Chapitre II : Le sursis de paiement<a id=287></a>
+#### Chapitre II : Le sursis de paiement<a id=288></a>
 
 ###### Article A277-1
 
