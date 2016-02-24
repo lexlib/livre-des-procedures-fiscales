@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-02-01
+Version Consolidée au 2016-02-25
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -205,7 +205,7 @@ Version Consolidée au 2016-02-01
           - [Section VII : Sanctions fiscales (art. R80 E-1)](#202)
         - [Chapitre I bis : Le droit d'enquête (art. R80 F-1 à R80 F-3)](#203)
         - [Chapitre I ter : Le droit de contrôle des entrepôts (art. R80 K-1)](#204)
-        - [Chapitre II : Le droit de communication (art. R*81 A-1 à R102 AC-1)](#205)
+        - [Chapitre II : Le droit de communication (art. R*81 A-1 à R102 AE-1)](#205)
           - [Section I : Conditions d'exercice du droit de communication (art. R*85-1 à R*96 E-1)](#206)
             - [6° : Personnes ayant la qualité de commerçant. (art. R*85-1)](#207)
             - [9° : Institutions et organismes versant des rémunérations ou répartissant des fonds (art. R87-1 à R87-3)](#208)
@@ -213,7 +213,7 @@ Version Consolidée au 2016-02-01
             - [20° : Intermédiaires pour les instruments financiers à terme (art. R96 CA-1)](#210)
             - [21° : Organisme gestionnaire d'un plan d'épargne en actions (art. R96 D-1)](#211)
             - [22° : Etablissements diffuseurs ou distributeurs de services payants de programme de télévision (art. R*96 E-1)](#212)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. R*97-1 à R102 AC-1)](#213)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. R*97-1 à R102 AE-1)](#213)
         - [Chapitre II bis : Obligation et délais de conservation des documents (art. R*102 C-1)](#214)
         - [Chapitre III : Le secret professionnel en matière fiscale (art. R*103-1 à R152-2)](#215)
           - [Section I : Portée et limites de la règle du secret professionnel (art. R*103-1 à R111-4)](#216)
@@ -18355,6 +18355,57 @@ _Créé par_:
 _Cite_:
 
   - Livre des procédures fiscales - art. L102 AC (V)
+
+
+###### Article R102 AE-1
+
+I. – Les organismes mentionnés aux articles L. 411-2 et L. 481-1 du code de la construction et de l'habitation communiquent à
+la direction générale des finances publiques, en application de l'article L. 102 AE, les informations suivantes : 
+
+1° Concernant le local : 
+
+a) Le nom du propriétaire ; 
+
+b) Le numéro identifiant interne du bailleur ; 
+
+c) Les identifiants du local du bailleur dans le répertoire des logements locatifs des bailleurs sociaux (RPLS) prévu par
+l'article L. 411-10 du code de la construction et de l'habitation et de l'administration des impôts (n° invariant) ; 
+
+d) L'adresse du local ; 
+
+e) La nature et le type du local ; 
+
+f) La surface habitable du local ; 
+
+2° Concernant les occupants : 
+
+a) Les titre, nom, prénom, date de naissance et adresse des titulaires des baux, présents au 1er janvier de l'année de la
+déclaration ; 
+
+b) Les titre, nom, prénom, date de naissance et nouvelle adresse si elle est connue des titulaires des baux, présents au 1er
+janvier de l'année précédente ; 
+
+c) La date de départ des anciens titulaires des baux. 
+
+II. – Les données mentionnées au I sont transmises à la direction départementale ou, le cas échéant, régionale des finances
+publiques du département dans lequel sont situés les logements concernés, par voie dématérialisée dans des conditions
+permettant de garantir leur confidentialité. Un accord-cadre conclu avec les organisations représentatives des organismes
+d'habitations à loyer modéré mentionnés à l'article L. 411-2 du même code et des sociétés d'économie mixte de construction et
+de gestion de logements sociaux mentionnées à l'article L. 481-1 du code précité détermine notamment les modalités de
+transmission et le format des données transmises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-178 du 22 février 2016 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L102 AE
+  - Code de la construction et de l'habitation. - art. L411-10 (VT)
+  - Code de la construction et de l'habitation. - art. L411-2 (VT)
+  - Code de la construction et de l'habitation. - art. L481-1
 
 
 #### Chapitre II bis : Obligation et délais de conservation des documents<a id=214></a>
