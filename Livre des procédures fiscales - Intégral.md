@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-03-23
+Version Consolidée au 2016-05-21
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -5467,33 +5467,32 @@ _Créé par_:
 
 ###### Article L80 N
 
-I. ― Pour rechercher et constater les infractions prévues au code général des impôts en matière de tabac, les agents de
+I. – Pour rechercher et constater les infractions prévues au code général des impôts en matière de tabac, les agents de
 l'administration des douanes des catégories A et B ont accès aux informations contenues dans les traitements prévus à
-l'article 569 du même code, au moyen de la marque d'identification unique, sécurisée et indélébile mentionnée à ce même
-article. 
+l'article L. 3512-24 du code de la santé publique. 
 
 Les frais occasionnés par l'accès à ces traitements sont à la charge des personnes responsables de ces traitements se livrant
-aux activités mentionnées au premier alinéa dudit article 569. 
+aux activités mentionnées à l'article L. 3512-24 du code de la santé publique. 
 
 En cas de constatation d'une infraction, le résultat de la consultation mentionnée au deuxième alinéa est indiqué sur tout
 document, quel qu'en soit le support, annexé au procès-verbal constatant l'infraction. 
 
-II. ― Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les
+II. – Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les
 modalités d'accès aux données mentionnées au I par les agents de l'administration des douanes mentionnés au même I.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-464 du 3 juin 2013 - art. 1
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 569 (M)
+  - Ordonnance n°2016-623 du 19 mai 2016 - art. 5
 
 _Cité par_:
 
-  - Code des douanes - art. 67 quinquies (M)
+  - Code des douanes - art. 67 quinquies (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L3512-24 (V)
 
 
 #### Chapitre II : Le droit de communication<a id=58></a>
