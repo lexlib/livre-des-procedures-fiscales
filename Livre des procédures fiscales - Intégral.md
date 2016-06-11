@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-05-21
+Version Consolidée au 2016-06-12
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -195,7 +195,7 @@ Version Consolidée au 2016-05-21
                 - [1 : Contributions indirectes (art. R*26-1 à R36 B-1)](#192)
           - [Section III : Modalités d'exercice du droit de contrôle (art. R*45 F-1 à R45 G-1)](#193)
           - [Section IV : Procédures de rectification (art. R*57-1 à R*64-2)](#194)
-            - [I : Procédure de rectification contradictoire (art. R*57-1 à R60-2 A)](#195)
+            - [I : Procédure de rectification contradictoire (art. R*57-1 à R60-2 B)](#195)
             - [III : Procédure spéciale de l'article 168 du code général des impôts (art. R*63-1)](#196)
             - [IV : Procédure de l'abus de droit fiscal (art. R*64-1 à R*64-2)](#197)
           - [Section V : Procédures d'imposition d'office (art. R* 71-1 à R*76 AA-1)](#198)
@@ -16526,67 +16526,91 @@ _Cite_:
 Le contribuable dispose d'un délai de trente jours à compter de la réception de la réponse de l'administration à ses
 observations pour présenter la demande prévue au premier alinéa de l'article L. 59. 
 
-L'administration notifie l'avis de la commission au contribuable et l'informe en même temps du chiffre qu'elle se propose de
-retenir comme base d'imposition.
+L'administration notifie l'avis de la commission ou du comité consultatif au contribuable et l'informe en même temps du
+chiffre qu'elle se propose de retenir comme base d'imposition ou comme montant du crédit d'impôt défini à l'article 244
+quater B du code général des impôts.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-766 du 9 juin 2016, ces dispositions sont applicables aux propositions de
+rectification adressées à compter du 1er juillet 2016.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°91-1386 du 26 décembre 1991 - art. 1 () JORF 1er janvier 1992
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+  - Décret n°2016-766 du 9 juin 2016 - art. 2
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L59 (V)
+  - Code général des impôts, CGI. - art. 244 quater B
+  - Livre des procédures fiscales - art. L59
 
 
 ###### Article R*60-1
 
 Lorsque le litige est soumis à la commission départementale des impôts directs et des taxes sur le chiffre d'affaires, en
 application de l'article L. 59 A, ou à la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires, en
-application de l'article L. 59 C, le contribuable est convoqué trente jours au moins avant la date de la réunion. Le rapport
-et les documents mentionnés à l'article L. 60 doivent être tenus à sa disposition, au secrétariat de la commission, pendant
-le délai de trente jours qui précède la réunion de cette commission.
+application de l'article L. 59 C, ou au comité consultatif du crédit d'impôt pour dépenses de recherche, en application de
+l'article L. 59 D, le contribuable est convoqué trente jours au moins avant la date de la réunion. Cette convocation peut
+être envoyée par tout moyen, y compris par courrier électronique. Le rapport et les documents mentionnés à l'article L. 60
+doivent être tenus à sa disposition, au secrétariat de la commission ou du comité consultatif, pendant le délai de trente
+jours qui précède la réunion de cette commission ou de ce comité. Ils peuvent également être communiqués au contribuable par
+courrier électronique.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-766 du 9 juin 2016, ces dispositions sont applicables aux propositions de
+rectification adressées à compter du 1er juillet 2016.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-1393 du 19 décembre 2008 - art. 1
+  - Décret n°2016-766 du 9 juin 2016 - art. 2
 
 _Cite_:
 
   - Livre des procédures fiscales - art. L59 A
   - Livre des procédures fiscales - art. L59 C
+  - Livre des procédures fiscales - art. L59 D (V)
   - Livre des procédures fiscales - art. L60
 
 
 ###### Article R*60-2
 
-Devant la commission départementale ou nationale des impôts directs et des taxes sur le chiffre d'affaires, le contribuable
-peut se faire assister par deux conseils de son choix.
+Devant la commission départementale ou nationale des impôts directs et des taxes sur le chiffre d'affaires ou le comité
+consultatif du crédit d'impôt pour dépenses de recherche, le contribuable peut se faire assister par deux conseils de son
+choix.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-766 du 9 juin 2016, ces dispositions sont applicables aux propositions de
+rectification adressées à compter du 1er juillet 2016.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-1393 du 19 décembre 2008 - art. 2
+  - Décret n°2016-766 du 9 juin 2016 - art. 2
 
 
 ###### Article R*60-3
 
 L'avis ou la décision de la commission départementale ou nationale des impôts directs et des taxes sur le chiffre d'affaires
-doit être motivé. Il est notifié au contribuable par l'administration des impôts.
+ou du comité consultatif du crédit d'impôt pour dépenses de recherche doit être motivé. Il est notifié au contribuable par
+l'administration des impôts.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-766 du 9 juin 2016, ces dispositions sont applicables aux propositions de
+rectification adressées à compter du 1er juillet 2016.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-1393 du 19 décembre 2008 - art. 3
+  - Décret n°2016-766 du 9 juin 2016 - art. 2
 
 
 ###### Article R*61 A-1
@@ -16598,16 +16622,21 @@ dans ce même délai des observations qui ont été reconnues fondées ;
 
 b) Soit sur la base fixée par l'administration à défaut de réponse ou d'accord du contribuable dans le délai prescrit ;
 
-c) Soit sur la base notifiée par l'administration au contribuable après avis de la commission compétente dans le cas où le
-litige lui a été soumis.
+c) Soit sur la base notifiée par l'administration au contribuable après avis de la commission compétente ou du comité
+consultatif du crédit d'impôt pour dépenses de recherche dans le cas où le litige leur a été soumis.
 
 Le montant de l'impôt exigible donne lieu à l'établissement d'un rôle ou à l'émission d'un avis de mise en recouvrement.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-766 du 9 juin 2016, ces dispositions sont applicables aux propositions de
+rectification adressées à compter du 1er juillet 2016.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2004-282 du 25 mars 2004 - art. 1 () JORF 27 mars 2004 en vigueur le 1er juin 2004
+  - Décret n°2016-766 du 9 juin 2016 - art. 2
 
 
 ###### Article R*61 B-1
@@ -16650,7 +16679,13 @@ _Créé par_:
 ###### Article R60-1 A
 
 Le rapport prévu par l'article L. 60 doit obligatoirement indiquer, selon le cas, le montant du forfait, du bénéfice, du
-chiffre d'affaires ou de la valeur vénale que l'intéressé était en dernier lieu disposé à accepter.
+chiffre d'affaires, de la valeur vénale ou du crédit d'impôt défini à l'article 244 quater B du code général des impôts que
+l'intéressé était en dernier lieu disposé à accepter.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-766 du 9 juin 2016, ces dispositions sont applicables aux propositions de
+rectification adressées à compter du 1er juillet 2016.
 
 **Liens relatifs à cet article**
 
@@ -16658,27 +16693,83 @@ _Codifié par_:
 
   - Décret n°84-876 1984-10-01
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+  - Décret n°2016-766 du 9 juin 2016 - art. 2
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L60 (V)
+  - Code général des impôts, CGI. - art. 244 quater B
+  - Livre des procédures fiscales - art. L60
+
+
+###### Article R60-1 B
+
+Lorsque le litige est soumis au comité consultatif du crédit d'impôt pour dépenses de recherche en application de l'article
+L. 59 D, les contribuables concernés sont invités à se faire entendre ou à faire parvenir leurs observations écrites.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-766 du 9 juin 2016, ces dispositions sont applicables aux propositions de
+rectification adressées à compter du 1er juillet 2016.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-766 du 9 juin 2016 - art. 2
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L59 D (V)
 
 
 ###### Article R60-2 A
 
-A la demande de l'un de ses membres,  la commission départementale ou nationale des impôts directs et des taxes sur le
-chiffre d'affaires peut, si elle l'estime utile, entendre en séance tout fonctionnaire qui a pris part à la détermination de
-la base d'imposition qui fait l'objet du désaccord dont elle est saisie ou, en cas d'absence ou de mutation, son successeur
-ou remplaçant.
+A la demande de l'un de ses membres, la commission départementale ou nationale des impôts directs et des taxes sur le chiffre
+d'affaires et le comité consultatif du crédit d'impôt pour dépenses de recherche peuvent, s'ils l'estiment utile, entendre en
+séance tout fonctionnaire ou agent qui a pris part à la détermination de la base d'imposition ou à la qualification des
+dépenses prises en compte pour la détermination du crédit d'impôt défini à l'article 244 quater B du code général des impôts
+qui fait l'objet du désaccord dont ils sont saisis ou, en cas d'absence ou de mutation, son successeur ou remplaçant.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-766 du 9 juin 2016, ces dispositions sont applicables aux propositions de
+rectification adressées à compter du 1er juillet 2016.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-1011 du 30 septembre 2008 - art. 2
+  - Décret n°2016-766 du 9 juin 2016 - art. 2
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 244 quater B
+
+
+###### Article R60-2 B
+
+Le comité consultatif du crédit d'impôt pour dépenses de recherche peut demander, avant la tenue de la séance, aux services
+du ministère chargé de la recherche ou du ministère chargé de l'innovation un rapport complémentaire d'expertise technique
+sur la qualification des dépenses de recherche. Ce rapport est transmis par le ministère chargé de la recherche ou par le
+ministère chargé de l'innovation au président du comité qui le communique au contribuable et à l'administration fiscale dans
+un délai raisonnable avant la tenue de la séance.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-766 du 9 juin 2016, ces dispositions sont applicables aux propositions de
+rectification adressées à compter du 1er juillet 2016.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-766 du 9 juin 2016 - art. 2
+
+_Cité par_:
+
+  - Décret n°2017-1561 du 13 novembre 2017 - art. 2 (V)
 
 
 ##### III : Procédure spéciale de l'article 168 du code général des impôts<a id=196></a>
@@ -20365,13 +20456,18 @@ _Modifié par_:
 
 Un conseiller d'Etat ne peut siéger dans une formation de jugement ayant à connaître d'un litige portant sur une imposition
 dont il a eu à apprécier la base comme président de la Commission nationale des impôts directs et des taxes sur le chiffre
-d'affaires.
+d'affaires ou du comité consultatif du crédit d'impôt pour dépenses de recherche.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-766 du 9 juin 2016, ces dispositions sont applicables aux propositions de
+rectification adressées à compter du 1er juillet 2016.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-1393 du 19 décembre 2008 - art. 4
+  - Décret n°2016-766 du 9 juin 2016 - art. 2
 
 
 ##### C : Procédure devant le tribunal de grande instance et la cour d'appel<a id=238></a>
