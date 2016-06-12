@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-06-12
+Version Consolidée au 2016-06-13
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -99,7 +99,7 @@ Version Consolidée au 2016-06-12
             - [2° : Publicité de l'impôt (art. L111 à L112)](#96)
           - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L166 F)](#97)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#98)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 ZE)](#99)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 ZF)](#99)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139 B)](#100)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 C)](#101)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151 B)](#102)
@@ -9233,6 +9233,28 @@ _Créé par_:
   - Loi n°2015-1786 du 29 décembre 2015 - art. 123 (VD)
 
 
+###### Article L135 ZF
+
+L'administration fiscale transmet au ministère chargé des transports les informations mentionnées au deuxième alinéa des
+articles L. 3113-1 et L. 3211-1 du code des transports relatives aux entreprises de transport public de personnes ou de
+marchandises inscrites au registre tenu par les autorités administratives compétentes de l'Etat.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles L. 3113-1 et L. 3211-1 du code des transports.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-776 du 10 juin 2016 - art. 1
+
+_Cite_:
+
+  - Code des transports - art. L3113-1
+  - Code des transports - art. L3211-1
+
+
 ##### III : Dérogations au profit de diverses commissions<a id=100></a>
 
 ###### Article L136
@@ -15391,16 +15413,14 @@ un paiement ou produire un document auprès d'une autorité administrative peut 
 date prescrite au moyen d'un envoi de correspondance, le cachet apposé par les prestataires de services postaux autorisés au
 titre de l'article L. 3 du code des postes et des communications électroniques faisant foi, ou d'un envoi par voie
 électronique, auquel cas fait foi la date figurant sur l'accusé de réception ou, le cas échéant, sur l'accusé
-d'enregistrement adressé à l'usager par la même voie conformément aux dispositions du II de l'article 5 de l'ordonnance n°
-2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre
-les autorités administratives. 
+d'enregistrement adressé à l'usager par la même voie conformément à l'article L. 112-11 du code des relations entre le public
+et l'administration. 
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'art art. 5-II de l'ordonnance n° 2005-1516 du 8 décembre 2005 et de l' art. 65 de
-la loi n° 2012-387 du 22 mars 2012.
+Modification effectuée en conséquence de l'art. 1er, 6-7° et 10-I de l'ordonnance n° 2015-1341 du 23 octobre 2015.
 
 **Liens relatifs à cet article**
 
@@ -15408,13 +15428,14 @@ _Codifié par_:
 
   - Décret n°2001-436 du 21 mai 2001
 
-_Cite_:
-
-  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5 (V)
-
 _Modifié par_:
 
-  - Décret n°2013-464 du 3 juin 2013 - art. 1
+  - Décret n°2016-776 du 10 juin 2016 - art. 1
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L3 (V)
+  - Code des relations entre le public et l'adminis... - art. L112-11 (V)
 
 
 ###### Article L286 A
@@ -15579,23 +15600,15 @@ _Cité par_:
 L'administration soumet à la commission départementale des impôts directs et des taxes sur le chiffre d'affaires les
 propositions mentionnées à l'article L. 1 au plus tard le 31 mai suivant l'année d'imposition.
 
+**Nota:**
+
+En conséquence de l'article art. 33-II et V de la loi n° 2015-1786 du 29 décembre 2015, cet article devient sans objet.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 66 1 (AL. 2 2ème LIGNE)
-
-_Modifié par_:
-
-  - Décret n°93-230 du 14 février 1993 - art. 1 () JORF 23 février 1993
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 1998-12-09 5E-6-98
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L1 (V)
+  - Livre des procédures fiscales - art. L1
 
 
 ###### Article R*1-2
@@ -15609,19 +15622,15 @@ par un fonctionnaire de son service.
 Elle prend sa décision à la majorité des voix ou, en cas de partage des voix, dans les conditions prévues au second alinéa de
 l'article 1651 du code général des impôts au plus tard le 31 mai suivant l'année d'imposition.
 
+**Nota:**
+
+En conséquence de l'article art. 33-II et V de la loi n° 2015-1786 du 29 décembre 2015, cet article devient sans objet.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°93-230 du 14 février 1993 - art. 2 () JORF 23 février 1993
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1651 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 1998-12-09 5E-6-98
+  - Code général des impôts, CGI. - art. 1651
 
 
 ###### Article R*2-1
@@ -15639,15 +15648,15 @@ copie du procès-verbal des travaux de la commission.
 Les bénéfices forfaitaires définitivement arrêtés sont publiés au Bulletin officiel des finances publiques-impôts (BOFiP-
 Impôts) .
 
+**Nota:**
+
+En conséquence de l'article art. 33-II et V de la loi n° 2015-1786 du 29 décembre 2015, cet article devient sans objet.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°81-860 du 15 septembre 1981
-
-_Modifié par_:
-
-  - Décret n°2014-1039 du 11 septembre 2014 - art. 1
 
 _Cite_:
 
@@ -15661,16 +15670,10 @@ membres de la commission ayant assisté aux délibérations de cet organisme.
 
 Ceux-ci disposent d'un délai de cinq jours pour fournir leurs observations, lesquelles sont annexées au procès-verbal.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Créé par_:
+En conséquence de l'article art. 33-II et V de la loi n° 2015-1786 du 29 décembre 2015, cet article devient sans objet.
 
-  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
-
-**Liens**:
-
-  - HISTO: Edition du 15 juillet 1985
-  - TXT_ASSOCIE: Instruction 1998-12-09 5E-6-98
 
 
 ##### Section II :<a id=177></a>
@@ -15682,19 +15685,19 @@ de leur catégorie résultant du classement défini à l'article L. 4.
 
 Les exploitants intéressés peuvent faire appel du classement jusqu'à l'expiration de ce délai.
 
+**Nota:**
+
+En conséquence de l'article art. 33-II et V de la loi n° 2015-1786 du 29 décembre 2015, cet article devient sans objet.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 67 (AL. 3, AL. 4 1ère LIGNE P.)
 
 _Codifié par_:
 
-  - Décret n°81-860 1981-09-15
+  - Décret n°81-860 du 15 septembre 1981
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L4 (V)
+  - Livre des procédures fiscales - art. L4
 
 
 ### Titre II : Le contrôle de l'impôt<a id=178></a>
