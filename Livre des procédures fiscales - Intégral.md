@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-07-10
+Version Consolidée au 2016-07-18
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -223,7 +223,7 @@ Version Consolidée au 2016-07-10
             - [2° : Publicité de l'impôt (art. R111-1 à R111-4)](#220)
           - [Section II : Dérogations à la règle du secret professionnel (art. R*113-1 à R152-2)](#221)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. R*114 A-1 à R*114 A-5)](#222)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics et au profit de tiers (art. R*135 B-1 à R135 ZB-1)](#223)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics et au profit de tiers (art. R*135 B-1 à R135 ZC-1)](#223)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. R145 A-1)](#224)
             - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale (art. R*152-1 à R152-2)](#225)
         - [Chapitre IV : Les délais de prescription (art. R*178-1)](#226)
@@ -19585,6 +19585,41 @@ _Cite_:
   - Livre des procédures fiscales - art. L135 ZB
   - Code rural - art. L236-2
   - Code rural - art. L251-17-1
+
+
+###### Article R135 ZC-1
+
+Le préfet de police, le directeur général de la police nationale, le directeur général de la gendarmerie nationale, le
+directeur général de la sécurité intérieure et le directeur général des douanes et droits indirects délivrent les
+habilitations mentionnées à l'article L. 135 ZC aux agents, relevant de leurs services, individuellement désignés pour
+accéder aux fichiers contenant les informations mentionnées aux articles 1649 A et 1649 ter du code général des impôts. 
+
+Ces habilitations sont personnelles. 
+
+Le préfet de police, le directeur général de la police nationale et le directeur général de la sécurité intérieure ne peuvent
+déléguer l'exercice de cette compétence qu'aux directeurs des services actifs de la police nationale placés sous leur
+autorité. Le directeur général de la gendarmerie nationale ne peut la déléguer qu'au directeur des opérations et de l'emploi
+ou au sous-directeur de la police judiciaire. Le directeur général des douanes et droits indirects ne peut la déléguer qu'au
+magistrat délégué aux missions judiciaires de la douane. 
+
+Le directeur général des finances publiques est informé de l'identité et de la fonction des personnes habilitées et de toute
+modification relative à ces habilitations.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 14 juin 1982 - art. 4 (V)
+
+_Créé par_:
+
+  - Décret n°2016-971 du 15 juillet 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 A (V)
+  - Code général des impôts, CGI. - art. 1649 ter (V)
+  - Livre des procédures fiscales - art. L135 ZC (V)
 
 
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions<a id=224></a>
