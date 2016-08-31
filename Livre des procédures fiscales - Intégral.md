@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-07-18
+Version Consolidée au 2016-09-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -20278,22 +20278,27 @@ _Cite_:
 
 ###### Article R*200-4
 
-Les notifications et communications faites à l'administration sont adressées par le tribunal administratif à la direction
-compétente pour statuer sur la réclamation préalable en application de l'article R* 198-10 et par la cour administrative
-d'appel au ministre chargé du budget. 
+Les notifications et communications faites à l'administration sont adressées par le tribunal administratif au directeur
+compétent en application du 1° bis du I de l'article 408 de l'annexe II au code général des impôts et par la cour
+administrative d'appel au ministre chargé du budget. 
 
 Les pièces et documents joints à la requête ou aux mémoires produits sont, dès réception, adressés d'office en communication
 à l'administration.
+
+**Nota:**
+
+Conformément au III de l'article 5 du décret n° 2016-1099 du 11 août 2016, les présentes dispositions s'appliquent aux
+notifications et communications effectuées à compter du 1er septembre 2016.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-430 du 29 mars 2012 - art. 29
+  - Décret n°2016-1099 du 11 août 2016 - art. 3
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. R*198-10
+  - Code général des impôts, annexe 2, CGIAN2. - art. 408 (V)
 
 _Cité par_:
 
