@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-10-10
+Version Consolidée au 2016-12-11
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -100,7 +100,7 @@ Version Consolidée au 2016-10-10
             - [2° : Publicité de l'impôt (art. L111 à L112)](#97)
           - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L166 F)](#98)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#99)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 ZF)](#100)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 ZG)](#100)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139 B)](#101)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 C)](#102)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151 B)](#103)
@@ -5915,46 +5915,22 @@ _Modifié par_:
 
 ###### Article L83 A
 
-Les agents de la direction générale des finances publiques et de la direction générale des douanes et droits indirects
-peuvent se communiquer spontanément tous les renseignements et documents recueillis dans le cadre de leurs missions
-respectives.
+Les agents de la direction générale des finances publiques, les agents de la direction générale des douanes et droits
+indirects et les agents de la concurrence, de la consommation et de la répression des fraudes peuvent se communiquer
+spontanément ou sur demande tous documents et renseignements détenus ou recueillis dans le cadre de l'ensemble de leurs
+missions respectives.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
   - Arrêté du 25 février 2010 - art. 6 (V)
-  - Code de la sécurité sociale. - art. L114-20 (M)
+  - Code de la sécurité sociale. - art. L114-20 (V)
   - Code du travail - art. L8113-5-2 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 83
-
-
-###### Article L83 B
-
-Les                 agents de la concurrence, de la consommation et de la répression des fraudes et de la direction générale
-des douanes et droits indirects peuvent se communiquer spontanément tous les renseignements et documents recueillis dans le
-cadre de leurs missions respectives.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-357 du 24 mars 2006
-
-_Modifié par_:
-
-  - Loi n°2011-525 du 17 mai 2011 - art. 94
-
-_Abrogé par_:
-
   - Loi n°2016-1691 du 9 décembre 2016 - art. 160
-
-_Cité par_:
-
-  - Code de la sécurité sociale. - art. L114-20 (M)
 
 
 ###### Article L83 C
@@ -9348,6 +9324,33 @@ _Cite_:
 
   - Code des transports - art. L3113-1
   - Code des transports - art. L3211-1
+
+
+###### Article L135 ZG
+
+Pour les besoins de l'accomplissement de leurs missions, les agents de la Haute Autorité pour la transparence de la vie
+publique, individuellement désignés par son président et dûment habilités selon des modalités fixées par décret, disposent
+d'un droit d'accès aux fichiers contenant les informations mentionnées à l'article L. 107 B du présent livre et les
+informations mentionnées aux articles 1649 A et 1649 ter du code général des impôts, ainsi qu'au traitement automatisé
+d'informations nominatives dénommé " Base nationale des données patrimoniales ".
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 14 juin 1982 - art. 4 (V)
+  - Arrêté du 1er septembre 2016 - art. 5 (V)
+  - Livre des procédures fiscales - art. R135 ZG-1 (V)
+
+_Créé par_:
+
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 32
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 A (V)
+  - Code général des impôts, CGI. - art. 1649 ter (V)
+  - Livre des procédures fiscales - art. L107 B (V)
 
 
 ##### III : Dérogations au profit de diverses commissions<a id=101></a>
