@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-12-24
+Version Consolidée au 2016-12-25
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -10160,8 +10160,9 @@ _Cite_:
 Les agents des administrations fiscales communiquent aux organismes et services chargés de la gestion d'un régime obligatoire
 de sécurité sociale, de l'attribution de la protection complémentaire en matière de santé visée à l'article L. 861-1 du code
 de la sécurité sociale, aux services chargés de la gestion et du paiement des pensions aux fonctionnaires de l'Etat et
-assimilés, aux institutions mentionnées au chapitre Ier du titre II du livre IX du code de la sécurité sociale ainsi qu'à
-l'institution mentionnée à l'article L. 5312-1 du code du travail les informations nominatives nécessaires : 
+assimilés, aux institutions mentionnées au chapitre Ier du titre II du livre IX du code de la sécurité sociale, au service
+mentionné au deuxième alinéa de l'article L. 815-7 du même code ainsi qu'à l'institution mentionnée à l'article L. 5312-1 du
+code du travail les informations nominatives nécessaires : 
 
 1° à l'appréciation des conditions d'ouverture et de maintien des droits aux prestations ; 
 
@@ -10171,12 +10172,12 @@ l'institution mentionnée à l'article L. 5312-1 du code du travail les informat
 
 4° à la détermination de l'assiette et du montant des cotisations et contributions ainsi qu'à leur recouvrement ; 
 
-5° Au recouvrement des prestations indûment versées ;
+5° Au recouvrement des prestations indûment versées ; 
 
 6° A l'appréciation des conditions d'ouverture et de maintien des prestations versées dans le cadre de leur mission légale en
 matière d'action sanitaire et sociale ; 
 
-7° Au calcul des prestations versées dans le cadre de leur mission légale en matière d'action sanitaire et sociale.
+7° Au calcul des prestations versées dans le cadre de leur mission légale en matière d'action sanitaire et sociale. 
 
 Le numéro d'inscription au répertoire national d'identification des personnes physiques peut être utilisé pour les demandes,
 échanges et traitements nécessaires à la communication des informations mentionnées aux 1° à 7°, lorsqu'elles concernent des
@@ -10236,11 +10237,13 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2012-354 du 14 mars 2012 - art. 18
+  - Loi n°2016-1827 du 23 décembre 2016 - art. 106
 
 _Cite_:
 
   - Code du travail - art. L5312-1
+  - Code de la sécurité sociale. -  Chapitre 1 : Dispositions relatives à la généra... (V)
+  - Code de la sécurité sociale. - art. L815-7 (VT)
   - Code de la sécurité sociale. - art. L861-1
 
 
