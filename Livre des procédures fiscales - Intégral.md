@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-12
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -226,7 +226,7 @@ Version Consolidée au 2017-01-01
             - [2° : Publicité de l'impôt (art. R111-1 à R111-4)](#223)
           - [Section II : Dérogations à la règle du secret professionnel (art. R*113-1 à R152-2)](#224)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. R*114 A-1 à R*114 A-5)](#225)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics et au profit de tiers (art. R*135 B-1 à R135 ZC-1)](#226)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics et au profit de tiers (art. R*135 B-1 à R135 ZG-1)](#226)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. R145 A-1)](#227)
             - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale (art. R*152-1 à R152-2)](#228)
         - [Chapitre IV : Les délais de prescription (art. R*178-1)](#229)
@@ -20077,6 +20077,35 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1649 A (V)
   - Code général des impôts, CGI. - art. 1649 ter (V)
   - Livre des procédures fiscales - art. L135 ZC (V)
+
+
+###### Article R135 ZG-1
+
+Le président de la Haute Autorité pour la transparence de la vie publique délivre les habilitations mentionnées à l'article
+L. 135 ZG aux agents relevant de son autorité, individuellement désignés pour accéder aux fichiers, informations et
+traitement mentionnés à ce même article.
+
+Ces habilitations sont personnelles.
+
+Le président de la Haute Autorité pour la transparence de la vie publique ne peut déléguer l'exercice de cette compétence
+qu'au secrétaire général de cette autorité.
+
+Le directeur général des finances publiques est informé de l'identité et de la fonction des personnes habilitées et de toute
+modification relative à ces habilitations.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 14 juin 1982 - art. 4 (V)
+
+_Créé par_:
+
+  - Décret n°2017-19 du 9 janvier 2017 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L135 ZG (V)
 
 
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions<a id=227></a>
