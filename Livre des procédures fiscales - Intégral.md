@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-01-12
+Version Consolidée au 2017-02-04
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -280,7 +280,7 @@ Version Consolidée au 2017-01-12
                 - [1 : Contributions indirectes (art. A26-1 à A27-1)](#277)
                   - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#278)
                 - [2 : Droits de timbre (art. A37-1)](#279)
-          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1 à A47 A-3)](#280)
+          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1 à A47 AA-1)](#280)
           - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-6-1)](#281)
         - [Chapitre II : Le droit de communication (art. A97-1 à A97-3)](#282)
           - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#283)
@@ -25103,6 +25103,23 @@ _Créé par_:
 _Cite_:
 
   - Livre des procédures fiscales - art. L47 A
+
+
+###### Article A47 AA-1
+
+La copie des fichiers des écritures comptables adressée par le contribuable à l'administration en application du 1 de
+l'article L. 47 AA respecte les normes fixées à l'article A. 47 A-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 janvier 2017 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. A47 A-1
+  - Livre des procédures fiscales - art. L47 AA
 
 
 ##### Section VI : Conséquences et limites des procédures de rectification<a id=281></a>
