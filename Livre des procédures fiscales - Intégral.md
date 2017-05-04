@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-05-01
+Version Consolidée au 2017-05-05
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -6214,24 +6214,28 @@ _Cite_:
 ###### Article L84 D
 
 L'Autorité de contrôle prudentiel et de résolution est tenue de communiquer à l'administration fiscale tout document ou
-information qu'elle détient dans le cadre de ses missions et dont elle informe, en application de l'article L. 561-30 du code
+information qu'elle détient dans le cadre de ses missions et dont elle informe, en application de l'article L. 561-28 du code
 monétaire et financier, le service mentionné à l'article L. 561-23 du même code ou dont son président informe le procureur de
 la République territorialement compétent, en application de l'article L. 612-28 dudit code, s'agissant de sommes ou
 opérations susceptibles de provenir d'une fraude fiscale mentionnée au II de l'article L. 561-15 du même code, à l'exception
 des documents ou des informations qu'elle a reçus d'une autorité étrangère chargée d'une mission similaire à la sienne, sauf
 en cas d'accord préalable de cette autorité.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 5-X de l'ordonnance n° 2016-1635 du 1er décembre 2016.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 52
+  - Décret n°2017-699 du 2 mai 2017 - art. 1
 
 _Cite_:
 
   - Code monétaire et financier - art. L561-15
-  - Code monétaire et financier - art. L561-23 (V)
-  - Code monétaire et financier - art. L561-30 (V)
+  - Code monétaire et financier - art. L561-23
+  - Code monétaire et financier - art. L561-28
   - Code monétaire et financier - art. L612-28
 
 
@@ -8561,28 +8565,24 @@ _Cite_:
 
 ###### Article L134 B
 
-Conformément à l'article L. 5427-2 du code du travail, les agents des services des impôts peuvent communiquer aux organismes
-gestionnaires du régime d'assurance chômage les renseignements nécessaires à l'assiette des cotisations et au calcul des
-prestations.
+Le service mentionné à l'article L. 561-23 du code monétaire et financier dispose, en application de l'article L. 561-27 du
+même code, d'un droit d'accès direct aux fichiers utilisés par les services en charge de l'établissement de l'assiette, du
+contrôle et du recouvrement des impôts.
 
 **Nota:**
 
-Dispositions devenues sans objet en conséquence de l'article 17 II et III de la loi n° 2009-1674 du 30 décembre 2009.
+Modification effectuée en conséquence de l'article L. 561-27 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-388 du 7 avril 2009 - art. 1
-  - Décret n°2010-422  du 27 avril 2010 - art. 1
-
-**Liens**:
-
-  - PERIME: Décret n°2010-422  du 27 avril 2010 - art. 1
+  - Décret n°2017-699 du 2 mai 2017 - art. 1
 
 _Cite_:
 
-  - Code du travail - art. L5427-2 (V)
+  - Code monétaire et financier - art. L561-23 (V)
+  - Code monétaire et financier - art. L561-27 (V)
 
 
 ###### Article L134 C
@@ -9674,20 +9674,24 @@ _Cite_:
 
 ###### Article L139 A
 
-La commission de surendettement des particuliers prévue à l'article L. 331-1 du code de la consommation peut obtenir
-communication auprès des administrations publiques de tout renseignement sur la situation du débiteur conformément au
-cinquième alinéa du II de l'article L. 331-3 du même code.
+La commission de surendettement des particuliers prévue à l'article L. 712-4 du code de la consommation peut obtenir
+communication auprès des administrations publiques de tout renseignement sur la situation du débiteur conformément à
+l'article L. 712-6 du même code.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 2, 34-I et 36 de l'ordonnance n° 2016-301 du 14 mars 2016.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-646 du 9 juin 2011 - art. 1
+  - Décret n°2017-699 du 2 mai 2017 - art. 1
 
 _Cite_:
 
-  - Code de la consommation - art. L331-1
-  - Code de la consommation - art. L331-3
+  - Code de la consommation - art. L712-4
+  - Code de la consommation - art. L712-6
 
 _Cité par_:
 
@@ -9696,14 +9700,20 @@ _Cité par_:
 
 ###### Article L139 B
 
-I. - La Haute Autorité pour la transparence de la vie publique peut demander à l'administration fiscale communication de la
-copie des déclarations souscrites, en application des articles 170 à 175 A du code général des impôts et, le cas échéant, en
-application du 1 du I de l'article 885 W du même code, par un député ou par son conjoint séparé de biens, son partenaire lié
-par un pacte civil de solidarité ou son concubin, en application de l'article LO 135-3 du code électoral, ou par les
+I. – 1. La Haute Autorité pour la transparence de la vie publique peut demander à l'administration fiscale communication de
+la copie des déclarations souscrites, en application des articles 170 à 175 A du code général des impôts et, le cas échéant,
+en application du 1 du I de l'article 885 W du même code, par un député ou par son conjoint séparé de biens, son partenaire
+lié par un pacte civil de solidarité ou son concubin, en application de l'article LO 135-3 du code électoral, ou par les
 personnes mentionnées aux articles 4 et 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie
-publique, en application de l'article 6 de cette même loi.
+publique, en application de l'article 6 de cette même loi. 
 
-II. - Conformément au deuxième alinéa du I de l'article LO 135-2 du code électoral pour les députés et au premier alinéa du I
+2. L'administration fiscale répond aux demandes de la Haute Autorité pour la transparence de la vie publique, relatives à la
+mission de contrôle que cette dernière exerce, en application du V de l'article L. 4122-8 du code de la défense, du V de
+l'article 25 quinquies de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, du V de
+l'article 7-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature et
+de l'article 10-1-2 de la loi organique n° 94-100 du 5 février 1994 sur le Conseil supérieur de la magistrature. 
+
+II. – Conformément au deuxième alinéa du I de l'article LO 135-2 du code électoral pour les députés et au premier alinéa du I
 de l'article 5 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique pour les membres du
 Gouvernement, l'administration fiscale fournit à la Haute Autorité pour la transparence de la vie publique tous les éléments
 lui permettant d'apprécier l'exhaustivité, l'exactitude et la sincérité des déclarations de situation patrimoniale qu'ils ont
@@ -9711,21 +9721,29 @@ déposées.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'article LO 135-2-I, deuxième alinéa du code électoral et de l'article 5-I, premier
-alinéa de la loi n° 2013-907 du 11 octobre 2013.
+Modifications effectuées en conséquence de l'article L. 4122-8, V du code de la défense, de l'article 25 quinquies-V de la
+loi n°83-634 du 13 juillet 1983, de l'article 7-3 V de l'ordonnance n° 58-1270 du 22 décembre 1958 et l'article 10-1-2 de la
+loi n° 94-1000 du 5 février 1994.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2013-907 du 11 octobre 2013 - art. 4
-  - Code général des impôts, CGI. - art. 170
-  - Code général des impôts, CGI. - art. 885 W
-  - Code électoral - art. LO135-3
+  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 7-3 (V)
+  - Loi n°83-634 du 13 juillet 1983 - art. 25 quinquies (V)
+  - Loi organique n°94-100 du 5 février 1994 - art. 10-1-2 (V)
+  - Loi n°2013-907 du 11 octobre 2013 - art. 5 (V)
+  - Loi n°2013-907  du 11 octobre 2013 - art. 11 (M)
+  - Loi n°2013-907  du 11 octobre 2013 - art. 4 (V)
+  - Code général des impôts, CGI. - art. 170 (VT)
+  - Code général des impôts, CGI. - art. 885 W (V)
+  - Code électoral - art. LO135-2 (V)
+  - Code électoral - art. LO135-3 (V)
+  - Code de la défense. - art. L4122-8 (V)
 
 _Modifié par_:
 
-  - Décret n°2014-550 du 26 mai 2014 - art. 1
+  - Décret n°2017-699 du 2 mai 2017 - art. 1
 
 
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions<a id=102></a>
@@ -9990,10 +10008,13 @@ _Cite_:
 
 ###### Article L145 D
 
-Dans le cadre du contrôle des mesures imposées ou recommandées par la commission de surendettement des particuliers ou du
-contrôle de sa recommandation aux fins de rétablissement personnel sans liquidation judiciaire prévus aux  articles L. 332-2
-à L. 332-5-2 du code de la consommation, le juge peut obtenir communication de tout renseignement sur la situation du
-débiteur conformément aux articles précités.
+Dans le cadre du traitement des situations de surendettement prévues au livre VII du code de la consommation, le juge peut
+obtenir communication de tout renseignement lui permettant d'apprécier la situation du débiteur et l'évolution possible de
+celle-ci dans les conditions prévues aux articles L. 733-14, L. 741-6, L. 741-9 et L. 742-6 du code précité.
+
+**Nota:**
+
+Modification effectuée en conséquence des articles L. 733-14, L. 741-6, L. 741-9 et L. 742-6, du code de la consommation.
 
 **Liens relatifs à cet article**
 
@@ -10003,11 +10024,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-609 du 3 juin 2015 - art. 1
+  - Décret n°2017-699 du 2 mai 2017 - art. 1
 
 _Cite_:
 
-  - Code de la consommation - art. L332-2
+  - Code de la consommation - art. L733-14 (VT)
+  - Code de la consommation - art. L741-6 (VT)
+  - Code de la consommation - art. L741-9 (VT)
+  - Code de la consommation - art. L742-6 (V)
 
 
 ###### Article L146
@@ -10077,26 +10101,24 @@ _Modifié par_:
 
 ###### Article L147 C
 
-Conformément au          dernier alinéa de l'article L. 1454-1-2 du code du travail, les agents de l'administration des
-impôts ou de l'administration des douanes et droits indirects doivent communiquer aux conseillers rapporteurs membres d'un
-conseil de prud'hommes, sur la demande de ceux-ci et sans pouvoir opposer le secret professionnel, les renseignements et
-documents relatifs au travail dissimulé, au marchandage ou au prêt illicite de main-d'oeuvre dont ils disposent.
+Conformément au quatrième alinéa de l'article L. 1454-1-2 du code du travail, les agents de l'administration des impôts ou de
+l'administration des douanes et droits indirects doivent communiquer aux conseillers rapporteurs membres d'un conseil de
+prud'hommes, sur la demande de ceux-ci et sans pouvoir opposer le secret professionnel, les renseignements et documents
+relatifs au travail dissimulé, au marchandage ou au prêt illicite de main-d'œuvre dont ils disposent.
 
 **Nota:**
 
-_
-
-_
+Modification effectuée en conséquence de l'article 68 de la loi n° 2016-1088 du 8 août 2016.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-990 du 6 août 2015 - art. 258
+  - Décret n°2017-699 du 2 mai 2017 - art. 1
 
 _Cite_:
 
-  - Code du travail - art. L1454-1
+  - Code du travail - art. L1454-1-2
 
 
 ##### V : Dérogations au profit des officiers ministériels<a id=103></a>
@@ -13037,7 +13059,11 @@ _Codifié par_:
 ###### Article L225 A
 
 Conformément à la première phrase de l'article L. 112-7 du code monétaire et financier les infractions aux dispositions des
-articles L. 112-6 et L. 112-6-1 du même code sont constatées par des agents désignés par arrêté du ministre chargé du budget.
+articles L. 112-6 à L. 112-6-2 du même code sont constatées par des agents désignés par arrêté du ministre chargé du budget.
+
+**Nota:**
+
+Modification effectuée en conséquence des articles 98-2° et 114-XV de la loi n° 2016-1547 du 18 novembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -13047,7 +13073,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-464 du 3 juin 2013 - art. 1
+  - Décret n°2017-699 du 2 mai 2017 - art. 1
 
 _Cité par_:
 
@@ -13056,8 +13082,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L112-6
-  - Code monétaire et financier - art. L112-7 (V)
+  - Code monétaire et financier - art. L112-6 (V)
+  - Code monétaire et financier - art. L112-7
 
 
 ##### Section II : Exercice des poursuites pénales<a id=146></a>
@@ -13838,20 +13864,25 @@ _Cite_:
 ###### Article L247 A
 
 Les contribuables de bonne foi, en situation de gêne ou d'indigence, qui ont déposé auprès de la commission de surendettement
-des particuliers visée à l'article L. 331-1 du code de la consommation une demande faisant état de dettes fiscales et qui ne
-font pas l'objet d'une procédure de rétablissement personnel prévue aux articles L. 332-5 ou L. 332-6 dudit code bénéficient
-d'un remise d'impôts directs au moins équivalente à celle recommandée par ladite commission pour les autres créances.
+des particuliers visée à l'article L. 712-4 du code de la consommation une demande faisant état de dettes fiscales et qui ne
+font pas l'objet d'une procédure de rétablissement personnel prévue aux articles L. 332-5 ou L. 742-3 à L. 742-7 dudit code
+bénéficient d'un remise d'impôts directs au moins équivalente à celle recommandée par ladite commission pour les autres
+créances.
+
+**Nota:**
+
+Modification effectuée en conséquence des articles 2 et 36 de l'ordonnance n° 2016-301 du 14 mars 2016.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-1249 du 22 octobre 2010 - art. 42
+  - Décret n°2017-699 du 2 mai 2017 - art. 1
 
 _Cite_:
 
-  - Code de la consommation - art. L331-1
-  - Code de la consommation - art. L332-5
+  - Code de la consommation - art. L712-4 (V)
+  - Code de la consommation - art. L742-3 (V)
 
 
 ###### Article L247 C
@@ -22085,20 +22116,26 @@ _Cite_:
 
 ###### Article R*247 A-1
 
-La saisine de la commission de surendettement mentionnée à l'article L. 331-1 du code de la consommation vaut demande de
-remise gracieuse d'impôts directs dès lors que cette saisine satisfait aux conditions prévues à l'article R. 331-8-1 du même
-code.
+La saisine de la commission de surendettement mentionnée à l'article L. 712-4 du code de la consommation vaut demande de
+remise gracieuse d'impôts directs dès lors que cette saisine satisfait aux conditions prévues aux articles R. 721-1 à R.
+721-4 et à l'article R. 761-1 du même code.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 2 et 36 de l'ordonnance n° 2016-301 du 14 mars 2016 et des articles 2 et
+11 du décret n° 2016-884 du 29 juin 2016.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 10
+  - Décret n°2017-699 du 2 mai 2017 - art. 2
 
 _Cite_:
 
-  - Code de la consommation - art. L331-1
-  - Code de la consommation - art. R331-8-1
+  - Code de la consommation - art. L712-4 (V)
+  - Code de la consommation - art. R721-1 (V)
+  - Code de la consommation - art. R761-1 (V)
 
 _Cité par_:
 
@@ -22363,9 +22400,14 @@ _Créé par_:
 
 ###### Article R*247-18
 
-La saisine de la commission de surendettement mentionnée à l'article L. 331-1 du code de la consommation par des tiers tenus
+La saisine de la commission de surendettement mentionnée à l'article L. 712-4 du code de la consommation par des tiers tenus
 au paiement de l'impôt vaut demande de dispense de paiement au sens de l'article R. 247-10 dès lors que cette saisine
-satisfait aux conditions prévues à l'article R. 331-8-1 du code de la consommation.
+satisfait aux conditions prévues aux articles R. 721-1 à R. 721-4 et à l'article R. 761-1 du code de la consommation.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 2 et 36 de l'ordonnance n° 2016-301 du 14 mars 2016 et des articles 2 et
+11 du décret n° 2016-884 du 29 juin 2016.
 
 **Liens relatifs à cet article**
 
@@ -22375,12 +22417,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 10
+  - Décret n°2017-699 du 2 mai 2017 - art. 2
 
 _Cite_:
 
-  - Code de la consommation - art. L331-1
-  - Code de la consommation - art. R331-8-1
+  - Code de la consommation - art. L712-4 (V)
+  - Code de la consommation - art. R721-1 (V)
+  - Code de la consommation - art. R761-1 (V)
   - Livre des procédures fiscales - art. R247-10
 
 _Cité par_:
@@ -24894,44 +24937,48 @@ _Cite_:
 
 ###### Article A80 CB-3-5
 
-I.-Les collèges territoriaux sont composés pour chaque direction interrégionale des douanes et droits indirects mentionnée en
-annexe au décret n° 2007-1665 du 26 novembre 2007 relatif à l'organisation des services déconcentrés de la direction générale
-des douanes et droits indirects :
+I. – Les collèges territoriaux sont composés pour chaque direction interrégionale des douanes et droits indirects mentionnée
+en annexe I au décret n° 2007-1665 du 26 novembre 2007 relatif à l'organisation des services déconcentrés de la direction
+générale des douanes et droits indirects :
 
-- du directeur interrégional des douanes et droits indirects ou son représentant, qui assure la fonction de président du
+– du directeur interrégional des douanes et droits indirects ou son représentant, qui assure la fonction de président du
 collège ;
 
-- de quatre directeurs régionaux de la circonscription interrégionale, désignés par le directeur interrégional des douanes et
+– de quatre directeurs régionaux de la circonscription interrégionale, désignés par le directeur interrégional des douanes et
 droits indirects, ou leurs représentants. A défaut d'un nombre suffisant de directeurs régionaux dans la circonscription
 interrégionale, siègent les directeurs des services douaniers ou les inspecteurs principaux des douanes, en poste dans cette
 circonscription, désignés à cet effet par le directeur interrégional des douanes et droits indirects ;
 
-- d'un chef de service régional d'enquêtes, désigné par le directeur interrégional des douanes et droits indirects, autre que
+– d'un chef de service régional d'enquêtes, désigné par le directeur interrégional des douanes et droits indirects, autre que
 celui dont dépend le service dont la position fait l'objet de la demande de second examen, ou son représentant.
 
 En cas d'absence ou d'empêchement ou dans le cas mentionné au cinquième alinéa de l'article R. * 80 CB-3, le collège est
 présidé par le membre du conseil ayant le plus d'ancienneté dans le grade le plus élevé parmi les membres présents.
 
-II.-Pour ce qui concerne la direction régionale de La Réunion, le collège territorial est composé :
+II. – Pour ce qui concerne la direction régionale de La Réunion, le collège territorial est composé :
 
-- du directeur régional des douanes et droits indirects ou son représentant, qui assure la fonction de président ;
+– du directeur régional des douanes et droits indirects ou son représentant, qui assure la fonction de président ;
 
-- de cinq membres de la direction régionale des douanes et droits indirects désignés par le directeur régional des douanes et
+– de cinq membres de la direction régionale des douanes et droits indirects désignés par le directeur régional des douanes et
 droits indirects.
 
 En cas d'absence ou d'empêchement ou dans le cas mentionné au cinquième alinéa de l'article R. * 80 CB-3, le collège est
 présidé par le membre du conseil ayant le plus d'ancienneté dans le grade le plus élevé parmi les membres présents.
 
+**Nota:**
+
+Modifications effectuées en conséquences des articles 10 (I) et 12 du décret n° 2016-357 du 25 mars 2016.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2007-1665 du 26 novembre 2007 (V)
+  - Décret n°2007-1665 du 26 novembre 2007
   - Livre des procédures fiscales - art. R*80 CB-3
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 8 janvier 2010 - art. 1
+  - Arrêté du 2 mai 2017 - art. 1
 
 
 ###### Article A80 CB-6-1
