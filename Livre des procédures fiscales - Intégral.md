@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2017-07-24
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
