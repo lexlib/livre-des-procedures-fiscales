@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-07-24
+Version Consolidée au 2017-08-10
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -19884,11 +19884,11 @@ _Cite_:
 
 ###### Article R*152-1
 
-I. – Les informations nominatives dont, en vertu de l'article L. 152, un organisme ou service chargé de la gestion d'un
-régime obligatoire de sécurité sociale ou une institution mentionnée au chapitre Ier du titre II du livre IX du code de la
-sécurité sociale peut, sur sa demande, obtenir communication de la direction générale des finances publiques ou de la
-direction générale des douanes et droits indirects sont limitées à ceux des éléments de la situation fiscale des personnes
-concernées qui sont strictement nécessaires à l'accomplissement par l'organisme demandeur de sa mission légale.
+I. – Les informations nominatives dont, en vertu de l'article L. 152, un organisme un service ou une institution, mentionné
+au premier alinéa de ce même article, peut, sur sa demande, obtenir communication de la direction générale des finances
+publiques ou de la direction générale des douanes et droits indirects sont limitées à ceux des éléments de la situation
+fiscale des personnes concernées qui sont strictement nécessaires à l'accomplissement par l'organisme demandeur de sa mission
+légale.
 
 Ces informations sont couvertes par le secret professionnel auquel les agents de cet organisme sont légalement astreints.
 
@@ -19909,12 +19909,14 @@ b) Le sexe ;
 
 c) La date et le lieu de naissance ;
 
-d) L'adresse.
+d) L'adresse ;
+
+e) Les coordonnées bancaires.
 
 Elle comporte en outre le numéro d'inscription au répertoire national d'identification des personnes physiques lorsque
 l'organisme demandeur en a connaissance.
 
-3. Pour une personne morale, la demande comporte les indications suivantes :
+3. Pour une personne morale, la demande comporte soit les coordonnées bancaires, soit les indications suivantes :
 
 a) Le numéro d'identification au répertoire national des entreprises ;
 
@@ -19938,7 +19940,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-430 du 29 mars 2012 - art. 39
+  - Décret n°2017-1247 du 7 août 2017 - art. 1
 
 _Cite_:
 
