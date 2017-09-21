@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-09-17
+Version Consolidée au 2017-09-22
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -59,7 +59,7 @@ Version Consolidée au 2017-09-17
         - [Chapitre I quater : Procédure d'imposition contradictoire en matière de contributions indirectes (art. L80 M)](#56)
         - [Chapitre Ier quinquies : Consultation des traitements automatisés de données concernant le marquage des conditionnements des produits du tabac (art. L80 N)](#57)
         - [Chapitre Ier septies : Le droit de contrôle en matière d'information de leurs utilisateurs par les plates-formes de mise en relation par voie électronique (art. L80 P)](#58)
-        - [Chapitre II : Le droit de communication (art. L81 à L102 AE)](#59)
+        - [Chapitre II : Le droit de communication (art. L81 à L102 AF)](#59)
           - [Section I : Conditions d'exercice du droit de communication (art. L82 A à L96 J)](#60)
             - [1° : Personnes versant des honoraires ou des droits d'auteur (art. L82 A)](#61)
             - [2° : Employeurs et débirentiers (art. L82 B)](#62)
@@ -92,7 +92,7 @@ Version Consolidée au 2017-09-17
             - [25° Fabricants et marchands de métaux précieux (art. L96 H)](#89)
             - [26° Agences immobilières (art. L96 I)](#90)
             - [27° Concepteurs et éditeurs de logiciels de comptabilité ou de caisse (art. L96 J)](#91)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. L97 à L102 AE)](#92)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. L97 à L102 AF)](#92)
         - [Chapitre II bis : Obligation et délais de conservation des documents (art. L102 B à L102 E)](#93)
         - [Chapitre III : Le secret professionnel en matière fiscale (art. L103 à L166 F)](#94)
           - [Section I : Portée et limites de la règle du secret professionnel (art. L103 à L112)](#95)
@@ -7232,6 +7232,33 @@ _Cite_:
 
   - Code de la construction et de l'habitation. - art. L411-2 (V)
   - Code de la construction et de l'habitation. - art. L481-1 (V)
+
+
+###### Article L102 AF
+
+Les régisseurs de messages publicitaires et de parrainage mentionnés à l'article 1609 sexdecies B du code général des impôts
+fournissent à chaque redevable concerné ainsi qu'à l'administration fiscale, avant le 15 février de chaque année, un état
+récapitulatif des sommes qu'ils ont encaissées au cours de l'année civile précédente.
+
+**Nota:**
+
+Aux termes de l'article 56 IV de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions entrent en vigueur à une
+date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la
+réponse de la Commission européenne permettant de regarder le dispositif législatif lui ayant été notifié comme conforme au
+droit de l'Union européenne en matière d'aides d'Etat.
+
+Le décret n° 2017-1364 du 20 septembre 2017 constitue le décret susmentionné et, en conséquence, la date d'entrée en vigueur
+du présent article est fixée au 22 septembre 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 56 (V)
+
+_Abrogé par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 36 (V)
 
 
 #### Chapitre II bis : Obligation et délais de conservation des documents<a id=93></a>
