@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-09-22
+Version Consolidée au 2017-12-30
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -59,7 +59,7 @@ Version Consolidée au 2017-09-22
         - [Chapitre I quater : Procédure d'imposition contradictoire en matière de contributions indirectes (art. L80 M)](#56)
         - [Chapitre Ier quinquies : Consultation des traitements automatisés de données concernant le marquage des conditionnements des produits du tabac (art. L80 N)](#57)
         - [Chapitre Ier septies : Le droit de contrôle en matière d'information de leurs utilisateurs par les plates-formes de mise en relation par voie électronique (art. L80 P)](#58)
-        - [Chapitre II : Le droit de communication (art. L81 à L102 AF)](#59)
+        - [Chapitre II : Le droit de communication (art. L81 à L102 AG)](#59)
           - [Section I : Conditions d'exercice du droit de communication (art. L82 A à L96 J)](#60)
             - [1° : Personnes versant des honoraires ou des droits d'auteur (art. L82 A)](#61)
             - [2° : Employeurs et débirentiers (art. L82 B)](#62)
@@ -92,7 +92,7 @@ Version Consolidée au 2017-09-22
             - [25° Fabricants et marchands de métaux précieux (art. L96 H)](#89)
             - [26° Agences immobilières (art. L96 I)](#90)
             - [27° Concepteurs et éditeurs de logiciels de comptabilité ou de caisse (art. L96 J)](#91)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. L97 à L102 AF)](#92)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. L97 à L102 AG)](#92)
         - [Chapitre II bis : Obligation et délais de conservation des documents (art. L102 B à L102 E)](#93)
         - [Chapitre III : Le secret professionnel en matière fiscale (art. L103 à L166 F)](#94)
           - [Section I : Portée et limites de la règle du secret professionnel (art. L103 à L112)](#95)
@@ -100,7 +100,7 @@ Version Consolidée au 2017-09-22
             - [2° : Publicité de l'impôt (art. L111 à L112)](#97)
           - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L166 F)](#98)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#99)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 ZG)](#100)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 ZI)](#100)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139 B)](#101)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 C)](#102)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151 B)](#103)
@@ -6208,15 +6208,16 @@ opérations susceptibles de provenir d'une fraude fiscale mentionnée au II de l
 des documents ou des informations qu'elle a reçus d'une autorité étrangère chargée d'une mission similaire à la sienne, sauf
 en cas d'accord préalable de cette autorité.
 
-**Nota:**
-
-Modification effectuée en conséquence de l'article 5-X de l'ordonnance n° 2016-1635 du 1er décembre 2016.
+A la suite des contrôles qu'elle diligente conformément au 7° du II de l'article L. 612-1 du code monétaire et financier,
+l'autorité mentionnée au premier alinéa du présent article communique à l'administration fiscale les documents et les
+informations nécessaires au respect de l'article 1649 AC du code général des impôts et de l'article L. 102 AG du présent
+livre.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-699 du 2 mai 2017 - art. 1
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 56 (V)
 
 _Cite_:
 
@@ -6232,17 +6233,17 @@ _Cite_:
 
 Sous réserve du II bis de l'article L. 632-7 du code monétaire et financier, l'Autorité des marchés financiers communique à
 l'administration fiscale, sur sa demande, sans pouvoir opposer le secret professionnel, tout document ou information qu'elle
-détient dans le cadre de ses missions.
+détient dans le cadre de ses missions et compétences.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2014-1662 du 30 décembre 2014 - art. 21
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 56 (V)
 
 _Cite_:
 
-  - Code monétaire et financier - art. L632-7 (V)
+  - Code monétaire et financier - art. L632-7
 
 
 ##### 6° : Personnes ayant la qualité de commerçant<a id=70></a>
@@ -7261,6 +7262,30 @@ _Abrogé par_:
   - Loi n°2017-1775 du 28 décembre 2017 - art. 36 (V)
 
 
+###### Article L102 AG
+
+Les institutions financières soumises au I de l'article 1649 AC du code général des impôts transmettent à l'administration la
+liste des titulaires de compte n'ayant pas remis les informations prévues au II du même article 1649 AC, après la seconde
+demande de l'institution financière et à l'expiration d'un délai de trente jours suivant la réception de celle-ci. Un décret
+précise les conditions de l'établissement, notamment la teneur et les modalités des demandes adressées au titulaire du
+compte, et de la transmission à l'administration de la liste prévue au présent alinéa.
+
+Le premier alinéa du présent article n'est pas applicable pour la mise en œuvre de l'accord entre le Gouvernement de la
+République française et le Gouvernement des Etats-Unis d'Amérique en vue d'améliorer le respect des obligations fiscales à
+l'échelle internationale et de mettre en œuvre la loi relative au respect des obligations fiscales concernant les comptes
+étrangers signé à Paris le 14 novembre 2013.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 56 (V)
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1729 C bis (V)
+
+
 #### Chapitre II bis : Obligation et délais de conservation des documents<a id=93></a>
 
 ###### Article L102 B
@@ -7972,12 +7997,12 @@ _Codifié par_:
 ###### Article L113
 
 Des dérogations à la règle du secret professionnel sont établies au profit d'administrations et autorités administratives,
-collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section. 
+collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
 
 Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, 
 L. 127, L. 130, L. 135, 
 L. 135 B, L. 135 D, L. 135 F, 
-L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 135 ZD, L. 136, L. 136-A, L. 139 A, 
+L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 135 ZD, L. 135 ZH, L. 136, L. 136-A, L. 139 A, 
 L. 152, L. 152 A, L. 154, L. 158, L. 158 A, L. 163, 
 L. 166, L. 166 D et L. 166 F sont eux-mêmes soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du
 code pénal.
@@ -8011,8 +8036,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 46 (V)
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 65
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 57 (V)
 
 _Cité par_:
 
@@ -8035,15 +8059,15 @@ _Cite_:
   - Livre des procédures fiscales - art. L135 O
   - Livre des procédures fiscales - art. L135 ZD
   - Livre des procédures fiscales - art. L136
-  - Livre des procédures fiscales - art. L136 A (VD)
-  - Livre des procédures fiscales - art. L139 A (V)
+  - Livre des procédures fiscales - art. L136 A
+  - Livre des procédures fiscales - art. L139 A
   - Livre des procédures fiscales - art. L152
   - Livre des procédures fiscales - art. L152 A
   - Livre des procédures fiscales - art. L158
   - Livre des procédures fiscales - art. L163
-  - Livre des procédures fiscales - art. L166 (V)
-  - Livre des procédures fiscales - art. L166 D (V)
-  - Livre des procédures fiscales - art. L166 F (V)
+  - Livre des procédures fiscales - art. L166
+  - Livre des procédures fiscales - art. L166 D
+  - Livre des procédures fiscales - art. L166 F
   - Code pénal - art. 226-13
 
 
@@ -8905,7 +8929,7 @@ _Modifié par_:
 
 Afin d'assurer l'exécution de sa mission, l'autorité des marchés financiers peut obtenir des informations et documents
 conformément au premier alinéa du I de l'article L. 621-9, à l'article L. 621-9-1, au premier alinéa de l'article L. 621-9-3
-et à l'article L. 621-10 du code monétaire et financier.
+ainsi qu'aux articles L. 621-10  et L. 621-20-6 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
@@ -8916,18 +8940,18 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2006-357 2006-03-24
+  - Décret n°2006-357 du 24 mars 2006
 
 _Modifié par_:
 
-  - Décret n°2006-357 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 56 (V)
 
 _Cite_:
 
-  - Code monétaire et financier - art. L621-10 (V)
-  - Code monétaire et financier - art. L621-9 (VT)
-  - Code monétaire et financier - art. L621-9-1 (V)
-  - Code monétaire et financier - art. L621-9-3 (V)
+  - Code monétaire et financier - art. L621-10
+  - Code monétaire et financier - art. L621-9
+  - Code monétaire et financier - art. L621-9-1
+  - Code monétaire et financier - art. L621-9-3
 
 
 ###### Article L135 G
@@ -9576,6 +9600,18 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1649 A (V)
   - Code général des impôts, CGI. - art. 1649 ter (V)
   - Livre des procédures fiscales - art. L107 B (V)
+
+
+###### Article L135 ZI
+
+Afin d'assurer l'exécution de sa mission, l'Autorité de contrôle prudentiel et de résolution peut obtenir des informations et
+documents conformément au 7° du II de l'article L. 612-1 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 56 (V)
 
 
 ##### III : Dérogations au profit de diverses commissions<a id=101></a>
