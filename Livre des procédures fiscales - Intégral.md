@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-05-31
+Version Consolidée au 2018-06-14
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -10729,8 +10729,8 @@ _Cite_:
 
 ###### Article L152 B
 
-Conformément à la première phrase de l'article L. 651-5-1 du code de la sécurité sociale, l'organisme chargé du recouvrement
-de la contribution sociale de solidarité prévue à l'article L. 651-1 du même code peut obtenir des renseignements auprès des
+Conformément à la première phrase de l'article L. 137-34 du code de la sécurité sociale, l'organisme chargé du recouvrement
+de la contribution sociale de solidarité prévue à l'article L. 137-30 du même code peut obtenir des renseignements auprès des
 administrations fiscales.
 
 **Liens relatifs à cet article**
@@ -10741,12 +10741,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-654 du 4 mai 2012 - art. 1
+  - Ordonnance n°2018-470 du 12 juin 2018 - art. 3
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. L651-1
-  - Code de la sécurité sociale. - art. L651-5-1
+  - Code de la sécurité sociale. - art. L137-34
 
 
 ###### Article L153
