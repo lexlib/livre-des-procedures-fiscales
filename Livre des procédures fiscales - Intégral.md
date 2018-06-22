@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-06-14
+Version Consolidée au 2018-06-23
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -566,13 +566,14 @@ _Cité par_:
 ###### Article L11 A
 
 Tout membre du Gouvernement, à compter de sa nomination, fait l'objet d'une procédure de vérification de sa situation
-fiscale, dans les conditions prévues au présent titre, au titre de l'impôt sur le revenu et, le cas échéant, de l'impôt sur
-la fortune immobilière. Cette procédure est placée sous le contrôle de la Haute Autorité pour la transparence de la vie
-publique.
+fiscale, dans les conditions prévues au présent titre, au titre des impositions de toute nature dont il est redevable. Cette
+procédure est placée sous le contrôle de la Haute Autorité pour la transparence de la vie publique.
 
 Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Nota:**
+
+Modification effectuée en conséquence de la loi n° 2017-1339 du 15 septembre 2017 (art. 24).
 
 Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les
 dispositions de l'article L. 11 A résultant des dispositions du 1° du II du même article 31 s'appliquent au titre de l'impôt
@@ -584,7 +585,7 @@ dû jusqu'au titre de l'année 2017 incluse.
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
+  - Décret n°2018-501 du 20 juin 2018 - art. 1
 
 
 ##### 1° : Dispositions relatives à l'examen contradictoire de l'ensemble de la situation fiscale personnelle<a id=6></a>
@@ -1224,30 +1225,28 @@ _Cité par_:
 
 ###### Article L14 A
 
-L'administration contrôle sur place, en suivant les règles prévues par  le présent livre, que les montants portés sur les
-documents mentionnés à  l'article 1740 A du code général des impôts délivrés par les organismes  bénéficiaires de dons et
-versements et destinés à permettre à un  contribuable d'obtenir les réductions d'impôts prévues aux articles  200,238 bis et
-885-0 V bis A du même code, correspondent à ceux des dons  et versements effectivement perçus et ayant donné lieu à la
-délivrance  de ces documents. 
+L'administration contrôle sur place, en suivant les règles prévues par le présent livre, que les montants portés sur les
+documents mentionnés à l'article 1740 A du code général des impôts délivrés par les organismes bénéficiaires de dons et
+versements et destinés à permettre à un contribuable d'obtenir les réductions d'impôts prévues aux articles 200 et 238 bis du
+même code, correspondent à ceux des dons et versements effectivement perçus et ayant donné lieu à la délivrance de ces
+documents.
 
-Ces organismes sont tenus de  présenter à l'administration les documents et pièces de toute nature  mentionnés à l'article L.
-102 E du présent livre permettant à celle-ci  de réaliser son contrôle. 
+Ces organismes sont tenus de présenter à l'administration les documents et pièces de toute nature mentionnés à l'article L.
+102 E du présent livre permettant à celle-ci de réaliser son contrôle.
 
-Les opérations  réalisées lors de ce contrôle ne constituent pas une vérification de  comptabilité au sens de l'article L.
-13. Toutefois, les organismes  faisant l'objet de ce contrôle bénéficient, dans des conditions  déterminées par décret en
-Conseil d'Etat, des garanties prévues par le  présent livre pour les contribuables vérifiés.
+Les opérations réalisées lors de ce contrôle ne constituent pas une vérification de comptabilité au sens de l'article L. 13.
+Toutefois, les organismes faisant l'objet de ce contrôle bénéficient, dans des conditions déterminées par décret en Conseil
+d'Etat, des garanties prévues par le présent livre pour les contribuables vérifiés.
 
 **Nota:**
 
-Conformément au B du II de l'article 17 de la loi n° 2016-1918 du 29 décembre 2016, les dispositions du présent article, dans
-leur rédaction issue du I du même article de la même loi, s'appliquent à compter du 1er janvier 2018 aux dons et versements
-effectués à compter du 1er janvier 2017.
+Modification effectuée en conséquence de la loi n° 2017-1837 du 30 décembre 2017 (art. 31-I B 34° et IX C).
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 17 (V)
+  - Décret n°2018-501 du 20 juin 2018 - art. 1
 
 _Cité par_:
 
@@ -2121,8 +2120,8 @@ et des justifications sur la composition de l'actif et du passif du patrimoine m
 l'existence, de l'objet et du montant des dettes dont la déduction est opérée et de l'éligibilité et des modalités de calcul
 des exonérations ou réductions d'impôt dont il a été fait application.
 
-Ces demandes, qui sont indépendantes d'une procédure d'examen de situation fiscale personnelle, fixent au contribuable un
-délai de réponse qui ne peut être inférieur à deux mois.
+Cette demande, qui est indépendante d'une procédure d'examen de situation fiscale personnelle, fixe au contribuable un délai
+de réponse qui ne peut être inférieur à deux mois.
 
 En l'absence de réponse à la demande mentionnée au premier alinéa ou si les éclaircissements ou justifications sont estimés
 insuffisants, l'administration peut rectifier les déclarations d'impôt sur la fortune immobilière en se conformant à la
@@ -2140,7 +2139,7 @@ dû jusqu'au titre de l'année 2017 incluse.
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
+  - Décret n°2018-501 du 20 juin 2018 - art. 1
 
 _Cite_:
 
@@ -2150,7 +2149,7 @@ _Cite_:
 _Cité par_:
 
   - Livre des procédures fiscales - art. L180 (V)
-  - Livre des procédures fiscales - art. L181-0 A (V)
+  - Livre des procédures fiscales - art. L181-0 A (M)
   - Livre des procédures fiscales - art. L62 (V)
 
 
@@ -5477,7 +5476,7 @@ _Cité par_:
 
 Les décisions mettant à la charge des contribuables des sanctions fiscales sont motivées au sens des articles L. 211-2 à L.
 211-7 du code des relations entre le public et l'administration, quand un document ou une décision adressés au plus tard lors
-de la notification du titre exécutoire ou de son extrait en a porté la motivation à la connaissance du contribuable. 
+de la notification du titre exécutoire ou de son extrait en a porté la motivation à la connaissance du contribuable.
 
 Les sanctions fiscales ne peuvent être prononcées avant l'expiration d'un délai de trente jours à compter de la notification
 du document par lequel l'administration a fait connaître au contribuable ou redevable concerné la sanction qu'elle se propose
@@ -5488,6 +5487,8 @@ d'appliquer, les motifs de celle-ci et la possibilité dont dispose l'intéress�
 
 (1) Ces dispositions s'appliquent aux sanctions prononcées à compter du 1er janvier 2001.
 
+Modifications effectuées en conséquence de l'ordonnance n° 2015-1341 du 23 octobre 2015 (art. 3).
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -5497,11 +5498,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
+  - Décret n°2018-501 du 20 juin 2018 - art. 1
 
 _Cite_:
 
-  - Code des relations entre le public et l'adminis... - art. L211-2 (V)
+  - Code des relations entre le public et l'administration - art. L211-2
 
 
 ###### Article L80 E
@@ -8875,12 +8876,11 @@ _Modifié par_:
 Les maires, les présidents des organes délibérants des établissements publics ou le président du conseil de la métropole de
 Lyon peuvent recevoir de l'administration fiscale communication du montant des sommes dues et payées soit à la commune, soit
 à l'établissement public, soit à la métropole de Lyon, par chaque redevable de la taxe d'aménagement et du versement pour
-sous-densité prévu par les articles L. 331-36 et L. 331-38 du même code.
+sous-densité prévu par les articles L. 331-36 et L. 331-38 du code de l'urbanisme.
 
 **Nota:**
 
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2015.
+Modification effectuée en conséquence de la loi n° 2014-1655 du 29 décembre 2014 (art. 44-V).
 
 **Liens relatifs à cet article**
 
@@ -8895,12 +8895,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
+  - Décret n°2018-501 du 20 juin 2018 - art. 1
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L112-2
-  - Code de l'urbanisme - art. L331-16
+  - Code de l'urbanisme - art. L331-36
   - Code de l'urbanisme - art. L331-38
 
 
@@ -9950,7 +9949,7 @@ _Cite_:
 
 ###### Article L135 ZH
 
-I.-Pour l'application des articles L. 441-1 et L. 441-2-1 du code la construction et de l'habitation, l'administration
+I.-Pour l'application des articles L. 441-1 et L. 441-2-1 du code de la construction et de l'habitation, l'administration
 fiscale communique chaque année aux services du ministre chargé du logement les informations nécessaires à la détermination
 et au contrôle de l'éligibilité des demandeurs d'accès à un logement social.
 
@@ -9963,9 +9962,9 @@ informations mentionnées au I.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 57 (V)
+  - Décret n°2018-501 du 20 juin 2018 - art. 1
 
 
 ###### Article L135 ZI
@@ -10131,7 +10130,9 @@ octobre 2013 relative à la transparence de la vie publique, en application de l
 
 2. L'administration fiscale répond aux demandes de la Haute Autorité pour la transparence de la vie publique, relatives à la
 mission de contrôle que cette dernière exerce, en application du V de l'article L. 4122-8 du code de la défense, du V de
-l'article 25 quinquies de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et du V de
+l'article 25 quinquies de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, du V de
+l'article 7-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature et
+de l'article 10-1-2 de la loi organique n° 94-100 du 5 février 1994 sur le Conseil supérieur de la magistrature et du V de
 l'article 10-1-2 de la loi organique n° 94-100 du 5 février 1994 sur le Conseil supérieur de la magistrature.
 
 II. – Conformément au deuxième alinéa du I de l'article LO 135-2 du code électoral pour les députés et au premier alinéa du I
@@ -10169,7 +10170,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
+  - Décret n°2018-501 du 20 juin 2018 - art. 1
 
 
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions<a id=105></a>
@@ -10429,13 +10430,13 @@ _Cite_:
 
 ###### Article L145 D
 
-Dans le cadre du traitement des situations de surendettement prévues au livre VII du code de la consommation, le juge peut
+Dans le cadre du traitement des situations de surendettement prévues au  livre VII du code de la consommation , le juge peut
 obtenir communication de tout renseignement lui permettant d'apprécier la situation du débiteur et l'évolution possible de
-celle-ci dans les conditions prévues aux articles L. 733-14, L. 741-6, L. 741-9 et L. 742-6 du code précité.
+celle-ci dans les conditions prévues aux articles L. 733-12, L. 741-5, L. 741-8 et L. 742-6 du code précité.
 
 **Nota:**
 
-Modification effectuée en conséquence des articles L. 733-14, L. 741-6, L. 741-9 et L. 742-6, du code de la consommation.
+Modification effectuée en conséquence de la loi n° 2016-1547 du 18 novembre 2016 (art. 58-I-17° et 18° et II).
 
 **Liens relatifs à cet article**
 
@@ -10445,14 +10446,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-699 du 2 mai 2017 - art. 1
+  - Décret n°2018-501 du 20 juin 2018 - art. 1
 
 _Cite_:
 
-  - Code de la consommation - art. L733-14 (VT)
-  - Code de la consommation - art. L741-6 (VT)
-  - Code de la consommation - art. L741-9 (VT)
-  - Code de la consommation - art. L742-6 (V)
+  - livre VII du code de la consommation
 
 
 ###### Article L146
@@ -11124,12 +11122,12 @@ L'administration des impôts doit communiquer aux présidents des centres de ges
 gestion agréés, les renseignements qui sont nécessaires à ces organismes pour leur permettre de prononcer, en tant que de
 besoin, l'exclusion des adhérents qui ne respectent pas les obligations leur incombant en vertu des statuts ou du règlement
 intérieur de ces centres de gestion, associations ou organismes mixtes de gestion. Ces renseignements peuvent porter sur la
-nature et le montant des rectifications dont l'adhérent a fait l'objet. 
+nature et le montant des rectifications dont l'adhérent a fait l'objet.
 
-Elle peut également porter à la connaissance de la commission régionale prévue par l'article 371 G de l'annexe II au code
-général des impôts, qui émet un avis sur la demande de renouvellement ou de retrait de l'agrément accordé à un centre de
-gestion ou un organisme mixte de gestion, les renseignements qui sont nécessaires à cet organisme pour lui permettre de se
-prononcer sur les affaires qui lui sont soumises.
+**Nota:**
+
+Le deuxième alinéa devient sans objet. Modification effectuée en conséquence du décret n° 2016-1356 du 11octobre 2016 (art.
+1er-8°).
 
 **Liens relatifs à cet article**
 
@@ -11139,11 +11137,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 37
+  - Décret n°2018-501 du 20 juin 2018 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 2, CGIAN2. - art. 371 G (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 371 G
 
 _Cité par_:
 
@@ -19857,8 +19855,8 @@ a) Du traitement " Base nationale des données patrimoniales " pour ce qui conce
 b) Du traitement " Service de consultation du plan cadastral " pour ce qui concerne les données parcellaires utilisées par
 l'outil de géocodage ;
 
-c) Du traitement de l'Institut national géographique pour ce qui concerne les données parcellaires utilisées par l'outil de
-géocodage ;
+c) Du traitement de l'Institut national de l'information géographique et forestière pour ce qui concerne les données
+parcellaires utilisées par l'outil de géocodage ;
 
 d) De l'annuaire de la direction générale des finances publiques pour ce qui concerne les informations d'authentification des
 usagers.
@@ -19915,11 +19913,15 @@ d) Motifs de la visite.
 VI. – Dans le cadre d'une procédure de contrôle fiscal ou en vue de celle-ci, l'administration ne peut consulter ni utiliser
 les informations communiquées par le demandeur au titre des III et IV.
 
+**Nota:**
+
+Modification effectuée en conséquence du décret n° 2011-1371 du 27 octobre 2011 (art. 1er).
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-718 du 2 août 2013 - art. 1
+  - Décret n°2018-501 du 20 juin 2018 - art. 2
 
 _Cite_:
 
@@ -20671,7 +20673,7 @@ _Cite_:
 
 ###### Article R*152-1
 
-I. – Les informations nominatives dont, en vertu de l'article L. 152, un organisme un service ou une institution, mentionné
+I. – Les informations nominatives dont, en vertu de l'article L. 152, un organisme, un service ou une institution, mentionné
 au premier alinéa de ce même article, peut, sur sa demande, obtenir communication de la direction générale des finances
 publiques ou de la direction générale des douanes et droits indirects sont limitées à ceux des éléments de la situation
 fiscale des personnes concernées qui sont strictement nécessaires à l'accomplissement par l'organisme demandeur de sa mission
@@ -20727,7 +20729,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1247 du 7 août 2017 - art. 1
+  - Décret n°2018-501 du 20 juin 2018 - art. 2
 
 _Cite_:
 
