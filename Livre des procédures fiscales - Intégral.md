@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-06-23
+Version Consolidée au 2018-06-30
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -20479,6 +20479,72 @@ _Cite_:
   - Livre des procédures fiscales - art. L80 F
   - Livre des procédures fiscales - art. L80 K
   - Livre des procédures fiscales - art. L81
+
+
+###### Article R*135 ZH-1
+
+Pour l'application de l'article L. 135 ZH, les services du ministre chargé du logement adressent à la direction générale des
+finances publiques une demande d'informations concernant une personne ou une liste de personnes.
+
+La demande d'informations doit remplir les conditions ci-après :
+
+1° Elle est présentée par une personne habilitée à cet effet par arrêté du ministre chargé du logement ;
+
+2° Elle est formulée sur support électronique et elle comporte tout ou partie des éléments d'identification suivants relatifs
+au demandeur de logement social :
+
+a) Le nom de famille et les prénoms ;
+
+b) Le sexe ;
+
+c) La date et le lieu de naissance ;
+
+d) L'adresse ;
+
+e) Le numéro d'inscription au répertoire national d'identification des personnes physiques.
+
+Il n'est donné suite à une demande qu'en cas de concordance des éléments d'identification de la personne concernée mentionnés
+ci-dessus avec ceux détenus par la direction générale des finances publiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-541 du 28 juin 2018 - art. 1
+
+
+###### Article R*135 ZH-2
+
+Les informations mentionnées à l'article R* 135 ZH-1 pour chaque personne mentionnée dans la demande sont les suivantes :
+
+a) Le revenu fiscal de référence ;
+
+b) L'adresse.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-541 du 28 juin 2018 - art. 1
+
+
+###### Article R*135 ZH-3
+
+Les informations mentionnées à l'article R* 135 ZH-2 sont enregistrées dans le système national d'enregistrement prévu à l'
+article L. 441-2-1 du code de la construction et de l'habitation . La durée de conservation de ces informations est celle
+prévue par l' article 4 du décret n° 2017-917 du 9 mai 2017 relatif aux demandes de logement locatif social et autorisant le
+traitement de données à caractère personnel dénommé “ Numéro unique ”.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2017-917 du 9 mai 2017 - art. 4
+  - Code de la construction et de l'habitation. - art. L441-2-1
+
+_Créé par_:
+
+  - Décret n°2018-541 du 28 juin 2018 - art. 1
 
 
 ###### Article R119-1
