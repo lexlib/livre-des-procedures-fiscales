@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-07-01
+Version Consolidée au 2018-08-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -16052,7 +16052,7 @@ information vraisemblablement pertinente pour le recouvrement des créances ment
 A, à l'exception de celle qui ne pourrait être obtenue pour le recouvrement de leurs propres créances de même nature sur la
 base de la législation en vigueur.
 
-II. – Elles ne peuvent fournir des renseignements qui révéleraient un secret commercial, industriel ou professionnel ou dont
+II. – Elles ne peuvent fournir des renseignements qui révéleraient un secret des affaires ou un secret professionnel ou dont
 la communication serait de nature à porter atteinte à la sécurité ou à l'ordre publics.
 
 Toutefois, les administrations financières ne peuvent refuser de fournir ces informations pour la seule raison qu'elles sont
@@ -16077,11 +16077,11 @@ comptables de la direction générale des finances publiques, à l'exclusion des
 
 _Modifié par_:
 
-  - Décret n°2012-654 du 4 mai 2012 - art. 1
+  - Loi n°2018-670 du 30 juillet 2018 - art. 4
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L283 A (V)
+  - Livre des procédures fiscales - art. L283 A
   - Code pénal - art. 226-13
 
 
