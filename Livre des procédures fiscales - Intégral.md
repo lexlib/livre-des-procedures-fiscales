@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-08-01
+Version Consolidée au 2018-08-12
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -38,7 +38,7 @@ Version Consolidée au 2018-08-01
             - [2° : Actes de procédure (art. L53 à L54 A)](#35)
           - [Section IV : Procédures de rectification (art. L54 B à L64 C)](#36)
             - [I : Procédure de redressement contradictoire (art. L55 à L61 B)](#37)
-            - [II : Procédure de régularisation (art. L62 à L62 A)](#38)
+            - [II : Procédure de régularisation (art. L62 à L62 C)](#38)
             - [III : Procédure spéciale de l'article 168 du code général des impôts (art. L63)](#39)
             - [IV : Procédure de l'abus de droit fiscal (art. L64 à L64 B)](#40)
             - [V : Procédure de rectification spécifique à la fiducie (art. L64 C)](#41)
@@ -98,9 +98,9 @@ Version Consolidée au 2018-08-01
           - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. L97 à L102 AG)](#95)
         - [Chapitre II bis : Obligation et délais de conservation des documents (art. L102 B à L102 E)](#96)
         - [Chapitre III : Le secret professionnel en matière fiscale (art. L103 à L166 F)](#97)
-          - [Section I : Portée et limites de la règle du secret professionnel (art. L103 à L112)](#98)
+          - [Section I : Portée et limites de la règle du secret professionnel (art. L103 à L112 A)](#98)
             - [1° : Délivrance de documents aux contribuables (art. L104 à L110)](#99)
-            - [2° : Publicité de l'impôt (art. L111 à L112)](#100)
+            - [2° : Publicité de l'impôt (art. L111 à L112 A)](#100)
           - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L166 F)](#101)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#102)
             - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 ZI)](#103)
@@ -3429,7 +3429,24 @@ _Cité par_:
 
 Quand elle a procédé à un examen contradictoire de la situation fiscale personnelle d'une personne physique au regard de
 l'impôt sur le revenu, à une vérification de comptabilité ou à un examen de comptabilité, l'administration des impôts doit en
-porter les résultats à la connaissance du contribuable, même en l'absence de rectification.
+porter les résultats à la connaissance du contribuable, même en l'absence de rectification. 
+
+Les points contrôlés mentionnés au second alinéa de l'article L. 80 A et au 10° de l'article L. 80 B sont indiqués au
+contribuable sur la proposition de rectification ou sur l'avis d'absence de rectification, y compris s'ils ne comportent ni
+insuffisance, ni inexactitude, ni omission, ni dissimulation au sens de l'article L. 55.
+
+**Nota:**
+
+Conformément à l'article 11, II de la loi n° 2018-727 du 10 août 2018 : L'indication des points contrôlés mentionnés au
+second alinéa de l'article L. 80 A du livre des procédures fiscales, prévue au second alinéa de l'article L. 49 du même livre
+dans sa rédaction résultant du 1° du I du présent article, est applicable aux contrôles dont les avis sont adressés à compter
+du 1er janvier 2019.
+
+Conformément à l'article 11, III de la loi n° 2018-727 du 10 août 2018 : L'indication des points contrôlés mentionnés aux 10°
+à 12° de l'article L. 80 B du livre des procédures fiscales, prévue au second alinéa de l'article L. 49 du même livre et au I
+bis de l'article L. 80 M dudit livre dans leur rédaction résultant, respectivement, des 1° et 3° du I du présent article, est
+applicable aux contrôles dont les avis sont adressés à compter de la publication de ladite loi et aux enquêtes effectuées par
+l'administration à compter de la même date.
 
 **Liens relatifs à cet article**
 
@@ -3441,7 +3458,13 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 11 (V)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L55
+  - Livre des procédures fiscales - art. L80 A
+  - Livre des procédures fiscales - art. L80 B
 
 
 ###### Article L50
@@ -3714,6 +3737,19 @@ _Modifié par_:
   - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
+###### Article L54 C
+
+Hormis lorsqu'elle est adressée dans le cadre des procédures mentionnées aux articles L. 12, L. 13 et L. 13 G et aux I et II
+de la section V du présent chapitre, la proposition de rectification peut faire l'objet, dans le délai imparti pour
+l'introduction d'un recours contentieux, d'un recours hiérarchique qui suspend le cours de ce délai.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 12
+
+
 ##### I : Procédure de redressement contradictoire<a id=37></a>
 
 ###### Article L55
@@ -3971,7 +4007,7 @@ de droit.
 
 Par dérogation aux dispositions du premier alinéa, la commission peut se prononcer sur le caractère anormal d'un acte de
 gestion, sur le principe et le montant des amortissements et des provisions ainsi que sur le caractère de charges déductibles
-des travaux immobiliers.
+ou d'immobilisation.
 
 **Liens relatifs à cet article**
 
@@ -3985,18 +4021,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 25
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 111
-  - Code général des impôts, CGI. - art. 244 quater B (M)
+  - Code général des impôts, CGI. - art. 244 quater B
   - Code général des impôts, CGI. - art. 257
   - Code général des impôts, CGI. - art. 39
 
 _Cité par_:
 
-  - Code général des impôts, CGI. - art. 1651 C (VD)
+  - Code général des impôts, CGI. - art. 1651 C (V)
   - Code général des impôts, CGI. - art. 1651 K (V)
   - Livre des procédures fiscales - art. L250 (VD)
   - Livre des procédures fiscales - art. L59 C (V)
@@ -4179,22 +4215,35 @@ _Cite_:
 
 ###### Article L62
 
-Au cours d'une vérification de comptabilité ou d'un examen de comptabilité et pour les impôts sur lesquels porte cette
-vérification ou cet examen, le contribuable peut régulariser les erreurs, inexactitudes, omissions ou insuffisances dans les
-déclarations souscrites dans les délais, moyennant le paiement d'un intérêt de retard égal à 70 % de l'intérêt de retard
-prévu à l'article 1727 du code général des impôts. 
+Si, dans un délai de trente jours à compter de la réception d'une demande mentionnée aux articles L. 10, L. 16 ou L. 23 A du
+présent code ou de la réception d'une proposition de rectification ou, dans le cadre d'une vérification de comptabilité ou
+d'un examen de situation fiscale personnelle, avant toute proposition de rectification, le contribuable demande à régulariser
+les erreurs, inexactitudes, omissions ou insuffisances dans les déclarations souscrites dans les délais, il est redevable
+d'un montant égal à 70 % de l'intérêt de retard prévu à l'article 1727 du code général des impôts.
 
-Cette procédure de régularisation spontanée ne peut être appliquée que si : 
+Cette procédure de régularisation ne peut être appliquée que si :
 
-1° Le contribuable en fait la demande, en cas de vérification de  comptabilité, avant toute proposition de rectification et,
-en cas  d'examen de comptabilité, dans un délai de trente jours à compter de la  réception de la proposition de
-rectification ; 
+1° Elle ne concerne pas une infraction exclusive de bonne foi ;
 
-2° La régularisation ne concerne pas une infraction exclusive de bonne foi ; 
+2° Le contribuable dépose une déclaration complémentaire dans les trente jours de la demande de régularisation mentionnée au
+premier alinéa du présent article et s'acquitte de l'intégralité des suppléments de droits simples dus et des intérêts de
+retard calculés en application du même premier alinéa soit au moment du dépôt de cette déclaration complémentaire, soit, en
+cas de mise en recouvrement par voie de rôle, au plus tard à la date limite de paiement portée sur l'avis d'imposition.
 
-3° Le contribuable dépose une déclaration complémentaire dans les trente jours de sa demande et acquitte l'intégralité des
-suppléments de droits simples et des intérêts de retard au moment du dépôt de la déclaration, ou à la date limite de paiement
-portée sur l'avis d'imposition en cas de mise en recouvrement par voie de rôle.
+A défaut de paiement immédiat des droits simples ou, s'agissant des impositions recouvrées par voie de rôle, de paiement
+effectué au plus tard à la date limite de paiement portée sur l'avis d'imposition, le bénéfice de la réduction de l'intérêt
+de retard est conservé en cas d'acceptation par le comptable public d'un plan de règlement des droits simples.
+
+**Nota:**
+
+Conformément à l'article 9, II de la loi n° 2018-727 du 10 août 2018, ces dispositions sont applicables aux demandes
+mentionnées aux articles L. 10, L. 16 ou L. 23 A du livre des procédures fiscales envoyées ou aux propositions de
+rectifications adressées à compter de la publication de la présente loi et, en cas de vérification de comptabilité, d'examen
+de comptabilité ou d'examen contradictoire de situation fiscale personnelle, aux contrôles dont les avis sont adressés à
+compter de la publication de ladite loi.
+
+Conformément à l'article 74 de la loi n° 2018-727 du 10 août 2018, ces dispositions font l'objet d'une évaluation comptable
+et financière établie par la Cour des comptes et transmise au Parlement, deux ans après leur entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -4206,11 +4255,14 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 9 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1727
+  - Livre des procédures fiscales - art. L10
+  - Livre des procédures fiscales - art. L16
+  - Livre des procédures fiscales - art. L23 A
 
 _Cité par_:
 
@@ -4261,6 +4313,69 @@ _Cite_:
   - Code général des impôts, CGI. - art. 238-0 A (V)
   - Code général des impôts, CGI. - art. 39 (VT)
   - Code général des impôts, CGI. - art. 57 (V)
+
+
+###### Article L62 B
+
+En matière de contributions indirectes, le redevable peut soit spontanément, avant l'expiration du délai prévu pour
+l'exercice par l'administration de son droit de reprise, soit à la demande de l'administration dans le délai que celle-ci lui
+indique régulariser les erreurs, inexactitudes, omissions ou insuffisances commises pour la première fois, au cours des six
+années précédant cette commission, dans les déclarations souscrites dans les délais. Les sanctions prévues aux articles 1791
+à 1794,1797 à 1798 ter et 1804 du code général des impôts ne sont pas applicables lorsque cette régularisation :
+
+1° Est accompagnée du paiement des droits et taxes concernés et de l'intérêt de retard prévu, selon le cas, au V de l'article
+1727 du code général des impôts ou à l'article L. 62 C du présent livre et que ce paiement est soit immédiat, soit effectué
+dans le cadre d'un plan de règlement des droits accordé par le comptable public ;
+
+2° Ne concerne pas une infraction exclusive de bonne foi.
+
+**Nota:**
+
+Conformément à l'article 74 de la loi n°2018-727 du 10 août 2018, ces dispositions font l'objet d'une évaluation comptable et
+financière établie par la Cour des comptes et transmise au Parlement, deux ans après leur entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 15
+
+_Cite_:
+
+  - Code général des impôts, CGI.
+  - Code général des impôts, CGI. - art. 1727
+
+
+###### Article L62 C
+
+En matière de contributions indirectes, le montant dû au titre de l'intérêt de retard prévu à l'article 1727 du code général
+des impôts est réduit de 30 % lorsque le redevable demande à régulariser les erreurs, inexactitudes, omissions ou
+insuffisances dans les déclarations souscrites dans les délais, alors qu'un contrôle de l'administration est en cours, soit
+avant la notification de l'information ou de la proposition de taxation mentionnées au I de l'article L. 80 M du présent
+livre, soit après cette notification. Dans ce dernier cas, le redevable dispose de trente jours à compter de la notification
+pour demander la régularisation.
+
+La réduction mentionnée au premier alinéa du présent article ne peut être appliquée que si la régularisation :
+
+1° Ne concerne pas une infraction exclusive de bonne foi ;
+
+2° Est accompagnée du paiement de l'intégralité des droits, taxes et intérêts exigibles, soit immédiatement, soit dans le
+cadre d'un plan de règlement accordé par le comptable public.
+
+**Nota:**
+
+Conformément à l'article 74 de la loi n°2018-727 du 10 août 2018, ces dispositions font l'objet d'une évaluation comptable et
+financière établie par la Cour des comptes et transmise au Parlement, deux ans après leur entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 15
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1727
 
 
 ##### III : Procédure spéciale de l'article 168 du code général des impôts<a id=39></a>
@@ -5100,11 +5215,23 @@ Il ne sera procédé à aucun rehaussement d'impositions antérieures si la caus
 est un différend sur l'interprétation par le redevable de bonne foi du texte fiscal et s'il est démontré que l'interprétation
 sur laquelle est fondée la première décision a été, à l'époque, formellement admise par l'administration.
 
+Il en est de même lorsque, dans le cadre d'un examen ou d'une vérification de comptabilité ou d'un examen contradictoire de
+la situation fiscale personnelle, et dès lors qu'elle a pu se prononcer en toute connaissance de cause, l'administration a
+pris position sur les points du contrôle, y compris tacitement par une absence de rectification. (1)
+
 Lorsque le redevable a appliqué un texte fiscal selon l'interprétation que l'administration avait fait connaître par ses
 instructions ou circulaires publiées et qu'elle n'avait pas rapportée à la date des opérations en cause, elle ne peut
-poursuivre aucun rehaussement en soutenant une interprétation différente. Sont  également opposables à l'administration, dans
-les mêmes conditions, les  instructions ou circulaires publiées relatives au recouvrement de l'impôt et aux  pénalités
+poursuivre aucun rehaussement en soutenant une interprétation différente. Sont également opposables à l'administration, dans
+les mêmes conditions, les instructions ou circulaires publiées relatives au recouvrement de l'impôt et aux pénalités
 fiscales.
+
+**Nota:**
+
+(1) Conformément à l'article 9, II de la loi n° 2018-727 du 10 août 2018, ces dispositions sont applicables aux contrôles
+dont les avis sont adressés à compter du 1er janvier 2019.
+
+Conformément à l'article 74 de la loi n° 2018-727 du 10 août 2018, ces dispositions font l'objet d'une évaluation comptable
+et financière établie par la Cour des comptes et transmise au Parlement, deux ans après leur entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -5123,7 +5250,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 47
+  - Loi n°2018-727 du 10 août 2018 - art. 9 (V)
 
 
 ###### Article L80 B
@@ -5144,7 +5271,7 @@ a. Disposition devenue sans objet ;
 b. a notifié à l'administration sa volonté de bénéficier des dispositions des articles 39 AB, 39 AC, 39 quinquies A, 39
 quinquies D, 39 quinquies DA ou des articles 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies, 44
 octies A
- , 44 quindecies ou 44 sexdecies du code général des impôts.
+, 44 quindecies ou 44 sexdecies du code général des impôts.
 
 La notification doit être préalable à l'opération en cause et effectuée à partir d'une présentation écrite précise et
 complète de la situation de fait.
@@ -5216,20 +5343,41 @@ offices dont les titulaires n'ont pas la qualité de commerçants mentionnés à
 société civile, si les résultats de son activité professionnelle sont soumis à l'impôt sur le revenu ou à l'impôt sur les
 sociétés.
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent 8°.
+Un décret en Conseil d'Etat précise les conditions d'application du présent 8° ;
 
 9° Lorsque l'administration n'a pas répondu dans un délai de six mois à un contribuable de bonne foi qui a demandé,
 préalablement à la réalisation d'une opération de fusion, de scission ou d'apport partiel d'actif, à partir d'une
 présentation écrite, précise et complète de cette opération, la confirmation que le III de l'article 210-0 A du code général
 des impôts ne lui était pas applicable.
 
-Un décret en Conseil d'Etat précise les modalités d'application du présent 9°.
+Un décret en Conseil d'Etat précise les modalités d'application du présent 9° ;
+
+10° Lorsque, dans le cadre d'un examen ou d'une vérification de comptabilité et sur demande écrite du contribuable présentée
+conformément au 1° du présent article, avant envoi de toute proposition de rectification, l'administration a formellement
+pris position sur un point qu'elle a examiné au cours du contrôle ; (1)
+
+11° En matière de contributions indirectes, lorsque, dans le cadre d'un contrôle ou d'une enquête effectués par
+l'administration et sur demande écrite du redevable présentée conformément au 1°, avant la notification de l'information ou
+de la proposition de taxation mentionnées à l'article L. 80 M, l'administration a formellement pris position sur un point
+qu'elle a examiné au cours du contrôle ou de l'enquête. (1)
+
+12° En matière de contributions indirectes, lorsque, dans le cadre d'un contrôle ou d'une enquête et dès lors qu'elle a pu se
+prononcer en toute connaissance de cause, l'administration a pris position sur les points examinés lors du contrôle ou de
+l'enquête, lesquels sont communiqués au contribuable selon les modalités fixées à l'article L. 80 M.
 
 **Nota:**
 
-Conformément à l'article 23 III A de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les
-présentes dispositions s'appliquent aux opérations de fusion, de scission ou d'apport partiel d'actif réalisées à compter du
-1er janvier 2018.
+(1) Conformément à l'article 9, II de la loi n° 2018-727 du 10 août 2018, ces dispositions sont applicables aux contrôles
+dont les avis sont adressés à compter de la publication de ladite loi et aux enquêtes effectuées par l'administration à
+compter de la même date.
+
+Conformément à l'article 11, III de la loi n° 2018-727 du 10 août 2018 : L'indication des points contrôlés mentionnés aux 10°
+à 12° de l'article L. 80 B du livre des procédures fiscales, prévue au second alinéa de l'article L. 49 du même livre est
+applicable aux contrôles dont les avis sont adressés à compter de la publication de ladite loi et aux enquêtes effectuées par
+l'administration à compter de la même date.
+
+Conformément à l'article 74 de la loi n° 2018-727 du 10 août 2018, ces dispositions font l'objet d'une évaluation comptable
+et financière établie par la Cour des comptes et transmise au Parlement, deux ans après leur entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -5273,8 +5421,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 17 (V)
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 23 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 11 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 9 (V)
 
 _Cite_:
 
@@ -5297,6 +5445,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L103
   - Livre des procédures fiscales - art. L13 B
   - Livre des procédures fiscales - art. L80 A
+  - Livre des procédures fiscales - art. L80 M (V)
 
 
 ###### Article L80 C
@@ -5802,14 +5951,30 @@ l'alinéa précédent, l'administration prend sa décision.
 
 Lorsque l'administration rejette les observations du contribuable, sa réponse doit être motivée.
 
+I bis. – Sont expressément mentionnés, selon le cas, lors de l'information orale ou sur la proposition de taxation écrite,
+les points qui, ayant fait l'objet d'un examen par l'administration dans les conditions prévues aux 11° et 12° de l'article
+L. 80 B, ne comportent ni erreur, ni inexactitude, ni omission, ni insuffisance dans le calcul des droits et taxes exigibles.
+
 II. – En cas de contrôle à la circulation, le contribuable ne peut bénéficier de la procédure écrite prévue au 2 du I
 qu'après avoir garanti le montant de la taxation encourue.
 
+**Nota:**
+
+Conformément à l'article 11, III de la loi n° 2018-727 du 10 août 2018 : L'indication des points contrôlés mentionnés aux 10°
+à 12° de l'article L. 80 B du livre des procédures fiscales, prévue au second alinéa de l'article L. 49 du même livre et au I
+bis de l'article L. 80 M dudit livre dans leur rédaction résultant, respectivement, des 1° et 3° du I du présent article, est
+applicable aux contrôles dont les avis sont adressés à compter de la publication de ladite loi et aux enquêtes effectuées par
+l'administration à compter de la même date.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 64 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 11 (V)
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. L80 B (V)
 
 
 #### Chapitre Ier quinquies : Consultation des traitements automatisés de données concernant le marquage des conditionnements des produits du tabac<a id=57></a>
@@ -7894,13 +8059,13 @@ _Cité par_:
 
 ###### Article L107 B
 
-Sans préjudice des dispositions de l'article L. 135 B, toute personne physique faisant l'objet d'une procédure
-d'expropriation ou d'une procédure de contrôle portant sur la valeur d'un bien immobilier ou faisant état de la nécessité
-d'évaluer la valeur vénale d'un bien immobilier en tant que vendeur ou acquéreur potentiel de ce bien ou pour la
-détermination de l'assiette de l'impôt sur la fortune immobilière ou des droits de mutation à titre gratuit ainsi que pour le
-calcul du montant des aides personnelles au logement peut obtenir, par voie électronique, communication des éléments
-d'information relatifs aux mutations à titre onéreux de biens immobiliers comparables intervenues dans un périmètre et
-pendant une période déterminés et qui sont utiles à la seule appréciation de la valeur vénale du bien concerné.
+Toute personne physique faisant l'objet d'une procédure d'expropriation ou d'une procédure de contrôle portant sur la valeur
+d'un bien immobilier ou faisant état de la nécessité d'évaluer la valeur vénale d'un bien immobilier en tant que vendeur ou
+acquéreur potentiel de ce bien ou pour la détermination de l'assiette de l'impôt sur la fortune immobilière ou des droits de
+mutation à titre gratuit ainsi que pour le calcul du montant des aides personnelles au logement peut obtenir, par voie
+électronique, communication des éléments d'information relatifs aux mutations à titre onéreux de biens immobiliers
+comparables intervenues dans un périmètre et pendant une période déterminés et qui sont utiles à la seule appréciation de la
+valeur vénale du bien concerné.
 
 Les biens immobiliers comparables s'entendent des biens de type et de superficie similaires à ceux précisés par le demandeur.
 
@@ -7933,18 +8098,17 @@ dû jusqu'au titre de l'année 2017 incluse.
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L135 B
-  - Livre des procédures fiscales - art. L55
+  - Loi n°2018-727 du 10 août 2018 - art. 13
 
 _Cité par_:
 
   - Livre des procédures fiscales - art. L135 ZG (V)
   - Livre des procédures fiscales - art. R* 107 B-1 (V)
   - Livre des procédures fiscales - art. R* 107 B-2 (VD)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L55
 
 
 ###### Article L108
@@ -8116,6 +8280,21 @@ _Codifié par_:
 **Liens**:
 
   - HISTO: Edition du 1er juillet 1981
+
+
+###### Article L112 A
+
+Afin de concourir à la transparence des marchés fonciers et immobiliers, l'administration fiscale rend librement accessibles
+au public, sous forme électronique, les éléments d'information qu'elle détient au sujet des valeurs foncières déclarées à
+l'occasion des mutations intervenues au cours des cinq dernières années.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 13
 
 
 ##### Section II : Dérogations à la règle du secret professionnel<a id=101></a>
@@ -8826,83 +9005,37 @@ _Cite_:
 
 ###### Article L135 B
 
-L'administration fiscale transmet, soit directement, soit par l'intermédiaire d'un opérateur, des éléments d'information
-qu'elle détient au sujet des valeurs foncières déclarées à l'occasion des mutations intervenues dans les cinq dernières
-années et qui sont nécessaires à l'exercice de leurs compétences en matière de politiques foncière, d'urbanisme et
-d'aménagement et de transparence des marchés fonciers et immobiliers : 
-
-1° Aux chercheurs ; 
-
-2° Aux personnes dont l'activité économique consiste à développer des services contribuant à l'information des vendeurs et
-des acquéreurs et à la transparence du marché immobilier ; 
-
-3° Aux services de l'Etat ; 
-
-4° Aux collectivités territoriales et aux établissements publics de coopération intercommunale à fiscalité propre ; 
-
-5° Aux établissements publics administratifs et aux établissements publics mentionnés aux articles L. 143-16, L. 321-1, L.
-321-14, L. 321-29, L. 321-36-1, L. 321-37, L. 324-1 et L. 326-1 du code de l'urbanisme ; 
-
-6° Aux agences d'urbanisme mentionnées à l'article L. 132-6 du même code ; 
-
-7° A l'établissement public mentionné à l'article 44 de la loi n° 2013-431 du 28 mai 2013 portant diverses dispositions en
-matière d'infrastructures et de services de transports ; 
-
-8° Aux sociétés d'aménagement foncier et d'établissement rural mentionnées à l'article L. 141-1 du code rural et de la pêche
-maritime ; 
-
-9° Aux concessionnaires des opérations d'aménagement mentionnés à l'article L. 300-4 du code de l'urbanisme ; 
-
-10° Aux associations foncières urbaines mentionnées à l'article L. 322-1 du même code ; 
-
-11° Aux observatoires des loyers mentionnés à l'article 16 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les
-rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 ; 
-
-12° Aux professionnels de l'immobilier ; 
-
-13° Aux associations d'information sur le logement mentionnées à l'article L. 366-1 du code de la construction et de
-l'habitation. 
-
-La transmission, est effectuée à titre gratuit, sous forme dématérialisée dans le cadre d'une procédure en ligne. Elle est
-subordonnée à une déclaration de motifs préalable, aux fins de laquelle le demandeur doit justifier de sa qualité et accepter
-les conditions générales d'accès au service. 
-
-Hors le cas des informations protégées au titre du secret de la défense nationale, l'administration fiscale ne peut se
-prévaloir de la règle du secret. Toutefois, les informations transmises excluent toute identification nominative du
-propriétaire d'un bien et les bénéficiaires de la transmission ne doivent à aucun moment pouvoir reconstituer des listes de
-biens appartenant à des propriétaires désignés. 
-
 L'administration fiscale est tenue de transmettre, chaque année, aux collectivités locales et à leurs groupements dotés d'une
-fiscalité propre : 
+fiscalité propre :
 
 a) Les rôles généraux des impôts directs locaux comportant les impositions émises à leur profit et, à leur demande, les
 montants des rôles supplémentaires lorsqu'ils sont d'un montant supérieur à un seuil fixé par arrêté du ministre chargé du
 budget ainsi que, si la collectivité ou l'établissement public de coopération intercommunale doté d'une fiscalité propre en
 fait la demande complémentaire, des renseignements individuels figurant sur le rôle supplémentaire et nécessaires à
 l'appréciation des montants figurant sur ce rôle, à l'exclusion des informations tenant à l'origine des rectifications
-opérées ; 
+opérées ;
 
 a bis) Le montant par impôt et par redevable des impôts directs non recouvrés par voie de rôle perçus à leur profit, ainsi
 que l'ensemble des informations déclarées par le redevable intervenant dans le calcul du montant, notamment les effectifs
-salariés ; 
+salariés ;
 
 b) Le montant total, pour chaque impôt perçu à leur profit, des dégrèvements dont les contribuables de la collectivité ont
-bénéficié, à l'exception de ceux accordés en application de l'article L. 190. 
+bénéficié, à l'exception de ceux accordés en application de l'article L. 190.
 
 A leur demande, l'administration fiscale transmet aux groupements qui perçoivent la taxe d'enlèvement des ordures ménagères
-les rôles généraux de taxe foncière sur les propriétés bâties émis dans leur ressort. 
+les rôles généraux de taxe foncière sur les propriétés bâties émis dans leur ressort.
 
 Elle transmet également, gratuitement, à leur demande, aux services de l'Etat, aux collectivités territoriales, aux
 établissements publics de coopération intercommunale dotés d'une fiscalité propre et à l'Agence nationale de l'habitat, la
 liste des logements vacants recensés l'année précédente pour l'établissement de la taxe d'habitation. Cette liste indique,
 pour chaque logement, son adresse, sa nature, sa valeur locative, la première année de vacance du local, le nom et l'adresse
 de son propriétaire et, le cas échéant, l'année à partir de laquelle le local a été soumis à la taxe sur les locaux vacants
-et le taux d'imposition à cette taxe. 
+et le taux d'imposition à cette taxe.
 
 Les collectivités locales, les établissements publics de coopération intercommunale dotés d'une fiscalité propre et
 l'administration fiscale peuvent se communiquer mutuellement les informations nécessaires au recensement des bases des
 impositions directes locales. De même, les collectivités locales et les établissements publics de coopération intercommunale
-peuvent se communiquer entre eux des informations fiscales sur leurs produits d'impôts. 
+peuvent se communiquer entre eux des informations fiscales sur leurs produits d'impôts.
 
 L'administration fiscale transmet chaque année aux collectivités territoriales et aux établissements publics de coopération
 intercommunale dotés d'une fiscalité propre, percevant la taxe professionnelle, la liste des établissements implantés sur
@@ -8911,16 +9044,16 @@ général des impôts et dont les bases sont retenues pour la détermination du 
 de l'article 85 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006. Elle transmet également à l'établissement
 public de coopération intercommunale la liste des locaux à usage de logement soumis à la taxe sur les logements vacants au
 sens de l'article 232 du code général des impôts ou ceux relevant de la taxe d'habitation sur les logements vacants visés à
-l'article 1407 bis du même code. 
+l'article 1407 bis du même code.
 
 Les informations transmises aux collectivités locales et à leurs groupements dotés d'une fiscalité propre sont couvertes par
 le secret professionnel, et soumises aux dispositions de la loi n° 78-17 du 6 janvier 1978 modifiée relative à
 l'informatique, aux fichiers et aux libertés. Leur utilisation respecte les obligations de discrétion et de sécurité selon
-des modalités définies par un décret en Conseil d'Etat. 
+des modalités définies par un décret en Conseil d'Etat.
 
 A compter de 2018, l'administration fiscale transmet chaque année aux villes et aux établissements publics de coopération
 intercommunale ayant institué la taxe de séjour ou la taxe de séjour forfaitaire, la liste des locaux meublés exonérés de
-contribution foncière économique en application du 3° de l'article 1459 du code général des impôts. 
+contribution foncière économique en application du 3° de l'article 1459 du code général des impôts.
 
 Elle transmet gratuitement aux collectivités territoriales et aux établissements publics de coopération intercommunale dotés
 d'une fiscalité propre la liste des locaux commerciaux et professionnels vacants qui n'ont pas fait l'objet d'une imposition
@@ -8931,28 +9064,12 @@ d'une fiscalité propre la liste des locaux commerciaux et professionnels vacant
 _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978
-  - Loi n°86-1290 du 23 décembre 1986
-  - Loi n°89-462 du 6 juillet 1989 - art. 16
   - Loi n°2005-1719 du 30 décembre 2005 - art. 85
-  - Loi n°2013-431 du 28 mai 2013 - art. 44
-  - Code général des impôts, CGI. - art. 1407 bis (V)
+  - Code général des impôts, CGI. - art. 1407 bis
   - Code général des impôts, CGI. - art. 1459
   - Code général des impôts, CGI. - art. 1647 B sexies
   - Code général des impôts, CGI. - art. 232
-  - Livre des procédures fiscales - art. L190 (V)
-  - Code rural - art. L141-1
-  - Code de l'urbanisme - art. L132-6 (V)
-  - Code de l'urbanisme - art. L143-16
-  - Code de l'urbanisme - art. L300-4
-  - Code de l'urbanisme - art. L321-1
-  - Code de l'urbanisme - art. L321-14
-  - Code de l'urbanisme - art. L321-29
-  - Code de l'urbanisme - art. L321-36-1
-  - Code de l'urbanisme - art. L321-37
-  - Code de l'urbanisme - art. L322-1 (V)
-  - Code de l'urbanisme - art. L324-1
-  - Code de l'urbanisme - art. L326-1
-  - Code de la construction et de l'habitation. - art. L366-1
+  - Livre des procédures fiscales - art. L190
 
 _Cité par_:
 
@@ -8971,8 +9088,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 24 (V)
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 76 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 13
 
 
 ###### Article L135 D
