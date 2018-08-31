@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-08-12
+Version Consolidée au 2018-09-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -177,7 +177,7 @@ Version Consolidée au 2018-08-12
         - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. L283 A à L283 F)](#174)
       - [Titre V : Dispositions communes (art. L284 à L289)](#175)
         - [Chapitre premier : Dispositions générales (art. L284 à L286 A)](#176)
-        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. L287 à L288)](#177)
+        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. L287 à L288 A)](#177)
         - [Chapitre III : Dispositions communautaires (art. L289)](#178)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1-1 à R289-2)](#179)
     - [Deuxième partie : Partie réglementaire, décrets (art. R*1-1 à R289-2)](#180)
@@ -16758,6 +16758,52 @@ _Codifié par_:
 **Liens**:
 
   - HISTO: Edition du 31 mars 2000
+
+
+###### Article L288 A
+
+Sur la base du numéro d'inscription au répertoire national d'identification des personnes physiques et des éléments d'Etat
+civil communiqués par les débiteurs de la retenue à la source mentionnés à l'article 204 A du code général des impôts,
+l'administration fiscale transmet à ceux-ci le taux de prélèvement prévu à l'article 204 E du même code avec le numéro
+d'inscription au répertoire national d'identification des personnes physiques correspondant.
+
+Ces opérations sont réalisées et ces informations recueillies, détenues ou transmises aux seules fins des missions définies
+au présent article ainsi qu'à l'article 204 A du code général des impôts.
+
+L'obligation de secret professionnel prévue à l'article L. 103 du présent livre s'étend à ces informations.
+
+**Nota:**
+
+Conformément à l'article 60 I G 5° de la loi n° 2016-1917 du 29 décembre 2016, les dispositions de l'article L. 288 A
+s'appliquent à compter du 1er octobre 2017.
+
+Aux termes de l'article 1er de l'ordonnance n° 2017-1390 du 22 septembre 2017, les dispositions de l'article L. 288 A
+s'appliquent à compter du 1er octobre 2018.
+
+Aux termes de l'article 11 III 1° de la loi n° 2017-1775 du 28 décembre 2017, les dispositions de l'article L. 288 A
+s'appliquent à compter du 1er septembre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (M)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1390 du 22 septembre 2017 - art. 1
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 11 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 204 A
+  - Code général des impôts, CGI. - art. 204 E
+  - Livre des procédures fiscales - art. L103
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1753 bis C (MMN)
 
 
 #### Chapitre III : Dispositions communautaires<a id=178></a>
