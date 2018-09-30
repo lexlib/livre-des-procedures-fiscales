@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-08-12
+Version Consolidée au 2018-10-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -177,7 +177,7 @@ Version Consolidée au 2018-08-12
         - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. L283 A à L283 F)](#174)
       - [Titre V : Dispositions communes (art. L284 à L289)](#175)
         - [Chapitre premier : Dispositions générales (art. L284 à L286 A)](#176)
-        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. L287 à L288)](#177)
+        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. L287 à L288 A)](#177)
         - [Chapitre III : Dispositions communautaires (art. L289)](#178)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1-1 à R289-2)](#179)
     - [Deuxième partie : Partie réglementaire, décrets (art. R*1-1 à R289-2)](#180)
@@ -16274,6 +16274,35 @@ _Codifié par_:
   - HISTO: Edition du 31 mars 2000
 
 
+###### Article L288 A
+
+Sur la base du numéro d'inscription au répertoire national d'identification des personnes physiques et des éléments d'Etat
+civil communiqués par les débiteurs de la retenue à la source mentionnés à l'article 204 A du code général des impôts,
+l'administration fiscale transmet à ceux-ci le taux de prélèvement prévu à l'article 204 E du même code avec le numéro
+d'inscription au répertoire national d'identification des personnes physiques correspondant.
+
+Ces opérations sont réalisées et ces informations recueillies, détenues ou transmises aux seules fins des missions définies
+au présent article ainsi qu'à l'article 204 A du code général des impôts.
+
+L'obligation de secret professionnel prévue à l'article L. 103 du présent livre s'étend à ces informations.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (M)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 204 A (VD)
+  - Code général des impôts, CGI. - art. 204 E (VD)
+  - Livre des procédures fiscales - art. L103 (V)
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1753 bis C (MMN)
+
+
 #### Chapitre III : Dispositions communautaires<a id=178></a>
 
 ###### Article L289
@@ -25488,23 +25517,22 @@ Le collège national de la direction générale des douanes et droits indirects 
 – du directeur général des douanes et droits indirects ou de son représentant, qui assure la fonction de président du
 collège ;
 
-– du sous-directeur de la fiscalité ou de son représentant ; il assure la présidence du collège en cas d'absence ou
+– du sous-directeur de la fiscalité douanière ou de son représentant ; il assure la présidence du collège en cas d'absence ou
 d'empêchement ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ;
 
-– du sous-directeur des affaires juridiques, du contentieux, des contrôles et de la lutte contre la fraude, ou de son
-représentant ;
+– du sous-directeur des affaires juridiques et de la lutte contre la fraude, ou de son représentant ;
 
 – du chef du bureau des contributions indirectes ou de son représentant ;
 
-– du chef du bureau de la fiscalité, des transports et des politiques fiscales communautaires ou de son représentant ;
+– du chef du bureau des transports et de la fiscalité européenne ou de son représentant ;
 
 – du chef de la direction nationale du renseignement et des enquêtes douanières ou de son représentant.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 8 janvier 2010 - art. 1
+  - Arrêté du 16 juillet 2018 - art. 10
 
 _Cite_:
 
