@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-02-04
+Version Consolidée au 2018-10-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -178,7 +178,7 @@ Version Consolidée au 2018-02-04
         - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. L283 A à L283 F)](#175)
       - [Titre V : Dispositions communes (art. L284 à L289)](#176)
         - [Chapitre premier : Dispositions générales (art. L284 à L286 A)](#177)
-        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. L287 à L288)](#178)
+        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. L287 à L288 A)](#178)
         - [Chapitre III : Dispositions communautaires (art. L289)](#179)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1-1 à R289-2)](#180)
     - [Deuxième partie : Partie réglementaire, décrets (art. R*1-1 à R289-2)](#181)
@@ -16006,6 +16006,35 @@ _Codifié par_:
 **Liens**:
 
   - HISTO: Edition du 31 mars 2000
+
+
+###### Article L288 A
+
+Sur la base du numéro d'inscription au répertoire national d'identification des personnes physiques et des éléments d'Etat
+civil communiqués par les débiteurs de la retenue à la source mentionnés à l'article 204 A du code général des impôts,
+l'administration fiscale transmet à ceux-ci le taux de prélèvement prévu à l'article 204 E du même code avec le numéro
+d'inscription au répertoire national d'identification des personnes physiques correspondant.
+
+Ces opérations sont réalisées et ces informations recueillies, détenues ou transmises aux seules fins des missions définies
+au présent article ainsi qu'à l'article 204 A du code général des impôts.
+
+L'obligation de secret professionnel prévue à l'article L. 103 du présent livre s'étend à ces informations.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (M)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 204 A (VD)
+  - Code général des impôts, CGI. - art. 204 E (VD)
+  - Livre des procédures fiscales - art. L103 (V)
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1753 bis C (VD)
 
 
 #### Chapitre III : Dispositions communautaires<a id=179></a>
