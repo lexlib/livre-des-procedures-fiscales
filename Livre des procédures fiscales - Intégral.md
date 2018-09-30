@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-09-01
+Version Consolidée au 2018-10-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -25711,23 +25711,22 @@ Le collège national de la direction générale des douanes et droits indirects 
 – du directeur général des douanes et droits indirects ou de son représentant, qui assure la fonction de président du
 collège ;
 
-– du sous-directeur de la fiscalité ou de son représentant ; il assure la présidence du collège en cas d'absence ou
+– du sous-directeur de la fiscalité douanière ou de son représentant ; il assure la présidence du collège en cas d'absence ou
 d'empêchement ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ;
 
-– du sous-directeur des affaires juridiques, du contentieux, des contrôles et de la lutte contre la fraude, ou de son
-représentant ;
+– du sous-directeur des affaires juridiques et de la lutte contre la fraude, ou de son représentant ;
 
 – du chef du bureau des contributions indirectes ou de son représentant ;
 
-– du chef du bureau de la fiscalité, des transports et des politiques fiscales communautaires ou de son représentant ;
+– du chef du bureau des transports et de la fiscalité européenne ou de son représentant ;
 
 – du chef de la direction nationale du renseignement et des enquêtes douanières ou de son représentant.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 8 janvier 2010 - art. 1
+  - Arrêté du 16 juillet 2018 - art. 10
 
 _Cite_:
 
