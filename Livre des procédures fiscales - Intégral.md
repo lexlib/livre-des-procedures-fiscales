@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-10-01
+Version Consolidée au 2018-10-25
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -103,7 +103,7 @@ Version Consolidée au 2018-10-01
             - [2° : Publicité de l'impôt (art. L111 à L112 A)](#100)
           - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L166 F)](#101)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#102)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 ZI)](#103)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 ZL)](#103)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139 B)](#104)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 C)](#105)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151 B)](#106)
@@ -1629,15 +1629,22 @@ _Cite_:
 
 ###### Article L16-0 BA
 
-I. – Lorsque, dans le cadre des procédures mentionnées aux articles L. 16 B, L. 16 D et L. 80 F, de la vérification sur place
-de la taxe sur la valeur ajoutée, ainsi que dans le cadre du contrôle inopiné mentionné au dernier alinéa de l'article L. 47,
-les agents de l'administration des impôts ayant au moins le grade de contrôleur constatent pour un contribuable se livrant à
-une activité professionnelle et au titre des périodes pour lesquelles l'une des obligations déclaratives prévues aux articles
-170,172,223 et 287 du code général des impôts n'est pas échue, l'un au moins des faits suivants : 
+I. – Lorsque, dans le cadre des procédures mentionnées aux articles L. 16 B, L. 16 D, L. 80 F et L. 80 Q, de la vérification
+sur place de la taxe sur la valeur ajoutée, ainsi que dans le cadre du contrôle inopiné mentionné au dernier alinéa de
+l'article L. 47, les agents de l'administration des impôts ayant au moins le grade de contrôleur constatent pour un
+contribuable se livrant à une activité professionnelle et au titre des périodes pour lesquelles l'une des obligations
+déclaratives prévues aux articles 87-0 A, 170,172,223 et 287 du code général des impôts n'est pas échue, l'un au moins des
+faits suivants : 
 
 1° L'exercice d'une activité que le contribuable n'a pas fait connaître à un centre de formalité des entreprises ou au greffe
 du tribunal de commerce, sauf s'il a satisfait, au titre d'une période antérieure, à l'une de ses obligations fiscales
 déclaratives ; 
+
+1° bis L'absence du respect d'au moins deux des obligations déclaratives prévues aux articles 87-0 A, 170,172,223 et 287 du
+code général des impôts, au titre de la dernière période échue ; 
+
+1° ter L'absence réitérée du respect d'au moins une des obligations déclaratives prévues aux articles 87-0 A, 170,172 et 223
+et au 3 de l'article 287 du code général des impôts, durant les deux dernières périodes échues ; 
 
 2° La délivrance de factures ne correspondant pas à la livraison d'une marchandise ou à l'exécution d'une prestation de
 services, ou de factures afférentes à des livraisons de biens ou à des prestations de services au titre desquelles la taxe
@@ -1659,16 +1666,18 @@ ils peuvent, en cas de circonstances susceptibles de menacer le recouvrement d'u
 mentionnée au premier alinéa, dresser à l'encontre de ce contribuable un procès-verbal de flagrance fiscale. 
 
 Le procès-verbal de flagrance fiscale est signé par les agents de l'administration des impôts ainsi que par le contribuable,
-hormis les cas dans lesquels l'infraction mentionnée au 1 de l'article 1746 du code général des impôts a été constatée. En
-cas de refus de signer, mention en est faite au procès-verbal. 
+son représentant ou la personne recevant les agents de l'administration des impôts, hormis les cas dans lesquels l'infraction
+mentionnée au 1 de l'article 1746 du code général des impôts a été constatée. En cas de refus de signer, mention en est faite
+au procès-verbal. 
 
 L'original du procès-verbal est conservé par l'administration des impôts et copie est notifiée au contribuable. 
 
 I bis. – Lorsque les agents mentionnés au premier alinéa du I sont informés, dans les conditions prévues au 1 de l'article
 1649 quater-0 B bis du code général des impôts, de l'exercice par le contribuable d'une activité entrant dans le champ
 d'application du 2 du même article au titre de la période en cours pour laquelle l'une des obligations déclaratives prévues
-aux articles 170,172,223 et 287 du même code n'est pas échue, ils peuvent, en cas de circonstances susceptibles de menacer le
-recouvrement d'une créance fiscale, dresser à l'encontre de ce contribuable un procès-verbal de flagrance fiscale. 
+aux articles 87-0 A, 170,172,223 et 287 du même code n'est pas échue, ils peuvent, en cas de circonstances susceptibles de
+menacer le recouvrement d'une créance fiscale, dresser à l'encontre de ce contribuable un procès-verbal de flagrance
+fiscale. 
 
 Le procès-verbal de flagrance fiscale est signé par les agents de l'administration des impôts. 
 
@@ -1684,8 +1693,9 @@ circonstances susceptibles de menacer le recouvrement d'une créance fiscale de 
 alinéa, dresser à l'encontre du contribuable un procès-verbal de flagrance fiscale. 
 
 Le procès-verbal de flagrance fiscale est signé par les agents de l'administration des impôts ainsi que par le contribuable,
-hormis les cas dans lesquels l'infraction visée au 1 de l'article 1746 du code général des impôts a été constatée. En cas de
-refus de signer, mention en est faite au procès-verbal. 
+son représentant ou la personne recevant les agents de l'administration des impôts, hormis les cas dans lesquels l'infraction
+visée au 1 de l'article 1746 du code général des impôts a été constatée. En cas de refus de signer, mention en est faite au
+procès-verbal. 
 
 L'original du procès-verbal est conservé par l'administration des impôts et copie est notifiée au contribuable. 
 
@@ -1709,50 +1719,54 @@ commerce. A cet effet, l'administration peut obtenir ou prendre copie des docume
 supports. 
 
 Un procès-verbal relatant les opérations effectuées est établi. Il est signé par l'agent de l'administration des impôts ainsi
-que par le contribuable. En cas de refus de signer, mention en est faite au procès-verbal. L'original de ce procès-verbal est
-conservé par l'administration et copie en est remise au contribuable. 
+que par le contribuable, son représentant ou la personne recevant les agents de l'administration des impôts. En cas de refus
+de signer, mention en est faite au procès-verbal. L'original de ce procès-verbal est conservé par l'administration et copie
+en est remise au contribuable. 
 
 Ces opérations ne constituent pas une vérification de comptabilité au sens de l'article L. 13. 
 
-V. – Le juge du référé administratif mentionné à l'article L. 279, saisi dans un délai de huit jours à compter de la
+V. – Le juge du référé administratif mentionné à l'article L. 279, saisi dans un délai de quinze jours à compter de la
 réception du procès-verbal de flagrance fiscale mentionné au I, met fin à la procédure s'il est fait état d'un moyen propre à
 créer, en l'état de l'instruction, un doute sérieux sur la régularité de cette procédure. 
 
 Le juge du référé statue dans un délai de quinze jours. Faute d'avoir statué dans ce délai, le juge des référés est dessaisi
 au profit du tribunal administratif qui se prononce en urgence. 
 
-La décision du juge du référé est susceptible d'appel devant le tribunal administratif dans le délai de huit jours. Le
-tribunal se prononce en urgence. 
+La décision du juge du référé ou du tribunal administratif est susceptible d'appel devant le président de la cour
+administrative d'appel ou le magistrat qu'il désigne à cet effet dans le délai de huit jours. Le président ou le magistrat
+désigné se prononce en urgence. 
 
-La décision du juge du référé ou du tribunal administratif ordonnant qu'il soit mis fin à la procédure entraîne la mainlevée
-immédiate des mesures conservatoires éventuellement prises.
+La décision du juge du référé, du tribunal administratif, du président de la cour administrative d'appel ou du magistrat
+désigné ordonnant qu'il soit mis fin à la procédure entraîne la mainlevée immédiate des mesures conservatoires éventuellement
+prises.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 91
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 86 (V)
+  - Loi n°2018-898 du 23 octobre 2018 - art. 12
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1649 quater-0 B bis (V)
-  - Code général des impôts, CGI. - art. 170
+  - Code général des impôts, CGI. - art. 1649 quater-0 B bis
+  - Code général des impôts, CGI. - art. 170 (VT)
   - Code général des impôts, CGI. - art. 172
   - Code général des impôts, CGI. - art. 1743
-  - Code général des impôts, CGI. - art. 1746 (V)
+  - Code général des impôts, CGI. - art. 1746
   - Code général des impôts, CGI. - art. 223
   - Code général des impôts, CGI. - art. 272
   - Code général des impôts, CGI. - art. 287
-  - Livre des procédures fiscales - art. L101 (V)
+  - Code général des impôts, CGI. - art. 87-0 A (VD)
+  - Livre des procédures fiscales - art. L101
   - Livre des procédures fiscales - art. L13
   - Livre des procédures fiscales - art. L16 B
   - Livre des procédures fiscales - art. L16 D
   - Livre des procédures fiscales - art. L279
   - Livre des procédures fiscales - art. L47
-  - Livre des procédures fiscales - art. L80 F
+  - Livre des procédures fiscales - art. L80 F (V)
   - Livre des procédures fiscales - art. L80 H
-  - Livre des procédures fiscales - art. L82 C (V)
+  - Livre des procédures fiscales - art. L80 Q (V)
+  - Livre des procédures fiscales - art. L82 C
   - Code du travail - art. L8221-1
 
 _Cité par_:
@@ -3237,27 +3251,27 @@ I. – Lorsque la comptabilité est tenue au moyen de systèmes informatisés, l
 de comptabilité satisfait à l'obligation de représentation des documents comptables mentionnés au premier alinéa de l'article
 54 du code général des impôts en remettant au début des opérations de contrôle, sous forme dématérialisée répondant à des
 normes fixées par arrêté du ministre chargé du budget, une copie des fichiers des écritures comptables définies aux articles
-420-1 et suivants du plan comptable général. 
+420-1 et suivants du plan comptable général.
 
 Le premier alinéa du présent article s'applique également aux fichiers des écritures comptables de tout contribuable soumis
 par le code général des impôts à l'obligation de tenir et de présenter des documents comptables autres que ceux mentionnés au
-premier alinéa du même article 54 et dont la comptabilité est tenue au moyen de systèmes informatisés. 
+premier alinéa du même article 54 et dont la comptabilité est tenue au moyen de systèmes informatisés.
 
 L'administration peut effectuer des tris, classements ainsi que tous calculs aux fins de s'assurer de la concordance entre la
 copie des enregistrements comptables et les déclarations fiscales du contribuable. L'administration détruit, avant la mise en
-recouvrement, les copies des fichiers transmis. 
+recouvrement, les copies des fichiers transmis.
 
 II. – En présence d'une comptabilité tenue au moyen de systèmes informatisés et lorsqu'ils envisagent des traitements
 informatiques, les agents de l'administration fiscale indiquent par écrit au contribuable la nature des investigations
-souhaitées. Le contribuable formalise par écrit son choix parmi l'une des options suivantes : 
+souhaitées. Le contribuable formalise par écrit son choix parmi l'une des options suivantes :
 
-a) Les agents de l'administration peuvent effectuer la vérification sur le matériel utilisé par le contribuable ; 
+a) Les agents de l'administration peuvent effectuer la vérification sur le matériel utilisé par le contribuable ;
 
 b) Celui-ci peut effectuer lui-même tout ou partie des traitements informatiques nécessaires à la vérification. Dans ce cas,
 après, le cas échéant, la remise des copies prévue au second alinéa du présent b, l'administration précise par écrit au
 contribuable, ou à un mandataire désigné à cet effet, les travaux à réaliser ainsi que le délai accordé pour les effectuer.
 Les résultats des traitements sont alors remis sous forme dématérialisée répondant à des normes fixées par arrêté du ministre
-chargé du budget ; 
+chargé du budget ;
 
 Toutefois, à la demande de l'administration, le contribuable met à sa disposition, dans les quinze jours suivant cette
 demande, les copies des documents, données et traitements soumis à contrôle. Ces copies sont produites sur tous supports
@@ -3265,36 +3279,42 @@ informatiques répondant à des normes fixées par arrêté du ministre chargé 
 copies tout ou partie des traitements informatiques nécessaires à la vérification. Dans ce cas, l'administration communique
 au contribuable, sous forme dématérialisée ou non, au choix du contribuable, le résultat des traitements informatiques qui
 donnent lieu à des rehaussements au plus tard lors de l'envoi de la proposition de rectification mentionnée à l'article L.
-57 ; 
+57 ;
 
 c) Le contribuable peut également demander que le contrôle ne soit pas effectué sur le matériel de l'entreprise. Il met alors
 à la disposition de l'administration, dans les quinze jours suivant la formalisation par écrit de son choix, les copies des
 documents, données et traitements soumis à contrôle. Ces copies sont produites sur tous supports informatiques, répondant à
 des normes fixées par arrêté du ministre chargé du budget. L'administration communique au contribuable, sous forme
 dématérialisée ou non au choix du contribuable, le résultat des traitements informatiques qui donnent lieu à des
-rehaussements au plus tard lors de l'envoi de la proposition de rectification mentionnée à l'article L. 57. 
+rehaussements au plus tard lors de l'envoi de la proposition de rectification mentionnée à l'article L. 57.
 
 Le contribuable est informé des noms et adresses administratives des agents par qui ou sous le contrôle desquels les
-opérations sont réalisées. L'administration détruit, avant la mise en recouvrement, les copies des fichiers transmis. 
+opérations sont réalisées. L'administration détruit, avant la mise en recouvrement, les copies des fichiers transmis.
 
 III. – a. – Dans le cadre du contrôle inopiné mentionné au dernier alinéa de l'article L. 47, lorsque la comptabilité est
 tenue au moyen de systèmes informatisés, les agents de l'administration peuvent réaliser deux copies des fichiers relatifs
 aux informations, données et traitements informatiques ainsi que de la documentation relative aux analyses, à la
-programmation et à l'exécution des traitements mentionnés au IV de l'article L. 13. 
+programmation et à l'exécution des traitements mentionnés au IV de l'article L. 13.
 
 Ces copies sont scellées selon des modalités définies par arrêté du ministre chargé du budget. Une copie est remise au
-contribuable ou à son représentant, l'autre copie est conservée par l'administration. 
+contribuable ou à son représentant, l'autre copie est conservée par l'administration.
 
-A l'issue du délai raisonnable mentionné au dernier alinéa de l'article L. 47, les deux copies sont confrontées. 
+A l'issue du délai raisonnable mentionné au dernier alinéa de l'article L. 47, les deux copies sont confrontées.
 
 b. – Par dérogation au I, en cas d'altération des scellés ou des fichiers copiés, de non-présentation de la copie des
 fichiers remise au contribuable ou du fichier des écritures comptables mentionné au même I, l'administration peut effectuer
-des tris, classements ainsi que tous calculs sur la copie des fichiers des écritures comptables conservée par ses soins. 
+des tris, classements ainsi que tous calculs sur la copie des fichiers des écritures comptables conservée par ses soins.
 
 c. – Par dérogation au II, si l'administration envisage des traitements informatiques, en cas d'altération des scellés ou des
 fichiers copiés, de non-présentation de la copie remise au contribuable ou d'impossibilité d'effectuer tout ou partie des
 traitements informatiques nécessaires au contrôle des informations, données et traitements informatiques mentionnés au IV de
-l'article L. 13, l'administration peut effectuer ces traitements sur la copie des fichiers conservée par ses soins. 
+l'article L. 13, l'administration peut effectuer ces traitements sur la copie des fichiers conservée par ses soins.
+
+Lorsque le premier alinéa du présent c n'est pas applicable, si l'administration envisage des traitements informatiques
+prévus au II, elle peut, quelle que soit l'option choisie par le contribuable, consulter la copie des fichiers, mentionnée au
+a du présent III, qu'elle a conservée et la comparer aux fichiers, copies de fichiers nécessaires à la réalisation des
+traitements et résultats de traitements réalisés mis à disposition ou remis par le contribuable. Le résultat de cette
+comparaison est opposable au contribuable.
 
 d. – L'administration communique au contribuable, sous forme dématérialisée ou non, au choix de ce dernier, le résultat des
 traitements informatiques qui donnent lieu à des rehaussements au plus tard lors de l'envoi de la proposition de
@@ -3303,9 +3323,9 @@ mentionnée au a.
 
 **Nota:**
 
-Conformément au III de l'article 14 de la loi n° 2016-1918 du 29  décembre 2016, les dispositions du présent article, dans
-leur rédation issue du 5° du II du même article de la même loi, s'appliquent aux  contrôles dont les avis de vérification
-sont adressés à compter du 1er  janvier 2017.
+Conformément au II de l’article 4 de la loi n° 2018-898 du 23 octobre 2018, les dispositions du présent article, dans leur
+rédaction issue du I dudit article 4, s'appliquent aux avis de vérification remis à compter du lendemain de la publication de
+ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -3329,13 +3349,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
+  - Loi n°2018-898 du 23 octobre 2018 - art. 4 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 54
   - Livre des procédures fiscales - art. L13
-  - Livre des procédures fiscales - art. L47 (V)
+  - Livre des procédures fiscales - art. L47
 
 
 ###### Article L47 AA
@@ -5690,26 +5710,27 @@ _Cite_:
 
 ###### Article L80 E
 
-La décision d'appliquer les majorations et amendes prévues aux articles 1729, 1732 et 1735 ter du code général des impôts est
-prise par un agent de catégorie A détenant au moins un grade fixé par décret qui vise à cet effet le document comportant la
-motivation des pénalités.
+La décision d'appliquer les majorations et amendes prévues aux articles 1729, 1732,
+1735 ter et 1740 A bis du code général des impôts est prise par un agent de catégorie A détenant au moins un grade fixé par
+décret qui vise à cet effet le document comportant la motivation des pénalités.
 
 **Nota:**
 
-LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 art 22 VII 1 : les présentes dispositions sont
-applicables aux exercices ouverts à compter du 1er janvier 2010.
+Conformément à l'article 19 IV de la loi n° 2018-898 du 23 octobre 2018, ces dispositions s'appliquent aux prestations
+fournies à compter du lendemain de la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 22 (V)
+  - Loi n°2018-898 du 23 octobre 2018 - art. 19 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1729 (V)
-  - Code général des impôts, CGI. - art. 1732 (V)
-  - Code général des impôts, CGI. - art. 1735 ter (V)
+  - Code général des impôts, CGI. - art. 1729
+  - Code général des impôts, CGI. - art. 1732
+  - Code général des impôts, CGI. - art. 1735 ter
+  - Code général des impôts, CGI. - art. 1740 A bis
 
 _Cité par_:
 
@@ -9235,6 +9256,42 @@ _Cite_:
   - Code de la sécurité sociale. - art. L114-16-1 (V)
 
 
+###### Article L134 D
+
+Pour les besoins de l'accomplissement de leurs missions de contrôle et de recouvrement portant sur les infractions prévues à
+l'article L. 114-16-2 du code de la sécurité sociale : 
+
+1° Les agents des organismes mentionnés aux articles L. 211-1, L. 212-1, L. 215-1, L. 222-1-1, L. 752-4 du même code et ceux
+mentionnés à l'article L. 724-7 du code rural et de la pêche maritime, individuellement désignés et dûment habilités selon
+des modalités fixées par décret, disposent d'un droit d'accès direct aux informations contenues dans les déclarations prévues
+à l'article 1649 ter du code général des impôts ; 
+
+2° Les agents des organismes mentionnés aux articles L. 212-1, L. 752-4 du code de la sécurité sociale et ceux mentionnés à
+l'article L. 5312-1 du code du travail et à l'article L. 724-7 du code rural et de la pêche maritime, individuellement
+désignés et dûment habilités selon des modalités fixées par décret, disposent d'un droit d'accès direct aux données relatives
+aux mutations à titre onéreux ou gratuit et aux actes relatifs aux sociétés ainsi qu'aux informations mentionnées à l'article
+L. 107 B du présent livre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 6
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 ter (V)
+  - Livre des procédures fiscales - art. L107 B (V)
+  - Code rural - art. L724-7 (V)
+  - Code du travail - art. L5312-1 (VT)
+  - Code de la sécurité sociale. - art. L114-16-2 (V)
+  - Code de la sécurité sociale. - art. L211-1 (V)
+  - Code de la sécurité sociale. - art. L212-1 (V)
+  - Code de la sécurité sociale. - art. L215-1 (VT)
+  - Code de la sécurité sociale. - art. L222-1-1 (V)
+  - Code de la sécurité sociale. - art. L752-4 (V)
+
+
 ###### Article L135
 
 Les fonctionnaires qualifiés du ministère chargé de la marine marchande peuvent recevoir de l'administration des Impôts
@@ -10017,23 +10074,26 @@ Pour les besoins de l'accomplissement de leur mission, les officiers de police j
 gendarmerie nationale, ainsi que les agents des douanes et les agents des services fiscaux habilités à effectuer des enquêtes
 judiciaires en application, respectivement, des articles 28-1 et 28-2 du code de procédure pénale, individuellement désignés
 et dûment habilités selon des modalités fixées par décret disposent d'un droit d'accès direct aux fichiers contenant les
-informations mentionnées aux articles 1649 A et 1649 ter du code général des impôts.
+informations mentionnées aux articles 1649 A et 1649 ter du code général des impôts, aux données relatives aux mutations à
+titre onéreux ou gratuit et aux actes relatifs aux sociétés ainsi qu'aux informations mentionnées à l'article L. 107 B du
+présent livre.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 126
 
 _Cité par_:
 
   - Arrêté du 1er septembre 2016 - art. 5 (V)
   - Livre des procédures fiscales - art. R135 ZC-1 (M)
 
+_Modifié par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 6
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1649 A (V)
-  - Code général des impôts, CGI. - art. 1649 ter (V)
+  - Code général des impôts, CGI. - art. 1649 A (VD)
+  - Code général des impôts, CGI. - art. 1649 ter
+  - Livre des procédures fiscales - art. L107 B (V)
   - Code de procédure pénale - art. 28-1 (V)
 
 
@@ -10158,6 +10218,73 @@ documents conformément au 7° du II de l'article L. 612-1 du code monétaire et
 _Créé par_:
 
   - Loi n°2017-1775 du 28 décembre 2017 - art. 56 (V)
+
+
+###### Article L135 ZJ
+
+Pour les besoins de l'accomplissement de leurs missions, les assistants spécialisés détachés ou mis à disposition par
+l'administration fiscale en application de l'article 706 du code de procédure pénale disposent d'un droit d'accès direct aux
+informations contenues dans les fichiers tenus en application des articles 1649 A et 1649 ter du code général des impôts, aux
+données relatives aux mutations à titre onéreux ou gratuit et aux actes relatifs aux sociétés ainsi qu'aux informations
+mentionnées à l'article L. 107 B du présent livre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 6
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 A (VT)
+  - Code général des impôts, CGI. - art. 1649 ter (V)
+  - Livre des procédures fiscales - art. L107 B (V)
+  - Code de procédure pénale - art. 706 (V)
+
+
+###### Article L135 ZK
+
+Pour les besoins de l'accomplissement de leurs missions de contrôle et de recouvrement portant sur les infractions prévues à
+l'article L. 8211-1 du code du travail, les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1 du
+même code, les agents des organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale et ceux
+mentionnés à l'article L. 724-7 du code rural et de la pêche maritime, individuellement désignés et dûment habilités selon
+des modalités fixées par décret, disposent d'un droit d'accès direct aux informations contenues dans les fichiers tenus en
+application des articles 1649 A et 1649 ter du code général des impôts, aux données relatives aux mutations à titre onéreux
+ou gratuit et aux actes relatifs aux sociétés ainsi qu'aux informations mentionnées à l'article L. 107 B du présent livre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 6
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 A (VT)
+  - Code général des impôts, CGI. - art. 1649 ter (V)
+  - Livre des procédures fiscales - art. L107 B (V)
+  - Code rural - art. L724-7 (V)
+  - Code du travail - art. L8112-1 (V)
+  - Code du travail - art. L8211-1 (V)
+  - Code de la sécurité sociale. - art. L213-1 (VT)
+  - Code de la sécurité sociale. - art. L752-4 (V)
+
+
+###### Article L135 ZL
+
+Pour les besoins de l'accomplissement de leurs missions de contrôle et de recouvrement, les agents des douanes
+individuellement désignés et dûment habilités selon des modalités fixées par décret disposent d'un droit d'accès direct aux
+informations contenues dans les fichiers tenus en application de l'article 1649 ter du code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 6
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1649 ter (V)
 
 
 ##### III : Dérogations au profit de diverses commissions<a id=104></a>
@@ -11585,9 +11712,9 @@ Le droit de reprise de l'administration s'exerce jusqu'à la fin de la dixième 
 l'imposition est due, lorsque les obligations déclaratives prévues aux articles 123 bis, 209 B, 
 1649 A, 1649 AA et 1649 AB du même code n'ont pas été respectées. Toutefois, en cas de non-respect de l'obligation
 déclarative prévue à l'article 1649 A, cette extension de délai ne s'applique pas lorsque le contribuable apporte la preuve
-que le total des soldes créditeurs de ses comptes à l'étranger est inférieur à 50 000 € au 31 décembre de l'année au titre de
-laquelle la déclaration devait être faite. Le droit de reprise de l'administration concerne les seuls revenus ou bénéfices
-afférents aux obligations déclaratives qui n'ont pas été respectées.
+que le total des soldes créditeurs de ses comptes à l'étranger n'a pas excédé 50 000 € à un moment quelconque de l'année au
+titre de laquelle la déclaration devait être faite. Le droit de reprise de l'administration concerne les seuls revenus ou
+bénéfices afférents aux obligations déclaratives qui n'ont pas été respectées.
 
 Le droit de reprise de l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au titre de laquelle
 l'imposition est due, lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les conditions prévues à
@@ -11603,11 +11730,6 @@ au premier alinéa.
 
 Si le groupe a cessé d'exister, les règles définies au sixième alinéa demeurent applicables au déficit ou à la moins-value
 nette à long terme définis au cinquième alinéa de l'article 223 S du code général des impôts.
-
-**Nota:**
-
-Conformément à l'article 108 II de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018, les présentes dispositions
-s'appliquent aux délais de reprise venant à expiration à compter de l'entrée en vigueur dudit article.
 
 **Liens relatifs à cet article**
 
@@ -11652,7 +11774,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 108 (V)
+  - Loi n°2018-898 du 23 octobre 2018 - art. 9
 
 _Cite_:
 
@@ -11665,7 +11787,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 C
   - Code général des impôts, CGI. - art. 223 D
   - Code général des impôts, CGI. - art. 223 S
-  - Livre des procédures fiscales - art. L16-0 BA
+  - Livre des procédures fiscales - art. L16-0 BA (V)
 
 
 ###### Article L169 A
@@ -12676,7 +12798,7 @@ _Cité par_:
 ###### Article L188 B
 
 Lorsque l'administration a, dans le délai de reprise, déposé une plainte ayant abouti à l'ouverture d'une enquête judiciaire
-pour fraude fiscale dans les cas visés aux 1° à 5° de l'article L. 228, les omissions ou insuffisances d'imposition
+pour fraude fiscale dans les cas visés aux 1° à 5° du II de l'article L. 228, les omissions ou insuffisances d'imposition
 afférentes à la période couverte par le délai de reprise peuvent, même si celui-ci est écoulé, être réparées jusqu'à la fin
 de l'année qui suit la décision qui met fin à la procédure et, au plus tard, jusqu'à la fin de la dixième année qui suit
 celle au titre de laquelle l'imposition est due.
@@ -12685,11 +12807,11 @@ celle au titre de laquelle l'imposition est due.
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 11
+  - Loi n°2018-898 du 23 octobre 2018 - art. 36
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L228
+  - Livre des procédures fiscales - art. L228 (M)
 
 _Cité par_:
 
@@ -13868,34 +13990,71 @@ _Cite_:
 
 ###### Article L228
 
-Sous peine d'irrecevabilité, les plaintes tendant à l'application de sanctions pénales en matière d'impôts directs, de taxe
-sur la valeur ajoutée et autres taxes sur le chiffre d'affaires, de droits d'enregistrement, de taxe de publicité foncière et
-de droits de timbre sont déposées par l'administration sur avis conforme de la commission des infractions fiscales. 
+I. – Sans préjudice des plaintes dont elle prend l'initiative, l'administration est tenue de dénoncer au procureur de la
+République les faits qu'elle a examinés dans le cadre de son pouvoir de contrôle prévu à l'article L. 10 qui ont conduit à
+l'application, sur des droits dont le montant est supérieur à 100 000 € : 
+
+1° Soit de la majoration de 100 % prévue à l'article 1732 du code général des impôts ; 
+
+2° Soit de la majoration de 80 % prévue au c du 1 de l'article 1728, aux b ou c de l'article 1729, au I de l'article 1729-0 A
+ou au dernier alinéa de l'article 1758 du même code ; 
+
+3° Soit de la majoration de 40 % prévue au b du 1 de l'article 1728 ou aux a ou b de l'article 1729 dudit code, lorsqu'au
+cours des six années civiles précédant son application le contribuable a déjà fait l'objet lors d'un précédent contrôle de
+l'application des majorations mentionnées aux 1° et 2° du présent I et au présent 3° ou d'une plainte de l'administration. 
+
+L'administration est également tenue de dénoncer les faits au procureur de la République lorsque des majorations de 40 %, 80
+% ou 100 % ont été appliquées à un contribuable soumis aux obligations prévues à l'article LO 135-1 du code électoral et aux
+articles 4 et 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, sur des droits dont
+le montant est supérieur à la moitié du montant prévu au premier alinéa du présent I. 
+
+L'application des majorations s'apprécie au stade de la mise en recouvrement. Toutefois, lorsqu'une transaction est conclue
+avant la mise en recouvrement, l'application des majorations s'apprécie au stade des dernières conséquences financières
+portées à la connaissance du contribuable dans le cadre des procédures prévues aux articles L. 57 et L. 76 du présent livre. 
+
+Lorsque l'administration dénonce des faits en application du présent I, l'action publique pour l'application des sanctions
+pénales est exercée sans plainte préalable de l'administration. 
+
+Les dispositions du présent I ne sont pas applicables aux contribuables ayant déposé spontanément une déclaration
+rectificative. 
+
+II. – Sous peine d'irrecevabilité, les plaintes portant sur des faits autres que ceux mentionnés aux premier à cinquième
+alinéas du I et tendant à l'application de sanctions pénales en matière d'impôts directs, de taxe sur la valeur ajoutée et
+autres taxes sur le chiffre d'affaires, de droits d'enregistrement, de taxe de publicité foncière et de droits de timbre sont
+déposées par l'administration à son initiative, sur avis conforme de la commission des infractions fiscales. 
 
 La commission examine les affaires qui lui sont soumises par le ministre chargé du budget. Le contribuable est avisé de la
 saisine de la commission qui l'invite à lui communiquer, dans un délai de trente jours, les informations qu'il jugerait
 nécessaires. 
 
-Toutefois, la commission examine l'affaire sans que le contribuable soit avisé de la saisine ni informé de son avis lorsque
-le ministre chargé du budget fait valoir qu'existent des présomptions caractérisées qu'une infraction fiscale pour laquelle
-existe un risque de dépérissement des preuves résulte : 
+Le ministre est lié par les avis de la commission. 
 
-1° Soit de l'utilisation, aux fins de se soustraire à l'impôt de comptes ouverts ou de contrats souscrits auprès d'organismes
-établis à l'étranger ; 
+Un décret en Conseil d'Etat fixe les conditions de fonctionnement de la commission. 
+
+Toutefois, l'avis de la commission n'est pas requis lorsqu'il existe des présomptions caractérisées qu'une infraction fiscale
+a été commise pour laquelle existe un risque de dépérissement des preuves et qui résulte : 
+
+1° Soit de l'utilisation, aux fins de se soustraire à l'impôt, de comptes ouverts ou de contrats souscrits auprès
+d'organismes établis à l'étranger ; 
 
 2° Soit de l'interposition de personnes physiques ou morales ou de tout organisme, fiducie ou institution comparable établis
 à l'étranger ; 
 
 3° Soit de l'usage d'une fausse identité ou de faux documents au sens de l'article 441-1 du code pénal, ou de toute autre
-falsification ;
+falsification ; 
 
 4° Soit d'une domiciliation fiscale fictive ou artificielle à l'étranger ; 
 
 5° Soit de toute autre manœuvre destinée à égarer l'administration. 
 
-Le ministre est lié par les avis de la commission. 
+Cette commission est également chargée de donner un avis à l'administration lorsque celle-ci envisage de rendre publiques des
+sanctions administratives, en application de l'article 1729 A bis du code général des impôts.
 
-Un décret en Conseil d'Etat fixe les conditions de fonctionnement de la commission.
+**Nota:**
+
+<font color="#000000">Conformément à l'article 36 II de la loi n° 2018-898 du 23 octobre 2018, ces dispositions s'appliquent
+aux contrôles pour lesquels une proposition de rectification a été adressée à compter de la publication de la présente loi.</
+font>
 
 **Liens relatifs à cet article**
 
@@ -13920,19 +14079,28 @@ _Cité par_:
   - Code pénal - art. 131-26-2 (V)
   - Livre des procédures fiscales - art. L137 (V)
   - Livre des procédures fiscales - art. L142 A (V)
-  - Livre des procédures fiscales - art. L188 B (M)
+  - Livre des procédures fiscales - art. L188 B (V)
   - Livre des procédures fiscales - art. L228 A (P)
   - Livre des procédures fiscales - art. R*228-1 (V)
   - Livre des procédures fiscales - art. R*228-2 (V)
   - Livre des procédures fiscales - art. R*228-6 (V)
 
-_Modifié par_:
-
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 9
-
 _Cite_:
 
+  - Loi n°2013-907 du 11 octobre 2013
+  - Code général des impôts, CGI. - art. 1728
+  - Code général des impôts, CGI. - art. 1729
+  - Code général des impôts, CGI. - art. 1729-0 A
+  - Code général des impôts, CGI. - art. 1732
+  - Livre des procédures fiscales - art. L10
+  - Livre des procédures fiscales - art. L57
+  - Livre des procédures fiscales - art. L76
+  - Code électoral - art. LO135-1
   - Code pénal - art. 441-1
+
+_Modifié par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 36
 
 
 ###### Article L228 B
@@ -13958,10 +14126,25 @@ _Créé par_:
   - Loi n°2013-1117 du 6 décembre 2013 - art. 16
 
 
+###### Article L228 C
+
+Lorsque l'administration a déposé une plainte tendant à l'application de sanctions pénales en matière d'impôts directs, de
+taxe sur la valeur ajoutée et autres taxes sur le chiffre d'affaires, de droits d'enregistrement, de taxe de publicité
+foncière et de droits de timbre ou dénoncé les faits au procureur de la République, l'action publique peut être exercée sans
+nouvelle plainte ou dénonciation en cas de découverte de faits de fraude fiscale concernant le même contribuable et portant
+sur d'autres impôts ou taxes ou sur une période différente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 36
+
+
 ###### Article L229
 
-Les plaintes sont déposées par le service chargé de l'assiette ou du recouvrement de l'impôt sans qu'il y ait lieu de mettre,
-au préalable, le contribuable en demeure de régulariser sa situation.
+Les plaintes sont déposées par le service chargé de l'assiette, du contrôle ou du recouvrement de l'impôt sans qu'il y ait
+lieu de mettre, au préalable, le contribuable en demeure de régulariser sa situation.
 
 Toutefois, les plaintes présentant un lien de connexité peuvent être déposées par un seul des services mentionnés au premier
 alinéa, compétent pour le dépôt de l'une de ces plaintes.
@@ -13971,17 +14154,13 @@ alinéa, compétent pour le dépôt de l'une de ces plaintes.
 _Anciens textes_:
 
   - CGI 1780 al. 1
-  - Décret n°1934-07-20 annexe art. 146
-  - Décret n°1948-12-09 art. 1966
   - Loi n°48-23 1948-01-06 art. 47
   - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
   - Loi n°48-1268 du 17 août 1948 - art. 6, v. init.
   - Décret n°48-1986 1948-12-09 art. 115
+  - Décret n°1934-07-20 annexe art. 146
+  - Décret n°1948-12-09 art. 1966
   - Loi n°1934-07-06 art. 13
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 1741 (M)
 
 _Codifié par_:
 
@@ -13989,7 +14168,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 46
+  - Loi n°2018-898 du 23 octobre 2018 - art. 37
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1741 (V)
 
 
 ###### Article L230
@@ -14519,36 +14702,32 @@ _Cité par_:
 
 ###### Article L247
 
-L'administration peut accorder sur la demande du contribuable ; 
+L'administration peut accorder sur la demande du contribuable ;
 
 1° Des remises totales ou partielles d'impôts directs régulièrement établis lorsque le contribuable est dans l'impossibilité
-de payer par suite de gêne ou d'indigence ; 
+de payer par suite de gêne ou d'indigence ;
 
 2° Des remises totales ou partielles d'amendes fiscales ou de majorations d'impôts lorsque ces pénalités et, le cas échéant,
-les impositions auxquelles elles s'ajoutent sont définitives ; 
+les impositions auxquelles elles s'ajoutent sont définitives ;
 
 2° bis Des remises totales ou partielles des frais de poursuites mentionnés à l'article 1912 du code général des impôts et
-des intérêts moratoires prévus à l'article L. 209 du présent livre ; 
+des intérêts moratoires prévus à l'article L. 209 du présent livre ;
 
 3° Par voie de transaction, une atténuation d'amendes fiscales ou de majorations d'impôts lorsque ces pénalités et, le cas
-échéant, les impositions auxquelles elles s'ajoutent ne sont pas définitives. 
+échéant, les impositions auxquelles elles s'ajoutent ne sont pas définitives.
 
 Les dispositions des 2° et 3° sont le cas échéant applicables s'agissant des sommes dues au titre de l'intérêt de retard visé
 à l'article 1727 du code général des impôts.
 
 L'administration peut également décharger de leur responsabilité les personnes tenues au paiement d'impositions dues par un
-tiers. 
+tiers.
 
 Aucune autorité publique ne peut accorder de remise totale ou partielle de droits d'enregistrement, de taxe de publicité
 foncière, de droits de timbre, de taxes sur le chiffre d'affaires, de contributions indirectes et de taxes assimilées à ces
 droits, taxes et contributions.
 
-L'administration ne peut transiger : 
-
-1°) Lorsqu'elle envisage de mettre en mouvement l'action publique pour les infractions mentionnées au code général des
-impôts ; 
-
-2°) Lorsque le contribuable met en œuvre des manœuvres dilatoires visant à nuire au bon déroulement du contrôle.
+L'administration ne peut transiger lorsque le contribuable met en œuvre des manœuvres dilatoires visant à nuire au bon
+déroulement du contrôle.
 
 **Liens relatifs à cet article**
 
@@ -14591,7 +14770,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-550 du 26 mai 2014 - art. 1
+  - Loi n°2018-898 du 23 octobre 2018 - art. 35
 
 _Cite_:
 
@@ -14804,9 +14983,11 @@ _Codifié par_:
 ###### Article L251 A
 
 Chaque année, le ministre chargé du budget publie un rapport sur l'application de la politique de remises et de transactions
-à titre gracieux par l'administration fiscale. Ce rapport peut faire l'objet d'un débat chaque année devant les commissions
-permanentes compétentes en matière de finances de l'Assemblée nationale et du Sénat. [Dispositions déclarées non conformes à
-la Constitution par la décision du Conseil constitutionnel n° 2013-679 DC du 4 décembre 2013].
+à titre gracieux par l'administration fiscale, qui mentionne le nombre, le montant total, le montant médian et le montant
+moyen des remises accordées, répartis par type de remise accordée et par imposition concernée, pour les personnes morales et
+pour les personnes physiques. Ce rapport peut faire l'objet d'un débat chaque année devant les commissions permanentes
+compétentes en matière de finances de l'Assemblée nationale et du Sénat. [Dispositions déclarées non conformes à la
+Constitution par la décision du Conseil constitutionnel n° 2013-679 DC du 4 décembre 2013].
 
 **Liens relatifs à cet article**
 
@@ -14816,11 +14997,11 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décision n°2013-679 DC du 4 décembre 2013, v. init.
+  - Décision n°2013-679 DC du 4 décembre 2013
 
 _Modifié par_:
 
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 15
+  - Loi n°2018-898 du 23 octobre 2018 - art. 35
 
 _Cité par_:
 
@@ -14969,7 +15150,7 @@ est notifiée à l'un et à l'autre et mentionne les délais et voies de recours
 du code des procédures civiles d'exécution à concurrence des sommes pour lesquelles elle est pratiquée. Le comptable ne peut
 en demander le paiement avant que soit échue l'obligation déclarative mentionnée au a du 1°.
 
-II. – Le juge du référé administratif mentionné à l'article L. 279, saisi dans un délai de huit jours à compter de la
+II. – Le juge du référé administratif mentionné à l'article L. 279, saisi dans un délai de quinze jours à compter de la
 signification des mesures conservatoires mentionnées au I ou de la saisie à tiers débiteur mentionnée au I bis, ordonne qu'il
 soit mis fin à l'exécution de ces mesures en cas d'urgence et s'il est fait état d'un moyen propre à créer, en l'état de
 l'instruction, un doute sérieux sur la régularité de cette procédure.
@@ -14977,11 +15158,12 @@ l'instruction, un doute sérieux sur la régularité de cette procédure.
 Le juge du référé statue dans un délai de quinze jours. Faute d'avoir statué dans ce délai, le juge des référés est dessaisi
 au profit du tribunal administratif qui se prononce en urgence.
 
-La décision du juge du référé est susceptible d'appel devant le tribunal administratif dans le délai de huit jours. Le
-tribunal se prononce en urgence.
+La décision du juge du référé ou du tribunal administratif est susceptible d'appel devant le président de la cour
+administrative d'appel ou le magistrat qu'il désigne à cet effet dans le délai de huit jours. Le président ou le magistrat
+désigné se prononce en urgence.
 
-La décision du juge du référé ou du tribunal administratif ordonnant qu'il soit mis fin à l'exécution des mesures
-conservatoires entraîne leur mainlevée immédiate.
+La décision du juge du référé, du tribunal administratif, du président de la cour administrative d'appel ou du magistrat
+désigné ordonnant qu'il soit mis fin à l'exécution des mesures conservatoires entraîne leur mainlevée immédiate.
 
 III. – Le paiement des impositions dues au titre de l'exercice ou de la période comprenant celle couverte par le procès-
 verbal prévu à l'article L. 16-0 BA entraîne la mainlevée des mesures conservatoires prévues au I, sauf si l'administration
@@ -14989,27 +15171,21 @@ réunit des éléments permettant d'établir que les déclarations du contribuab
 sont pas sincères. Il en va de même pour la saisie à tiers débiteur mentionnée au I bis pour le paiement de la taxe sur la
 valeur ajoutée qu'elle vise.
 
-**Nota:**
-
-Loi n° 2016-1917 du 29 décembre 2016, article 103 III : Ces dispositions sont applicables aux livraisons de biens et
-prestations de services dont le fait générateur est intervenu à compter du 1er janvier 2018.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 105 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 22 (V)
+  - Loi n°2018-898 du 23 octobre 2018 - art. 12
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1649 quater-0 B bis
   - Code général des impôts, CGI. - art. 1740 B
   - Code général des impôts, CGI. - art. 197
-  - Code général des impôts, CGI. - art. 219
   - Code général des impôts, CGI. - art. 271
   - Code général des impôts, CGI. - art. 278
   - Code général des impôts, CGI. - art. 50-0
+  - Code général des impôts, CGI. - art. 219 (VD)
   - Livre des procédures fiscales - art. L279
   - Code des procédures civiles d'exécution - art. L521-1
 
