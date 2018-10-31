@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-10-01
+Version Consolidée au 2018-11-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -214,7 +214,7 @@ Version Consolidée au 2018-10-01
           - [Section VII : Sanctions fiscales (art. R80 E-1)](#211)
         - [Chapitre I bis : Le droit d'enquête (art. R80 F-1 à R80 F-3)](#212)
         - [Chapitre I ter : Le droit de contrôle des entrepôts (art. R80 K-1)](#213)
-        - [Chapitre II : Le droit de communication (art. R*81 A-1 à R102 AE-1)](#214)
+        - [Chapitre II : Le droit de communication (art. R*81 A-1 à R102 AG-1)](#214)
           - [Section I : Conditions d'exercice du droit de communication (art. R*85-1 à R*96 E-1)](#215)
             - [6° : Personnes ayant la qualité de commerçant. (art. R*85-1)](#216)
             - [9° : Institutions et organismes versant des rémunérations ou répartissant des fonds (art. R87-1 à R87-3)](#217)
@@ -222,7 +222,7 @@ Version Consolidée au 2018-10-01
             - [20° : Intermédiaires pour les instruments financiers à terme (art. R96 CA-1)](#219)
             - [21° : Organisme gestionnaire d'un plan d'épargne en actions (art. R96 D-1)](#220)
             - [22° : Etablissements diffuseurs ou distributeurs de services payants de programme de télévision (art. R*96 E-1)](#221)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. R*97-1 à R102 AE-1)](#222)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. R*97-1 à R102 AG-1)](#222)
         - [Chapitre II bis : Obligation et délais de conservation des documents (art. R*102 C-1)](#223)
         - [Chapitre III : Le secret professionnel en matière fiscale (art. R*103-1 à R152-2)](#224)
           - [Section I : Portée et limites de la règle du secret professionnel (art. R*103-1 à R111-4)](#225)
@@ -19351,6 +19351,109 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L411-10
   - Code de la construction et de l'habitation. - art. L411-2
   - Code de la construction et de l'habitation. - art. L481-1
+
+
+###### Article R102 AG-1
+
+I.-1° En application de l'article L. 102 AG, dans un délai de trente jours suivant la découverte d'un changement de
+circonstances prévu au  III de l'article 30 du décret n° 2016-1683 du 5 décembre 2016 fixant les règles et procédures
+concernant l'échange automatique de renseignements relatifs aux comptes financiers, dites norme commune de déclaration    ,
+l'institution financière demande aux titulaires de nouveaux comptes définis au II de l'article 15 du même décret, sauf s'ils
+sont préexistants au sens du I du même article 15, de lui remettre les informations nécessaires à l'identification de leurs
+résidences fiscales et de leurs numéros d'identification fiscale, à l'exception des cas prévus à l'article 57 du même décret.
+
+Elle applique la même procédure pour les informations nécessaires à l'identification des résidences fiscales et des numéros
+d'identification fiscale des personnes physiques qui contrôlent les entités définies au 1° du IV de l'article 11 du décret
+précité, à l'exception des cas prévus à l'article 57 du même décret.
+
+2° En l'absence de réponse complète à la première demande de l'institution financière dans un délai de soixante jours suivant
+la réception de cette demande par le titulaire de compte, une seconde demande doit être adressée dans un délai de trente
+jours à compter de l'expiration du délai de soixante jours précité.
+
+3° Ces demandes sont adressées, par voie postale ou par voie électronique, à la dernière adresse connue du titulaire du
+compte.
+
+II.-1° Les institutions financières doivent déclarer les situations dans lesquelles elles n'ont pas reçu d'informations
+complètes dans les trente jours qui suivent la réception de la seconde demande par le titulaire du compte.
+
+2° Les institutions financières souscrivent avant le 31 mars de chaque année une déclaration comportant les informations
+indiquées au V pour les situations mentionnées au 1° et constatées au 31 décembre de l'année précédente.
+
+III.-La déclaration est souscrite par l'institution financière ou par un prestataire tiers qu'elle désigne pour s'acquitter
+de son obligation déclarative.
+
+IV.-La déclaration est déposée par voie électronique auprès de la direction générale des finances publiques sur un support
+informatique dont celle-ci détermine les caractéristiques.
+
+V.-La déclaration prévue au I comporte les éléments suivants :
+
+1° a) En ce qui concerne l'institution financière soumise à l'obligation déclarative :
+
+i) La dénomination ;
+
+ii) La raison sociale ;
+
+iii) L'adresse ;
+
+iv) Le numéro SIREN ;
+
+v) Le cas échéant, le numéro d'identification ;
+
+b) Lorsque l'institution financière mandate un prestataire tiers pour assurer l'accomplissement de ses obligations
+déclaratives, ce dernier complète les informations relatives à son identification ainsi que celles de son mandant ;
+
+2° a) En ce qui concerne le titulaire du compte :
+
+i) Pour les personnes physiques :
+
+- le nom de famille ;
+
+- les prénoms ;
+
+- l'adresse ;
+
+- la date et le lieu de naissance ;
+
+- s'il y a lieu, les résidences fiscales ;
+
+- s'il y a lieu, les numéros d'identification fiscale ;
+
+ii) Pour les entités :
+
+- la dénomination ;
+
+- la raison sociale ;
+
+- l'adresse ;
+
+- s'il y a lieu, les résidences fiscales ;
+
+- s'il y a lieu, les numéros d'identification fiscale ;
+
+b) En ce qui concerne les personnes physiques qui contrôlent le titulaire de comptes :
+
+i) Pour ces personnes physiques, les mêmes éléments qu'au i du a ;
+
+ii) Pour l'entité titulaire de compte, en sus des éléments requis au ii du a, sa nature au sens du  IV de l'article 11 du
+décret n° 2016-1683 du 5 décembre 2016 précité ;
+
+3° Le numéro de compte ;
+
+4° Les dates d'envoi des demandes au titulaire du compte et, si elles sont connues, les dates de réception de ces demandes
+par le titulaire ;
+
+5° La nature des informations manquantes nécessaires à l'identification.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2016-1683 du 5 décembre 2016 - art. 11
+  - Décret n°2016-1683 du 5 décembre 2016 - art. 30
+
+_Créé par_:
+
+  - Décret n°2018-569 du 3 juillet 2018 - art. 1
 
 
 #### Chapitre II bis : Obligation et délais de conservation des documents<a id=223></a>
