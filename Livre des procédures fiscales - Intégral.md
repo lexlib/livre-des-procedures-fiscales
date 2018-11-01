@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-11-01
+Version Consolidée au 2018-11-02
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -19024,30 +19024,37 @@ dispositions que le contribuable entend appliquer. Elle fournit une présentatio
 de fait en distinguant, le cas échéant, selon les dispositions concernées, les catégories d'informations nécessaires pour
 permettre à l'administration fiscale d'apprécier si les conditions requises par la loi sont effectivement satisfaites.
 
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-1701 du 30 décembre 2009 - art. 1
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L80 B (V)
-
-
-###### Article R*80 B-12
-
-I.-La demande prévue au 1° de l'article L. 80 B est adressée par pli recommandé avec demande d'avis de réception postal, à la
-direction dont dépend le service auprès duquel le contribuable est tenu de souscrire ses obligations déclaratives en fonction
-de l'objet de la demande ; elle peut également faire l'objet d'un dépôt contre décharge. 
-
-II.-L'administration centrale peut répondre à la demande mentionnée au I.
+La demande prévue au 11° de l'article L. 80 B précise le nom ou la raison sociale et l'adresse de son auteur et indique
+l'objet de l'enquête ou du contrôle en cours, le ou les lieux où ceux-ci sont réalisés, le nom du service qui les réalise et
+les points précis et la période pour lesquels l'auteur de la demande sollicite une nouvelle enquête ou un nouveau contrôle.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-399 du 22 avril 2010 - art. 1
+  - Décret n°2018-944 du 31 octobre 2018 - art. 9
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L80 B
+
+
+###### Article R*80 B-12
+
+I.-La demande prévue au 1° de l'article L. 80 B est adressée par tout moyen permettant d'apporter la preuve de sa réception,
+à la direction dont dépend le service auprès duquel le contribuable est tenu de souscrire ses obligations déclaratives en
+fonction de l'objet de la demande.
+
+La demande prévue au 11° de l'article L. 80 B est adressée, dans les mêmes conditions qu'au premier alinéa, à la direction
+dont dépend le service qui réalise l'enquête ou le contrôle.
+
+II.-L'administration centrale peut répondre à la demande mentionnée au premier alinéa du I.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2018-944 du 31 octobre 2018 - art. 10
 
 _Cite_:
 
@@ -19060,20 +19067,20 @@ _Cité par_:
 
 ###### Article R*80 B-13
 
-Si la demande prévue au 1° de l'article L. 80 B est incomplète, l'administration adresse, par lettre recommandée avec demande
-d'avis de réception postal, un courrier sollicitant les renseignements complémentaires nécessaires à sa prise de position
-formelle. Ces éléments sont produits dans les conditions prévues à l'article R. * 80 B-12.
+Si la demande prévue au 1° et au 11° de l'article L. 80 B est incomplète, l'administration adresse, par tout moyen permettant
+d'apporter la preuve de sa réception, un courrier sollicitant les renseignements complémentaires nécessaires à sa prise de
+position formelle. Ces éléments sont produits dans les conditions prévues à l'article R. * 80 B-12.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1701 du 30 décembre 2009 - art. 1
+  - Décret n°2018-944 du 31 octobre 2018 - art. 11
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L80 B (V)
-  - Livre des procédures fiscales - art. R*80 B-12 (V)
+  - Livre des procédures fiscales - art. L80 B
+  - Livre des procédures fiscales - art. R*80 B-12
 
 _Cité par_:
 
@@ -19085,20 +19092,28 @@ _Cité par_:
 Le délai de trois mois prévu au 1° de l'article L. 80 B court à compter de la réception de la demande ou, si les dispositions
 de l'article R. * 80 B-13 ont été mises en œuvre, à compter de la réception des compléments demandés.
 
-Lorsque la demande parvient à un service incompétent, ce service la transmet sans délai au service compétent et en informe
-l'auteur de la demande. Dans ce cas, le délai prévu au 1° de l'article L. 80 B court à compter de la date de réception par le
-service compétemment saisi.
+Lorsque la demande prévue au 1° et au 11° de l'article L. 80 B parvient à un service incompétent, ce service la transmet sans
+délai au service compétent et en informe l'auteur de la demande prévue au 1° et au 11° de l'article L. 80 B. Dans ce cas, le
+délai prévu au 1° de l'article L. 80 B court à compter de la date de réception par le service compétemment saisi.
+
+Lorsque la demande prévue au 1° de l'article L. 80 B porte exclusivement sur le classement fiscal des boissons alcooliques et
+non alcooliques relevant des articles 302 D bis, 401,402 bis, 403,406,434,435,438,520 A, 1582,1613 bis, 1613 ter et 1613
+quater du code général des impôts ou des tabacs relevant de l' article 564 decies du code général des impôts et des articles
+275 A à 275 G de l'annexe II de ce code, l'administration invite, le cas échéant, le demandeur à adresser au service commun
+des laboratoires du ministère de l'économie, des finances et de l'industrie compétent un nombre suffisant d'échantillons du
+produit dont le classement est demandé. Dans ce cas, le délai mentionné au 1° de l'article L. 80 B court à compter de la
+réception, par la direction compétente pour délivrer le classement fiscal, de l'analyse de ce laboratoire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1701 du 30 décembre 2009 - art. 1
+  - Décret n°2018-944 du 31 octobre 2018 - art. 12
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L80 B (V)
-  - Livre des procédures fiscales - art. R*80 B-13 (V)
+  - Livre des procédures fiscales - art. L80 B
+  - Livre des procédures fiscales - art. R*80 B-13
 
 
 ###### Article R*80 B-15
@@ -19262,19 +19277,18 @@ _Cite_:
 
 ###### Article R*80 CB-1
 
-La demande écrite de second examen mentionnée à l'article L. 80 CB est soit adressée par pli recommandé avec demande d'avis
-de réception postal au service qui a répondu à la demande initiale du contribuable, soit déposée auprès de ce même service
-contre décharge. Elle doit être présentée dans le délai de deux mois, décompté à partir de la date de réception de la réponse
-de l'administration à la demande initiale. 
+La demande écrite de second examen mentionnée à l'article L. 80 CB est adressée par tout moyen permettant d'apporter la
+preuve de sa réception à la direction qui a répondu à la demande initiale du contribuable. Elle doit être présentée dans le
+délai de deux mois, décompté à partir de la date de réception de la réponse de l'administration à la demande initiale.
 
 Le contribuable qui souhaite bénéficier des dispositions du quatrième alinéa de l'article L. 80 CB le mentionne dans sa
 demande.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1575 du 16 décembre 2009 - art. 1
+  - Décret n°2018-944 du 31 octobre 2018 - art. 13
 
 _Cite_:
 
@@ -19289,19 +19303,23 @@ _Cité par_:
 
 Le collège prévu au troisième alinéa de l'article L. 80 CB se prononce selon les mêmes règles et délais que ceux prévus pour
 la demande initiale. Ce délai est décompté, dans les mêmes conditions, à partir de la date de réception par l'administration
-de la demande du contribuable d'un second examen. 
+de la demande du contribuable d'un second examen.
 
 Le collège est national lorsque la demande initiale présentée par le contribuable a fait l'objet d'une réponse, selon le cas,
 par les services centraux ou les directions à compétence nationale de la direction générale des finances publiques ou par les
-services centraux ou les directions à compétence nationale de la direction générale des douanes et droits indirects. 
+services centraux ou les services à compétence nationale de la direction générale des douanes et droits indirects ou par les
+services spécialisés rattachés à une direction interrégionale de cette direction générale.
+
+Le collège est également national lorsque la demande prévue à l'article L. 80 CB porte sur un classement fiscal mentionné au
+troisième alinéa de l'article R.* 80 B-14.
 
 Dans les autres cas, le collège est territorial.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1575 du 16 décembre 2009 - art. 1
+  - Décret n°2018-944 du 31 octobre 2018 - art. 14
 
 _Cite_:
 
@@ -19353,14 +19371,14 @@ _Cité par_:
 
 ###### Article R*80 CB-4
 
-Le service, dont la réponse initiale a fait l'objet de la demande de second examen, notifie au contribuable, par pli
-recommandé avec demande d'avis de réception postal, une nouvelle réponse conforme à la délibération du collège.
+Le service, dont la réponse initiale a fait l'objet de la demande de second examen, notifie au contribuable, par tout moyen
+permettant d'apporter la preuve de sa réception, une nouvelle réponse conforme à la délibération du collège.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1575 du 16 décembre 2009 - art. 1
+  - Décret n°2018-944 du 31 octobre 2018 - art. 15
 
 
 ###### Article R*80 CB-5
