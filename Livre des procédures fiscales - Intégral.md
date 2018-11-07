@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-11-02
+Version Consolidée au 2018-11-08
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -26040,13 +26040,13 @@ d'empêchement ou dans le cas prévu au cinquième alinéa de l'article R. * 80 
 
 – du chef du bureau des transports et de la fiscalité européenne ou de son représentant ;
 
-– du chef de la direction nationale du renseignement et des enquêtes douanières ou de son représentant.
+– du chef du bureau énergie, environnement et lois de finances ou de son représentant.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 16 juillet 2018 - art. 10
+  - Arrêté du 6 novembre 2018 - art. 7
 
 _Cite_:
 
@@ -26055,37 +26055,36 @@ _Cite_:
 
 ###### Article A80 CB-3-5
 
-I. – Les collèges territoriaux sont composés pour chaque direction interrégionale des douanes et droits indirects mentionnée
+I.- Les collèges territoriaux sont composés pour chaque direction interrégionale des douanes et droits indirects mentionnée
 en annexe I au décret n° 2007-1665 du 26 novembre 2007 relatif à l'organisation des services déconcentrés de la direction
 générale des douanes et droits indirects :
 
-– du directeur interrégional des douanes et droits indirects ou son représentant, qui assure la fonction de président du
-collège ;
+- d'un président ayant au moins la qualité d'administrateur supérieur des douanes affecté au sein de la direction
+interrégionale concernée ;
 
-– de quatre directeurs régionaux de la circonscription interrégionale, désignés par le directeur interrégional des douanes et
-droits indirects, ou leurs représentants. A défaut d'un nombre suffisant de directeurs régionaux dans la circonscription
-interrégionale, siègent les directeurs des services douaniers ou les inspecteurs principaux des douanes, en poste dans cette
-circonscription, désignés à cet effet par le directeur interrégional des douanes et droits indirects ;
+- d'un administrateur des douanes affecté au sein de la direction interrégionale concernée. Il assure la présidence du
+collège en cas d'absence ou d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ;
 
-– d'un chef de service régional d'enquêtes, désigné par le directeur interrégional des douanes et droits indirects, autre que
-celui dont dépend le service dont la position fait l'objet de la demande de second examen, ou son représentant.
+- de quatre agents ayant au moins le grade d'inspecteur principal, affectées au sein de la direction interrégionale
+concernée.
 
-En cas d'absence ou d'empêchement ou dans le cas mentionné au cinquième alinéa de l'article R. * 80 CB-3, le collège est
-présidé par le membre du conseil ayant le plus d'ancienneté dans le grade le plus élevé parmi les membres présents.
+II.- Par dérogation au I, en ce qui concerne les directions régionales relevant de la direction interrégionale d'Antilles-
+Guyane, la direction régionale de la Réunion et la direction régionale de Mayotte, mentionnées à l'article 5 du décret n°
+2007-1665 du 26 novembre 2007 relatif à l'organisation des services déconcentrés de la direction générale des douanes et
+droits indirects, les collèges territoriaux mentionnés à l'article R. * 80 CB-3, sont composés, pour chaque direction
+régionale, par :
 
-II. – Pour ce qui concerne la direction régionale de La Réunion, le collège territorial est composé :
+- le directeur régional des douanes et droits indirects, qui assure la fonction de président ;
 
-– du directeur régional des douanes et droits indirects ou son représentant, qui assure la fonction de président ;
+- cinq fonctionnaires ayant au moins le grade d'inspecteur, affectés au sein de la direction régionale des douanes et droits
+indirects concernée. En cas d'absence ou d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'article R.
+* 80 CB-3, l'un de ces cinq fonctionnaires ayant le plus d'ancienneté dans le grade le plus élevé, assure la présidence du
+collège.
 
-– de cinq membres de la direction régionale des douanes et droits indirects désignés par le directeur régional des douanes et
-droits indirects.
-
-En cas d'absence ou d'empêchement ou dans le cas mentionné au cinquième alinéa de l'article R. * 80 CB-3, le collège est
-présidé par le membre du conseil ayant le plus d'ancienneté dans le grade le plus élevé parmi les membres présents.
-
-**Nota:**
-
-Modifications effectuées en conséquences des articles 10 (I) et 12 du décret n° 2016-357 du 25 mars 2016.
+III.- En cas d'absence, d'empêchement du président du collège national ou d'un collège territorial et si son remplaçant est
+lui-même empêché ou lorsque la situation du président du collège et de son remplaçant relève du cinquième alinéa de l'article
+R. * 80 CB-3, le collège est présidé par le membre du collège ayant le plus d'ancienneté dans le grade le plus élevé parmi
+les membres présents.
 
 **Liens relatifs à cet article**
 
@@ -26096,7 +26095,26 @@ _Cite_:
 
 _Modifié par_:
 
-  - Arrêté du 2 mai 2017 - art. 1
+  - Arrêté du 6 novembre 2018 - art. 8
+
+
+###### Article A80 CB-3-6
+
+Les membres des collèges mentionnés aux articles A. 80 CB-3-4 et A. 80 CB-3-5 sont convoqués :
+
+- par le directeur général des douanes et droits indirects lorsque le collège est national ;
+
+- par le directeur interrégional, lorsque le collège est territorial ;
+
+- par le directeur régional, lorsque le collège relève de l'article 3.
+
+Chaque convocation vaut nomination des membres du collège se réunissant en vue du second examen d'un ou plusieurs dossiers.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 6 novembre 2018 - art. 9
 
 
 ###### Article A80 CB-6-1
