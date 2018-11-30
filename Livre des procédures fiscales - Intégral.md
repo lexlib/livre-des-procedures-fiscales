@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-11-01
+Version Consolidée au 2018-12-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -4313,41 +4313,37 @@ Les bénéfices transférés, au sens de l'article 57 du code général des imp�
 même code et qualifiés de revenus distribués sur le fondement des 1° et 2° du 1 de l'article 109 et du c de l'article 111
 dudit code au profit d'entreprises liées, au sens du 12 de l'article 39 du même code, peuvent, sur demande écrite du
 redevable, ne pas être soumis à la retenue à la source prévue au 2 de l'article 119 bis dudit code si les conditions
-cumulatives suivantes sont satisfaites : 
+cumulatives suivantes sont satisfaites :
 
 1° La demande du redevable de la retenue à la source intervient avant la mise en recouvrement des rappels de retenue à la
-source ; 
+source ;
 
 2° Le redevable accepte, dans sa demande, les rehaussements et pénalités afférentes qui ont fait l'objet de la qualification
-de revenus distribués ; 
+de revenus distribués ;
 
 3° Les sommes qualifiées de revenus distribués par l'administration sont rapatriées au profit du redevable. Ce rapatriement
-intervient dans un délai de soixante jours à compter de la demande ; 
+intervient dans un délai de soixante jours à compter de la demande ;
 
 4° Le bénéficiaire des sommes qualifiées de revenus distribués n'est pas situé dans un Etat ou un territoire non coopératif,
-au sens de l'article 238-0 A du code général des impôts.
-
-**Nota:**
-
-Conformément au II de l'article 79 II de la loi n° 2014-1655 du 29 décembre 2014 de finances rectificative pour 2014, la mise
-en œuvre de la procédure prévue à l'article L 62 A fait l'objet d'un complément à l'annexe à la loi de finances prévue à
-l'article 136 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011.
+au sens de l'article 238-0 A du code général des impôts autres que ceux mentionnés au 2° du 2 bis du même article 238-0 A,
+sauf si le redevable apporte la preuve que les opérations auxquelles correspondent ces sommes ont principalement un objet et
+un effet autres que de permettre leur localisation dans un Etat ou territoire non coopératif.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 79
+  - Loi n°2018-898 du 23 octobre 2018 - art. 31 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 109 (V)
-  - Code général des impôts, CGI. - art. 111 (V)
-  - Code général des impôts, CGI. - art. 119 bis (V)
-  - Code général des impôts, CGI. - art. 238 A (V)
-  - Code général des impôts, CGI. - art. 238-0 A (V)
-  - Code général des impôts, CGI. - art. 39 (VT)
-  - Code général des impôts, CGI. - art. 57 (V)
+  - Code général des impôts, CGI. - art. 109
+  - Code général des impôts, CGI. - art. 111
+  - Code général des impôts, CGI. - art. 119 bis
+  - Code général des impôts, CGI. - art. 238 A
+  - Code général des impôts, CGI. - art. 238-0 A (VD)
+  - Code général des impôts, CGI. - art. 39
+  - Code général des impôts, CGI. - art. 57
 
 
 ###### Article L62 B
