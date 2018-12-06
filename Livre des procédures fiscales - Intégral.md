@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-12-01
+Version Consolidée au 2018-12-07
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -21571,6 +21571,49 @@ _Modifié par_:
 _Cite_:
 
   - Livre des procédures fiscales - art. L152
+
+
+###### Article R*153 A-1
+
+Les demandes d'informations nominatives adressées à l'administration fiscale en application de l'article L. 153 A sont
+transmises par voie électronique. Elles comportent les éléments nécessaires à l'identification de leur auteur, qui doit avoir
+été habilité par la collectivité pour le compte de laquelle ces demandes sont présentées.
+
+Les demandes contiennent les éléments d'identification des personnes concernées mentionnés au 2 du II de l'article R. *
+152-1, à l'exception des coordonnées bancaires et du numéro d'inscription au répertoire national d'identification des
+personnes physiques.
+
+Il n'est donné suite à une demande qu'en cas de concordance suffisante des éléments d'identification de la personne concernée
+contenus dans la demande avec ceux détenus par l'administration à laquelle elle est adressée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1085 du 4 décembre 2018 - art. 1
+
+
+###### Article R*153 A-2
+
+Les informations mentionnées à l'article R. * 153 A-1 pour chaque personne mentionnée dans la demande sont communiquées par
+voie électronique par l'administration fiscale et sont limitées aux éléments suivants de la situation fiscale des personnes
+concernées :
+
+1° Les traitements, salaires, pensions et rentes ;
+
+2° Les revenus d'activités non salariées ;
+
+3° Les plus-values de cessions de biens mobiliers ;
+
+4° Les revenus des valeurs et capitaux mobiliers en distinguant les revenus soumis au prélèvement forfaitaire libératoire ;
+
+5° Les revenus fonciers.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1085 du 4 décembre 2018 - art. 1
 
 
 ###### Article R*154-1
