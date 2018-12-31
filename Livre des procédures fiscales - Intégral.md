@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-12-31
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -133,7 +133,7 @@ Version Consolidée au 2018-12-31
             - [III : Impôt sur la fortune immobilière (art. L183 A)](#130)
           - [Section VII : Dispositions applicables à l'ensemble des impôts (art. L186 à L188 C)](#131)
           - [Section VIII : Interruption et suspension de la prescription (art. L189)](#132)
-      - [Titre III : Le contentieux de l'impôt (art. L190 à L251 A)](#133)
+      - [Titre III : Le contentieux de l'impôt (art. L190 à L251 ZH)](#133)
         - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. L190 à L209)](#134)
           - [Charge et administration de la preuve (art. L191 à L195 A)](#135)
           - [Section I : Procédure préalable auprès de l'administration (art. L198 A)](#136)
@@ -155,150 +155,162 @@ Version Consolidée au 2018-12-31
             - [III : Dispositions particulières aux contributions indirectes (art. L235 à L245)](#152)
             - [IV : Infractions aux règles de la facturation (art. L246)](#153)
         - [Chapitre III : Les remises et transactions à titre gracieux (art. L247 à L251 A)](#154)
-      - [Titre IV : Le recouvrement de l'impôt (art. L252 à L283 F)](#155)
-        - [Chapitre premier : Les procédures de recouvrement (art. L252 à L275 A)](#156)
-          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. L253 à L257-0 B)](#157)
-          - [Section II : Exercice des poursuites (art. L258 A à L260)](#158)
-          - [Section III : Mesures particulières (art. L262 à L273 B)](#159)
-            - [1° : Avis à tiers détenteur (art. L262 à L263-0 A)](#160)
-            - [1° bis : Avis de saisie en matière de contributions indirectes (art. L263 B)](#161)
-            - [2° : Rémunérations du travail (art. L264)](#162)
-            - [3° : Obligations des dépositaires publics de fonds (art. L265)](#163)
-            - [4° : Responsabilité des dirigeants et gérants de sociétés (art. L267)](#164)
-            - [5° : Vente de fonds de commerce (art. L268)](#165)
-            - [7° : Liquidation judiciaire (art. L269 A à L269 B)](#166)
-            - [8° : Procédure accélérée (art. L270)](#167)
-            - [10° : Taxes sur le chiffre d'affaires (art. L273)](#168)
-            - [11° : Créances de l'Etat faisant l'objet d'un titre de perception visé à l'article L. 252 A (art. L273 A)](#169)
-            - [12° Entrepreneur individuel à responsabilité limitée (art. L273 B)](#170)
-          - [Section IV : Prescription de l'action en vue du recouvrement (art. L274 à L275 A)](#171)
-        - [Chapitre II : Le sursis de paiement (art. L277 à L280)](#172)
-        - [Chapitre III : Le contentieux du recouvrement (art. L281 à L283)](#173)
-        - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. L283 A à L283 F)](#174)
-      - [Titre V : Dispositions communes (art. L284 à L289)](#175)
-        - [Chapitre premier : Dispositions générales (art. L284 à L286 A)](#176)
-        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. L287 à L288 A)](#177)
-        - [Chapitre III : Dispositions communautaires (art. L289)](#178)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1-1 à R289-2)](#179)
-    - [Deuxième partie : Partie réglementaire, décrets (art. R*1-1 à R289-2)](#180)
-      - [Titre premier : (art. R*1-1 à R*4-1)](#181)
-        - [Chapitre premier : (art. R*1-1 à R*4-1)](#182)
-          - [Section I : (art. R*1-1 à R1-3)](#183)
-          - [Section II : (art. R*4-1)](#184)
-      - [Titre II : Le contrôle de l'impôt (art. R*11 A-1 à R*178-1)](#185)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. R*11 A-1 à R80 E-1)](#186)
-          - [Section I : Dispositions générales (art. R*11 A-1 à R*14 A-3)](#187)
-            - [2° : Dispositions relatives aux vérifications des comptabilités (art. R*13-1 à R13-2)](#188)
-            - [3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant (art. R*14 A-1 à R*14 A-3)](#189)
-          - [Section II : Dispositions particulières à certains impôts (art. R*16-0 BA-1 à R36 B-1)](#190)
-            - [I bis : Dispositions particulières à l'impôt sur le revenu ou sur les bénéfices et à la taxe sur la valeur ajoutée (art. R*16-0 BA-1 à R16 B-1)](#191)
-            - [II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à l'impôt sur la fortune immobilière et à la taxe sur la valeur vénale des immeubles possédés en France par des personnes morales (art. R*18-1 à R23 B-1)](#192)
-              - [A : Droits d'enregistrement et taxe de publicité foncière (art. R*18-1 à R*19-1)](#193)
-                - [2° : Rescrit fiscal en matière de donation d'entreprise (art. R*18-1)](#194)
-                - [3° : Contrôle des déclarations de succession (art. R*19-1)](#195)
-              - [C : Taxe sur la valeur vénale des immeubles possédés en France par des entités juridiques (art. R23 B-1)](#196)
-            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. R24-2 à R36 B-1)](#197)
-              - [A : Contrôle à la circulation (art. R24-2 à R24-4)](#198)
-              - [B : Contrôle sur les lieux d'exercice d'activité (art. R*26-1 à R36 B-1)](#199)
-                - [1 : Contributions indirectes (art. R*26-1 à R36 B-1)](#200)
-          - [Section III : Modalités d'exercice du droit de contrôle (art. R*45 F-1 à R45 G-1)](#201)
-          - [Section IV : Procédures de rectification (art. R*57-1 à R*64-2)](#202)
-            - [I : Procédure de rectification contradictoire (art. R*57-1 à R60-2 B)](#203)
-            - [III : Procédure spéciale de l'article 168 du code général des impôts (art. R*63-1)](#204)
-            - [IV : Procédure de l'abus de droit fiscal (art. R*64-1 à R*64-2)](#205)
-          - [Section V : Procédures d'imposition d'office (art. R* 71-1 à R*76 AA-1)](#206)
-            - [I : Taxation d'office (art. R* 71-1)](#207)
-              - [C. En cas de défaut de justifications de l'origine et des modalités d'acquisition des avoirs à l'étranger (art. R* 71-1)](#208)
-            - [IV : Notification et suite des impositions d'office (art. R*76 AA-1)](#209)
-          - [Section VI : Conséquences et limites des procédures de rectification (art. R*80 B-1 à R*80 CB-6)](#210)
-          - [Section VII : Sanctions fiscales (art. R80 E-1)](#211)
-        - [Chapitre I bis : Le droit d'enquête (art. R80 F-1 à R80 F-3)](#212)
-        - [Chapitre I ter : Le droit de contrôle des entrepôts (art. R80 K-1)](#213)
-        - [Chapitre II : Le droit de communication (art. R*81 A-1 à R102 AG-1)](#214)
-          - [Section I : Conditions d'exercice du droit de communication (art. R*85-1 à R*96 E-1)](#215)
-            - [6° : Personnes ayant la qualité de commerçant. (art. R*85-1)](#216)
-            - [9° : Institutions et organismes versant des rémunérations ou répartissant des fonds (art. R87-1 à R87-3)](#217)
-            - [18° : Opérations de transfert de fonds à l'étranger (art. R* 96 A-1)](#218)
-            - [20° : Intermédiaires pour les instruments financiers à terme (art. R96 CA-1)](#219)
-            - [21° : Organisme gestionnaire d'un plan d'épargne en actions (art. R96 D-1)](#220)
-            - [22° : Etablissements diffuseurs ou distributeurs de services payants de programme de télévision (art. R*96 E-1)](#221)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. R*97-1 à R102 AG-1)](#222)
-        - [Chapitre II bis : Obligation et délais de conservation des documents (art. R*102 C-1)](#223)
-        - [Chapitre III : Le secret professionnel en matière fiscale (art. R*103-1 à R152-2)](#224)
-          - [Section I : Portée et limites de la règle du secret professionnel (art. R*103-1 à R*112 A-3)](#225)
-            - [1° : Délivrance de documents aux contribuables (art. R* 107 A-1 à R109-2)](#226)
-            - [2° : Publicité de l'impôt (art. R111-1 à R111-4)](#227)
-            - [3° : Ouverture des données foncières (art. R*112 A-1 à R*112 A-3)](#228)
-          - [Section II : Dérogations à la règle du secret professionnel (art. R*113-1 à R152-2)](#229)
-            - [I : Dérogations en matière d'assistance fiscale internationale (art. R*114 A-1 à R*114 A-5)](#230)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics et au profit de tiers (art. R*135 B-1 à R135 ZG-1)](#231)
-            - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. R145 A-1)](#232)
-            - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale (art. R*152-1 à R152-2)](#233)
-        - [Chapitre IV : Les délais de prescription (art. R*178-1)](#234)
-          - [Section III : Contributions indirectes (art. R*178-1)](#235)
-      - [Titre III : Le contentieux de l'impôt (art. R*190-1 à R247-11)](#236)
-        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. R*190-1 à R*211-2)](#237)
-          - [Charge et administration de la preuve (art. R*191-1 à R*195-1)](#238)
-          - [Section I : Procédure préalable auprès de l'administration (art. R*196-1 à R*198-10)](#239)
-            - [I : Délais de réclamation (art. R*196-1 à R*196-6)](#240)
-            - [II : Forme et contenu des réclamations (art. R*197-1 à R*197-5)](#241)
-            - [III : Instruction des réclamations (art. R*198-1 à R*198-10)](#242)
-          - [Section II : Procédure devant les tribunaux (art. R*199-1 à R*202-6)](#243)
-            - [I : Tribunaux compétents (art. R*199-1 à R*199-2)](#244)
-            - [II : Règles de procédure (art. R*200-1 à R*202-6)](#245)
-              - [B : Procédure devant le tribunal administratif, la cour administrative d'appel et le Conseil d'Etat (art. R*200-1 à R*201-1)](#246)
-              - [C : Procédure devant le tribunal de grande instance et la cour d'appel (art. R*202-1 à R*202-6)](#247)
-          - [Section III : Compensations (art. R*203-1)](#248)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. R*207-1 à R*210-1)](#249)
-          - [Section V : Dégrèvements d'office (art. R*211-1 à R*211-2)](#250)
-        - [Chapitre II : Les procédures pénales (art. R*213-3 à R238-1)](#251)
-          - [Section I : Constatation des infractions par procès-verbal (art. R*213-3 à R*226-3)](#252)
-            - [II : Agents compétents pour constater les infractions par procès-verbal (art. R*213-3 à R214-1)](#253)
-            - [III : Rédaction des procès-verbaux (art. R*226-1 à R*226-3)](#254)
-          - [Section II : Exercice des poursuites pénales (art. R*228-1 à R238-1)](#255)
-            - [I : Dispositions communes (art. R*228-1 à R*228-6)](#256)
-            - [III : Dispositions particulières aux contributions indirectes (art. R235-1 à R238-1)](#257)
-        - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247 A-1 à R247-11)](#258)
-      - [Titre IV : Le recouvrement de l'impôt (art. R*256-1 à R283 D-1)](#259)
-        - [Chapitre premier : Les procédures de recouvrement (art. R*256-1 à R*273 B-1)](#260)
-          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R*256-1 à R257 B-1)](#261)
-          - [Section II : Exercice des poursuites (art. R*260 A-1 à R258 A-1)](#262)
-          - [Section III : Mesures particulières (art. R*267-1 à R*273 B-1)](#263)
-            - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*267-1)](#264)
-            - [5° : Vente de fonds de commerce (art. R268-1)](#265)
-            - [12° : Entrepreneur individuel à responsabilité limitée (art. R*273 B-1)](#266)
-        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-7)](#267)
-        - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#268)
-        - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. R283 A-1 à R283 D-1)](#269)
-      - [Titre V : Dispositions communes (art. R*287-1 à R289-2)](#270)
-        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. R*287-1 à R*288-3)](#271)
-        - [Chapitre III : Dispositions communautaires (art. R289-1 à R289-2)](#272)
-  - [Partie réglementaire - Arrêtés (art. A13 F-1 à A277-10)](#273)
-    - [Troisième partie : Partie réglementaire, arrêtés (art. A13 F-1 à A277-10)](#274)
-      - [Titre II : Le contrôle de l'impôt (art. A13 F-1 à A102 B-2)](#275)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. A13 F-1 à A80 CB-6-1)](#276)
-          - [Section I : Dispositions générales (art. A13 F-1 à A13 F-2)](#277)
-            - [2 quater : Dispositions relatives aux copies de documents (art. A13 F-1 à A13 F-2)](#278)
-          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#279)
-            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#280)
-              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#281)
-                - [1 : Contributions indirectes (art. A26-1 à A27-1)](#282)
-                  - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#283)
-                - [2 : Droits de timbre (art. A37-1)](#284)
-          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1 à A47 AA-1)](#285)
-          - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-6-1)](#286)
-        - [Chapitre II : Le droit de communication (art. A97-1 à A97-3)](#287)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#288)
-        - [Chapitre II bis : Obligation et délais de conservation des documents (art. A102 B-1 à A102 B-2)](#289)
-      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#290)
-        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#291)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#292)
-        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#293)
-          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#294)
-            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#295)
-          - [Section II : Exercice des poursuites pénales (art. A228-1)](#296)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#297)
-        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#298)
+        - [Chapitre IV : Le règlement des différends fiscaux dans l'Union européenne (art. L251 B à L251 ZH)](#155)
+          - [Section I : La demande d'ouverture (art. L251 D à L251 F)](#156)
+          - [Section II : La procédure amiable (art. L251 G à L251 J)](#157)
+          - [Section III : Commission consultative (art. L251 K à L251 ZC)](#158)
+            - [I.-SAISINE DE LA COMMISSION (art. L251 K à L251 O)](#159)
+            - [II.-COMPOSITION DE LA COMMISSION (art. L251 P à L251 S)](#160)
+            - [III.-RÈGLES DE FONCTIONNEMENT DE LA COMMISSION CONSULTATIVE (art. L251 T)](#161)
+            - [IV.-RENSEIGNEMENTS, ÉLÉMENTS DE PREUVE ET AUDITION (art. L251 U à L251 X)](#162)
+            - [V.-AVIS DE LA COMMISSION CONSULTATIVE (art. L251 Y à L251 ZC)](#163)
+          - [Section IV : Commission de règlement alternatif des différends (art. L251 ZD à L251 ZE)](#164)
+          - [Section V : Publicité (art. L251 ZF)](#165)
+          - [Section VI : Autres dispositions (art. L251 ZG à L251 ZH)](#166)
+      - [Titre IV : Le recouvrement de l'impôt (art. L252 à L283 F)](#167)
+        - [Chapitre premier : Les procédures de recouvrement (art. L252 à L275 A)](#168)
+          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. L253 à L257-0 B)](#169)
+          - [Section II : Exercice des poursuites (art. L258 A à L260)](#170)
+          - [Section III : Mesures particulières (art. L262 à L273 B)](#171)
+            - [1° : Saisie administrative à tiers détenteur (art. L262)](#172)
+            - [1° bis : Saisie administrative à tiers détenteur en matière de contributions indirectes (art. L263 B)](#173)
+            - [2° : Rémunérations du travail (art. L264)](#174)
+            - [3° : Obligations des dépositaires publics de fonds (art. L265)](#175)
+            - [4° : Responsabilité des dirigeants et gérants de sociétés (art. L267)](#176)
+            - [5° : Vente de fonds de commerce (art. L268)](#177)
+            - [7° : Liquidation judiciaire (art. L269 A à L269 B)](#178)
+            - [8° : Procédure accélérée (art. L270)](#179)
+            - [10° : Taxes sur le chiffre d'affaires (art. L273)](#180)
+            - [11° : Créances de l'Etat faisant l'objet d'un titre de perception visé à l'article L. 252 A (art. L273 A)](#181)
+            - [12° Entrepreneur individuel à responsabilité limitée (art. L273 B)](#182)
+          - [Section IV : Prescription de l'action en vue du recouvrement (art. L274 à L275 A)](#183)
+        - [Chapitre II : Le sursis de paiement (art. L277 à L280)](#184)
+        - [Chapitre III : Le contentieux du recouvrement (art. L281 à L283)](#185)
+        - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. L283 A à L283 F)](#186)
+      - [Titre V : Dispositions communes (art. L284 à L289)](#187)
+        - [Chapitre premier : Dispositions générales (art. L284 à L286 A)](#188)
+        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. L287 à L288 A)](#189)
+        - [Chapitre III : Dispositions communautaires (art. L289)](#190)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1-1 à R289-2)](#191)
+    - [Deuxième partie : Partie réglementaire, décrets (art. R*1-1 à R289-2)](#192)
+      - [Titre premier : (art. R*1-1 à R*4-1)](#193)
+        - [Chapitre premier : (art. R*1-1 à R*4-1)](#194)
+          - [Section I : (art. R*1-1 à R1-3)](#195)
+          - [Section II : (art. R*4-1)](#196)
+      - [Titre II : Le contrôle de l'impôt (art. R*11 A-1 à R*178-1)](#197)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. R*11 A-1 à R80 E-1)](#198)
+          - [Section I : Dispositions générales (art. R*11 A-1 à R*14 A-3)](#199)
+            - [2° : Dispositions relatives aux vérifications des comptabilités (art. R*13-1 à R13-2)](#200)
+            - [3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant (art. R*14 A-1 à R*14 A-3)](#201)
+          - [Section II : Dispositions particulières à certains impôts (art. R*16-0 BA-1 à R36 B-1)](#202)
+            - [I bis : Dispositions particulières à l'impôt sur le revenu ou sur les bénéfices et à la taxe sur la valeur ajoutée (art. R*16-0 BA-1 à R16 B-1)](#203)
+            - [II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à l'impôt sur la fortune immobilière et à la taxe sur la valeur vénale des immeubles possédés en France par des personnes morales (art. R*18-1 à R23 B-1)](#204)
+              - [A : Droits d'enregistrement et taxe de publicité foncière (art. R*18-1 à R*19-1)](#205)
+                - [2° : Rescrit fiscal en matière de donation d'entreprise (art. R*18-1)](#206)
+                - [3° : Contrôle des déclarations de succession (art. R*19-1)](#207)
+              - [C : Taxe sur la valeur vénale des immeubles possédés en France par des entités juridiques (art. R23 B-1)](#208)
+            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. R24-2 à R36 B-1)](#209)
+              - [A : Contrôle à la circulation (art. R24-2 à R24-4)](#210)
+              - [B : Contrôle sur les lieux d'exercice d'activité (art. R*26-1 à R36 B-1)](#211)
+                - [1 : Contributions indirectes (art. R*26-1 à R36 B-1)](#212)
+          - [Section III : Modalités d'exercice du droit de contrôle (art. R*45 F-1 à R45 G-1)](#213)
+          - [Section IV : Procédures de rectification (art. R*57-1 à R*64-2)](#214)
+            - [I : Procédure de rectification contradictoire (art. R*57-1 à R60-2 B)](#215)
+            - [III : Procédure spéciale de l'article 168 du code général des impôts (art. R*63-1)](#216)
+            - [IV : Procédure de l'abus de droit fiscal (art. R*64-1 à R*64-2)](#217)
+          - [Section V : Procédures d'imposition d'office (art. R* 71-1 à R*76 AA-1)](#218)
+            - [I : Taxation d'office (art. R* 71-1)](#219)
+              - [C. En cas de défaut de justifications de l'origine et des modalités d'acquisition des avoirs à l'étranger (art. R* 71-1)](#220)
+            - [IV : Notification et suite des impositions d'office (art. R*76 AA-1)](#221)
+          - [Section VI : Conséquences et limites des procédures de rectification (art. R*80 B-1 à R*80 CB-6)](#222)
+          - [Section VII : Sanctions fiscales (art. R80 E-1)](#223)
+        - [Chapitre I bis : Le droit d'enquête (art. R80 F-1 à R80 F-3)](#224)
+        - [Chapitre I ter : Le droit de contrôle des entrepôts (art. R80 K-1)](#225)
+        - [Chapitre II : Le droit de communication (art. R*81 A-1 à R102 AG-1)](#226)
+          - [Section I : Conditions d'exercice du droit de communication (art. R*85-1 à R*96 E-1)](#227)
+            - [6° : Personnes ayant la qualité de commerçant. (art. R*85-1)](#228)
+            - [9° : Institutions et organismes versant des rémunérations ou répartissant des fonds (art. R87-1 à R87-3)](#229)
+            - [18° : Opérations de transfert de fonds à l'étranger (art. R* 96 A-1)](#230)
+            - [20° : Intermédiaires pour les instruments financiers à terme (art. R96 CA-1)](#231)
+            - [21° : Organisme gestionnaire d'un plan d'épargne en actions (art. R96 D-1)](#232)
+            - [22° : Etablissements diffuseurs ou distributeurs de services payants de programme de télévision (art. R*96 E-1)](#233)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. R*97-1 à R102 AG-1)](#234)
+        - [Chapitre II bis : Obligation et délais de conservation des documents (art. R*102 C-1)](#235)
+        - [Chapitre III : Le secret professionnel en matière fiscale (art. R*103-1 à R152-2)](#236)
+          - [Section I : Portée et limites de la règle du secret professionnel (art. R*103-1 à R*112 A-3)](#237)
+            - [1° : Délivrance de documents aux contribuables (art. R* 107 A-1 à R109-2)](#238)
+            - [2° : Publicité de l'impôt (art. R111-1 à R111-4)](#239)
+            - [3° : Ouverture des données foncières (art. R*112 A-1 à R*112 A-3)](#240)
+          - [Section II : Dérogations à la règle du secret professionnel (art. R*113-1 à R152-2)](#241)
+            - [I : Dérogations en matière d'assistance fiscale internationale (art. R*114 A-1 à R*114 A-5)](#242)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics et au profit de tiers (art. R*135 B-1 à R135 ZG-1)](#243)
+            - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. R145 A-1)](#244)
+            - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale (art. R*152-1 à R152-2)](#245)
+        - [Chapitre IV : Les délais de prescription (art. R*178-1)](#246)
+          - [Section III : Contributions indirectes (art. R*178-1)](#247)
+      - [Titre III : Le contentieux de l'impôt (art. R*190-1 à R247-11)](#248)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. R*190-1 à R*211-2)](#249)
+          - [Charge et administration de la preuve (art. R*191-1 à R*195-1)](#250)
+          - [Section I : Procédure préalable auprès de l'administration (art. R*196-1 à R*198-10)](#251)
+            - [I : Délais de réclamation (art. R*196-1 à R*196-6)](#252)
+            - [II : Forme et contenu des réclamations (art. R*197-1 à R*197-5)](#253)
+            - [III : Instruction des réclamations (art. R*198-1 à R*198-10)](#254)
+          - [Section II : Procédure devant les tribunaux (art. R*199-1 à R*202-6)](#255)
+            - [I : Tribunaux compétents (art. R*199-1 à R*199-2)](#256)
+            - [II : Règles de procédure (art. R*200-1 à R*202-6)](#257)
+              - [B : Procédure devant le tribunal administratif, la cour administrative d'appel et le Conseil d'Etat (art. R*200-1 à R*201-1)](#258)
+              - [C : Procédure devant le tribunal de grande instance et la cour d'appel (art. R*202-1 à R*202-6)](#259)
+          - [Section III : Compensations (art. R*203-1)](#260)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. R*207-1 à R*210-1)](#261)
+          - [Section V : Dégrèvements d'office (art. R*211-1 à R*211-2)](#262)
+        - [Chapitre II : Les procédures pénales (art. R*213-3 à R238-1)](#263)
+          - [Section I : Constatation des infractions par procès-verbal (art. R*213-3 à R*226-3)](#264)
+            - [II : Agents compétents pour constater les infractions par procès-verbal (art. R*213-3 à R214-1)](#265)
+            - [III : Rédaction des procès-verbaux (art. R*226-1 à R*226-3)](#266)
+          - [Section II : Exercice des poursuites pénales (art. R*228-1 à R238-1)](#267)
+            - [I : Dispositions communes (art. R*228-1 à R*228-6)](#268)
+            - [III : Dispositions particulières aux contributions indirectes (art. R235-1 à R238-1)](#269)
+        - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247 A-1 à R247-11)](#270)
+      - [Titre IV : Le recouvrement de l'impôt (art. R*256-1 à R283 D-1)](#271)
+        - [Chapitre premier : Les procédures de recouvrement (art. R*256-1 à R*273 B-1)](#272)
+          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R*256-1 à R257 B-1)](#273)
+          - [Section II : Exercice des poursuites (art. R*260 A-1 à R258 A-1)](#274)
+          - [Section III : Mesures particulières (art. R*267-1 à R*273 B-1)](#275)
+            - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*267-1)](#276)
+            - [5° : Vente de fonds de commerce (art. R268-1)](#277)
+            - [12° : Entrepreneur individuel à responsabilité limitée (art. R*273 B-1)](#278)
+        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-7)](#279)
+        - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#280)
+        - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. R283 A-1 à R283 D-1)](#281)
+      - [Titre V : Dispositions communes (art. R*287-1 à R289-2)](#282)
+        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. R*287-1 à R*288-3)](#283)
+        - [Chapitre III : Dispositions communautaires (art. R289-1 à R289-2)](#284)
+  - [Partie réglementaire - Arrêtés (art. A13 F-1 à A277-10)](#285)
+    - [Troisième partie : Partie réglementaire, arrêtés (art. A13 F-1 à A277-10)](#286)
+      - [Titre II : Le contrôle de l'impôt (art. A13 F-1 à A102 B-2)](#287)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. A13 F-1 à A80 CB-6-1)](#288)
+          - [Section I : Dispositions générales (art. A13 F-1 à A13 F-2)](#289)
+            - [2 quater : Dispositions relatives aux copies de documents (art. A13 F-1 à A13 F-2)](#290)
+          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#291)
+            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#292)
+              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#293)
+                - [1 : Contributions indirectes (art. A26-1 à A27-1)](#294)
+                  - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#295)
+                - [2 : Droits de timbre (art. A37-1)](#296)
+          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1 à A47 AA-1)](#297)
+          - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-6-1)](#298)
+        - [Chapitre II : Le droit de communication (art. A97-1 à A97-3)](#299)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#300)
+        - [Chapitre II bis : Obligation et délais de conservation des documents (art. A102 B-1 à A102 B-2)](#301)
+      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#302)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#303)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#304)
+        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#305)
+          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#306)
+            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#307)
+          - [Section II : Exercice des poursuites pénales (art. A228-1)](#308)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#309)
+        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#310)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -996,6 +1008,47 @@ _Modifié par_:
 _Cite_:
 
   - Livre des procédures fiscales - art. L13 AA
+
+
+###### Article L13 BA
+
+I. - Les entreprises dont les revenus sont imposés en application de l'article 238 du code général des impôts tiennent à la
+disposition de l'administration une documentation permettant de justifier la détermination du résultat ainsi imposé.
+
+Cette documentation comprend :
+
+1° Une description générale de l'organisation des activités de recherche et de développement de l'entreprise qui cède un ou
+plusieurs actifs mentionnés au I du même article 238 ou concède les licences d'exploitation de ces actifs ;
+
+2° Des informations spécifiques concernant la détermination du résultat imposable conformément aux II, III et IV du même
+article 238 comprenant :
+
+a) Une liste et une description détaillées de chacun des actifs ou groupe d'actifs incorporels, objets des contrats de
+cession ou de concession de licences ;
+
+b) Une présentation du ratio mentionné au III dudit article 238 et de son suivi pour chacun des actifs ou groupe d'actifs
+incorporels ;
+
+c) Une présentation de la méthode de répartition des frais entre les différents actifs et groupes d'actifs incorporels.
+
+II. - Cette documentation est tenue à la disposition de l'administration à la date d'engagement de la vérification de
+comptabilité.
+
+Si la documentation requise n'est pas mise à disposition à cette date, ou ne l'est que partiellement, l'administration
+adresse à l'entreprise mentionnée au I une mise en demeure de la produire ou de la compléter dans un délai de trente jours,
+en précisant la nature des documents ou compléments attendus. Cette mise en demeure mentionne les sanctions susceptibles
+d'être encourues en application de l'article 1740-0 C du code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 37 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1740-0 C
+  - Code général des impôts, CGI. - art. 238
 
 
 ###### Article L13-0 A
@@ -4457,21 +4510,19 @@ Afin d'en restituer le véritable caractère, l'administration est en droit d'é
 actes constitutifs d'un abus de droit, soit que ces actes ont un caractère fictif, soit que, recherchant le bénéfice d'une
 application littérale des textes ou de décisions à l'encontre des objectifs poursuivis par leurs auteurs, ils n'ont pu être
 inspirés par aucun autre motif que celui d'éluder ou d'atténuer les charges fiscales que l'intéressé, si ces actes n'avaient
-pas été passés ou réalisés, aurait normalement supportées eu égard à sa situation ou à ses activités réelles. 
+pas été passés ou réalisés, aurait normalement supportées eu égard à sa situation ou à ses activités réelles.
 
 En cas de désaccord sur les rectifications notifiées sur le fondement du présent article, le litige est soumis, à la demande
 du contribuable, à l'avis du comité de l'abus de droit fiscal. L'administration peut également soumettre le litige à l'avis
 du comité.
 
-Si l'administration ne s'est pas conformée à l'avis du comité, elle doit apporter la preuve du bien-fondé de la
-rectification.
-
 Les avis rendus font l'objet d'un rapport annuel qui est rendu public.
 
 **Nota:**
 
-Loi n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 article 35 IX :  Les I, II, III, VI, VII et VIII
-s'appliquent aux  propositions de rectifications notifiées à compter du 1er janvier 2009.
+Conformément à l’article 202 V de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article L. 64 du livre des
+procédures fiscales, dans leur rédaction résultant du IV dudit article, s'appliquent aux rectifications notifiées à compter
+du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -4494,14 +4545,14 @@ _Cité par_:
   - Livre des procédures fiscales - art. L192 (V)
   - Livre des procédures fiscales - art. L21 B (V)
   - Livre des procédures fiscales - art. L64 A (VD)
-  - Livre des procédures fiscales - art. L64 B (V)
+  - Livre des procédures fiscales - art. L64 B (VD)
   - Livre des procédures fiscales - art. R*64-1 (V)
   - Livre des procédures fiscales - art. R*64-2 (V)
   - Loi n°87-502 du 8 juillet 1987 - art. 2 (V)
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 35 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 202 (V)
 
 
 ###### Article L64 B
@@ -5343,10 +5394,9 @@ modalités de dépôt de cette demande ;
 
 a. Disposition devenue sans objet ;
 
-b. a notifié à l'administration sa volonté de bénéficier des dispositions des articles 39 AB, 39 AC, 39 quinquies A, 39
-quinquies D, 39 quinquies DA ou des articles 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies, 44
-octies A
-, 44 quindecies ou 44 sexdecies du code général des impôts.
+b. a notifié à l'administration sa volonté de bénéficier des dispositions des articles 39 AB, 39 AC, 39 quinquies D, 39
+quinquies DA ou des articles 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies, 44 octies A
+, 44 quindecies, 44 sexdecies ou 44 septdecies du code général des impôts.
 
 La notification doit être préalable à l'opération en cause et effectuée à partir d'une présentation écrite précise et
 complète de la situation de fait.
@@ -5427,6 +5477,10 @@ des impôts ne lui était pas applicable.
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent 9° ;
 
+9° bis Lorsque l'administration n'a pas répondu dans un délai de six mois à un contribuable de bonne foi qui a demandé à
+l'administration centrale, préalablement à la réalisation d'une opération et à partir d'une présentation écrite, précise et
+complète de cette opération, la confirmation que l'article 205 A du code général des impôts ne lui était pas applicable ;
+
 10° Lorsque, dans le cadre d'un examen ou d'une vérification de comptabilité et sur demande écrite du contribuable présentée
 conformément au 1° du présent article, avant envoi de toute proposition de rectification, l'administration a formellement
 pris position sur un point qu'elle a examiné au cours du contrôle ; (1) (2)
@@ -5442,17 +5496,8 @@ l'enquête, lesquels sont communiqués au contribuable selon les modalités fix�
 
 **Nota:**
 
-(1) Conformément à l'article 9, II de la loi n° 2018-727 du 10 août 2018, ces dispositions sont applicables aux contrôles
-dont les avis sont adressés à compter de la publication de ladite loi et aux enquêtes effectuées par l'administration à
-compter de la même date.
-
-Conformément à l'article 11, III de la loi n° 2018-727 du 10 août 2018 : L'indication des points contrôlés mentionnés aux 10°
-à 12° de l'article L. 80 B du livre des procédures fiscales, prévue au second alinéa de l'article L. 49 du même livre est
-applicable aux contrôles dont les avis sont adressés à compter de la publication de ladite loi et aux enquêtes effectuées par
-l'administration à compter de la même date.
-
-(2) Conformément à l'article 74 de la loi n° 2018-727 du 10 août 2018, ces dispositions font l'objet d'une évaluation
-comptable et financière établie par la Cour des comptes et transmise au Parlement, deux ans après leur entrée en vigueur.
+Conformément à l'article 108 IV de la loi n° 2018-1317 du 28 décembre 2018, l'article L. 80 B, dans sa rédaction résultant du
+II dudit article, s'applique aux opérations réalisées à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -5496,16 +5541,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-727 du 10 août 2018 - art. 11 (V)
-  - Loi n°2018-727 du 10 août 2018 - art. 9 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 108 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 135 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 30 (V)
 
 _Cite_:
 
+  - Code général des impôts, CGI. - art. 205 A
+  - Code général des impôts, CGI. - art. 210-0 A
   - Code général des impôts, CGI. - art. 244 quater B
   - Code général des impôts, CGI. - art. 34
   - Code général des impôts, CGI. - art. 39 AB
   - Code général des impôts, CGI. - art. 39 AC
-  - Code général des impôts, CGI. - art. 39 quinquies A
   - Code général des impôts, CGI. - art. 39 quinquies D
   - Code général des impôts, CGI. - art. 39 quinquies DA
   - Code général des impôts, CGI. - art. 39 quinquies E
@@ -5515,12 +5562,12 @@ _Cite_:
   - Code général des impôts, CGI. - art. 44 octies A
   - Code général des impôts, CGI. - art. 44 quindecies
   - Code général des impôts, CGI. - art. 44 sexies
-  - Code général des impôts, CGI. - art. 44 sexies-0 A
+  - Code général des impôts, CGI. - art. 44 sexies-0 A (V)
   - Code général des impôts, CGI. - art. 92
   - Livre des procédures fiscales - art. L103
   - Livre des procédures fiscales - art. L13 B
   - Livre des procédures fiscales - art. L80 A
-  - Livre des procédures fiscales - art. L80 M (V)
+  - Livre des procédures fiscales - art. L80 M
 
 
 ###### Article L80 C
@@ -6402,10 +6449,7 @@ _Modifié par_:
 Les administrations de l'Etat, des départements et des communes, les entreprises concédées ou contrôlées par l'Etat, les
 départements et les communes, ainsi que les établissements ou organismes de toute nature soumis au contrôle de l'autorité
 administrative, doivent communiquer à l'administration, sur sa demande, les documents de service qu'ils détiennent sans
-pouvoir opposer le secret professionnel, y compris les données conservées et traitées par les opérateurs de communications
-électroniques dans le cadre de l'article L. 34-1 du code des postes et des communications électroniques et les prestataires
-mentionnés aux articles aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
-l'économie numérique.
+pouvoir opposer le secret professionnel.
 
 **Liens relatifs à cet article**
 
@@ -6427,9 +6471,9 @@ _Cité par_:
 _Anciens textes_:
 
   - CGI 1987 (al. 1)
-  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
   - Décret n°1948-12-09 art. 2126
   - Décret n°71-290 1971-04-15 art. 5
+  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
   - Loi n°1920-07-31 art. 31
   - Loi n°1933-02-28 art. 38
   - Loi n°1941-01-13 annexe I art. 151
@@ -6437,12 +6481,12 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°2004-575 du 21 juin 2004 - art. 6 (VT)
-  - Code des postes et des communications électroni... - art. L34-1 (V)
+  - Loi n°2004-575 du 21 juin 2004 - art. 6
+  - Code des postes et des communications électroniques - art. L34-1
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 98 (V) JORF 31 décembre 2005
+  - Loi n°2018-898 du 23 octobre 2018 - art. 15 (V)
 
 
 ###### Article L83 A
@@ -7224,34 +7268,44 @@ _Cite_:
 
 ###### Article L96 G
 
-Les agents des impôts peuvent se faire communiquer les données conservées et traitées par les opérateurs de communications
-électroniques dans le cadre de l'article L. 34-1 du code des postes et des communications électroniques et par les
-prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
-l'économie numérique dans les conditions prévues par cet article.
+I. – Pour les besoins de la recherche ou de la constatation des infractions mentionnées au c du 1 et au 5 de l'article 1728,
+aux articles 1729 et 1729-0 A, au 2 du IV et au IV bis de l'article 1736, au I de l'article 1737 et aux articles 1758 et 1766
+du code général des impôts, des agents de l'administration des impôts ayant au moins le grade de contrôleur et spécialement
+habilités par le directeur du service auquel ils sont affectés ou son adjoint peuvent, dans les conditions prévues au II du
+présent article, se faire communiquer les données conservées et traitées par les opérateurs de communications électroniques
+dans le cadre de l'article L. 34-1 du code des postes et des communications électroniques et par les prestataires mentionnés
+aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique dans les
+conditions prévues au même article 6. 
 
-Ils peuvent également se faire communiquer les données traitées et conservées relatives à l'identification du vendeur ou du
-prestataire, à la nature des biens ou des services vendus, à la date et au montant des ventes ou prestations effectuées par
-les opérateurs des services prévus au d du 2 de l'article 11 du règlement (CE) n° 1777/2005 du Conseil du 17 octobre 2005
-portant mesures d'exécution de la directive 77/388/CEE relative au système commun de taxe sur la valeur ajoutée et, sous les
-réserves prévues au VI de l'article L. 34-1 du code des postes et des communications électroniques, les données traitées et
-conservées par les opérateurs des services prévus au e du 2 de l'article 11 du règlement (CE) n° 1777/2005 du Conseil du 17
-octobre 2005 précité.
+II. – La mise en œuvre du droit de communication mentionné au I est préalablement autorisée, par tout moyen dont il est
+conservé une trace écrite, par le procureur de la République près le tribunal de grande instance du siège de la direction
+dont dépend le service chargé de la procédure, sur demande écrite et motivée du directeur de cette dernière ou de son
+adjoint. 
 
-**Nota:**
+Les informations communiquées à l'administration sont détruites au plus tard à l'issue d'un délai d'un an à compter de leur
+réception, à l'exception de celles utilisées dans le cadre de l'une des procédures prévues au présent titre qui sont
+détruites à l'expiration de toutes les voies de recours. 
 
-Modifications effectuées en conséquence de l'article 7 (1°) de l'ordonnance n° 2011-1012 du 24 août 2011.
+Les modalités d'application du I et du présent II sont fixées par décret en Conseil d'Etat. 
+
+III. – Les agents de l'administration des impôts peuvent se faire communiquer les données traitées et conservées relatives à
+l'identification du vendeur ou du prestataire, à la nature des biens ou des services vendus, à la date et au montant des
+ventes ou prestations effectuées par les opérateurs des services prévus au d du 2 de l'article 7 du règlement d'exécution
+(UE) n° 282/2011 du Conseil du 15 mars 2011 portant mesures d'exécution de la directive 2006/112/ CE relative au système
+commun de taxe sur la valeur ajoutée
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°2004-575 du 21 juin 2004 - art. 6
-  - Code des postes et des communications électroniques - art. L34-1
-  - e du 2 de l'article 11 du règlement (CE) n°1777/2005
-
 _Modifié par_:
 
-  - Décret n°2012-654 du 4 mai 2012 - art. 1
+  - Loi n°2018-898 du 23 octobre 2018 - art. 15 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1728 (V)
+  - Code général des impôts, CGI. - art. 1766 (V)
+  - Code des postes et des communications électroni... - art. L34-1 (V)
+  - e du 2 de l'article 11 du règlement (CE) n°1777/2005
 
 
 ##### 25° Fabricants et marchands de métaux précieux<a id=92></a>
@@ -8145,9 +8199,9 @@ _Cite_:
 ###### Article L107 A
 
 Toute personne peut obtenir communication ponctuelle, le cas échéant par voie électronique, d'informations relatives aux
-immeubles situés sur le territoire d'une commune déterminée, ou d'un arrondissement pour les communes de Paris, Lyon et
-Marseille, sur lesquels une personne désignée dans la demande dispose d'un droit réel immobilier. Toute personne peut
-obtenir, dans les mêmes conditions, communication d'informations relatives à un immeuble déterminé. Les informations
+immeubles situés sur le territoire d'une commune déterminée, ou d'un arrondissement pour    la Ville de Paris et les communes
+de Lyon et Marseille, sur lesquels une personne désignée dans la demande dispose d'un droit réel immobilier. Toute personne
+peut obtenir, dans les mêmes conditions, communication d'informations relatives à un immeuble déterminé. Les informations
 communicables sont les références cadastrales, l'adresse ou, le cas échéant, les autres éléments d'identification cadastrale
 des immeubles, la contenance cadastrale de la parcelle, la valeur locative cadastrale des immeubles, ainsi que les noms et
 adresses des titulaires de droits sur ces immeubles. Un décret en Conseil d'Etat, pris après avis de la Commission nationale
@@ -8156,16 +8210,16 @@ par voie électronique des informations visées à la phrase précédente.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2009-526 du 12 mai 2009 - art. 109
-
 _Cité par_:
 
   - Loi n°2014-1170 du 13 octobre 2014 - art. 94 (V)
   - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
   - Livre des procédures fiscales - art. R* 107 A-1 (V)
   - Livre des procédures fiscales - art. R* 107 A-3 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 2
 
 
 ###### Article L107 B
@@ -9523,17 +9577,27 @@ _Créé par_:
 
 ###### Article L135 O
 
-Les maires peuvent se faire communiquer par l'administration en charge des contributions indirectes les éléments
-d'information que celle-ci détient en matière d'impôt sur les spectacles et de surtaxe sur les eaux minérales. 
+Les maires peuvent se faire communiquer par l'administration fiscale les éléments d'information relatifs à la contribution
+sur les eaux minérales prévue à l'article 1582 du code général des impôts que l'administration fiscale détient. 
 
 Le président du conseil exécutif de Corse peut se faire communiquer par l'administration en charge des contributions
 indirectes les éléments d'information que celle-ci détient en matière de droit de consommation sur les tabacs manufacturés.
+
+**Nota:**
+
+Conformément à l’article 199 V C de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article L. 135 O telles
+qu'elles résultent du II dudit article s’appliquent aux impositions dont le fait générateur intervient à compter du 1er
+janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 2
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 199 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1582
 
 _Cité par_:
 
@@ -11863,15 +11927,16 @@ la fin de la troisième année suivant celle du dépôt de la déclaration prév
 
 **Nota:**
 
-Conformément au I de l'article 10 de l'ordonnance n° 2015-681 du 18 juin 2015, les présentes dispositions s'appliquent aux
-crédits et réductions d'impôt calculés au titre des exercices clos à compter du 31 décembre 2015.
+Conformément à l'article 86 V B de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018 modifié par l'article 155 de
+la loi n° 2018-1317 du 28 décembre 2018 et devenu article 86 IV B, les présentes dispositions s'appliquent aux rémunérations
+versées à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 66 (VD)
-  - ORDONNANCE n°2015-681 du 18 juin 2015 - art. 1
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 86 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 155
 
 _Cite_:
 
@@ -12735,9 +12800,9 @@ _Cité par_:
 
 ###### Article L192
 
-Lorsque l'une des commissions ou le comité mentionnés à l'article L. 59 est saisi d'un litige ou d'une rectification,
-l'administration supporte la charge de la preuve en cas de réclamation, quel que soit l'avis rendu par la commission ou le
-comité. 
+Lorsque l'une des commissions ou le comité mentionnés à l'article L. 59 ou le comité prévu à l'article L. 64 est saisi d'un
+litige ou d'une rectification, l'administration supporte la charge de la preuve en cas de réclamation, quel que soit l'avis
+rendu par la commission ou le comité. 
 
 Toutefois, la charge de la preuve incombe au contribuable lorsque la comptabilité comporte de graves irrégularités et que
 l'imposition a été établie conformément à l'avis de la commission ou du comité. La charge de la preuve des graves
@@ -12747,6 +12812,12 @@ rectification est soumis au juge.
 Elle incombe également au contribuable à défaut de comptabilité ou de pièces en tenant lieu, comme en cas de taxation
 d'office à l'issue d'un examen contradictoire de la situation fiscale personnelle en application des dispositions des
 articles L. 16 et L. 69.
+
+**Nota:**
+
+Conformément à l’article 202 V de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article L. 192 du livre des
+procédures fiscales, dans leur rédaction résultant du IV dudit article, s'appliquent aux rectifications notifiées à compter
+du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -12766,13 +12837,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 46 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 202 (V)
 
 _Cite_:
 
   - Livre des procédures fiscales - art. L16
-  - Livre des procédures fiscales - art. L59 (VT)
-  - Livre des procédures fiscales - art. L69 (V)
+  - Livre des procédures fiscales - art. L59
+  - Livre des procédures fiscales - art. L64
+  - Livre des procédures fiscales - art. L69
 
 
 ###### Article L193
@@ -14725,9 +14797,877 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*251 A-1 (VT)
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=155></a>
+#### Chapitre IV : Le règlement des différends fiscaux dans l'Union européenne<a id=155></a>
 
-#### Chapitre premier : Les procédures de recouvrement<a id=156></a>
+###### Article L251 B
+
+Sans préjudice des dispositions de l'article L. 190, les différends entre l'administration française et les administrations
+d'autres Etats membres de l'Union européenne découlant de l'interprétation et de l'application de conventions fiscales
+conclues entre la France et un ou plusieurs Etats membres de l'Union européenne qui prévoient l'élimination de la double
+imposition du revenu et, le cas échéant, de la fortune et aboutissant à une imposition non conforme à ces conventions peuvent
+faire l'objet d'une procédure de règlement dans les conditions prévues au présent chapitre et précisées par décret.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 C
+
+Pour l'application de l'article L. 251 B, la double imposition s'entend de l'imposition par la France et au moins un autre
+Etat membre, d'un même revenu ou d'une même fortune imposable relevant d'une convention fiscale, lorsque cette imposition
+donne lieu à l'une ou plusieurs des situations suivantes :
+
+1° Une charge fiscale supplémentaire ;
+
+2° Une augmentation de la charge fiscale ;
+
+3° Une annulation ou une réduction des pertes qui pourraient être utilisées pour compenser des bénéfices imposables.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+##### Section I : La demande d'ouverture<a id=156></a>
+
+###### Article L251 D
+
+La procédure de règlement des différends peut être engagée par tout contribuable résident de France ou d'un autre Etat membre
+de l'Union européenne au sens de la convention fiscale applicable conclue entre la France et cet autre Etat membre dès lors
+qu'il est soumis à une imposition qui donne lieu à un différend défini à l'article L. 251 B.
+
+La demande d'ouverture de la procédure de règlement des différends doit être introduite simultanément auprès de
+l'administration fiscale française et de celles des autres Etats membres concernés dans un délai de trois ans à compter de la
+réception de la première mesure administrative qui peut entraîner une imposition immédiate ou future déterminée dans son
+principe et dans son montant.
+
+Par dérogation aux dispositions du deuxième alinéa du présent article, le contribuable résident de France au sens de la
+convention fiscale applicable peut s'adresser durant toute la procédure de règlement des différends à l'administration
+fiscale française lorsqu'il est un particulier ou lorsqu'il n'est pas une grande entreprise et ne fait pas partie d'un grand
+groupe au sens de la directive 2013/34/ UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers
+annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises, modifiant la
+directive 2006/43/ CE du Parlement européen et du Conseil et abrogeant les directives 78/660/ CEE et 83/349/ CEE du Conseil.
+Dans ce cas, l'administration fiscale française se charge de toutes les communications à effectuer aux administrations des
+autres Etats membres concernés.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 E
+
+I.-La décision d'acceptation ou de rejet de la demande d'ouverture mentionnée à l'article L. 251 D est notifiée au
+contribuable dans un délai de six mois à compter de la réception de celle-ci ou, lorsque des informations complémentaires ont
+été demandées, dans un délai de six mois à compter de la réception de ces dernières.
+
+La décision de rejet doit être motivée.
+
+II.-Dans le délai mentionné au I du présent article, l'administration fiscale française peut décider de régler le différend
+unilatéralement, sans faire intervenir l'administration des autres Etats membres concernés. Dans ce cas, elle le notifie au
+contribuable ainsi qu'aux administrations des autres Etats membres concernés. Cette notification entraîne la clôture de la
+procédure de règlement des différends.
+
+III.-En cas de dépôt d'une réclamation dans les conditions prévues aux articles L. 190 et suivants, le délai prévu au I du
+présent article est suspendu jusqu'à l'issue de la procédure contentieuse ou sa clôture pour tout autre motif.
+
+IV.-Lorsque l'administration fiscale n'a pas pris de décision dans le délai prévu au I, le cas échéant prorogé dans les
+conditions prévues au III, la demande d'ouverture est acceptée.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 F
+
+La décision de rejet de la demande d'ouverture peut faire l'objet d'un recours devant le juge mentionné à l'article L. 199
+lorsque la même décision a été prise par l'administration fiscale française et par toutes les autres administrations des
+Etats membres concernés.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+##### Section II : La procédure amiable<a id=157></a>
+
+###### Article L251 G
+
+Lorsque la demande d'ouverture prévue à l'article L. 251 D a été acceptée par l'administration fiscale française et par
+celles des autres Etats membres concernés, l'administration fiscale française doit traiter le différend à l'amiable dans un
+délai de deux ans à compter de la dernière notification d'une décision d'acceptation de la demande d'ouverture par l'une des
+administrations des Etats membres concernés.
+
+Le délai de deux ans mentionné au premier alinéa du présent article peut être prorogé d'un an au plus sur décision motivée de
+l'administration fiscale, communiquée au contribuable et à toutes les autres administrations des Etats membres concernés.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 H
+
+I.-Lorsque l'administration fiscale française et celles des autres Etats membres concernés sont parvenues à un accord sur le
+règlement du différend dans le délai prévu à l'article L. 251 G, cet accord est contraignant à l'égard de la France et
+exécutoire pour le contribuable, sous réserve que ce dernier accepte cette décision et renonce à tout recours.
+
+Lorsque d'autres recours ont été engagés, cet accord ne prend effet qu'à partir du moment où le contribuable a transmis à
+l'administration fiscale française et aux administrations des autres Etats membres concernés les éléments attestant que des
+dispositions ont été prises pour mettre fin à ces recours.
+
+II.-En cas de refus par le contribuable, d'absence de réponse ou d'absence de transmission à l'administration fiscale des
+éléments d'attestation, la procédure de règlement des différends est clôturée.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 I
+
+Lorsque l'administration fiscale française et celles des autres Etats membres concernés ne sont pas parvenues à un accord
+dans le délai prévu à l'article L. 251 G, l'administration fiscale française le notifie au contribuable en lui indiquant les
+raisons pour lesquelles il n'a pas été possible de parvenir à un accord ainsi que les voies et délais de saisine de la
+commission prévue à l'article L. 251 K.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 J
+
+I.-En cas de dépôt d'une réclamation dans les conditions prévues aux articles L. 190 et suivants, le délai prévu à l'article
+L. 251 G est suspendu jusqu'à l'issue de la procédure contentieuse ou sa clôture pour toute autre cause.
+
+II.-Lorsqu'une procédure administrative ou juridictionnelle susceptible d'aboutir à la confirmation de l'une des majorations
+prévues aux b et c du 1 de l'article 1728, à l'article 1729, au a de l'article 1732 et aux premier et dernier alinéas de
+l'article 1758 du code général des impôts a été engagée, la procédure amiable est suspendue à compter de la date
+d'acceptation de la demande d'ouverture jusqu'à la date de l'issue définitive de cette procédure administrative ou
+juridictionnelle.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+##### Section III : Commission consultative<a id=158></a>
+
+##### I.-SAISINE DE LA COMMISSION<a id=159></a>
+
+###### Article L251 K
+
+Sur demande du contribuable adressée à l'administration fiscale française et à celles des autres Etats membres concernés, une
+commission consultative est constituée par ces administrations conformément aux articles L. 251 P à L. 251 S, selon le cas :
+
+1° Lorsque la demande d'ouverture prévue à l'article L. 251 D a été rejetée en application de l'article L. 251 E par
+l'administration fiscale française ou par une ou plusieurs des administrations des autres Etats membres concernés mais non
+par l'ensemble de ces administrations ; la demande doit comprendre une déclaration du contribuable certifiant qu'aucun autre
+recours ne peut être introduit ou n'est en instance et qu'il a renoncé à son droit à d'autres recours contre les décisions de
+rejet prononcées par les administrations concernées ;
+
+2° Lorsque l'administration fiscale française et celles des autres Etats membres concernés ont accepté la demande d'ouverture
+introduite par le contribuable mais ne sont pas parvenues à un accord amiable sur la manière de régler le différend dans le
+délai prévu au premier alinéa de l'article L. 251 G.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 L
+
+La commission consultative est constituée dans un délai de cent vingt jours à compter de la date de réception de la demande
+prévue à l'article L. 251 K.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 M
+
+La procédure de règlement des différends en commission consultative prévue à l'article L. 251 K ne peut pas être engagée :
+
+1° S'il a été fait application d'une des majorations prévues aux b et c du 1 de l'article 1728, à l'article 1729, au a de
+l'article 1732 et aux premier et dernier alinéas de l'article 1758 du code général des impôts et que l'une de ces majorations
+est devenue définitive ;
+
+2° Ou si la demande d'ouverture n'a pas trait à une double imposition telle que définie à l'article L. 251 C du présent
+livre ;
+
+3° Ou si une décision de justice définitive a confirmé l'imposition ou la décision de rejet de la demande d'ouverture
+prononcée par l'administration fiscale en application de l'article L. 251 E.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 N
+
+I.-Lorsque la commission consultative a été constituée dans le cas prévu au 1° de l'article L. 251 K, la décision
+d'acceptation ou de rejet de la demande d'ouverture de la procédure de règlement des différends intervient dans un délai de
+six mois à compter de la date de sa constitution.
+
+II.-Lorsque la commission consultative accepte la demande d'ouverture, la procédure amiable prévue à l'article L. 251 G est
+engagée à la demande de l'administration fiscale.
+
+Le délai prévu au même article L. 251 G court à compter de la date de la notification de la décision de la commission
+consultative.
+
+Lorsque l'administration fiscale française et celles des autres Etats membres concernés n'ont pas demandé l'ouverture de la
+procédure amiable dans un délai de soixante jours à compter de la notification de la décision de la commission consultative,
+cette commission rend un avis sur la manière de régler le différend conformément aux articles L. 251 Y et suivants. La
+commission consultative est alors réputée avoir été constituée à la date d'expiration du délai de soixante jours.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 O
+
+Lorsque la commission consultative a été constituée dans le cas prévu au 2° de l'article L. 251 K, elle rend un avis sur la
+manière de régler le différend conformément aux articles L. 251 Y et suivants.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+##### II.-COMPOSITION DE LA COMMISSION<a id=160></a>
+
+###### Article L251 P
+
+La commission consultative est composée :
+
+1° D'un président ;
+
+2° D'un représentant de l'administration fiscale française et d'un représentant de chacune des administrations des autres
+Etats membres concernés. Si l'administration fiscale française et celles des autres Etats membres concernés en conviennent,
+le nombre de ces représentants peut être porté à deux par Etat ;
+
+3° D'une personnalité indépendante nommée par l'administration fiscale française et d'une personnalité indépendante nommée
+par chacune des administrations des autres Etats membres concernés à partir d'une liste établie par la Commission européenne.
+Si l'administration fiscale française et celles des autres Etats membres concernés en conviennent, le nombre de ces
+personnalités ainsi désignées peut être porté à deux pour chaque administration.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 Q
+
+I.-L'administration fiscale française nomme un suppléant pour chaque personnalité indépendante qu'elle a nommée conformément
+aux dispositions du 3° de l'article L. 251 P pour le cas où celle-ci serait empêchée de remplir ses fonctions.
+
+II.-Sauf dans le cas où les personnalités indépendantes ont été nommées par le juge conformément à l'article L. 251 R,
+l'administration fiscale française peut récuser toute personnalité indépendante, pour tout motif convenu à l'avance avec les
+administrations des autres Etats membres concernés ou pour un des motifs suivants :
+
+1° La personnalité appartient à l'une des administrations concernées ou exerce des fonctions pour le compte de l'une de ces
+administrations, ou s'est trouvée dans une telle situation à un moment donné au cours des trois années précédant la date de
+sa nomination ;
+
+2° La personnalité détient une participation importante ou un droit de vote dans une entreprise concernée par la demande ou
+est employée ou conseillère d'une telle entreprise, ou s'est trouvée dans une telle situation à un moment donné au cours des
+cinq années précédant la date de sa nomination ;
+
+3° La personnalité ne présente pas les garanties d'objectivité suffisantes pour le règlement du différend à traiter ;
+
+4° La personnalité est employée au sein d'une entreprise qui fournit des conseils fiscaux ou donne des conseils fiscaux à
+titre professionnel, ou s'est trouvée dans une telle situation à un moment donné au cours des trois années précédant la date
+de sa nomination.
+
+III.-La personnalité qui a été nommée conformément au I du présent article, ou son suppléant, déclare à l'administration
+fiscale tout intérêt, toute relation ou tout autre élément qui serait de nature à nuire à son indépendance ou à son
+impartialité ou qui pourrait raisonnablement donner une apparence de partialité au cours de la procédure.
+
+IV.-Pendant une période de douze mois suivant la date de la décision de la commission consultative, une personnalité
+indépendante faisant partie de cette commission s'abstient d'être dans une situation qui aurait pu conduire l'administration
+fiscale à s'opposer à sa nomination conformément au II.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 R
+
+Lorsque la commission consultative n'est pas constituée dans le délai prévu à l'article L. 251 L, et que l'administration
+fiscale française n'a pas procédé à la nomination d'au moins une personnalité indépendante et d'un suppléant, le contribuable
+peut saisir le président du tribunal de grande instance de Paris afin qu'il nomme une personnalité indépendante et son
+suppléant sur la liste mentionnée au 3° de l'article L. 251 P.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 S
+
+Les représentants et personnalités mentionnées aux 2° et 3° de l'article L. 251 P désignent un président parmi les
+personnalités figurant sur la liste mentionnée au même 3°. Sauf s'ils en conviennent autrement, le président est un juge.
+
+Lorsque les personnalités mentionnées audit 3° ont toutes été désignées dans les conditions prévues à l'article L. 251 R, il
+est procédé à la désignation du président par tirage au sort parmi les personnalités figurant sur la liste mentionnée au 3°
+de l'article L. 251 P.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+##### III.-RÈGLES DE FONCTIONNEMENT DE LA COMMISSION CONSULTATIVE<a id=161></a>
+
+###### Article L251 T
+
+Les règles de fonctionnement de la commission consultative sont déterminées conjointement par l'administration fiscale
+française et celles des autres Etats membres concernés. Elles sont notifiées au contribuable par l'administration fiscale
+française selon des modalités définies par décret.
+
+Si l'administration fiscale française n'a pas notifié au contribuable les règles de fonctionnement de la commission
+consultative, les personnalités indépendantes et le président communiquent au contribuable dans le délai de quinze jours à
+compter de la constitution de la commission consultative ces règles complétées conformément à un modèle établi selon des
+modalités précisées par la Commission européenne.
+
+Si les personnalités indépendantes et le président ne se sont pas accordés sur les règles de fonctionnement ou ne les ont pas
+notifiées au contribuable, celui-ci peut saisir le juge mentionné à l'article L. 251 R afin que celui-ci fixe des règles de
+fonctionnement conformément aux règles type mentionnées au paragraphe 3 de l'article 11 de la directive (UE) 2017/1852 du
+Conseil du 10 octobre 2017 concernant les mécanismes de règlement des différends fiscaux dans l'Union européenne.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+##### IV.-RENSEIGNEMENTS, ÉLÉMENTS DE PREUVE ET AUDITION<a id=162></a>
+
+###### Article L251 U
+
+Le contribuable peut fournir à la commission consultative, sous réserve de l'accord de l'administration fiscale française,
+tous renseignements, éléments de preuve ou documents susceptibles d'être utiles pour la décision.
+
+Le contribuable et l'administration fiscale française fournissent tous renseignements, éléments de preuve ou documents à la
+demande de la commission consultative. Toutefois, l'administration fiscale française peut refuser une telle communication
+dans chacun des cas suivants :
+
+1° Le droit applicable ne permet pas à l'administration fiscale d'obtenir les éléments ;
+
+2° Ces éléments concernent des secrets commerciaux, industriels ou professionnels ou des procédés commerciaux ;
+
+3° La divulgation des éléments est contraire à l'ordre public.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 V
+
+Les contribuables peuvent, sous réserve de l'accord de l'administration fiscale française, demander à se présenter ou se
+faire représenter devant la commission consultative.
+
+Lorsque la commission consultative le requiert, les personnes concernées se présentent devant elle ou s'y font représenter.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 W
+
+Les personnalités indépendantes et tout autre membre de la commission consultative sont soumis à l'obligation de secret
+professionnel prévue à l'article L. 103 en ce qui concerne les renseignements qu'ils obtiennent en cette qualité.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 X
+
+A la demande de l'administration fiscale, les contribuables et, le cas échéant, leurs représentants s'engagent par écrit à
+traiter comme secret tout renseignement, y compris la connaissance de documents, qu'ils obtiennent au cours de la procédure
+de règlement des différends en commission consultative.
+
+Tout manquement à cette obligation au secret professionnel entraîne l'application des sanctions prévues à l'article 226-13 du
+code pénal.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+##### V.-AVIS DE LA COMMISSION CONSULTATIVE<a id=163></a>
+
+###### Article L251 Y
+
+La commission consultative rend son avis dans un délai de six mois à compter de la date à laquelle elle a été constituée.
+
+Lorsque la commission consultative estime que la complexité de la demande rend nécessaire un délai supplémentaire, elle peut
+décider de prolonger le délai mentionné au premier alinéa de trois mois au plus. Elle en informe l'administration fiscale
+française et le contribuable.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 Z
+
+La commission consultative fonde son avis sur les dispositions des accords ou conventions applicables mentionnés à l'article
+L. 251 B, ainsi que sur toute règle nationale applicable.
+
+Elle se prononce à la majorité simple de ses membres. En l'absence de majorité, la voix du président est prépondérante.
+
+Le président communique l'avis de la commission à l'administration fiscale française. Le contribuable est informé de ce que
+la commission a rendu son avis.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 ZA
+
+L'administration fiscale française et celles des autres Etats membres concernés conviennent de la manière de régler le
+différend dans un délai de six mois à compter de la notification de l'avis de la commission consultative.
+
+Ces administrations ne peuvent s'écarter de l'avis de la commission consultative que si elles parviennent à un accord sur la
+manière de régler le différend dans le délai mentionné au premier alinéa.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 ZB
+
+L'administration fiscale notifie au contribuable la décision définitive au plus tard dans le délai de trente jours à compter
+de cette décision.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 ZC
+
+I.-La décision prend effet à condition que le contribuable l'accepte et renonce à tout recours dans un délai de soixante
+jours à compter de la date à laquelle la décision définitive lui a été notifiée.
+
+En cas de refus du contribuable, d'absence de réponse ou d'absence de transmission des éléments attestant le renoncement à
+toute autre voie de recours dans le délai prévu au premier alinéa du présent I, la procédure de règlement des différends est
+clôturée.
+
+II.-Nonobstant toute règle de délai prévue au présent livre, l'imposition du contribuable est modifiée conformément à la
+décision définitive notifiée et acceptée, sauf si le critère d'indépendance des personnalités composant la commission
+consultative n'a pas été respecté.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+##### Section IV : Commission de règlement alternatif des différends<a id=164></a>
+
+###### Article L251 ZD
+
+I.-Lorsque l'administration fiscale française et celles des autres Etats membres concernés conviennent de constituer une
+commission de règlement alternatif des différends en lieu et place de la commission consultative prévue à l'article L. 251 K
+pour rendre un avis sur la manière de statuer sur la demande du contribuable, l'article L. 251 Q s'applique aux membres de
+cette commission.
+
+II.-Les administrations mentionnées au I du présent article peuvent convenir que la commission de règlement alternatif des
+différends applique une autre procédure de décision que celle prévue à l'article L. 251 Z.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 ZE
+
+Sous réserve du II de l'article L. 251 ZD, les articles L. 251 Y à L. 251 ZC s'appliquent à la commission de règlement
+alternatif des différends.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+##### Section V : Publicité<a id=165></a>
+
+###### Article L251 ZF
+
+La décision définitive mentionnée à l'article L. 251 ZB est transmise sous forme de résumé à la Commission européenne à fin
+de publication.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+##### Section VI : Autres dispositions<a id=166></a>
+
+###### Article L251 ZG
+
+La demande d'ouverture de la procédure de règlement des différends prévue à l'article L. 251 D met fin, dans le cadre du
+différend en question, à toute autre procédure amiable ou de règlement des différends en cours prévue par une convention ou
+un accord conclu par la France. Cette seconde procédure, le cas échéant, est clôturée à compter de la date de la première
+réception de la demande d'ouverture par une des administrations concernées.
+
+Cette demande fait obstacle, dans le cadre du différend en question, au recours à toute autre procédure amiable ou de
+règlement des différends prévue par une convention ou un accord conclu par la France.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+###### Article L251 ZH
+
+Il est mis fin à la procédure de règlement des différends si le juge saisi d'un recours contre l'imposition rend une décision
+devenue définitive après qu'une demande a été présentée par le contribuable conformément à l'article L. 251 K, mais avant que
+la commission consultative ou la commission de règlement alternatif des différends ait rendu son avis à l'administration
+fiscale conformément à l'article L. 251 Y.
+
+**Nota:**
+
+Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
+partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
+d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
+différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
+fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+
+
+### Titre IV : Le recouvrement de l'impôt<a id=167></a>
+
+#### Chapitre premier : Les procédures de recouvrement<a id=168></a>
 
 ###### Article L252
 
@@ -14914,7 +15854,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. L201 C (V)
 
 
-##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=157></a>
+##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=169></a>
 
 ###### Article L253
 
@@ -15106,31 +16046,27 @@ _Cité par_:
 
 ###### Article L257-0 A
 
-1. A défaut de paiement des sommes mentionnées sur l'avis d'imposition à la date limite de paiement ou de celles mentionnées
-sur l'avis de mise en recouvrement et en l'absence d'une réclamation assortie d'une demande de sursis de paiement formulée
-dans les conditions prévues au premier alinéa de l'article L. 277, le comptable public compétent adresse au contribuable une
-mise en demeure de payer avant la notification du premier acte de poursuite devant donner lieu à des frais au sens de
-l'article 1912 du code général des impôts.
+1. A défaut de paiement de l'acompte mentionné à l'article 1663 C du code général des impôts ou des sommes mentionnées sur
+l'avis d'imposition à la date limite de paiement ou de celles mentionnées sur l'avis de mise en recouvrement et en l'absence
+d'une réclamation assortie d'une demande de sursis de paiement formulée dans les conditions prévues au premier alinéa de
+l'article L. 277, le comptable public compétent adresse au contribuable une mise en demeure de payer avant la notification du
+premier acte de poursuite devant donner lieu à des frais au sens de l'article 1912 du code général des impôts. 
 
 2. Lorsque la mise en demeure de payer n'a pas été suivie de paiement ou d'une demande de sursis de paiement au sens de
 l'article L. 277, le comptable public compétent peut engager des poursuites à l'expiration d'un délai de trente jours suivant
-sa notification.
+sa notification. 
 
 3. La mise en demeure de payer interrompt la prescription de l'action en recouvrement. Elle peut être contestée dans les
 conditions prévues à l'article L. 281.
 
 4. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
+**Nota:**
+
+Conformément à l'article 1er de l'ordonnance n° 2017-1390 du 22 septembre 2017, les dispositions du présent article
+s'appliquent aux revenus perçus ou réalisés à compter du 1er janvier 2019.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
-
-_Modifié par_:
-
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (M)
 
 _Cité par_:
 
@@ -15144,10 +16080,15 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*257-0 B-2 (V)
   - Livre des procédures fiscales - art. R*257-0 C (T)
 
+_Modifié par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1912 (V)
-  - Livre des procédures fiscales - art. L277 (V)
+  - Code général des impôts, CGI. - art. 1663 C (VD)
+  - Code général des impôts, CGI. - art. 1912
+  - Livre des procédures fiscales - art. L277
   - Livre des procédures fiscales - art. L281
 
 
@@ -15199,7 +16140,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L277
 
 
-##### Section II : Exercice des poursuites<a id=158></a>
+##### Section II : Exercice des poursuites<a id=170></a>
 
 ###### Article L258 A
 
@@ -15263,24 +16204,67 @@ _Cité par_:
   - Livre des procédures fiscales - art. L258 A (VD)
 
 
-##### Section III : Mesures particulières<a id=159></a>
+##### Section III : Mesures particulières<a id=171></a>
 
-##### 1° : Avis à tiers détenteur<a id=160></a>
+##### 1° : Saisie administrative à tiers détenteur<a id=172></a>
 
 ###### Article L262
 
-Les dépositaires, détenteurs ou débiteurs de sommes appartenant ou devant revenir aux redevables d'impôts, de pénalités et de
-frais accessoires dont le recouvrement est garanti par le privilège du Trésor sont tenus, sur la demande qui leur en est
-faite sous forme d'avis à tiers détenteur notifié par le comptable chargé du recouvrement, de verser, aux lieu et place des
-redevables, les fonds qu'ils détiennent ou qu'ils doivent, à concurrence des impositions dues par ces redevables (1).
+1. Les créances dont les comptables publics sont chargés du recouvrement peuvent faire l'objet d'une saisie administrative à
+tiers détenteur notifiée aux dépositaires, détenteurs ou débiteurs de sommes appartenant ou devant revenir aux redevables.
 
-Les dispositions du présent article s'appliquent également aux gérants, administrateurs, directeurs ou liquidateurs des
-sociétés pour les impositions dues par celles-ci.
+Dans le cas où elle porte sur plusieurs créances, de même nature ou de nature différente, une seule saisie peut être
+notifiée.
 
-(1) Cette disposition s'applique aux majorations, pénalités et frais accessoires relatifs aux infractions constatées à partir
-du 1er janvier 1982. Elle est applicable en ce qui concerne les droits d'enregistrement, la taxe de publicité foncière, les
-droits de timbre et les contributions indirectes, aux impositions mises en recouvrement à partir du 1er janvier 1982 (loi n°
-81-1179 du 31 décembre 1981, art. 8-III).
+L'avis de saisie administrative à tiers détenteur est notifié au redevable et au tiers détenteur. L'exemplaire qui est
+notifié au redevable comprend, sous peine de nullité, les délais et voies de recours.
+
+La saisie administrative à tiers détenteur emporte l'effet d'attribution immédiate prévu à l'article L. 211-2 du code des
+procédures civiles d'exécution. Les articles L. 162-1 et L. 162-2 du même code sont applicables. Par dérogation au deuxième
+alinéa de l'article L. 162-1, lorsque le montant de la saisie administrative à tiers détenteur est inférieur à un montant,
+fixé par décret, compris entre 500 € et 3 000 €, les sommes laissées au compte ne sont indisponibles, pendant le délai prévu
+au même deuxième alinéa, qu'à concurrence du montant de la saisie.
+
+La saisie administrative à tiers détenteur a pour effet d'affecter, dès sa réception, les fonds dont le versement est ainsi
+demandé au paiement des sommes dues par le redevable, quelle que soit la date à laquelle les créances même conditionnelles ou
+à terme que le redevable possède à l'encontre du tiers saisi deviennent effectivement exigibles.
+
+La saisie administrative à tiers détenteur s'applique également aux gérants, administrateurs, directeurs ou liquidateurs des
+sociétés pour les sommes dues par celles-ci.
+
+2. Lorsque la saisie administrative à tiers détenteur porte sur un contrat d'assurance rachetable, elle entraîne le rachat
+forcé dudit contrat. Elle a pour effet d'affecter aux créanciers mentionnés au 1 la valeur de rachat du contrat d'assurance
+au jour de la notification de la saisie, dans la limite du montant de cette dernière.
+
+Ces dispositions s'appliquent au redevable souscripteur ou adhérent d'un contrat d'assurance rachetable, y compris si la
+possibilité de rachat fait l'objet de limitations.
+
+3. Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, le tiers saisi, destinataire de la
+saisie administrative à tiers détenteur, est tenu de verser, aux lieu et place du redevable, dans les trente jours suivant la
+réception de la saisie, les fonds qu'il détient ou qu'il doit, à concurrence des sommes dues par ce dernier.
+
+Pour les créances conditionnelles ou à terme, le tiers saisi est tenu de verser immédiatement les fonds lorsque ces créances
+deviennent exigibles.
+
+Le tiers saisi est tenu de déclarer immédiatement par tous moyens l'étendue de ses obligations à l'égard du redevable dans
+les conditions prévues à l'article L. 211-3 du code des procédures civiles d'exécution.
+
+Le tiers saisi qui s'abstient, sans motif légitime, de faire cette déclaration ou fait une déclaration inexacte ou mensongère
+peut être condamné, à la demande du créancier, au paiement des sommes dues à ce dernier, sans préjudice d'une condamnation à
+des dommages et intérêts.
+
+4. Lorsqu'une personne est simultanément destinataire de plusieurs saisies administratives à tiers détenteur, elle doit, en
+cas d'insuffisance des fonds, exécuter ces saisies en proportion de leurs montants respectifs.
+
+5. Le montant des frais bancaires afférents à la saisie administrative à tiers détenteur perçu par les établissements de
+crédit ne peut dépasser 10 % du montant dû au Trésor public, dans la limite d'un plafond fixé par décret.
+
+.
+
+**Nota:**
+
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -15323,192 +16307,40 @@ _Cité par_:
   - Code du travail - art. R3252-37 (VD)
   - Livre des procédures fiscales - art. L263-0 A (VT)
 
-_Cite_:
-
-  - Loi n°81-1179 1981-12-31 ART. 8 III FINANCES RECTIFICATIVE POUR 1981
-
 _Modifié par_:
 
-  - Loi n°81-1179 du 31 décembre 1981 - art. 8 (P) JORF 1er JANVIER 1982
-
-
-###### Article L263
-
-L'avis à tiers détenteur a pour effet d'affecter, dès réception, les sommes dont le versement est ainsi demandé au paiement
-des impositions privilégiées, quelle que soit la date à laquelle les créances même conditionnelles ou à terme que le
-redevable possède à l'encontre du tiers détenteur deviennent effectivement exigibles. 
-
-Il comporte l'effet d'attribution immédiate prévu à l'article L. 211-2 du code des procédures civiles d'exécution. Les
-dispositions des articles L. 162-1 et L. 162-2 de ce code sont en outre applicables. 
-
-Lorsqu'une personne est simultanément destinataire de plusieurs avis établis au nom du même débiteur, émanant des comptables
-chargés du recouvrement respectivement des impôts directs et des taxes sur le chiffre d'affaires, elle doit, en cas
-d'insuffisance des fonds, exécuter ces avis en proportion de leurs montants respectifs.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 1925 (AL. 1 2EME PHRASE)
-  - CGI 1925 (al. 1 2eme phrase)
-  - CGI 1926 BIS (P.)
-  - CGI 1926 bis (p.)
-  - CGI 1929 BIS
-  - CGI 1929 bis
-  - Décret n°55-470 1955-04-30 ART. 3 (AL. 2) (LOI 55-349 1955-04-02)
-  - Décret-loi 1938-06-17 ART. 1 (RECOUVREMENT DES IMPOTS DIRECTS)
-  - Décret-loi 1938-06-17 art. 1 (Recouvrement des impôts directs)
-
-_Codifié par_:
-
-  - Décret n°92-837 du 27 août 1992
-
-_Cité par_:
-
-  - Code de l'environnement - art. L171-8 (VD)
-  - Code de l'environnement - art. L216-1 (VT)
-  - Code de l'environnement - art. L521-19 (VD)
-  - Code de l'environnement - art. L541-3 (VD)
-  - Code de l'environnement - art. L556-3 (V)
-  - Code des transports - art. L5336-1-1 (VD)
-  - Code du travail - art. R3252-37 (VD)
-  - Code rural - art. L253-9 (V)
-  - Code rural et de la pêche maritime - art. L253-12 (VD)
-  - Loi n°2010-788 du 12 juillet 2010 - art. 230
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 76 (V)
-  - Loi n°2016-816 du 20 juin 2016 - art. 70
-  - Code de l'environnement - art. L122-3-4 (VT)
-
-_Cite_:
-
-  - Code des procédures civiles d'exécution - art. L162-1
-  - Code des procédures civiles d'exécution - art. L211-2
-
-_Modifié par_:
-
-  - Loi n°2012-354 du 14 mars 2012 - art. 19 (V)
-
-_Abrogé par_:
-
   - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 204
 
 
-###### Article L263 A
-
-Conformément au deuxième alinéa de l'article L. 632-2 du code de commerce, tout avis à tiers détenteur, toute saisie
-attribution ou toute opposition peut être annulé lorsqu'il a été délivré ou pratiqué par un créancier après la date de
-cessation des paiements et en connaissance de celle-ci.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-357 2006-03-24
-
-_Créé par_:
-
-  - Décret n°2006-357 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
-
-_Abrogé par_:
-
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
-
-_Cite_:
-
-  - Code de commerce - art. L632-2 (VD)
-
-
-###### Article L263-0 A
-
-Peuvent faire l'objet d'un avis à tiers détenteur notifié par le comptable chargé du recouvrement, dans les conditions
-prévues aux articles L. 262 et L. 263, les sommes versées par un redevable souscripteur ou adhérent d'un contrat d'assurance
-rachetable, y compris si la possibilité de rachat fait l'objet de limitations, dans la limite de la valeur de rachat des
-droits à la date de la notification de l'avis à tiers détenteur.
-
-**Nota:**
-
-Loi n° 2013-1117 du 6 décembre 2013, article 41 V : Les présentes dispositions s'appliquent aux avis à tiers détenteur,
-saisies à tiers détenteur, oppositions à tiers détenteur et oppositions administratives notifiés à compter du 8 décembre
-2013.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 41 (V)
-
-_Abrogé par_:
-
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
-
-_Cité par_:
-
-  - Code de la mutualité - art. L223-15 (VD)
-  - Code des assurances - art. L132-14 (VD)
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L262
-
-
-##### 1° bis : Avis de saisie en matière de contributions indirectes<a id=161></a>
+##### 1° bis : Saisie administrative à tiers détenteur en matière de contributions indirectes<a id=173></a>
 
 ###### Article L263 B
 
-1. En matière de contributions indirectes, le comptable public compétent peut procéder au recouvrement des sommes de toute
-nature résultant d'une décision de condamnation ou d'une transaction, par voie d'avis de saisie adressé aux personnes
-physiques ou morales qui détiennent des fonds pour le compte du redevable, qui ont une dette envers lui ou qui lui versent
-une rémunération. 
+En matière de contributions indirectes, le comptable public compétent peut procéder au recouvrement des créances de toute
+nature, y compris les amendes, par voie de saisie administrative à tiers détenteur dans les conditions prévues à l'article L.
+262.
 
-L'avis de saisie est notifié simultanément au redevable et au tiers détenteur. L'exemplaire qui est notifié au redevable
-comporte, à peine de nullité, la date de la décision de justice ou de la transaction. 
+**Nota:**
 
-2. Le tiers détenteur est tenu de rendre indisponibles les fonds qu'il détient à concurrence du montant des sommes à
-recouvrer. 
-
-L'avis de saisie emporte l'effet d'attribution immédiate prévu à l'article L. 211-2 du code des procédures civiles
-d'exécution. Les articles L. 123-1, L. 162-1 et L. 162-2 du même code sont en outre applicables. 
-
-Dans les trente jours qui suivent la réception de l'avis de saisie, le tiers détenteur verse au comptable public compétent
-les fonds saisis, sous peine d'être tenu au paiement de cette somme majorée du taux d'intérêt légal. Le paiement consécutif à
-un avis de saisie libère à due concurrence la personne qui l'a effectué à l'égard du redevable. 
-
-3. L'effet de l'avis de saisie s'étend aux créances conditionnelles ou à terme. Dans ces deux cas, les fonds sont versés au
-comptable dès que ces créances deviennent exigibles. 
-
-L'avis de saisie permet d'appréhender les sommes versées par un redevable souscripteur ou adhérent d'un contrat d'assurance
-rachetable, y compris si la possibilité de rachat fait l'objet de limitations, dans la limite de la valeur de rachat des
-droits à la date de la notification de l'avis. 
-
-4. Lorsqu'une personne est simultanément destinataire de plusieurs avis de saisie établis au nom du redevable, elle doit, en
-cas d'insuffisance des fonds, exécuter ces demandes en proportion de leurs montants respectifs. 
-
-Dans un délai de quinze jours à compter de la réception de l'avis de saisie, le destinataire de cet avis informe le comptable
-public, selon le cas, du montant des fonds qu'il doit au débiteur ou qu'il détient pour son compte, de l'indisponibilité de
-ces fonds, du terme ou de la condition les affectant, ou de l'inexistence de ces fonds. 
-
-L'exécution par le destinataire d'un avis de saisie fondé sur un titre exécutoire n'est affectée ni par une contestation de
-la procédure de saisie, engagée en application de l'article L. 281 du présent livre, ni par une contestation de l'existence
-du montant ou de l'exigibilité de la créance, à moins que le juge n'en dispose autrement. 
-
-Dès réception de la décision portant sur la contestation, le comptable, s'il y a lieu, donne une mainlevée, totale ou
-partielle, de l'avis de saisie ou rembourse les sommes dues au redevable.
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 21 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L281 (V)
-  - Code des procédures civiles d'exécution - art. L123-1 (V)
-  - Code des procédures civiles d'exécution - art. L162-1 (V)
-  - Code des procédures civiles d'exécution - art. L211-2 (V)
+  - Livre des procédures fiscales - art. L281
+  - Code des procédures civiles d'exécution - art. L123-1
+  - Code des procédures civiles d'exécution - art. L162-1
+  - Code des procédures civiles d'exécution - art. L211-2
 
 
-##### 2° : Rémunérations du travail<a id=162></a>
+##### 2° : Rémunérations du travail<a id=174></a>
 
 ###### Article L264
 
@@ -15531,7 +16363,7 @@ _Cite_:
   - Code du travail - art. R3252-1 (V)
 
 
-##### 3° : Obligations des dépositaires publics de fonds<a id=163></a>
+##### 3° : Obligations des dépositaires publics de fonds<a id=175></a>
 
 ###### Article L265
 
@@ -15562,7 +16394,7 @@ _Modifié par_:
   - Décret n°2011-646 du 9 juin 2011 - art. 1
 
 
-##### 4° : Responsabilité des dirigeants et gérants de sociétés<a id=164></a>
+##### 4° : Responsabilité des dirigeants et gérants de sociétés<a id=176></a>
 
 ###### Article L267
 
@@ -15590,7 +16422,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*267-1 (V)
 
 
-##### 5° : Vente de fonds de commerce<a id=165></a>
+##### 5° : Vente de fonds de commerce<a id=177></a>
 
 ###### Article L268
 
@@ -15622,7 +16454,7 @@ _Cite_:
   - Code de procédure civile - art. 1272 (V)
 
 
-##### 7° : Liquidation judiciaire<a id=166></a>
+##### 7° : Liquidation judiciaire<a id=178></a>
 
 ###### Article L269 A
 
@@ -15666,7 +16498,7 @@ _Cite_:
   - Code de commerce - art. L643-3 (V)
 
 
-##### 8° : Procédure accélérée<a id=167></a>
+##### 8° : Procédure accélérée<a id=179></a>
 
 ###### Article L270
 
@@ -15698,7 +16530,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L66
 
 
-##### 10° : Taxes sur le chiffre d'affaires<a id=168></a>
+##### 10° : Taxes sur le chiffre d'affaires<a id=180></a>
 
 ###### Article L273
 
@@ -15720,54 +16552,24 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*273-1 (Ab)
 
 
-##### 11° : Créances de l'Etat faisant l'objet d'un titre de perception visé à l'article L. 252 A<a id=169></a>
+##### 11° : Créances de l'Etat faisant l'objet d'un titre de perception visé à l'article L. 252 A<a id=181></a>
 
 ###### Article L273 A
 
-I. – Les créances de l'Etat ou celles qu'il est chargé de recouvrer pour le compte de tiers sur la base d'un titre de
-perception délivré par lui en application de l'article L. 252 A peuvent être recouvrées par voie de saisie à tiers
-détenteur. 
-
-La saisie à tiers détenteur est notifiée, avec mention des délais et voies de recours, au débiteur ainsi qu'aux personnes
-physiques ou morales qui détiennent des fonds pour son compte, qui ont une dette envers lui ou qui lui versent une
-rémunération. 
-
-Elle emporte l'effet d'attribution immédiate, prévu à l'article L. 211-2 du code des procédures civiles d'exécution, des
-sommes saisies disponibles à concurrence des sommes pour lesquelles la saisie est pratiquée. Les dispositions des articles L.
-162-1 et L. 162-2 de ce code sont en outre applicables. 
-
-Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, les fonds doivent être reversés dans les
-trente jours qui suivent la réception de la saisie par le tiers détenteur auprès du comptable chargé du recouvrement. 
-
-La saisie à tiers détenteur peut s'exercer sur les sommes versées par un redevable souscripteur ou adhérent d'un contrat
-d'assurance rachetable, y compris si la possibilité de rachat fait l'objet de limitations, dans la limite de la valeur de
-rachat des droits à la date de la notification de la saisie 
-
-La saisie à tiers détenteur peut s'exercer sur les créances conditionnelles ou à terme ; dans ce cas, les fonds sont versés
-au comptable public chargé du recouvrement lorsque ces créances deviennent exigibles. 
-
-Lorsqu'une même personne est simultanément destinataire de plusieurs saisies à tiers détenteur établies au nom du même
-redevable, elle doit, en cas d'insuffisance des fonds, exécuter ces oppositions en proportion de leurs montants respectifs. 
-
-Si les fonds détenus ou dus par le tiers détenteur sont indisponibles entre ses mains, ce dernier doit en aviser le comptable
-chargé du recouvrement dès la réception de la saisie. 
-
-Les contestations relatives à la saisie doivent être adressées à l'administration dont dépend le comptable qui a exercé cette
-poursuite avant tout recours juridictionnel. 
-
-II. – (Dispositions transférées sous l'article L. 135 X)
+Les créances de l'Etat ou celles qu'il est chargé de recouvrer pour le compte de tiers sur la base d'un titre de perception
+délivré par lui en application de l'article L. 252 A peuvent être recouvrées par voie de saisie administrative à tiers
+détenteur dans les conditions prévues à l'article L. 262.
 
 **Nota:**
 
-Loi n° 2013-1117 du 6 décembre 2013, article 41 V : Les présentes dispositions s'appliquent aux avis à tiers détenteur,
-saisies à tiers détenteur, oppositions à tiers détenteur et oppositions administratives notifiés à compter du 8 décembre
-2013.
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 41 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 _Cité par_:
 
@@ -15779,11 +16581,11 @@ _Cité par_:
 _Cite_:
 
   - Livre des procédures fiscales - art. L252 A
-  - Code des procédures civiles d'exécution - art. L162-1 (V)
+  - Code des procédures civiles d'exécution - art. L162-1
   - Code des procédures civiles d'exécution - art. L211-2
 
 
-##### 12° Entrepreneur individuel à responsabilité limitée<a id=170></a>
+##### 12° Entrepreneur individuel à responsabilité limitée<a id=182></a>
 
 ###### Article L273 B
 
@@ -15825,7 +16627,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*273 B-1 (V)
 
 
-##### Section IV : Prescription de l'action en vue du recouvrement<a id=171></a>
+##### Section IV : Prescription de l'action en vue du recouvrement<a id=183></a>
 
 ###### Article L274
 
@@ -15882,7 +16684,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L256 A (V)
 
 
-#### Chapitre II : Le sursis de paiement<a id=172></a>
+#### Chapitre II : Le sursis de paiement<a id=184></a>
 
 ###### Article L277
 
@@ -16091,40 +16893,55 @@ _Modifié par_:
   - Loi n°94-1163 1994-12-29 art. 34 Finances rectificative pour 1994 JORF 30 décembre 1994
 
 
-#### Chapitre III : Le contentieux du recouvrement<a id=173></a>
+#### Chapitre III : Le contentieux du recouvrement<a id=185></a>
 
 ###### Article L281
 
-Les contestations relatives au recouvrement des impôts, taxes, redevances et sommes quelconques dont la perception incombe
-aux comptables publics compétents mentionnés à l'article L. 252 doivent être adressées à l'administration dont dépend le
-comptable qui exerce les poursuites. 
+Les contestations relatives au recouvrement des impôts, taxes, redevances, amendes, condamnations pécuniaires et sommes
+quelconques dont la perception incombe aux comptables publics doivent être adressées à l'administration dont dépend le
+comptable qui exerce les poursuites.
 
-Les contestations ne peuvent porter que : 
+Lorsque les contestations portent sur le recouvrement de créances détenues par les établissements publics de l'Etat, par un
+de ses groupements d'intérêt public ou par les autorités publiques indépendantes, dotés d'un agent comptable, ces
+contestations sont adressées à l'ordonnateur de l'établissement public, du groupement d'intérêt public ou de l'autorité
+publique indépendante pour le compte duquel l'agent comptable a exercé ces poursuites.
 
-1° Soit sur la régularité en la forme de l'acte ; 
+Les contestations relatives au recouvrement ne peuvent pas remettre en cause le bien-fondé de la créance. Elles peuvent
+porter :
 
-2° Soit sur l'existence de l'obligation de payer, sur le montant de la dette compte tenu des paiements effectués, sur
-l'exigibilité de la somme réclamée, ou sur tout autre motif ne remettant pas en cause l'assiette et le calcul de l'impôt. 
+1° Sur la régularité en la forme de l'acte ;
 
-Les recours contre les décisions prises par l'administration sur ces contestations sont portés, dans le premier cas, devant
-le juge de l'exécution (1), dans le second cas, devant le juge de l'impôt tel qu'il est prévu à l'article L. 199.
+2° A l'exclusion des amendes et condamnations pécuniaires, sur l'obligation au paiement, sur le montant de la dette compte
+tenu des paiements effectués et sur l'exigibilité de la somme réclamée.
+
+Les recours contre les décisions prises par l'administration sur ces contestations sont portés dans le cas prévu au 1° devant
+le juge de l'exécution. Dans les cas prévus au 2°, ils sont portés :
+
+a) Pour les créances fiscales, devant le juge de l'impôt prévu à l'article L. 199 ;
+
+b) Pour les créances non fiscales de l'Etat, des établissements publics de l'Etat, de ses groupements d'intérêt public et des
+autorités publiques indépendantes, dotés d'un agent comptable, devant le juge de droit commun selon la nature de la créance ;
+
+c) Pour les créances non fiscales des collectivités territoriales, des établissements publics locaux et des établissements
+publics de santé, devant le juge de l'exécution.
 
 **Nota:**
 
-(1) A compter du 1er janvier 1993.
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - CGI 1846 (AL. 1, AL. 2 1RE PHRASE, AL. 3 1RE PHRASE, 2EME PHRASE 1ER MEMBRE, AL. 4 1RE PHRASE)
+  - CGI 1917 (AL. 1 SAUF 1RE LIGNE, AL. 2, AL. 3 SAUF 1RE LIGNE)
   - CGI 1930 4
   - Loi n°46-2914 du 23 décembre 1946 - art. 46, v. init.
   - Loi n°47-1465 1947-08-08 ART. 32
   - Décret n°48-1986 1948-12-09 ART. 272 5 (LOI 48-1268 1948-08-17 ART. 5)
   - Décret n°53-934 du 30 septembre 1953 - art. 1, v. init.
   - Ordonnance n°58-1372 du 29 décembre 1958 - art. 10 ()
-  - CGI 1846 (AL. 1, AL. 2 1RE PHRASE, AL. 3 1RE PHRASE, 2EME PHRASE 1ER MEMBRE, AL. 4 1RE PHRASE)
-  - CGI 1917 (AL. 1 SAUF 1RE LIGNE, AL. 2, AL. 3 SAUF 1RE LIGNE)
 
 _Cité par_:
 
@@ -16150,18 +16967,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-  - Décret n°93-265 du 26 février 1993 - art. 14 () JORF 28 février 1993 en vigueur le 31 décembre 1992
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L199 (V)
-  - Livre des procédures fiscales - art. L252 (V)
+  - Livre des procédures fiscales - art. L199
+  - Livre des procédures fiscales - art. L252
 
 
 ###### Article L282
@@ -16195,12 +17006,21 @@ _Cité par_:
 
 ###### Article L283
 
-Lorsqu'il a été procédé, en vue du recouvrement de l'impôt, à une saisie mobilière et que la propriété de tout ou partie des
-biens saisis est revendiquée par une tierce personne, celle-ci peut s'opposer à la vente de ces biens en demandant leur
+Lorsqu'il a été procédé, en vue du recouvrement des impôts, taxes, redevances, amendes, condamnations pécuniaires et sommes
+quelconques dont la perception incombe aux comptables publics, à une saisie mobilière et que la propriété de tout ou partie
+des biens saisis est revendiquée par une tierce personne, celle-ci peut s'opposer à la vente de ces biens en demandant leur
 restitution. A défaut de décision de l'administration sur cette demande ou si la décision rendue ne donne pas satisfaction au
-demandeur, celui-ci peut assigner devant le juge de l'exécution (1), le comptable qui a fait procéder à la saisie.
+demandeur, celui-ci peut assigner devant le juge de l'exécution (1), le comptable qui a fait procéder à la saisie. Les
+dispositions du présent article ne sont pas applicables aux contestations des créances détenues par les établissements
+publics et les groupements d'intérêt public de l'Etat ainsi que par les autorités publiques indépendantes, dotés d'un agent
+comptable.
 
 (1) A compter du 1er janvier 1993.
+
+**Nota:**
+
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -16221,19 +17041,12 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 218 (V)
   - Livre des procédures fiscales - art. R*283-1 (VD)
 
-**Liens**:
-
-  - HISTO: Edition du 4 juillet 1992
-
 _Modifié par_:
 
-  - Loi n°91-650 1991-07-09 art. 87, art. 97 JORF 14 juillet 1991
-  - Loi n°91-650 du 9 juillet 1991 - art. 87 () JORF 14 juillet 1991
-  - Loi n°92-644 1992-07-13 art. 3, en vigueur le 1er janvier 1993
-  - Loi n°92-644 du 13 juillet 1992 - art. 3 ()
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 
-#### Chapitre IV : Assistance au recouvrement au sein de l'Union européenne<a id=174></a>
+#### Chapitre IV : Assistance au recouvrement au sein de l'Union européenne<a id=186></a>
 
 ###### Article L283 A
 
@@ -16495,9 +17308,9 @@ _Créé par_:
   - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
 
 
-### Titre V : Dispositions communes<a id=175></a>
+### Titre V : Dispositions communes<a id=187></a>
 
-#### Chapitre premier : Dispositions générales<a id=176></a>
+#### Chapitre premier : Dispositions générales<a id=188></a>
 
 ###### Article L284
 
@@ -16595,7 +17408,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 6 (V)
 
 
-#### Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques<a id=177></a>
+#### Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques<a id=189></a>
 
 ###### Article L287
 
@@ -16744,7 +17557,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1753 bis C (MMN)
 
 
-#### Chapitre III : Dispositions communautaires<a id=178></a>
+#### Chapitre III : Dispositions communautaires<a id=190></a>
 
 ###### Article L289
 
@@ -16768,15 +17581,15 @@ _Cité par_:
   - Livre des procédures fiscales - art. R289-1 (V)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=179></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=191></a>
 
-## Deuxième partie : Partie réglementaire, décrets<a id=180></a>
+## Deuxième partie : Partie réglementaire, décrets<a id=192></a>
 
-### Titre premier :<a id=181></a>
+### Titre premier :<a id=193></a>
 
-#### Chapitre premier :<a id=182></a>
+#### Chapitre premier :<a id=194></a>
 
-##### Section I :<a id=183></a>
+##### Section I :<a id=195></a>
 
 ###### Article R*1-1
 
@@ -16859,7 +17672,7 @@ En conséquence de l'article art. 33-II et V de la loi n° 2015-1786 du 29 déce
 
 
 
-##### Section II :<a id=184></a>
+##### Section II :<a id=196></a>
 
 ###### Article R*4-1
 
@@ -16883,11 +17696,11 @@ _Cite_:
   - Livre des procédures fiscales - art. L4
 
 
-### Titre II : Le contrôle de l'impôt<a id=185></a>
+### Titre II : Le contrôle de l'impôt<a id=197></a>
 
-#### Chapitre premier : Le droit de contrôle de l'administration<a id=186></a>
+#### Chapitre premier : Le droit de contrôle de l'administration<a id=198></a>
 
-##### Section I : Dispositions générales<a id=187></a>
+##### Section I : Dispositions générales<a id=199></a>
 
 ###### Article R*11 A-1
 
@@ -16931,7 +17744,7 @@ _Créé par_:
   - Décret n°2015-609 du 3 juin 2015 - art. 2
 
 
-##### 2° : Dispositions relatives aux vérifications des comptabilités<a id=188></a>
+##### 2° : Dispositions relatives aux vérifications des comptabilités<a id=200></a>
 
 ###### Article R*13-1
 
@@ -17164,7 +17977,7 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS, CGI. - art. 286 (M)
 
 
-##### 3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant<a id=189></a>
+##### 3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant<a id=201></a>
 
 ###### Article R*14 A-1
 
@@ -17224,9 +18037,9 @@ _Cite_:
   - Livre des procédures fiscales - art. L14 A
 
 
-##### Section II : Dispositions particulières à certains impôts<a id=190></a>
+##### Section II : Dispositions particulières à certains impôts<a id=202></a>
 
-##### I bis : Dispositions particulières à l'impôt sur le revenu ou sur les bénéfices et à la taxe sur la valeur ajoutée<a id=191></a>
+##### I bis : Dispositions particulières à l'impôt sur le revenu ou sur les bénéfices et à la taxe sur la valeur ajoutée<a id=203></a>
 
 ###### Article R*16-0 BA-1
 
@@ -17262,11 +18075,11 @@ _Cite_:
   - Livre des procédures fiscales - art. L16 B
 
 
-##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à l'impôt sur la fortune immobilière et à la taxe sur la valeur vénale des immeubles possédés en France par des personnes morales<a id=192></a>
+##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à l'impôt sur la fortune immobilière et à la taxe sur la valeur vénale des immeubles possédés en France par des personnes morales<a id=204></a>
 
-##### A : Droits d'enregistrement et taxe de publicité foncière<a id=193></a>
+##### A : Droits d'enregistrement et taxe de publicité foncière<a id=205></a>
 
-##### 2° : Rescrit fiscal en matière de donation d'entreprise<a id=194></a>
+##### 2° : Rescrit fiscal en matière de donation d'entreprise<a id=206></a>
 
 ###### Article R*18-1
 
@@ -17321,7 +18134,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L18
 
 
-##### 3° : Contrôle des déclarations de succession<a id=195></a>
+##### 3° : Contrôle des déclarations de succession<a id=207></a>
 
 ###### Article R*19-1
 
@@ -17363,7 +18176,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L19 (V)
 
 
-##### C : Taxe sur la valeur vénale des immeubles possédés en France par des entités juridiques<a id=196></a>
+##### C : Taxe sur la valeur vénale des immeubles possédés en France par des entités juridiques<a id=208></a>
 
 ###### Article R23 B-1
 
@@ -17391,9 +18204,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 990 F
 
 
-##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=197></a>
+##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=209></a>
 
-##### A : Contrôle à la circulation<a id=198></a>
+##### A : Contrôle à la circulation<a id=210></a>
 
 ###### Article R24-2
 
@@ -17440,9 +18253,9 @@ _Cite_:
   - Livre des procédures fiscales - art. L24
 
 
-##### B : Contrôle sur les lieux d'exercice d'activité<a id=199></a>
+##### B : Contrôle sur les lieux d'exercice d'activité<a id=211></a>
 
-##### 1 : Contributions indirectes<a id=200></a>
+##### 1 : Contributions indirectes<a id=212></a>
 
 ###### Article R*26-1
 
@@ -17706,7 +18519,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L34 (V)
 
 
-##### Section III : Modalités d'exercice du droit de contrôle<a id=201></a>
+##### Section III : Modalités d'exercice du droit de contrôle<a id=213></a>
 
 ###### Article R*45 F-1
 
@@ -18018,9 +18831,9 @@ _Cite_:
   - Livre des procédures fiscales - art. L45 G
 
 
-##### Section IV : Procédures de rectification<a id=202></a>
+##### Section IV : Procédures de rectification<a id=214></a>
 
-##### I : Procédure de rectification contradictoire<a id=203></a>
+##### I : Procédure de rectification contradictoire<a id=215></a>
 
 ###### Article R*57-1
 
@@ -18317,7 +19130,7 @@ _Cité par_:
   - Décret n°2017-1561 du 13 novembre 2017 - art. 2 (V)
 
 
-##### III : Procédure spéciale de l'article 168 du code général des impôts<a id=204></a>
+##### III : Procédure spéciale de l'article 168 du code général des impôts<a id=216></a>
 
 ###### Article R*63-1
 
@@ -18339,7 +19152,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L63
 
 
-##### IV : Procédure de l'abus de droit fiscal<a id=205></a>
+##### IV : Procédure de l'abus de droit fiscal<a id=217></a>
 
 ###### Article R*64-1
 
@@ -18382,11 +19195,11 @@ _Cite_:
   - Livre des procédures fiscales - art. L64 (V)
 
 
-##### Section V : Procédures d'imposition d'office<a id=206></a>
+##### Section V : Procédures d'imposition d'office<a id=218></a>
 
-##### I : Taxation d'office<a id=207></a>
+##### I : Taxation d'office<a id=219></a>
 
-##### C. En cas de défaut de justifications de l'origine et des modalités d'acquisition des avoirs à l'étranger<a id=208></a>
+##### C. En cas de défaut de justifications de l'origine et des modalités d'acquisition des avoirs à l'étranger<a id=220></a>
 
 ###### Article R* 71-1
 
@@ -18404,7 +19217,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L71
 
 
-##### IV : Notification et suite des impositions d'office<a id=209></a>
+##### IV : Notification et suite des impositions d'office<a id=221></a>
 
 ###### Article R*76 AA-1
 
@@ -18422,7 +19235,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L76 A bis
 
 
-##### Section VI : Conséquences et limites des procédures de rectification<a id=210></a>
+##### Section VI : Conséquences et limites des procédures de rectification<a id=222></a>
 
 ###### Article R*80 B-1
 
@@ -19202,7 +20015,7 @@ _Cite_:
   - Livre des procédures fiscales - art. R*80 CB-3 (V)
 
 
-##### Section VII : Sanctions fiscales<a id=211></a>
+##### Section VII : Sanctions fiscales<a id=223></a>
 
 ###### Article R80 E-1
 
@@ -19220,7 +20033,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L80 E
 
 
-#### Chapitre I bis : Le droit d'enquête<a id=212></a>
+#### Chapitre I bis : Le droit d'enquête<a id=224></a>
 
 ###### Article R80 F-1
 
@@ -19294,7 +20107,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L102 B (VD)
 
 
-#### Chapitre I ter : Le droit de contrôle des entrepôts<a id=213></a>
+#### Chapitre I ter : Le droit de contrôle des entrepôts<a id=225></a>
 
 ###### Article R80 K-1
 
@@ -19322,7 +20135,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L80 K
 
 
-#### Chapitre II : Le droit de communication<a id=214></a>
+#### Chapitre II : Le droit de communication<a id=226></a>
 
 ###### Article R*81 A-1
 
@@ -19479,9 +20292,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*81-1
 
 
-##### Section I : Conditions d'exercice du droit de communication<a id=215></a>
+##### Section I : Conditions d'exercice du droit de communication<a id=227></a>
 
-##### 6° : Personnes ayant la qualité de commerçant.<a id=216></a>
+##### 6° : Personnes ayant la qualité de commerçant.<a id=228></a>
 
 ###### Article R*85-1
 
@@ -19508,7 +20321,7 @@ _Modifié par_:
   - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er JANVIER 1982
 
 
-##### 9° : Institutions et organismes versant des rémunérations ou répartissant des fonds<a id=217></a>
+##### 9° : Institutions et organismes versant des rémunérations ou répartissant des fonds<a id=229></a>
 
 ###### Article R87-1
 
@@ -19589,7 +20402,7 @@ _Cite_:
   - Livre des procédures fiscales - art. R87-1 (V)
 
 
-##### 18° : Opérations de transfert de fonds à l'étranger<a id=218></a>
+##### 18° : Opérations de transfert de fonds à l'étranger<a id=230></a>
 
 ###### Article R* 96 A-1
 
@@ -19612,7 +20425,7 @@ _Cite_:
   - Code monétaire et financier - art. R152-10 (V)
 
 
-##### 20° : Intermédiaires pour les instruments financiers à terme<a id=219></a>
+##### 20° : Intermédiaires pour les instruments financiers à terme<a id=231></a>
 
 ###### Article R96 CA-1
 
@@ -19639,7 +20452,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 92 (V)
 
 
-##### 21° : Organisme gestionnaire d'un plan d'épargne en actions<a id=220></a>
+##### 21° : Organisme gestionnaire d'un plan d'épargne en actions<a id=232></a>
 
 ###### Article R96 D-1
 
@@ -19673,7 +20486,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater I (V)
 
 
-##### 22° : Etablissements diffuseurs ou distributeurs de services payants de programme de télévision<a id=221></a>
+##### 22° : Etablissements diffuseurs ou distributeurs de services payants de programme de télévision<a id=233></a>
 
 ###### Article R*96 E-1
 
@@ -19692,7 +20505,7 @@ _Cite_:
   - Livre des procédures fiscales - art. R*81-1 (V)
 
 
-##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=222></a>
+##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=234></a>
 
 ###### Article R*97-1
 
@@ -20094,7 +20907,7 @@ _Créé par_:
   - Décret n°2018-569 du 3 juillet 2018 - art. 1
 
 
-#### Chapitre II bis : Obligation et délais de conservation des documents<a id=223></a>
+#### Chapitre II bis : Obligation et délais de conservation des documents<a id=235></a>
 
 ###### Article R*102 C-1
 
@@ -20127,9 +20940,9 @@ _Cite_:
   - Livre des procédures fiscales - art. L102 C
 
 
-#### Chapitre III : Le secret professionnel en matière fiscale<a id=224></a>
+#### Chapitre III : Le secret professionnel en matière fiscale<a id=236></a>
 
-##### Section I : Portée et limites de la règle du secret professionnel<a id=225></a>
+##### Section I : Portée et limites de la règle du secret professionnel<a id=237></a>
 
 ###### Article R*103-1
 
@@ -20153,7 +20966,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L103 (V)
 
 
-##### 1° : Délivrance de documents aux contribuables<a id=226></a>
+##### 1° : Délivrance de documents aux contribuables<a id=238></a>
 
 ###### Article R* 107 A-1
 
@@ -20485,7 +21298,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L109 (V)
 
 
-##### 2° : Publicité de l'impôt<a id=227></a>
+##### 2° : Publicité de l'impôt<a id=239></a>
 
 ###### Article R111-1
 
@@ -20572,7 +21385,7 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### 3° : Ouverture des données foncières<a id=228></a>
+##### 3° : Ouverture des données foncières<a id=240></a>
 
 ###### Article R*112 A-1
 
@@ -20640,7 +21453,7 @@ _Créé par_:
   - Décret n°2018-1350 du 28 décembre 2018 - art. 1
 
 
-##### Section II : Dérogations à la règle du secret professionnel<a id=229></a>
+##### Section II : Dérogations à la règle du secret professionnel<a id=241></a>
 
 ###### Article R*113-1
 
@@ -20660,7 +21473,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L114 (V)
 
 
-##### I : Dérogations en matière d'assistance fiscale internationale<a id=230></a>
+##### I : Dérogations en matière d'assistance fiscale internationale<a id=242></a>
 
 ###### Article R*114 A-1
 
@@ -20774,7 +21587,7 @@ _Modifié par_:
   - Décret n°2013-464 du 3 juin 2013 - art. 2
 
 
-##### II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics et au profit de tiers<a id=231></a>
+##### II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics et au profit de tiers<a id=243></a>
 
 ###### Article R*135 B-1
 
@@ -21215,7 +22028,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L135 ZG (V)
 
 
-##### IV : Dérogations au profit des autorités judiciaires et des juridictions<a id=232></a>
+##### IV : Dérogations au profit des autorités judiciaires et des juridictions<a id=244></a>
 
 ###### Article R145 A-1
 
@@ -21238,7 +22051,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L145 A
 
 
-##### VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale<a id=233></a>
+##### VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale<a id=245></a>
 
 ###### Article R*152-1
 
@@ -21415,9 +22228,9 @@ _Cite_:
   - Code de la sécurité sociale. - art. L243-7
 
 
-#### Chapitre IV : Les délais de prescription<a id=234></a>
+#### Chapitre IV : Les délais de prescription<a id=246></a>
 
-##### Section III : Contributions indirectes<a id=235></a>
+##### Section III : Contributions indirectes<a id=247></a>
 
 ###### Article R*178-1
 
@@ -21436,9 +22249,9 @@ _Modifié par_:
   - Décret n°93-311 du 9 mars 1993 - art. 7 () JORF 11 mars 1993
 
 
-### Titre III : Le contentieux de l'impôt<a id=236></a>
+### Titre III : Le contentieux de l'impôt<a id=248></a>
 
-#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=237></a>
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=249></a>
 
 ###### Article R*190-1
 
@@ -21535,7 +22348,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L190
 
 
-##### Charge et administration de la preuve<a id=238></a>
+##### Charge et administration de la preuve<a id=250></a>
 
 ###### Article R*191-1
 
@@ -21628,9 +22441,9 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### Section I : Procédure préalable auprès de l'administration<a id=239></a>
+##### Section I : Procédure préalable auprès de l'administration<a id=251></a>
 
-##### I : Délais de réclamation<a id=240></a>
+##### I : Délais de réclamation<a id=252></a>
 
 ###### Article R*196-1
 
@@ -21849,7 +22662,7 @@ _Modifié par_:
   - Décret n°93-1095 du 16 septembre 1993 - art. 2 () JORF 18 septembre 1992
 
 
-##### II : Forme et contenu des réclamations<a id=241></a>
+##### II : Forme et contenu des réclamations<a id=253></a>
 
 ###### Article R*197-1
 
@@ -21995,7 +22808,7 @@ _Modifié par_:
   - Décret n°93-1095 du 16 septembre 1993 - art. 2 () JORF 18 septembre 1992
 
 
-##### III : Instruction des réclamations<a id=242></a>
+##### III : Instruction des réclamations<a id=254></a>
 
 ###### Article R*198-1
 
@@ -22181,9 +22994,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*190-1
 
 
-##### Section II : Procédure devant les tribunaux<a id=243></a>
+##### Section II : Procédure devant les tribunaux<a id=255></a>
 
-##### I : Tribunaux compétents<a id=244></a>
+##### I : Tribunaux compétents<a id=256></a>
 
 ###### Article R*199-1
 
@@ -22231,9 +23044,9 @@ _Codifié par_:
   - Décret n°2001-436 2001-05-21
 
 
-##### II : Règles de procédure<a id=245></a>
+##### II : Règles de procédure<a id=257></a>
 
-##### B : Procédure devant le tribunal administratif, la cour administrative d'appel et le Conseil d'Etat<a id=246></a>
+##### B : Procédure devant le tribunal administratif, la cour administrative d'appel et le Conseil d'Etat<a id=258></a>
 
 ###### Article R*200-1
 
@@ -22493,7 +23306,7 @@ _Modifié par_:
   - Décret n°2016-766 du 9 juin 2016 - art. 2
 
 
-##### C : Procédure devant le tribunal de grande instance et la cour d'appel<a id=247></a>
+##### C : Procédure devant le tribunal de grande instance et la cour d'appel<a id=259></a>
 
 ###### Article R*202-1
 
@@ -22657,7 +23470,7 @@ _Cite_:
   - Livre des procédures fiscales - art. R*202-4
 
 
-##### Section III : Compensations<a id=248></a>
+##### Section III : Compensations<a id=260></a>
 
 ###### Article R*203-1
 
@@ -22680,7 +23493,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L203 (V)
 
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=249></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=261></a>
 
 ###### Article R*207-1
 
@@ -22950,7 +23763,7 @@ _Modifié par_:
   - Loi n°93-1352 1993-12-29 art. 85 I IV Finances pour 1994, JORF 30 décembre 1993
 
 
-##### Section V : Dégrèvements d'office<a id=250></a>
+##### Section V : Dégrèvements d'office<a id=262></a>
 
 ###### Article R*211-1
 
@@ -23015,11 +23828,11 @@ _Cite_:
   - Livre des procédures fiscales - art. R*211-1
 
 
-#### Chapitre II : Les procédures pénales<a id=251></a>
+#### Chapitre II : Les procédures pénales<a id=263></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=252></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=264></a>
 
-##### II : Agents compétents pour constater les infractions par procès-verbal<a id=253></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal<a id=265></a>
 
 ###### Article R*213-3
 
@@ -23090,7 +23903,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L214
 
 
-##### III : Rédaction des procès-verbaux<a id=254></a>
+##### III : Rédaction des procès-verbaux<a id=266></a>
 
 ###### Article R*226-1
 
@@ -23160,9 +23973,9 @@ _Codifié par_:
   - Décret n°81-860 1981-09-15
 
 
-##### Section II : Exercice des poursuites pénales<a id=255></a>
+##### Section II : Exercice des poursuites pénales<a id=267></a>
 
-##### I : Dispositions communes<a id=256></a>
+##### I : Dispositions communes<a id=268></a>
 
 ###### Article R*228-1
 
@@ -23313,7 +24126,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L228
 
 
-##### III : Dispositions particulières aux contributions indirectes<a id=257></a>
+##### III : Dispositions particulières aux contributions indirectes<a id=269></a>
 
 ###### Article R235-1
 
@@ -23407,7 +24220,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L238
 
 
-#### Chapitre III : Les remises et transactions à titre gracieux<a id=258></a>
+#### Chapitre III : Les remises et transactions à titre gracieux<a id=270></a>
 
 ###### Article R*247 A-1
 
@@ -23833,11 +24646,11 @@ _Modifié par_:
   - Décret n°2013-443 du 30 mai 2013 - art. 8
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=259></a>
+### Titre IV : Le recouvrement de l'impôt<a id=271></a>
 
-#### Chapitre premier : Les procédures de recouvrement<a id=260></a>
+#### Chapitre premier : Les procédures de recouvrement<a id=272></a>
 
-##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=261></a>
+##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=273></a>
 
 ###### Article R*256-1
 
@@ -24141,7 +24954,7 @@ _Cite_:
   - Livre des procédures fiscales - art. R*281-1
 
 
-##### Section II : Exercice des poursuites<a id=262></a>
+##### Section II : Exercice des poursuites<a id=274></a>
 
 ###### Article R*260 A-1
 
@@ -24171,9 +24984,9 @@ _Créé par_:
   - Décret n°2014-931 du 19 août 2014 - art. 2
 
 
-##### Section III : Mesures particulières<a id=263></a>
+##### Section III : Mesures particulières<a id=275></a>
 
-##### 4° : Responsabilité des dirigeants et gérants de sociétés<a id=264></a>
+##### 4° : Responsabilité des dirigeants et gérants de sociétés<a id=276></a>
 
 ###### Article R*267-1
 
@@ -24197,7 +25010,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L267
 
 
-##### 5° : Vente de fonds de commerce<a id=265></a>
+##### 5° : Vente de fonds de commerce<a id=277></a>
 
 ###### Article R268-1
 
@@ -24220,7 +25033,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L268
 
 
-##### 12° : Entrepreneur individuel à responsabilité limitée<a id=266></a>
+##### 12° : Entrepreneur individuel à responsabilité limitée<a id=278></a>
 
 ###### Article R*273 B-1
 
@@ -24239,7 +25052,7 @@ _Cite_:
   - Code de procédure civile - art. 788
 
 
-#### Chapitre II : Le sursis de paiement<a id=267></a>
+#### Chapitre II : Le sursis de paiement<a id=279></a>
 
 ###### Article R*277-1
 
@@ -24405,22 +25218,23 @@ _Modifié par_:
   - Décret n°2009-986 du 20 août 2009 - art. 4
 
 
-#### Chapitre III : Le contentieux du recouvrement<a id=268></a>
+#### Chapitre III : Le contentieux du recouvrement<a id=280></a>
 
 ###### Article R*281-1
 
 Les contestations relatives au recouvrement prévues par l'article L. 281 peuvent être formulées par le redevable lui-même ou
-la personne solidaire.
+la personne tenue solidairement ou conjointement.
 
-Elles font l'objet d'une demande qui doit être adressée, appuyée de toutes les justifications utiles, en premier lieu, au
-chef du service du département ou de la région dans lesquels est effectuée la poursuite. Le chef de service compétent est :
+Elles font l'objet d'une demande qui doit être adressée, appuyée de toutes les justifications utiles, au chef de service
+compétent suivant :
 
-a) Le directeur départemental des finances publiques ou le responsable du service à compétence nationale si le recouvrement
-incombe à un comptable de la direction générale des finances publiques ;
+a) Le directeur départemental ou régional des finances publiques du département dans lequel a été prise la décision d'engager
+la poursuiteou le responsable du service à compétence nationale si le recouvrement incombe à un comptable de la direction
+générale des finances publiques ;
 
-b) Le directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, le
-directeur régional des douanes et droits indirects, si le recouvrement incombe à un comptable de la direction générale des
-douanes et droits indirects.
+b) Le directeur interrégional des douanes et droits indirects ou le responsable du service des douanes à compétence nationale
+ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, le directeur régional des douanes et droits indirects pour les
+poursuites émises dans leur ressort territorial.
 
 **Liens relatifs à cet article**
 
@@ -24429,7 +25243,7 @@ _Cité par_:
   - Arrêté du 28 mars 2011 (V)
   - Décret n°2018-969 du 8 novembre 2018 (V)
   - Décret n°2018-970 du 8 novembre 2018 (V)
-  - Livre des procédures fiscales - art. R*281-3-1 (V)
+  - Livre des procédures fiscales - art. R*281-3-1 (VD)
   - Livre des procédures fiscales - art. R257 B-1 (V)
 
 _Anciens textes_:
@@ -24439,7 +25253,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2016-935 du 7 juillet 2016 - art. 10
+  - Décret n°2018-970 du 8 novembre 2018 - art. 1
 
 _Cite_:
 
@@ -24448,47 +25262,52 @@ _Cite_:
 
 ###### Article R*281-3-1
 
-La demande prévue à l'article R. * 281-1 doit, sous peine d'irrecevabilité, être présentée, selon le cas, au directeur
-départemental des finances publiques, au responsable du service à compétence nationale ou au directeur interrégional des
-douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, au directeur régional des douanes et
-droits indirects dans un délai de deux mois à partir de la notification : 
+La demande prévue à l'article R. * 281-1 doit, sous peine d'irrecevabilité, être présentée dans un délai de deux mois à
+partir de la notification :
 
-a) De l'acte de poursuite dont la régularité en la forme est contestée ; 
+a) De l'acte de poursuite dont la régularité en la forme est contestée ;
 
-b) De tout acte de poursuite si le motif invoqué porte sur l'obligation de payer ou le montant de la dette ; 
+b) A l'exclusion des amendes et condamnations pécuniaires, de tout acte de poursuite si le motif invoqué porte sur
+l'obligation au paiement ou sur le montant de la dette ;
 
-c) Du premier acte de poursuite permettant d'invoquer tout autre motif.
+c) A l'exclusion des amendes et condamnations pécuniaires, du premier acte de poursuite permettant de contester l'exigibilité
+de la somme réclamée.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-935 du 7 juillet 2016 - art. 10
 
 _Cité par_:
 
   - Décret n°2018-970 du 8 novembre 2018 (V)
   - Code général des impôts, CGI. - art. 1723 terdecies (Ab)
 
+_Modifié par_:
+
+  - Décret n°2018-970 du 8 novembre 2018 - art. 1
+
 _Cite_:
 
-  - Livre des procédures fiscales - art. R*281-1
+  - Livre des procédures fiscales - art. R*281-1 (VD)
 
 
 ###### Article R*281-4
 
-Le chef de service se prononce dans un délai de deux mois à partir du dépôt de la demande, dont il doit accuser réception. 
+Le chef de service ou l'ordonnateur mentionné au deuxième alinéa de l'article L. 281 se prononce dans un délai de deux mois à
+partir du dépôt de la demande, dont il doit accuser réception.
 
-Si aucune décision n'a été prise dans ce délai ou si la décision rendue ne lui donne pas satisfaction, le redevable doit, à
-peine de forclusion, porter l'affaire devant le juge compétent tel qu'il est défini à l'article L. 281. Il dispose pour cela
-de deux mois à partir : 
+Pour les créances des collectivités territoriales, de leurs établissements publics et des établissements publics de santé, le
+chef de service se prononce après avis du comptable assignataire à l'origine de l'acte.
 
-a) soit de la notification de la décision du chef de service ; 
+Si aucune décision n'a été prise dans ce délai ou si la décision rendue ne lui donne pas satisfaction, le redevable ou la
+personne tenue solidairement ou conjointement doit, à peine de forclusion, porter l'affaire devant le juge compétent tel
+qu'il est défini à l'article L. 281. Il dispose pour cela de deux mois à partir :
 
-b) soit de l'expiration du délai de deux mois accordé au chef de service pour prendre sa décision. 
+a) soit de la notification de la décision du chef de service ou de l'ordonnateur mentionné au deuxième alinéa de l'article L.
+281 ;
 
-La procédure ne peut, à peine d'irrecevabilité, être engagée avant ces dates. Elle doit être dirigée contre le comptable
-chargé du recouvrement.
+b) soit de l'expiration du délai de deux mois accordé au chef de service ou à l'ordonnateur mentionné au deuxième alinéa de
+l'article L. 281 pour prendre sa décision.
+
+La procédure ne peut, à peine d'irrecevabilité, être engagée avant ces dates.
 
 **Liens relatifs à cet article**
 
@@ -24500,21 +25319,21 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°92-837 1992-08-27
+  - Décret n°92-837 du 27 août 1992
 
 _Cité par_:
 
   - Décret n°2018-970 du 8 novembre 2018 (V)
   - Code général des impôts, CGI. - art. 1723 terdecies (Ab)
-  - Livre des procédures fiscales - art. R*283-1 (V)
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L281 (V)
+  - Livre des procédures fiscales - art. R*283-1 (VD)
 
 _Modifié par_:
 
-  - Loi n°91-650 1991-07-07 art. 87, art. 97 JORF 14 juillet 1991, en vigueur le 1er août 1992
+  - Décret n°2018-970 du 8 novembre 2018 - art. 1
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L281
 
 
 ###### Article R*281-5
@@ -24571,14 +25390,15 @@ _Cite_:
 
 ###### Article R*283-1
 
-La demande en revendication d'objets saisis prévue par l'article L 283 est adressée, suivant le cas, au directeur
-départemental des finances publiques ou au responsable du service à compétence nationale, ou au directeur interrégional des
-douanes et droits indirects de la région dans laquelle a été pratiquée la saisie ou, en Guadeloupe, en Guyane, à La Réunion
-et à Mayotte, au directeur régional des douanes et droits indirects. Elle doit, sous peine d'irrecevabilité, être présentée
-dans un délai de deux mois à partir de la date à laquelle la personne qui revendique les objets a eu connaissance de la
-saisie.
+La demande en revendication d'objet saisis prévue par l'article L. 283 est adressée, suivant le cas, au directeur
+départemental ou régional des finances publiques du département dans lequel a été prise la décision de pratiquer la saisie ou
+au responsable du service à compétence nationale, ou au directeur interrégional des douanes et droits indirects, au
+responsable du service des douanes à compétence nationale ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, au
+directeur régional des douanes et droits indirects, pour les poursuites émises dans leur ressort territorial. Elle doit, sous
+peine d'irrecevabilité, être présentée dans un délai de deux mois à partir de la date à laquelle la personne qui revendique
+les objets a eu connaissance de la saisie.
 
-La demande reçoit une suite dans les conditions prévues aux articles R 281-4 et R 281-5. 
+La demande reçoit une suite dans les conditions prévues aux articles R 281-4 et R 281-5.
 
 Le dépôt d'une demande en revendication d'objets saisis suspend de plein droit les poursuites sur les biens saisis dont la
 propriété est discutée.
@@ -24589,23 +25409,23 @@ _Anciens textes_:
 
   - CGI 1910 (AL. 1 SAUF LES 3 PREMIERES LIGNES, AL. 2 1ère PHRASE, 2ème PHRASE SAUF P. DU 1er MEMBRE DE PHRASE, 3ème PHRASE, 4ème PHRASE)
 
-_Modifié par_:
-
-  - Décret n°2016-935 du 7 juillet 2016 - art. 10
-
 _Cité par_:
 
   - Décret n°2018-970 du 8 novembre 2018 (V)
   - Code général de la propriété des personnes publ... - art. R2323-5 (V)
 
+_Modifié par_:
+
+  - Décret n°2018-970 du 8 novembre 2018 - art. 1
+
 _Cite_:
 
   - Livre des procédures fiscales - art. L283
-  - Livre des procédures fiscales - art. R*281-4
+  - Livre des procédures fiscales - art. R*281-4 (VD)
   - Livre des procédures fiscales - art. R*281-5
 
 
-#### Chapitre IV : Assistance au recouvrement au sein de l'Union européenne<a id=269></a>
+#### Chapitre IV : Assistance au recouvrement au sein de l'Union européenne<a id=281></a>
 
 ###### Article R283 A-1
 
@@ -24909,9 +25729,9 @@ _Créé par_:
   - Décret n°2012-417 du 28 mars 2012 - art. 1
 
 
-### Titre V : Dispositions communes<a id=270></a>
+### Titre V : Dispositions communes<a id=282></a>
 
-#### Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques<a id=271></a>
+#### Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques<a id=283></a>
 
 ###### Article R*287-1
 
@@ -25054,7 +25874,7 @@ _Cite_:
   - Code de procédure civile - art. 760
 
 
-#### Chapitre III : Dispositions communautaires<a id=272></a>
+#### Chapitre III : Dispositions communautaires<a id=284></a>
 
 ###### Article R289-1
 
@@ -25085,17 +25905,17 @@ _Créé par_:
   - Décret n°2006-1042 du 24 août 2006 - art. 1 () JORF 25 août 2006
 
 
-# Partie réglementaire - Arrêtés<a id=273></a>
+# Partie réglementaire - Arrêtés<a id=285></a>
 
-## Troisième partie : Partie réglementaire, arrêtés<a id=274></a>
+## Troisième partie : Partie réglementaire, arrêtés<a id=286></a>
 
-### Titre II : Le contrôle de l'impôt<a id=275></a>
+### Titre II : Le contrôle de l'impôt<a id=287></a>
 
-#### Chapitre premier : Le droit de contrôle de l'administration<a id=276></a>
+#### Chapitre premier : Le droit de contrôle de l'administration<a id=288></a>
 
-##### Section I : Dispositions générales<a id=277></a>
+##### Section I : Dispositions générales<a id=289></a>
 
-##### 2 quater : Dispositions relatives aux copies de documents<a id=278></a>
+##### 2 quater : Dispositions relatives aux copies de documents<a id=290></a>
 
 ###### Article A13 F-1
 
@@ -25136,13 +25956,13 @@ _Cite_:
   - Livre des procédures fiscales - art. R*196-3
 
 
-##### Section II : Dispositions particulières à certains impôts<a id=279></a>
+##### Section II : Dispositions particulières à certains impôts<a id=291></a>
 
-##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=280></a>
+##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=292></a>
 
-##### B : Contrôle sur les lieux d'exercice de l'activité<a id=281></a>
+##### B : Contrôle sur les lieux d'exercice de l'activité<a id=293></a>
 
-##### 1 : Contributions indirectes<a id=282></a>
+##### 1 : Contributions indirectes<a id=294></a>
 
 ###### Article A26-1
 
@@ -25251,7 +26071,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 153 (V)
 
 
-##### Dispositions applicables dans les départements d'outre-mer.<a id=283></a>
+##### Dispositions applicables dans les départements d'outre-mer.<a id=295></a>
 
 ###### Article A27-1
 
@@ -25275,7 +26095,7 @@ _Anciens textes_:
   - CGIAN4 56 D ter
 
 
-##### 2 : Droits de timbre<a id=284></a>
+##### 2 : Droits de timbre<a id=296></a>
 
 ###### Article A37-1
 
@@ -25309,7 +26129,7 @@ _Modifié par_:
   - Loi n°2006-1771 du 30 décembre 2006 - art. 139 (V) JORF 31 décembre 2006
 
 
-##### Section III : Modalités d'exercice du droit de contrôle<a id=285></a>
+##### Section III : Modalités d'exercice du droit de contrôle<a id=297></a>
 
 ###### Article A47 A-1
 
@@ -26127,7 +26947,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L47 AA
 
 
-##### Section VI : Conséquences et limites des procédures de rectification<a id=286></a>
+##### Section VI : Conséquences et limites des procédures de rectification<a id=298></a>
 
 ###### Article A80 CB-3-1
 
@@ -26334,9 +27154,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*80 CB-6
 
 
-#### Chapitre II : Le droit de communication<a id=287></a>
+#### Chapitre II : Le droit de communication<a id=299></a>
 
-##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=288></a>
+##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=300></a>
 
 ###### Article A97-1
 
@@ -26407,7 +27227,7 @@ _Anciens textes_:
   - CGIAN4 211
 
 
-#### Chapitre II bis : Obligation et délais de conservation des documents<a id=289></a>
+#### Chapitre II bis : Obligation et délais de conservation des documents<a id=301></a>
 
 ###### Article A102 B-1
 
@@ -26483,11 +27303,11 @@ _Créé par_:
   - Arrêté du 22 mars 2017 - art. 1
 
 
-### Titre III : Le contentieux de l'impôt<a id=290></a>
+### Titre III : Le contentieux de l'impôt<a id=302></a>
 
-#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=291></a>
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=303></a>
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=292></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=304></a>
 
 ###### Article A208-1
 
@@ -26506,11 +27326,11 @@ _Cite_:
   - Livre des procédures fiscales - art. R*208-4 (V)
 
 
-#### Chapitre II : Les procédures pénales<a id=293></a>
+#### Chapitre II : Les procédures pénales<a id=305></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=294></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=306></a>
 
-##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=295></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=307></a>
 
 ###### Article A225 A-1
 
@@ -26539,7 +27359,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L225 A
 
 
-##### Section II : Exercice des poursuites pénales<a id=296></a>
+##### Section II : Exercice des poursuites pénales<a id=308></a>
 
 ###### Article A228-1
 
@@ -26559,9 +27379,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*228-1
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=297></a>
+### Titre IV : Le recouvrement de l'impôt<a id=309></a>
 
-#### Chapitre II : Le sursis de paiement<a id=298></a>
+#### Chapitre II : Le sursis de paiement<a id=310></a>
 
 ###### Article A277-1
 
