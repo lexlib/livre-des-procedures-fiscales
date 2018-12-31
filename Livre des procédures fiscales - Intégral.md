@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2018-12-01
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -160,8 +160,8 @@ Version Consolidée au 2018-12-01
           - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. L253 à L257-0 B)](#157)
           - [Section II : Exercice des poursuites (art. L258 A à L260)](#158)
           - [Section III : Mesures particulières (art. L262 à L273 B)](#159)
-            - [1° : Avis à tiers détenteur (art. L262 à L263-0 A)](#160)
-            - [1° bis : Avis de saisie en matière de contributions indirectes (art. L263 B)](#161)
+            - [1° : Saisie administrative à tiers détenteur (art. L262)](#160)
+            - [1° bis : Saisie administrative à tiers détenteur en matière de contributions indirectes (art. L263 B)](#161)
             - [2° : Rémunérations du travail (art. L264)](#162)
             - [3° : Obligations des dépositaires publics de fonds (art. L265)](#163)
             - [4° : Responsabilité des dirigeants et gérants de sociétés (art. L267)](#164)
@@ -6360,10 +6360,7 @@ _Modifié par_:
 Les administrations de l'Etat, des départements et des communes, les entreprises concédées ou contrôlées par l'Etat, les
 départements et les communes, ainsi que les établissements ou organismes de toute nature soumis au contrôle de l'autorité
 administrative, doivent communiquer à l'administration, sur sa demande, les documents de service qu'ils détiennent sans
-pouvoir opposer le secret professionnel, y compris les données conservées et traitées par les opérateurs de communications
-électroniques dans le cadre de l'article L. 34-1 du code des postes et des communications électroniques et les prestataires
-mentionnés aux articles aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
-l'économie numérique.
+pouvoir opposer le secret professionnel.
 
 **Liens relatifs à cet article**
 
@@ -6371,13 +6368,13 @@ _Cité par_:
 
   - Arrêté du 21 août 1995 - art. 4 (V)
   - Arrêté du 8 mars 1996 - art. 5 (M)
-  - Décret n°99-1090 du 21 décembre 1999 - art. 5 (V)
   - Code monétaire et financier - art. L561-14-2 (V)
   - Code monétaire et financier - art. L563-2 (V)
   - Code monétaire et financier - art. L711-18 (V)
   - Code monétaire et financier - art. L725-3 (V)
   - Code monétaire et financier - art. L745-13 (MMN)
   - Code monétaire et financier - art. L755-13 (MMN)
+  - Décret n°99-1090 du 21 décembre 1999 - art. 5 (V)
   - Livre des procédures fiscales - art. L81 (V)
   - Livre des procédures fiscales - art. L84 (V)
   - Livre des procédures fiscales - art. R81-5 (V)
@@ -6385,22 +6382,22 @@ _Cité par_:
 _Anciens textes_:
 
   - CGI 1987 (al. 1)
-  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
   - Décret n°1948-12-09 art. 2126
   - Décret n°71-290 1971-04-15 art. 5
   - Loi n°1920-07-31 art. 31
   - Loi n°1933-02-28 art. 38
   - Loi n°1941-01-13 annexe I art. 151
   - Loi n°45-195 1945-12-31 art. 30
-
-_Cite_:
-
-  - Loi n°2004-575 du 21 juin 2004 - art. 6 (VT)
-  - Code des postes et des communications électroni... - art. L34-1 (V)
+  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 98 (V) JORF 31 décembre 2005
+  - Loi n°2018-898 du 23 octobre 2018 - art. 15 (V)
+
+_Cite_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 6
+  - Code des postes et des communications électroniques - art. L34-1
 
 
 ###### Article L83 A
@@ -7182,22 +7179,31 @@ _Cite_:
 
 ###### Article L96 G
 
-Les agents des impôts peuvent se faire communiquer les données conservées et traitées par les opérateurs de communications
-électroniques dans le cadre de l'article L. 34-1 du code des postes et des communications électroniques et par les
-prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
-l'économie numérique dans les conditions prévues par cet article.
+I.-Pour les besoins de la recherche ou de la constatation des infractions mentionnées au c du 1 et au 5 de l'article 1728,
+aux articles 1729 et 1729-0 A, au 2 du IV et au IV bis de l'article 1736, au I de l'article 1737 et aux articles 1758 et 1766
+du code général des impôts, des agents de l'administration des impôts ayant au moins le grade de contrôleur et spécialement
+habilités par le directeur du service auquel ils sont affectés ou son adjoint peuvent, dans les conditions prévues au II du
+présent article, se faire communiquer les données conservées et traitées par les opérateurs de communications électroniques
+dans le cadre de l'article L. 34-1 du code des postes et des communications électroniques et par les prestataires mentionnés
+aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique dans les
+conditions prévues au même article 6.
 
-Ils peuvent également se faire communiquer les données traitées et conservées relatives à l'identification du vendeur ou du
-prestataire, à la nature des biens ou des services vendus, à la date et au montant des ventes ou prestations effectuées par
-les opérateurs des services prévus au d du 2 de l'article 11 du règlement (CE) n° 1777/2005 du Conseil du 17 octobre 2005
-portant mesures d'exécution de la directive 77/388/CEE relative au système commun de taxe sur la valeur ajoutée et, sous les
-réserves prévues au VI de l'article L. 34-1 du code des postes et des communications électroniques, les données traitées et
-conservées par les opérateurs des services prévus au e du 2 de l'article 11 du règlement (CE) n° 1777/2005 du Conseil du 17
-octobre 2005 précité.
+II.-La mise en œuvre du droit de communication mentionné au I est préalablement autorisée, par tout moyen dont il est
+conservé une trace écrite, par le procureur de la République près le tribunal de grande instance du siège de la direction
+dont dépend le service chargé de la procédure, sur demande écrite et motivée du directeur de cette dernière ou de son
+adjoint.
 
-**Nota:**
+Les informations communiquées à l'administration sont détruites au plus tard à l'issue d'un délai d'un an à compter de leur
+réception, à l'exception de celles utilisées dans le cadre de l'une des procédures prévues au présent titre qui sont
+détruites à l'expiration de toutes les voies de recours.
 
-Modifications effectuées en conséquence de l'article 7 (1°) de l'ordonnance n° 2011-1012 du 24 août 2011.
+Les modalités d'application du I et du présent II sont fixées par décret en Conseil d'Etat.
+
+III. - Les agents de l'administration des impôts peuvent se faire communiquer les données traitées et conservées relatives à
+l'identification du vendeur ou du prestataire, à la nature des biens ou des services vendus, à la date et au montant des
+ventes ou prestations effectuées par les opérateurs des services prévus au d du 2 de l'article 7 du règlement d'exécution
+(UE) n° 282/2011 du Conseil du 15 mars 2011 portant mesures d'exécution de la directive 2006/112/ CE relative au système
+commun de taxe sur la valeur ajoutée
 
 **Liens relatifs à cet article**
 
@@ -7209,7 +7215,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-654 du 4 mai 2012 - art. 1
+  - Loi n°2018-898 du 23 octobre 2018 - art. 15 (V)
 
 
 ##### 25° Fabricants et marchands de métaux précieux<a id=92></a>
@@ -8117,9 +8123,9 @@ _Cite_:
 ###### Article L107 A
 
 Toute personne peut obtenir communication ponctuelle, le cas échéant par voie électronique, d'informations relatives aux
-immeubles situés sur le territoire d'une commune déterminée, ou d'un arrondissement pour les communes de Paris, Lyon et
-Marseille, sur lesquels une personne désignée dans la demande dispose d'un droit réel immobilier. Toute personne peut
-obtenir, dans les mêmes conditions, communication d'informations relatives à un immeuble déterminé. Les informations
+immeubles situés sur le territoire d'une commune déterminée, ou d'un arrondissement pour    la Ville de Paris et les communes
+de Lyon et Marseille, sur lesquels une personne désignée dans la demande dispose d'un droit réel immobilier. Toute personne
+peut obtenir, dans les mêmes conditions, communication d'informations relatives à un immeuble déterminé. Les informations
 communicables sont les références cadastrales, l'adresse ou, le cas échéant, les autres éléments d'identification cadastrale
 des immeubles, la contenance cadastrale de la parcelle, la valeur locative cadastrale des immeubles, ainsi que les noms et
 adresses des titulaires de droits sur ces immeubles. Un décret en Conseil d'Etat, pris après avis de la Commission nationale
@@ -8128,16 +8134,16 @@ par voie électronique des informations visées à la phrase précédente.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2009-526 du 12 mai 2009 - art. 109
-
 _Cité par_:
 
   - Loi n°2014-1170 du 13 octobre 2014 - art. 94 (V)
   - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
   - Livre des procédures fiscales - art. R* 107 A-1 (V)
   - Livre des procédures fiscales - art. R* 107 A-3 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 2
 
 
 ###### Article L107 B
@@ -11775,24 +11781,20 @@ _Cite_:
 
 Pour le crédit d'impôt défini à l'article 244 quater B du code général des impôts, le droit de reprise de l'administration
 s'exerce jusqu'à la fin de la troisième année suivant celle du dépôt de la déclaration spéciale prévue pour le calcul de ce
-crédit d'impôt. 
+crédit d'impôt.
 
-Le premier alinéa du présent article s'applique également au crédit d'impôt prévu à l'article 244 quater O du même code. 
-
-Pour le crédit d'impôt prévu à l'article 244 quater C du même code, le droit de reprise de l'administration s'exerce jusqu'à
-la fin de la troisième année suivant celle du dépôt de la déclaration prévue à ce même article.
+Le premier alinéa du présent article s'applique également au crédit d'impôt prévu à l'article 244 quater O du même code.
 
 **Nota:**
 
-Conformément au I de l'article 10 de l'ordonnance n° 2015-681 du 18 juin 2015, les présentes dispositions s'appliquent aux
-crédits et réductions d'impôt calculés au titre des exercices clos à compter du 31 décembre 2015.
+Conformément à l'article 86 V B de la loi n° 2017-1837 du 30 décembre 2017 de finances pour 2018, les présentes dispositions
+s'appliquent aux rémunérations versées à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 66 (VD)
-  - ORDONNANCE n°2015-681 du 18 juin 2015 - art. 1
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 86 (V)
 
 _Cite_:
 
@@ -14991,31 +14993,27 @@ _Cité par_:
 
 ###### Article L257-0 A
 
-1. A défaut de paiement des sommes mentionnées sur l'avis d'imposition à la date limite de paiement ou de celles mentionnées
-sur l'avis de mise en recouvrement et en l'absence d'une réclamation assortie d'une demande de sursis de paiement formulée
-dans les conditions prévues au premier alinéa de l'article L. 277, le comptable public compétent adresse au contribuable une
-mise en demeure de payer avant la notification du premier acte de poursuite devant donner lieu à des frais au sens de
-l'article 1912 du code général des impôts.
+1. A défaut de paiement de l'acompte mentionné à l'article 1663 C du code général des impôts ou des sommes mentionnées sur
+l'avis d'imposition à la date limite de paiement ou de celles mentionnées sur l'avis de mise en recouvrement et en l'absence
+d'une réclamation assortie d'une demande de sursis de paiement formulée dans les conditions prévues au premier alinéa de
+l'article L. 277, le comptable public compétent adresse au contribuable une mise en demeure de payer avant la notification du
+premier acte de poursuite devant donner lieu à des frais au sens de l'article 1912 du code général des impôts. 
 
 2. Lorsque la mise en demeure de payer n'a pas été suivie de paiement ou d'une demande de sursis de paiement au sens de
 l'article L. 277, le comptable public compétent peut engager des poursuites à l'expiration d'un délai de trente jours suivant
-sa notification.
+sa notification. 
 
 3. La mise en demeure de payer interrompt la prescription de l'action en recouvrement. Elle peut être contestée dans les
 conditions prévues à l'article L. 281.
 
 4. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
+**Nota:**
+
+Conformément à l'article 1er de l'ordonnance n° 2017-1390 du 22 septembre 2017, les dispositions du présent article
+s'appliquent aux revenus perçus ou réalisés à compter du 1er janvier 2019.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
-
-_Modifié par_:
-
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
 
 _Cité par_:
 
@@ -15029,10 +15027,15 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*257-0 B-2 (V)
   - Livre des procédures fiscales - art. R*257-0 C (T)
 
+_Modifié par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (M)
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1912 (V)
-  - Livre des procédures fiscales - art. L277 (V)
+  - Code général des impôts, CGI. - art. 1663 C (VD)
+  - Code général des impôts, CGI. - art. 1912
+  - Livre des procédures fiscales - art. L277
   - Livre des procédures fiscales - art. L281
 
 
@@ -15150,22 +15153,60 @@ _Cité par_:
 
 ##### Section III : Mesures particulières<a id=159></a>
 
-##### 1° : Avis à tiers détenteur<a id=160></a>
+##### 1° : Saisie administrative à tiers détenteur<a id=160></a>
 
 ###### Article L262
 
-Les dépositaires, détenteurs ou débiteurs de sommes appartenant ou devant revenir aux redevables d'impôts, de pénalités et de
-frais accessoires dont le recouvrement est garanti par le privilège du Trésor sont tenus, sur la demande qui leur en est
-faite sous forme d'avis à tiers détenteur notifié par le comptable chargé du recouvrement, de verser, aux lieu et place des
-redevables, les fonds qu'ils détiennent ou qu'ils doivent, à concurrence des impositions dues par ces redevables (1).
+1. Les créances dont les comptables publics sont chargés du recouvrement peuvent faire l'objet d'une saisie administrative à
+tiers détenteur notifiée aux dépositaires, détenteurs ou débiteurs de sommes appartenant ou devant revenir aux redevables.
 
-Les dispositions du présent article s'appliquent également aux gérants, administrateurs, directeurs ou liquidateurs des
-sociétés pour les impositions dues par celles-ci.
+Dans le cas où elle porte sur plusieurs créances, de même nature ou de nature différente, une seule saisie peut être
+notifiée.
 
-(1) Cette disposition s'applique aux majorations, pénalités et frais accessoires relatifs aux infractions constatées à partir
-du 1er janvier 1982. Elle est applicable en ce qui concerne les droits d'enregistrement, la taxe de publicité foncière, les
-droits de timbre et les contributions indirectes, aux impositions mises en recouvrement à partir du 1er janvier 1982 (loi n°
-81-1179 du 31 décembre 1981, art. 8-III).
+L'avis de saisie administrative à tiers détenteur est notifié au redevable et au tiers détenteur. L'exemplaire qui est
+notifié au redevable comprend, sous peine de nullité, les délais et voies de recours.
+
+La saisie administrative à tiers détenteur emporte l'effet d'attribution immédiate prévu à l'article L. 211-2 du code des
+procédures civiles d'exécution. Les articles L. 162-1 et L. 162-2 du même code sont applicables.
+
+La saisie administrative à tiers détenteur a pour effet d'affecter, dès sa réception, les fonds dont le versement est ainsi
+demandé au paiement des sommes dues par le redevable, quelle que soit la date à laquelle les créances même conditionnelles ou
+à terme que le redevable possède à l'encontre du tiers saisi deviennent effectivement exigibles.
+
+La saisie administrative à tiers détenteur s'applique également aux gérants, administrateurs, directeurs ou liquidateurs des
+sociétés pour les sommes dues par celles-ci.
+
+2. Lorsque la saisie administrative à tiers détenteur porte sur un contrat d'assurance rachetable, elle entraîne le rachat
+forcé dudit contrat. Elle a pour effet d'affecter aux créanciers mentionnés au 1 la valeur de rachat du contrat d'assurance
+au jour de la notification de la saisie, dans la limite du montant de cette dernière.
+
+Ces dispositions s'appliquent au redevable souscripteur ou adhérent d'un contrat d'assurance rachetable, y compris si la
+possibilité de rachat fait l'objet de limitations.
+
+3. Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, le tiers saisi, destinataire de la
+saisie administrative à tiers détenteur, est tenu de verser, aux lieu et place du redevable, dans les trente jours suivant la
+réception de la saisie, les fonds qu'il détient ou qu'il doit, à concurrence des sommes dues par ce dernier.
+
+Pour les créances conditionnelles ou à terme, le tiers saisi est tenu de verser immédiatement les fonds lorsque ces créances
+deviennent exigibles.
+
+Le tiers saisi est tenu de déclarer immédiatement par tous moyens l'étendue de ses obligations à l'égard du redevable dans
+les conditions prévues à l'article L. 211-3 du code des procédures civiles d'exécution.
+
+Le tiers saisi qui s'abstient, sans motif légitime, de faire cette déclaration ou fait une déclaration inexacte ou mensongère
+peut être condamné, à la demande du créancier, au paiement des sommes dues à ce dernier, sans préjudice d'une condamnation à
+des dommages et intérêts.
+
+4. Lorsqu'une personne est simultanément destinataire de plusieurs saisies administratives à tiers détenteur, elle doit, en
+cas d'insuffisance des fonds, exécuter ces saisies en proportion de leurs montants respectifs.
+
+5. Le montant des frais bancaires afférents à la saisie administrative à tiers détenteur perçu par les établissements de
+crédit ne peut dépasser 10 % du montant dû au Trésor public, dans la limite d'un plafond fixé par décret.
+
+**Nota:**
+
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -15190,11 +15231,7 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°81-1179 1981-12-31 ART. 8 III FINANCES RECTIFICATIVE POUR 1981
-
-_Modifié par_:
-
-  - Loi n°81-1179 du 31 décembre 1981 - art. 8 (P) JORF 1er JANVIER 1982
+  - Loi n°81-1179 du 31 décembre 1981
 
 _Cité par_:
 
@@ -15210,181 +15247,36 @@ _Cité par_:
   - Code du travail - art. R3252-37 (V)
   - Livre des procédures fiscales - art. L263-0 A (VT)
 
-
-###### Article L263
-
-L'avis à tiers détenteur a pour effet d'affecter, dès réception, les sommes dont le versement est ainsi demandé au paiement
-des impositions privilégiées, quelle que soit la date à laquelle les créances même conditionnelles ou à terme que le
-redevable possède à l'encontre du tiers détenteur deviennent effectivement exigibles. 
-
-Il comporte l'effet d'attribution immédiate prévu à l'article L. 211-2 du code des procédures civiles d'exécution. Les
-dispositions des articles L. 162-1 et L. 162-2 de ce code sont en outre applicables. 
-
-Lorsqu'une personne est simultanément destinataire de plusieurs avis établis au nom du même débiteur, émanant des comptables
-chargés du recouvrement respectivement des impôts directs et des taxes sur le chiffre d'affaires, elle doit, en cas
-d'insuffisance des fonds, exécuter ces avis en proportion de leurs montants respectifs.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 1925 (AL. 1 2EME PHRASE)
-  - CGI 1925 (al. 1 2eme phrase)
-  - CGI 1926 BIS (P.)
-  - CGI 1926 bis (p.)
-  - CGI 1929 BIS
-  - CGI 1929 bis
-  - Décret n°55-470 1955-04-30 ART. 3 (AL. 2) (LOI 55-349 1955-04-02)
-  - Décret-loi 1938-06-17 ART. 1 (RECOUVREMENT DES IMPOTS DIRECTS)
-  - Décret-loi 1938-06-17 art. 1 (Recouvrement des impôts directs)
-
-_Codifié par_:
-
-  - Décret n°92-837 du 27 août 1992
-
-_Cité par_:
-
-  - Code de l'environnement - art. L171-8 (VD)
-  - Code de l'environnement - art. L216-1 (VT)
-  - Code de l'environnement - art. L521-19 (VD)
-  - Code de l'environnement - art. L541-3 (VD)
-  - Code de l'environnement - art. L556-3 (V)
-  - Code des transports - art. L5336-1-1 (VD)
-  - Code du travail - art. R3252-37 (V)
-  - Code rural - art. L253-9 (V)
-  - Code rural et de la pêche maritime - art. L253-12 (VD)
-  - Loi n°2010-788 du 12 juillet 2010 - art. 230
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 76 (V)
-  - Loi n°2016-816 du 20 juin 2016 - art. 70
-  - Code de l'environnement - art. L122-3-4 (VT)
-
-_Cite_:
-
-  - Code des procédures civiles d'exécution - art. L162-1
-  - Code des procédures civiles d'exécution - art. L211-2
-
 _Modifié par_:
 
-  - Loi n°2012-354 du 14 mars 2012 - art. 19 (V)
-
-_Abrogé par_:
-
   - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 
-###### Article L263 A
-
-Conformément au deuxième alinéa de l'article L. 632-2 du code de commerce, tout avis à tiers détenteur, toute saisie
-attribution ou toute opposition peut être annulé lorsqu'il a été délivré ou pratiqué par un créancier après la date de
-cessation des paiements et en connaissance de celle-ci.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-357 2006-03-24
-
-_Créé par_:
-
-  - Décret n°2006-357 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
-
-_Abrogé par_:
-
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
-
-_Cite_:
-
-  - Code de commerce - art. L632-2 (VD)
-
-
-###### Article L263-0 A
-
-Peuvent faire l'objet d'un avis à tiers détenteur notifié par le comptable chargé du recouvrement, dans les conditions
-prévues aux articles L. 262 et L. 263, les sommes versées par un redevable souscripteur ou adhérent d'un contrat d'assurance
-rachetable, y compris si la possibilité de rachat fait l'objet de limitations, dans la limite de la valeur de rachat des
-droits à la date de la notification de l'avis à tiers détenteur.
-
-**Nota:**
-
-Loi n° 2013-1117 du 6 décembre 2013, article 41 V : Les présentes dispositions s'appliquent aux avis à tiers détenteur,
-saisies à tiers détenteur, oppositions à tiers détenteur et oppositions administratives notifiés à compter du 8 décembre
-2013.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 41 (V)
-
-_Abrogé par_:
-
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
-
-_Cité par_:
-
-  - Code de la mutualité - art. L223-15 (VD)
-  - Code des assurances - art. L132-14 (VD)
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L262
-
-
-##### 1° bis : Avis de saisie en matière de contributions indirectes<a id=161></a>
+##### 1° bis : Saisie administrative à tiers détenteur en matière de contributions indirectes<a id=161></a>
 
 ###### Article L263 B
 
-1. En matière de contributions indirectes, le comptable public compétent peut procéder au recouvrement des sommes de toute
-nature résultant d'une décision de condamnation ou d'une transaction, par voie d'avis de saisie adressé aux personnes
-physiques ou morales qui détiennent des fonds pour le compte du redevable, qui ont une dette envers lui ou qui lui versent
-une rémunération. 
+En matière de contributions indirectes, le comptable public compétent peut procéder au recouvrement des créances de toute
+nature, y compris les amendes, par voie de saisie administrative à tiers détenteur dans les conditions prévues à l'article L.
+262.
 
-L'avis de saisie est notifié simultanément au redevable et au tiers détenteur. L'exemplaire qui est notifié au redevable
-comporte, à peine de nullité, la date de la décision de justice ou de la transaction. 
+**Nota:**
 
-2. Le tiers détenteur est tenu de rendre indisponibles les fonds qu'il détient à concurrence du montant des sommes à
-recouvrer. 
-
-L'avis de saisie emporte l'effet d'attribution immédiate prévu à l'article L. 211-2 du code des procédures civiles
-d'exécution. Les articles L. 123-1, L. 162-1 et L. 162-2 du même code sont en outre applicables. 
-
-Dans les trente jours qui suivent la réception de l'avis de saisie, le tiers détenteur verse au comptable public compétent
-les fonds saisis, sous peine d'être tenu au paiement de cette somme majorée du taux d'intérêt légal. Le paiement consécutif à
-un avis de saisie libère à due concurrence la personne qui l'a effectué à l'égard du redevable. 
-
-3. L'effet de l'avis de saisie s'étend aux créances conditionnelles ou à terme. Dans ces deux cas, les fonds sont versés au
-comptable dès que ces créances deviennent exigibles. 
-
-L'avis de saisie permet d'appréhender les sommes versées par un redevable souscripteur ou adhérent d'un contrat d'assurance
-rachetable, y compris si la possibilité de rachat fait l'objet de limitations, dans la limite de la valeur de rachat des
-droits à la date de la notification de l'avis. 
-
-4. Lorsqu'une personne est simultanément destinataire de plusieurs avis de saisie établis au nom du redevable, elle doit, en
-cas d'insuffisance des fonds, exécuter ces demandes en proportion de leurs montants respectifs. 
-
-Dans un délai de quinze jours à compter de la réception de l'avis de saisie, le destinataire de cet avis informe le comptable
-public, selon le cas, du montant des fonds qu'il doit au débiteur ou qu'il détient pour son compte, de l'indisponibilité de
-ces fonds, du terme ou de la condition les affectant, ou de l'inexistence de ces fonds. 
-
-L'exécution par le destinataire d'un avis de saisie fondé sur un titre exécutoire n'est affectée ni par une contestation de
-la procédure de saisie, engagée en application de l'article L. 281 du présent livre, ni par une contestation de l'existence
-du montant ou de l'exigibilité de la créance, à moins que le juge n'en dispose autrement. 
-
-Dès réception de la décision portant sur la contestation, le comptable, s'il y a lieu, donne une mainlevée, totale ou
-partielle, de l'avis de saisie ou rembourse les sommes dues au redevable.
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 21 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L281 (V)
-  - Code des procédures civiles d'exécution - art. L123-1 (V)
-  - Code des procédures civiles d'exécution - art. L162-1 (V)
-  - Code des procédures civiles d'exécution - art. L211-2 (V)
+  - Livre des procédures fiscales - art. L281
+  - Code des procédures civiles d'exécution - art. L123-1
+  - Code des procédures civiles d'exécution - art. L162-1
+  - Code des procédures civiles d'exécution - art. L211-2
 
 
 ##### 2° : Rémunérations du travail<a id=162></a>
@@ -15603,50 +15495,20 @@ _Cité par_:
 
 ###### Article L273 A
 
-I. – Les créances de l'Etat ou celles qu'il est chargé de recouvrer pour le compte de tiers sur la base d'un titre de
-perception délivré par lui en application de l'article L. 252 A peuvent être recouvrées par voie de saisie à tiers
-détenteur. 
-
-La saisie à tiers détenteur est notifiée, avec mention des délais et voies de recours, au débiteur ainsi qu'aux personnes
-physiques ou morales qui détiennent des fonds pour son compte, qui ont une dette envers lui ou qui lui versent une
-rémunération. 
-
-Elle emporte l'effet d'attribution immédiate, prévu à l'article L. 211-2 du code des procédures civiles d'exécution, des
-sommes saisies disponibles à concurrence des sommes pour lesquelles la saisie est pratiquée. Les dispositions des articles L.
-162-1 et L. 162-2 de ce code sont en outre applicables. 
-
-Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, les fonds doivent être reversés dans les
-trente jours qui suivent la réception de la saisie par le tiers détenteur auprès du comptable chargé du recouvrement. 
-
-La saisie à tiers détenteur peut s'exercer sur les sommes versées par un redevable souscripteur ou adhérent d'un contrat
-d'assurance rachetable, y compris si la possibilité de rachat fait l'objet de limitations, dans la limite de la valeur de
-rachat des droits à la date de la notification de la saisie 
-
-La saisie à tiers détenteur peut s'exercer sur les créances conditionnelles ou à terme ; dans ce cas, les fonds sont versés
-au comptable public chargé du recouvrement lorsque ces créances deviennent exigibles. 
-
-Lorsqu'une même personne est simultanément destinataire de plusieurs saisies à tiers détenteur établies au nom du même
-redevable, elle doit, en cas d'insuffisance des fonds, exécuter ces oppositions en proportion de leurs montants respectifs. 
-
-Si les fonds détenus ou dus par le tiers détenteur sont indisponibles entre ses mains, ce dernier doit en aviser le comptable
-chargé du recouvrement dès la réception de la saisie. 
-
-Les contestations relatives à la saisie doivent être adressées à l'administration dont dépend le comptable qui a exercé cette
-poursuite avant tout recours juridictionnel. 
-
-II. – (Dispositions transférées sous l'article L. 135 X)
+Les créances de l'Etat ou celles qu'il est chargé de recouvrer pour le compte de tiers sur la base d'un titre de perception
+délivré par lui en application de l'article L. 252 A peuvent être recouvrées par voie de saisie administrative à tiers
+détenteur dans les conditions prévues à l'article L. 262.
 
 **Nota:**
 
-Loi n° 2013-1117 du 6 décembre 2013, article 41 V : Les présentes dispositions s'appliquent aux avis à tiers détenteur,
-saisies à tiers détenteur, oppositions à tiers détenteur et oppositions administratives notifiés à compter du 8 décembre
-2013.
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 41 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 _Cité par_:
 
@@ -15658,7 +15520,7 @@ _Cité par_:
 _Cite_:
 
   - Livre des procédures fiscales - art. L252 A
-  - Code des procédures civiles d'exécution - art. L162-1 (V)
+  - Code des procédures civiles d'exécution - art. L162-1
   - Code des procédures civiles d'exécution - art. L211-2
 
 
@@ -15966,31 +15828,40 @@ _Modifié par_:
 
 ###### Article L281
 
-Les contestations relatives au recouvrement des impôts, taxes, redevances et sommes quelconques dont la perception incombe
-aux comptables publics compétents mentionnés à l'article L. 252 doivent être adressées à l'administration dont dépend le
-comptable qui exerce les poursuites. 
+Les contestations relatives au recouvrement des impôts, taxes, redevances, amendes, condamnations pécuniaires et sommes
+quelconques dont la perception incombe aux comptables publics doivent être adressées à l'administration dont dépend le
+comptable qui exerce les poursuites.
 
-Les contestations ne peuvent porter que : 
+Lorsque les contestations portent sur le recouvrement de créances détenues par les établissements publics de l'Etat, par un
+de ses groupements d'intérêt public ou par les autorités publiques indépendantes, dotés d'un agent comptable, ces
+contestations sont adressées à l'ordonnateur de l'établissement public, du groupement d'intérêt public ou de l'autorité
+publique indépendante pour le compte duquel l'agent comptable a exercé ces poursuites.
 
-1° Soit sur la régularité en la forme de l'acte ; 
+Les contestations relatives au recouvrement ne peuvent pas remettre en cause le bien-fondé de la créance. Elles peuvent
+porter :
 
-2° Soit sur l'existence de l'obligation de payer, sur le montant de la dette compte tenu des paiements effectués, sur
-l'exigibilité de la somme réclamée, ou sur tout autre motif ne remettant pas en cause l'assiette et le calcul de l'impôt. 
+1° Sur la régularité en la forme de l'acte ;
 
-Les recours contre les décisions prises par l'administration sur ces contestations sont portés, dans le premier cas, devant
-le juge de l'exécution (1), dans le second cas, devant le juge de l'impôt tel qu'il est prévu à l'article L. 199.
+2° A l'exclusion des amendes et condamnations pécuniaires, sur l'obligation au paiement, sur le montant de la dette compte
+tenu des paiements effectués et sur l'exigibilité de la somme réclamée.
+
+Les recours contre les décisions prises par l'administration sur ces contestations sont portés dans le cas prévu au 1° devant
+le juge de l'exécution. Dans les cas prévus au 2°, ils sont portés :
+
+a) Pour les créances fiscales, devant le juge de l'impôt prévu à l'article L. 199 ;
+
+b) Pour les créances non fiscales de l'Etat, des établissements publics de l'Etat, de ses groupements d'intérêt public et des
+autorités publiques indépendantes, dotés d'un agent comptable, devant le juge de droit commun selon la nature de la créance ;
+
+c) Pour les créances non fiscales des collectivités territoriales, des établissements publics locaux et des établissements
+publics de santé, devant le juge de l'exécution.
 
 **Nota:**
 
-(1) A compter du 1er janvier 1993.
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-  - Décret n°93-265 du 26 février 1993 - art. 14 () JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 _Cité par_:
 
@@ -16011,14 +15882,14 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*281-4 (V)
   - Livre des procédures fiscales - art. R257 B-1 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 18 août 1993
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L199 (V)
-  - Livre des procédures fiscales - art. L252 (V)
+  - Livre des procédures fiscales - art. L199
+  - Livre des procédures fiscales - art. L252
 
 
 ###### Article L282
@@ -16052,12 +15923,21 @@ _Cité par_:
 
 ###### Article L283
 
-Lorsqu'il a été procédé, en vue du recouvrement de l'impôt, à une saisie mobilière et que la propriété de tout ou partie des
-biens saisis est revendiquée par une tierce personne, celle-ci peut s'opposer à la vente de ces biens en demandant leur
+Lorsqu'il a été procédé, en vue du recouvrement des impôts, taxes, redevances, amendes, condamnations pécuniaires et sommes
+quelconques dont la perception incombe aux comptables publics, à une saisie mobilière et que la propriété de tout ou partie
+des biens saisis est revendiquée par une tierce personne, celle-ci peut s'opposer à la vente de ces biens en demandant leur
 restitution. A défaut de décision de l'administration sur cette demande ou si la décision rendue ne donne pas satisfaction au
-demandeur, celui-ci peut assigner devant le juge de l'exécution (1), le comptable qui a fait procéder à la saisie.
+demandeur, celui-ci peut assigner devant le juge de l'exécution (1), le comptable qui a fait procéder à la saisie. Les
+dispositions du présent article ne sont pas applicables aux contestations des créances détenues par les établissements
+publics et les groupements d'intérêt public de l'Etat ainsi que par les autorités publiques indépendantes, dotés d'un agent
+comptable.
 
 (1) A compter du 1er janvier 1993.
+
+**Nota:**
+
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -16065,17 +15945,6 @@ _Anciens textes_:
 
   - CGI 1910 (AL. 1 1RE PHRASE LES 3 PREMIERES LIGNES, AL. 2 2EME PHRASE 1ER MEMBRE)
   - Ordonnance n°58-1372 du 29 décembre 1958 - art. 10 ()
-
-**Liens**:
-
-  - HISTO: Edition du 4 juillet 1992
-
-_Modifié par_:
-
-  - Loi n°91-650 1991-07-09 art. 87, art. 97 JORF 14 juillet 1991
-  - Loi n°91-650 du 9 juillet 1991 - art. 87 () JORF 14 juillet 1991
-  - Loi n°92-644 1992-07-13 art. 3, en vigueur le 1er janvier 1993
-  - Loi n°92-644 du 13 juillet 1992 - art. 3 ()
 
 _Cité par_:
 
@@ -16085,6 +15954,10 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L2323-13 (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 218 (V)
   - Livre des procédures fiscales - art. R*283-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 
 #### Chapitre IV : Assistance au recouvrement au sein de l'Union européenne<a id=174></a>
