@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-03-25
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -10859,14 +10859,17 @@ _Codifié par_:
 
 ###### Article L151 A
 
-I.-Aux fins d'assurer l'exécution d'un titre exécutoire, l'huissier de justice peut obtenir l'adresse des organismes auprès
-desquels un compte est ouvert au nom du débiteur. 
+I.-Aux fins d'assurer l'exécution d'un titre exécutoire ou lorsqu'il est saisi par une juridiction d'une demande
+d'informations en application de l'article 14 du règlement (UE) n° 655/2014 du Parlement européen et du Conseil du 15 mai
+2014 portant création d'une procédure d'ordonnance européenne de saisie conservatoire des comptes bancaires, destinée à
+faciliter le recouvrement transfrontière de créances en matière civile et commerciale, l'huissier de justice peut obtenir
+l'adresse des organismes auprès desquels un compte est ouvert au nom du débiteur.
 
 II.-Conformément aux dispositions de l'article L. 152-1 du code des procédures civiles d'exécution, les administrations
-fiscales communiquent à l'huissier de justice chargé de l'exécution        les renseignements qu'elles détiennent permettant
-de déterminer l'adresse du débiteur, l'identité et l'adresse de son employeur ou de tout tiers débiteur ou dépositaire de
-sommes liquides ou exigibles et la composition de son patrimoine immobilier, à l'exclusion de tout autre renseignement, sans
-pouvoir opposer le secret professionnel.
+fiscales communiquent à l'huissier de justice chargé de l'exécution les renseignements qu'elles détiennent permettant de
+déterminer l'adresse du débiteur, l'identité et l'adresse de son employeur ou de tout tiers débiteur ou dépositaire de sommes
+liquides ou exigibles et la composition de son patrimoine immobilier, à l'exclusion de tout autre renseignement, sans pouvoir
+opposer le secret professionnel.
 
 **Liens relatifs à cet article**
 
@@ -10881,11 +10884,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-177 du 16 février 2015 - art. 11 (V)
+  - Loi n°2019-222 du 23 mars 2019 - art. 15
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. L152-1 (V)
+  - Code des procédures civiles d'exécution - art. L152-1
 
 _Anciens textes_:
 
