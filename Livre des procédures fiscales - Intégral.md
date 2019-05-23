@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-05-24
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -103,7 +103,7 @@ Version Consolidée au 2019-03-25
             - [2° : Publicité de l'impôt (art. L111 à L112 A)](#100)
           - [Section II : Dérogations à la règle du secret professionnel (art. L113 à L166 F)](#101)
             - [I : Dérogations en matière d'assistance fiscale internationale (art. L114 à L114 A)](#102)
-            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135 ZL)](#103)
+            - [II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics (art. L115 à L135-ZM)](#103)
             - [III : Dérogations au profit de diverses commissions (art. L136 à L139 B)](#104)
             - [IV : Dérogations au profit des autorités judiciaires et des juridictions (art. L140 à L147 C)](#105)
             - [V : Dérogations au profit des officiers ministériels (art. L148 à L151 B)](#106)
@@ -9963,12 +9963,12 @@ L'administration chargée du recouvrement de la taxe sur les surfaces commercial
 services des ministres chargés du commerce, de la consommation et de la concurrence, à des fins exclusives de réalisation
 d'études économiques, les données suivantes issues des déclarations des redevables de la taxe : le nom de l'établissement,
 l'identifiant SIRET, le secteur d'activité, le chiffre d'affaires hors taxe par établissement, la surface de locaux destinés
-à la vente au détail et le nombre de positions de ravitaillement de carburant de l'établissement. 
+à la vente au détail et le nombre de positions de ravitaillement de carburant de l'établissement.
 
 Ces données, hormis le chiffre d'affaires, sont communiquées par les services du ministre chargé du commerce au réseau des
-chambres de commerce et d'industrie défini au onzième alinéa de l'article L. 710-1 du code de commerce pour l'exercice de
+chambres de commerce et d'industrie défini au treizième alinéa de l'article L. 710-1 du code de commerce pour l'exercice de
 leurs missions prévues au 7° du même article L. 710-1 et aux articles L. 711-2 et L. 711-8 du même code et afin d'alimenter
-leurs bases de données et d'information dans les conditions fixées par voie réglementaire. 
+leurs bases de données et d'information dans les conditions fixées par voie réglementaire.
 
 Les bénéficiaires de ces communications sont astreints, pour les données dont ils ont à connaître en application du présent
 article, au secret professionnel sous les sanctions prévues à l'article 226-13 du code pénal.
@@ -9979,13 +9979,13 @@ _Cite_:
 
   - Loi n°72-657 du 13 juillet 1972 - art. 3
   - Code de commerce - art. L710-1
-  - Code de commerce - art. L711-2 (V)
+  - Code de commerce - art. L711-2
   - Code de commerce - art. L711-8
   - Code pénal - art. 226-13
 
 _Modifié par_:
 
-  - Loi n°2014-626 du 18 juin 2014 - art. 66
+  - Loi n°2019-486 du 22 mai 2019 - art. 40 (V)
 
 
 ###### Article L135 Z
@@ -10263,6 +10263,36 @@ _Créé par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1649 ter (V)
+
+
+###### Article L135-ZM
+
+Les agents de l'administration fiscale et des douanes peuvent communiquer au directeur général des entreprises ou au
+responsable des restructurations et du traitement d'entreprises en difficulté à l'administration centrale de la direction
+générale des entreprises, aux fins de l'exercice de ces missions, au délégué interministériel aux restructurations
+d'entreprises institué par le décret n° 2017-1558 du 13 novembre 2017 instituant un délégué interministériel aux
+restructurations d'entreprises ainsi qu'au secrétaire général du comité interministériel de restructuration industrielle créé
+par arrêté du Premier ministre du 6 juillet 1982 relatif à la création d'un comité interministériel de restructuration
+industrielle et se faire communiquer par ces derniers tous documents ou renseignements nécessaires à l'exercice des missions
+décrites dans le décret et l'arrêté précités.
+
+Aux seules fins de la détection et de la prévention des difficultés des entreprises, et au vu de la cotation qu'elle établit
+pour l'exercice de sa mission de détection des difficultés des entreprises, l'administration fiscale peut communiquer au
+représentant de l'Etat dans le département, au commissaire aux restructurations et à la prévention des difficultés des
+entreprises et aux responsables territoriaux de la direction régionale des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi, des unions de recouvrement des cotisations de sécurité sociale et d'allocations
+familiales et de la Banque de France la liste des entreprises susceptibles de connaître des difficultés de financement ainsi
+que la cotation du niveau de risque.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2017-1558 du 13 novembre 2017
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 70
 
 
 ##### III : Dérogations au profit de diverses commissions<a id=104></a>
