@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -16436,28 +16436,30 @@ _Cite_:
 
 Lorsque la mise en oeuvre du droit de communication prévu aux articles L. 81 A et L. 152 s'avère susceptible de porter une
 atteinte grave et immédiate aux droits et libertés visés à l'article 1er de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés, la Commission nationale de l'informatique et des libertés instituée par
-l'article 6 de la même loi enjoint l'autorité administrative de prendre sans délai les mesures de sécurité pouvant aller
-jusqu'à la destruction des supports d'information qui ont été constitués à partir d'un numéro d'inscription au répertoire
-national d'identification des personnes physiques. 
+l'informatique, aux fichiers et aux libertés, la Commission nationale de l'informatique et des libertés enjoint l'autorité
+administrative de prendre sans délai les mesures de sécurité pouvant aller jusqu'à la destruction des supports d'information
+qui ont été constitués à partir d'un numéro d'inscription au répertoire national d'identification des personnes physiques.
 
 Sans préjudice des dispositions de l'article 40 du code de procédure pénale, si cette injonction n'est pas suivie d'effet, la
 Commission nationale de l'informatique et des libertés saisit le président du tribunal de grande instance de Paris, qui peut
 ordonner le cas échéant sous astreintes les mesures proposées par la Commission.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 1 (V)
-  - Loi n°78-17 du 6 janvier 1978 - art. 6 (V)
-  - Livre des procédures fiscales - art. L152 (V)
-  - Livre des procédures fiscales - art. L81 A (V)
-  - Code de procédure pénale - art. 40 (V)
-
-_Modifié par_:
-
-  - Loi n°99-944 du 15 novembre 1999 - art. 4 (V) JORF 16 novembre 1999
+  - Loi n°78-17 du 6 janvier 1978 - art. 1
+  - Loi n°78-17 du 6 janvier 1978 - art. 6
+  - Livre des procédures fiscales - art. L152
+  - Livre des procédures fiscales - art. L81 A
+  - Code de procédure pénale - art. 40
 
 _Cité par_:
 
@@ -16499,11 +16501,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2000-478 2000-06-02
+  - Décret n°2000-478 du 2 juin 2000
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 31 mars 2000
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 26
 
 
 ###### Article L288 A
