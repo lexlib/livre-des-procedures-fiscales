@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2019-06-08
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -11909,53 +11909,6 @@ _Modifié par_:
   - Loi n°93-1352 1993-12-29 art. 82 VII Finances pour 1994 JORF 30 décembre 1993
 
 
-###### Article L172 A
-
-Le droit de reprise fixé par l'article L. 176 en matière de taxes sur le chiffre d'affaires s'applique :
-
-1° A la participation des employeurs au financement des actions de formation professionnelle continue prévue à l'article 235
-ter C du code général des impôts ;
-
-2° (Disposition devenue sans objet).
-
-**Nota:**
-
-En conséquence de la loi n° 2018-771 du 5 septembre 2018, art. 37-VI-1°, cet article devient sans objet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 1679 bis B (P.)
-  - CGI 1679 bis B (p.)
-  - CGI 235 quater I (AL. 3 P.)
-  - CGI 235 quater I (al. 3 p.)
-  - Loi n°63-254 1963-03-15 art. 28 IV
-  - Loi n°75-575 1975-07-16 ART. 16 I
-  - Loi n°75-575 1975-07-16 art. 16 I
-
-_Codifié par_:
-
-  - Décret n°89-802 du 27 octobre 1989
-
-_Modifié par_:
-
-  - Décret n°89-802 du 27 octobre 1989 - art. 1 ()
-  - Décret n°2019-560 du 6 juin 2019 - art. 1
-
-**Liens**:
-
-  - PERIME: Décret n°2019-560 du 6 juin 2019 - art. 1
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1679 bis B (M)
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L176
-
-
 ###### Article L172 C
 
 En ce qui concerne le prélèvement prévu par l'article 244 bis du code général des impôts sur les plus-values réalisées par
@@ -20426,7 +20379,11 @@ Le droit de communication mentionné à l'article L. 81 est exercé par les agen
 publiques. Il peut être exercé par les agents de la direction générale des douanes et droits indirects dans les conditions
 définies aux articles L. 82 C, L. 83, L. 84, L. 85, L. 85-0 B, L. 85 A, L. 87, L. 90, L. 92, L. 95, L. 96 H, L. 101, R. *
 81-1, R. * 81-3 et à l'article R. * 101-1 en ce qui concerne les contributions indirectes, droits, taxes, redevances et
-impositions obéissant aux mêmes règles et la contribution prévue par l'article 527 du code général des impôts.
+impositions obéissant aux mêmes règles.
+
+**Nota:**
+
+Modifications effectuées en conséquence de la loi n° 2018-1317 du 28 décembre 2018, art. 26-III-5°.
 
 **Liens relatifs à cet article**
 
@@ -20440,7 +20397,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1091 du 28 août 2015 - art. 1
+  - Décret n°2019-560 du 6 juin 2019 - art. 2
 
 _Cite_:
 
@@ -21562,23 +21519,23 @@ _Codifié par_:
 Pour l'application de l'article L. 112 A, l'administration fiscale met gratuitement à disposition du public les informations
 mentionnées ci-après relatives aux ventes, adjudications, expropriations et aux échanges de biens immobiliers publiés au
 fichier immobilier au cours des cinq dernières années, issues des traitements informatisés relatifs à la publicité foncière
-et à la documentation littérale du cadastre. 
+et à la documentation littérale du cadastre.
 
-Pour chaque mutation, les éléments d'information mis à disposition sont les suivants : 
+Pour chaque mutation, les éléments d'information mis à disposition sont les suivants :
 
-a) Date et nature de la mutation ; 
+a) Date et nature de la mutation ;
 
-b) Prix ; 
+b) Prix ;
 
-c) Adresse : numéro de voie, indice de répétition, type, code et libellé de la voie, code postal et libellé de la commune ; 
+c) Adresse : numéro de voie, indice de répétition, type, code et libellé de la voie, code postal et libellé de la commune ;
 
 d) Références cadastrales : code de la commune et du département, préfixe et code de la section cadastrale, numéro de plan du
 lieu de situation des biens, le numéro de volume ainsi que, si le bien objet de la mutation fait partie d'une copropriété, le
-nombre de lots et le numéro de lot dans la limite de cinq lots par mutation ; 
+nombre de lots et le numéro de lot dans la limite de cinq lots par mutation ;
 
 e) Descriptif du bien dès lors qu'il a été déclaré à l'administration : surface “ Carrez ” telle que définie par l' article
 4-1 du décret n° 67-223 du 17 mars 1967  pris pour l'application de la  loi n° 65-557 du 10 juillet 1965  fixant le statut de
-la copropriété des immeubles bâti, surface réelle au sens de l' article 324 M de l'annexe III du code général des impôts ,
+la copropriété des immeubles bâtis, surface réelle au sens de l' article 324 M de l'annexe III du code général des impôts ,
 code type de local, type de local, nombre de pièces principales, surface du terrain, et, pour les terrains non bâtis, nature
 de culture et nature de culture spéciale.
 
@@ -21590,9 +21547,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 M
   - Livre des procédures fiscales - art. L112 A
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1350 du 28 décembre 2018 - art. 1
+  - Décret n°2019-560 du 6 juin 2019 - art. 2
 
 
 ###### Article R*112 A-2
@@ -22503,14 +22460,17 @@ _Cité par_:
 
 Les agents mentionnés au premier alinéa de l'article L. 190 sont ceux de la direction générale des finances publiques et ceux
 de la direction générale des douanes et droits indirects en ce qui concerne, pour ces derniers, les réclamations relatives
-aux contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et à la contribution prévue
-par l'article 527 du code général des impôts.
+aux contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles.
+
+**Nota:**
+
+Modifications effectuées en conséquence de la loi n° 2018-1317 du 28 décembre 2018, art. 26-III-5°.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-431  du 29 mars 2012 - art. 38
+  - Décret n°2019-560 du 6 juin 2019 - art. 2
 
 _Cite_:
 
@@ -23756,20 +23716,23 @@ _Cité par_:
 ###### Article R*208-3
 
 Pour obtenir le remboursement prévu par l'article L. 208 des frais qu'il a exposés pour constituer les garanties, le
-contribuable doit adresser une demande : 
+contribuable doit adresser une demande :
 
 a) Au directeur départemental ou régional des finances publiques, s'il s'agit d'impositions recouvrées par les comptables de
-la direction générale des finances publiques ; 
+la direction générale des finances publiques ;
 
-b) (Abrogé) 
+b) (Abrogé)
 
 c) Au directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, au
-directeur régional des douanes et droits indirects, s'il s'agit de contributions indirectes, droits, taxes, redevances,
-impositions assimilées et de la contribution prévue par l'article 527 du code général des impôts recouvrés par les comptables
-de la direction générale des douanes et droits indirects. 
+directeur régional des douanes et droits indirects, s'il s'agit de contributions indirectes, droits, taxes, redevances et
+impositions assimilées recouvrés par les comptables de la direction générale des douanes et droits indirects.
 
 La demande, appuyée de toutes justifications utiles, doit être formulée dans le délai d'un an à compter de la notification de
 la décision soit du directeur mentionné au a ou au c soit du tribunal saisi.
+
+**Nota:**
+
+Modifications effectuées en conséquence de la loi n° 2018-1317 du 28 décembre 2018, art. 26-III-5°.
 
 **Liens relatifs à cet article**
 
@@ -23779,7 +23742,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2016-935 du 7 juillet 2016 - art. 10
+  - Décret n°2019-560 du 6 juin 2019 - art. 2
 
 _Cité par_:
 
@@ -24036,8 +23999,11 @@ _Codifié par_:
 
 Les procès-verbaux prévus à l'article L. 213 sont établis par les agents de la direction générale des finances publiques et
 par ceux de la direction générale des douanes et droits indirects en ce qui concerne, pour ces derniers, les contributions
-indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles, et la contribution prévue par l'article 527
-du code général des impôts.
+indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles.
+
+**Nota:**
+
+Modifications effectuées en conséquence de la loi n° 2018-1317 du 28 décembre 2018, art. 26-III-5°.
 
 **Liens relatifs à cet article**
 
@@ -24048,7 +24014,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-431  du 29 mars 2012 - art. 38
+  - Décret n°2019-560 du 6 juin 2019 - art. 2
 
 _Cite_:
 
@@ -25076,7 +25042,7 @@ _Anciens textes_:
 Le comptable mentionné aux premier, deuxième et troisième alinéas de l'article L. 256 est le comptable de la direction
 générale des finances publiques ou le comptable de la direction générale des douanes et droits indirects en ce qui concerne,
 pour ce dernier, le recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes
-règles et de la contribution prévue par l'article 527 du code général des impôts.
+règles.
 
 Le comptable public compétent pour établir l'avis de mise en recouvrement est soit celui du lieu de déclaration ou
 d'imposition du redevable, soit, dans le cas où ce lieu a été ou aurait dû être modifié, celui compétent à l'issue de ce
@@ -25090,6 +25056,10 @@ Les avis de mise en recouvrement résultant de l'engagement par la direction nat
 fiscales d'une procédure de rectification ou d'une procédure d'imposition d'office ou du traitement d'actes ou de
 déclarations liés à la détention d'avoirs à l'étranger sont établis, émis et rendus exécutoires par le comptable chargé du
 pôle de recouvrement spécialisé DNVSF (Paris).
+
+**Nota:**
+
+Modifications effectuées en conséquence de la loi n° 2018-1317 du 28 décembre 2018, art. 26-III-5°.
 
 **Liens relatifs à cet article**
 
@@ -25109,7 +25079,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-381 du 22 mars 2017 - art. 1
+  - Décret n°2019-560 du 6 juin 2019 - art. 2
 
 _Cite_:
 
