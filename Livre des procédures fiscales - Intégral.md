@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-06-29
+Version Consolidée au 2019-07-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -248,7 +248,7 @@ Version Consolidée au 2019-06-29
             - [VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale (art. R*152-1 à R152-2)](#245)
         - [Chapitre IV : Les délais de prescription (art. R*178-1)](#246)
           - [Section III : Contributions indirectes (art. R*178-1)](#247)
-      - [Titre III : Le contentieux de l'impôt (art. R*190-1 à R247-11)](#248)
+      - [Titre III : Le contentieux de l'impôt (art. R*190-1 à R251 ZF-1)](#248)
         - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. R*190-1 à R*211-2)](#249)
           - [Charge et administration de la preuve (art. R*191-1 à R*195-1)](#250)
           - [Section I : Procédure préalable auprès de l'administration (art. R*196-1 à R*198-10)](#251)
@@ -271,46 +271,55 @@ Version Consolidée au 2019-06-29
             - [I : Dispositions communes (art. R*228-1 à R*228-6)](#268)
             - [III : Dispositions particulières aux contributions indirectes (art. R235-1 à R238-1)](#269)
         - [Chapitre III : Les remises et transactions à titre gracieux (art. R*247 A-1 à R247-11)](#270)
-      - [Titre IV : Le recouvrement de l'impôt (art. R*256-1 à R283 D-1)](#271)
-        - [Chapitre premier : Les procédures de recouvrement (art. R*256-1 à R*273 B-1)](#272)
-          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R*256-1 à R257 B-1)](#273)
-          - [Section II : Exercice des poursuites (art. R*260 A-1 à R258 A-1)](#274)
-          - [Section III : Mesures particulières (art. R*267-1 à R*273 B-1)](#275)
-            - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*267-1)](#276)
-            - [5° : Vente de fonds de commerce (art. R268-1)](#277)
-            - [12° : Entrepreneur individuel à responsabilité limitée (art. R*273 B-1)](#278)
-        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-7)](#279)
-        - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#280)
-        - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. R283 A-1 à R283 D-1)](#281)
-      - [Titre V : Dispositions communes (art. R*287-1 à R289-2)](#282)
-        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. R*287-1 à R*288-3)](#283)
-        - [Chapitre III : Dispositions communautaires (art. R289-1 à R289-2)](#284)
-  - [Partie réglementaire - Arrêtés (art. A13 F-1 à A277-10)](#285)
-    - [Troisième partie : Partie réglementaire, arrêtés (art. A13 F-1 à A277-10)](#286)
-      - [Titre II : Le contrôle de l'impôt (art. A13 F-1 à A102 B-2)](#287)
-        - [Chapitre premier : Le droit de contrôle de l'administration (art. A13 F-1 à A80 CB-6-1)](#288)
-          - [Section I : Dispositions générales (art. A13 F-1 à A13 F-2)](#289)
-            - [2 quater : Dispositions relatives aux copies de documents (art. A13 F-1 à A13 F-2)](#290)
-          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#291)
-            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#292)
-              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#293)
-                - [1 : Contributions indirectes (art. A26-1 à A27-1)](#294)
-                  - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#295)
-                - [2 : Droits de timbre (art. A37-1)](#296)
-          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1 à A47 AA-1)](#297)
-          - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-6-1)](#298)
-        - [Chapitre II : Le droit de communication (art. A97-1 à A97-3)](#299)
-          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#300)
-        - [Chapitre II bis : Obligation et délais de conservation des documents (art. A102 B-1 à A102 B-2)](#301)
-      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#302)
-        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#303)
-          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#304)
-        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#305)
-          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#306)
-            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#307)
-          - [Section II : Exercice des poursuites pénales (art. A228-1)](#308)
-      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#309)
-        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#310)
+        - [Chapitre IV : Le règlement des différends fiscaux dans l'Union Européenne (art. R251 D-1 à R251 ZF-1)](#271)
+          - [Section I : La demande d'ouverture (art. R251 D-1 à R251 D-6)](#272)
+          - [Section II :  La procédure amiable (art. R251 G-1 à R251 H-1)](#273)
+          - [Section III :  La commission consultative (art. R251 K-1 à R251 Y-1)](#274)
+            - [I : Saisine de la commission (art. R251 K-1 à R251 N-1)](#275)
+            - [II :  Composition de la commission (art. R251 P-1 à R251 R-1)](#276)
+            - [III :  Règles de fonctionnement de la commission consultative (art. R251 T-1 à R251 T-2)](#277)
+            - [IV :  Avis de la commission consultative (art. R251 Y-1)](#278)
+          - [Section IV :  Publicité (art. R251 ZF-1)](#279)
+      - [Titre IV : Le recouvrement de l'impôt (art. R*256-1 à R283 D-1)](#280)
+        - [Chapitre premier : Les procédures de recouvrement (art. R*256-1 à R*273 B-1)](#281)
+          - [Section I : Modalités de recouvrement et mesures préalables aux poursuites (art. R*256-1 à R257 B-1)](#282)
+          - [Section II : Exercice des poursuites (art. R*260 A-1 à R258 A-1)](#283)
+          - [Section III : Mesures particulières (art. R*267-1 à R*273 B-1)](#284)
+            - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*267-1)](#285)
+            - [5° : Vente de fonds de commerce (art. R268-1)](#286)
+            - [12° : Entrepreneur individuel à responsabilité limitée (art. R*273 B-1)](#287)
+        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-7)](#288)
+        - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#289)
+        - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. R283 A-1 à R283 D-1)](#290)
+      - [Titre V : Dispositions communes (art. R*287-1 à R289-2)](#291)
+        - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. R*287-1 à R*288-3)](#292)
+        - [Chapitre III : Dispositions communautaires (art. R289-1 à R289-2)](#293)
+  - [Partie réglementaire - Arrêtés (art. A13 F-1 à A277-10)](#294)
+    - [Troisième partie : Partie réglementaire, arrêtés (art. A13 F-1 à A277-10)](#295)
+      - [Titre II : Le contrôle de l'impôt (art. A13 F-1 à A102 B-2)](#296)
+        - [Chapitre premier : Le droit de contrôle de l'administration (art. A13 F-1 à A80 CB-6-1)](#297)
+          - [Section I : Dispositions générales (art. A13 F-1 à A13 F-2)](#298)
+            - [2 quater : Dispositions relatives aux copies de documents (art. A13 F-1 à A13 F-2)](#299)
+          - [Section II : Dispositions particulières à certains impôts (art. A26-1 à A37-1)](#300)
+            - [III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées (art. A26-1 à A37-1)](#301)
+              - [B : Contrôle sur les lieux d'exercice de l'activité (art. A26-1 à A37-1)](#302)
+                - [1 : Contributions indirectes (art. A26-1 à A27-1)](#303)
+                  - [Dispositions applicables dans les départements d'outre-mer. (art. A27-1)](#304)
+                - [2 : Droits de timbre (art. A37-1)](#305)
+          - [Section III : Modalités d'exercice du droit de contrôle (art. A47 A-1 à A47 AA-1)](#306)
+          - [Section VI : Conséquences et limites des procédures de rectification (art. A80 CB-3-1 à A80 CB-6-1)](#307)
+        - [Chapitre II : Le droit de communication (art. A97-1 à A97-3)](#308)
+          - [Section II : Renseignements communiqués à l'administration sans demande préalable de sa part (art. A97-1 à A97-3)](#309)
+        - [Chapitre II bis : Obligation et délais de conservation des documents (art. A102 B-1 à A102 B-2)](#310)
+      - [Titre III : Le contentieux de l'impôt (art. A208-1 à A228-1)](#311)
+        - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office (art. A208-1)](#312)
+          - [Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux (art. A208-1)](#313)
+        - [Chapitre II : Les procédures pénales (art. A225 A-1 à A228-1)](#314)
+          - [Section I : Constatation des infractions par procès-verbal (art. A225 A-1)](#315)
+            - [II : Agents compétents pour constater les infractions par procès-verbal. (art. A225 A-1)](#316)
+          - [Section II : Exercice des poursuites pénales (art. A228-1)](#317)
+      - [Titre IV : Le recouvrement de l'impôt (art. A277-1 à A277-10)](#318)
+        - [Chapitre II : Le sursis de paiement (art. A277-1 à A277-10)](#319)
 # Partie législative<a id=1></a>
 
 ## Première partie : Partie législative<a id=2></a>
@@ -24932,11 +24941,485 @@ _Modifié par_:
   - Décret n°2013-443 du 30 mai 2013 - art. 8
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=271></a>
+#### Chapitre IV : Le règlement des différends fiscaux dans l'Union Européenne<a id=271></a>
 
-#### Chapitre premier : Les procédures de recouvrement<a id=272></a>
+##### Section I : La demande d'ouverture<a id=272></a>
 
-##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=273></a>
+###### Article R251 D-1
+
+La mesure administrative mentionnée à l'article L. 251 D est :
+
+1° La proposition de rectification ;
+
+2° Ou la notification des bases ou éléments d'imposition d'office ;
+
+3° Ou le prélèvement en cas de retenue à la source.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+###### Article R251 D-2
+
+Pour être recevable, la demande d'ouverture prévue à l'article L. 251 D doit être rédigée en langue française et comporter
+les éléments suivants :
+
+1° Le nom, l'adresse, le numéro d'identification fiscale et toute autre information nécessaire à l'identification du
+contribuable ayant introduit la demande et de toute autre personne intéressée ;
+
+2° L'identification des impôts et des années d'imposition ou des exercices concernés ;
+
+3° L'exposé des faits et circonstances à l'origine du différend ;
+
+4° Une copie des documents émis par l'administration fiscale française et par l'Etat membre concerné ainsi que tout autre
+justificatif relatif au différend ;
+
+5° L'exposé des raisons pour lesquelles le contribuable estime qu'il y a matière à différend ainsi que les dispositions
+nationales applicables et les dispositions de l'accord ou de la convention qui font l'objet du différend ;
+
+6° Les éléments relatifs aux recours administratifs et aux actions en justice engagés par le contribuable portant sur le
+différend et la copie de toute décision de justice relative au différend ;
+
+7° Les indications relatives à toute réclamation introduite par le contribuable dans le cadre d'une autre procédure amiable
+ou procédure de règlement des différends au sens de l'article L. 251 ZG et une déclaration par laquelle il reconnaît que
+l'engagement de la présente procédure met fin à la procédure précédemment engagée.
+
+Le contribuable joint à sa demande tout autre document qu'il juge nécessaire.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+###### Article R251 D-3
+
+I.-Dans les deux mois de la réception de la demande, l'administration fiscale française adresse au contribuable un accusé de
+réception et en informe les administrations des autres Etats membres concernés.
+
+II.-L'administration fiscale française peut demander toute information complémentaire nécessaire à l'examen de la demande du
+contribuable dans un délai de trois mois à compter de la réception de la demande d'ouverture.
+
+Le contribuable répond à la demande de l'administration fiscale française dans un délai de trois mois à compter de la
+réception de cette demande d'informations complémentaires. Sous réserve de l'application de l'article R. 251 D-4, le
+contribuable adresse une copie de sa réponse aux autres administrations des Etats membres concernés.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+###### Article R251 D-4
+
+I.-Lorsque le contribuable remplit les conditions prévues au dernier alinéa de l'article L. 251 D, l'administration fiscale
+française transmet aux administrations des autres Etats membres concernés toutes les communications du contribuable, dans un
+délai de deux mois à compter de la réception de chacune de ces communications, durant toute la procédure de règlement des
+différends.
+
+II.-Le contribuable est réputé avoir adressé ses communications à l'ensemble des administrations des autres Etats membres
+concernés à la date de la transmission, prévue au I, de ces informations par l'administration fiscale française.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+###### Article R251 D-5
+
+Le contribuable peut retirer sa demande d'ouverture par notification écrite adressée à l'administration fiscale française.
+Cette notification entraîne la clôture immédiate de la procédure de règlement des différends.
+
+A réception de cette notification, l'administration fiscale française en informe sans délai les administrations des autres
+Etats membres concernés.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+###### Article R251 D-6
+
+Lorsqu'un différend cesse d'exister, la procédure de règlement des différends est clôturée avec effet immédiat.
+L'administration fiscale française en informe sans délai le contribuable par une décision motivée.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+##### Section II :  La procédure amiable<a id=273></a>
+
+###### Article R251 G-1
+
+L'administration fiscale française peut demander au contribuable toute information complémentaire non fournie dans le cadre
+de la demande d'ouverture qu'elle estime utile à la résolution du différend.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+###### Article R251 H-1
+
+Les éléments mentionnés au second alinéa du I de l'article L. 251 H sont transmis à l'administration fiscale française dans
+un délai de soixante jours à compter de la date de la notification de l'accord amiable au contribuable.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+##### Section III :  La commission consultative<a id=274></a>
+
+##### I : Saisine de la commission<a id=275></a>
+
+###### Article R251 K-1
+
+La demande de constitution d'une commission consultative prévue à l'article L. 251 K est présentée par écrit dans un délai de
+cinquante jours à compter :
+
+1° De la date de réception de la notification de la décision de rejet prévue au I de l'article L. 251 E ;
+
+2° Ou de la date du prononcé de la décision prise par le juge à la suite du recours prévu à l'article L. 251 F ;
+
+3° Ou de la date de la notification de la décision prévue à l'article L. 251 I.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+###### Article R251 K-2
+
+Lorsque la commission consultative est constituée en application du 1° de l'article L. 251 K, elle notifie sa décision à
+l'administration fiscale française dans un délai de trente jours à compter de l'adoption de sa décision.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+###### Article R251 N-1
+
+Lorsque l'administration fiscale française demande l'ouverture de la procédure amiable dans les conditions prévues au II de
+l'article L. 251 N, elle en informe sans délai la commission consultative, les autres administrations des Etats membres
+concernés et le contribuable.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+##### II :  Composition de la commission<a id=276></a>
+
+###### Article R251 P-1
+
+I.-Afin d'établir la liste des personnalités indépendantes mentionnées au 3° de l'article L. 251 P, au moins trois
+personnalités indépendantes sont désignées par arrêté du ministre chargé du budget.
+
+Lorsqu'elle notifie à la Commission européenne les personnalités indépendantes désignées en application de l'alinéa
+précédent, l'administration fiscale française communique les informations complètes et actualisées sur le parcours
+universitaire et professionnel de ces personnes, leurs compétences, leur expertise et leurs éventuels conflits d'intérêts et
+précise laquelle de ces personnes peut être désignée comme président.
+
+L'administration fiscale française informe la Commission européenne de toute modification apportée à la liste française des
+personnalités indépendantes.
+
+II.-Lorsque la Commission européenne notifie une opposition, par un Etat membre, au maintien d'une personnalité indépendante
+désignée par l'administration fiscale française, cette dernière dispose d'un délai de six mois pour prendre sa décision de
+maintenir ou non cette personne sur la liste prévue au I et en informer la Commission européenne.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+###### Article R251 P-2
+
+Les règles de désignation des personnalités indépendantes mentionnées au 3° de l'article L. 251 P sont déterminées
+conjointement par l'administration fiscale française et celles des autres Etats membres concernés.
+
+En l'absence d'accord, il est procédé à la désignation de ces personnes par tirage au sort.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+###### Article R251 R-1
+
+La saisine prévue à l'article L. 251 R doit être effectuée dans les trente jours de l'expiration du délai prévu à l'article
+L. 251 L.
+
+Lorsque cette procédure est mise en œuvre, l'administration fiscale française en informe les autres Etats membres concernés.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+##### III :  Règles de fonctionnement de la commission consultative<a id=277></a>
+
+###### Article R251 T-1
+
+Conformément au premier alinéa de l'article L. 251 T, l'administration fiscale française notifie au contribuable dans un
+délai de cent vingt jours les règles de fonctionnement de la commission arrêtées par les Etats membres concernés. Ces règles
+comportent les éléments suivants :
+
+1° La date à laquelle l'avis sur le règlement du différend doit avoir été rendu ainsi que les modalités de remise de cet
+avis ;
+
+2° Les dispositions législatives ou réglementaires, accord ou convention applicables ;
+
+3° La description et les caractéristiques du différend ;
+
+4° Le mandat sur lequel les administrations des Etats membres concernés s'accordent en ce qui concerne les questions
+juridiques et factuelles à régler ;
+
+5° La forme de l'organe de règlement des différends ;
+
+6° Le calendrier de la procédure de règlement des différends ;
+
+7° Le nombre de membres, leurs noms, les détails quant à leurs compétences et leurs qualifications ainsi qu'une communication
+relative aux conflits d'intérêts les concernant ;
+
+8° Les règles régissant la participation du ou des contribuables et des tiers à la procédure, les échanges de notes,
+d'informations et d'éléments de preuve, les frais, la méthode utilisée pour régler le différend et toute autre question
+procédurale ou organisationnelle que l'administration fiscale française estime nécessaire.
+
+Lorsqu'une commission consultative est constituée pour rendre un avis en vertu du 1° de l'article L. 251 K, seules les
+informations mentionnées aux 3°, 6°, 7° et 8° figurent dans les règles de fonctionnement.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+###### Article R251 T-2
+
+I.-En l'absence d'accord entre l'administration fiscale française et les autres Etats membres concernés, les frais suivants
+sont répartis en parts égales entre les Etats :
+
+1° Le défraiement des personnalités indépendantes pour un montant déterminé par l'administration fiscale française
+conformément aux dispositions du décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des
+frais occasionnés par les déplacements temporaires des personnels civils de l'Etat ;
+
+2° La rémunération des personnalités indépendantes, fixée par arrêté des ministres chargés de du budget et de la fonction
+publique dans la limite de 1 000 euros par personne et par jour de réunion de la commission consultative.
+
+II.-En cas d'accord de toutes les administrations des Etats membres concernés, les frais mentionnés aux 1° et 2° du I sont à
+la charge du contribuable lorsque :
+
+1° Le contribuable a présenté une notification de retrait de demande d'ouverture en application de l'article R. 251 D-5 ;
+
+2° Ou lorsque le contribuable a saisi la commission consultative en application du 1° de l'article L. 251 K et que cette
+dernière a décidé que les administrations compétentes ont rejeté à bon droit la demande d'ouverture du contribuable.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2006-781 du 3 juillet 2006
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+##### IV :  Avis de la commission consultative<a id=278></a>
+
+###### Article R251 Y-1
+
+La commission prévue à l'article L. 251 K rend son avis par écrit.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+##### Section IV :  Publicité<a id=279></a>
+
+###### Article R251 ZF-1
+
+I.-Le résumé à publier prévu à l'article L. 251 ZF comprend la description des faits, la date de la décision définitive
+mentionnée à l'article L. 251 ZB, les périodes imposables concernées, la base juridique, le secteur d'activité et une brève
+description de la décision définitive. Le résumé comprend également une description de la méthode d'arbitrage utilisée.
+
+II.-Avant la transmission du résumé à la Commission européenne pour publication, l'administration fiscale française le
+transmet au contribuable qui, dans un délai de soixante jours au plus tard, peut demander à l'administration fiscale
+française de ne pas publier une information relative à un secret commercial, industriel ou professionnel ou à un procédé
+commercial ou qui est contraire à l'ordre public.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2019-616 du 21 juin 2019, ces dispositions s'appliquent aux demandes d'ouverture de
+procédures introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des différends
+relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018 pour les particuliers et à des exercices fiscaux
+ouverts à compter du 1er janvier 2018 pour les entreprises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-616 du 21 juin 2019 - art. 1
+
+
+### Titre IV : Le recouvrement de l'impôt<a id=280></a>
+
+#### Chapitre premier : Les procédures de recouvrement<a id=281></a>
+
+##### Section I : Modalités de recouvrement et mesures préalables aux poursuites<a id=282></a>
 
 ###### Article R*256-1
 
@@ -25244,7 +25727,7 @@ _Cite_:
   - Livre des procédures fiscales - art. R*281-1
 
 
-##### Section II : Exercice des poursuites<a id=274></a>
+##### Section II : Exercice des poursuites<a id=283></a>
 
 ###### Article R*260 A-1
 
@@ -25274,9 +25757,9 @@ _Créé par_:
   - Décret n°2014-931 du 19 août 2014 - art. 2
 
 
-##### Section III : Mesures particulières<a id=275></a>
+##### Section III : Mesures particulières<a id=284></a>
 
-##### 4° : Responsabilité des dirigeants et gérants de sociétés<a id=276></a>
+##### 4° : Responsabilité des dirigeants et gérants de sociétés<a id=285></a>
 
 ###### Article R*267-1
 
@@ -25300,7 +25783,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L267
 
 
-##### 5° : Vente de fonds de commerce<a id=277></a>
+##### 5° : Vente de fonds de commerce<a id=286></a>
 
 ###### Article R268-1
 
@@ -25323,7 +25806,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L268
 
 
-##### 12° : Entrepreneur individuel à responsabilité limitée<a id=278></a>
+##### 12° : Entrepreneur individuel à responsabilité limitée<a id=287></a>
 
 ###### Article R*273 B-1
 
@@ -25342,7 +25825,7 @@ _Cite_:
   - Code de procédure civile - art. 788
 
 
-#### Chapitre II : Le sursis de paiement<a id=279></a>
+#### Chapitre II : Le sursis de paiement<a id=288></a>
 
 ###### Article R*277-1
 
@@ -25532,7 +26015,7 @@ _Modifié par_:
   - Décret n°2009-986 du 20 août 2009 - art. 4
 
 
-#### Chapitre III : Le contentieux du recouvrement<a id=280></a>
+#### Chapitre III : Le contentieux du recouvrement<a id=289></a>
 
 ###### Article R*281-1
 
@@ -25739,7 +26222,7 @@ _Cite_:
   - Livre des procédures fiscales - art. R*281-5
 
 
-#### Chapitre IV : Assistance au recouvrement au sein de l'Union européenne<a id=281></a>
+#### Chapitre IV : Assistance au recouvrement au sein de l'Union européenne<a id=290></a>
 
 ###### Article R283 A-1
 
@@ -26043,9 +26526,9 @@ _Créé par_:
   - Décret n°2012-417 du 28 mars 2012 - art. 1
 
 
-### Titre V : Dispositions communes<a id=282></a>
+### Titre V : Dispositions communes<a id=291></a>
 
-#### Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques<a id=283></a>
+#### Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques<a id=292></a>
 
 ###### Article R*287-1
 
@@ -26188,7 +26671,7 @@ _Cite_:
   - Code de procédure civile - art. 760
 
 
-#### Chapitre III : Dispositions communautaires<a id=284></a>
+#### Chapitre III : Dispositions communautaires<a id=293></a>
 
 ###### Article R289-1
 
@@ -26219,17 +26702,17 @@ _Créé par_:
   - Décret n°2006-1042 du 24 août 2006 - art. 1 () JORF 25 août 2006
 
 
-# Partie réglementaire - Arrêtés<a id=285></a>
+# Partie réglementaire - Arrêtés<a id=294></a>
 
-## Troisième partie : Partie réglementaire, arrêtés<a id=286></a>
+## Troisième partie : Partie réglementaire, arrêtés<a id=295></a>
 
-### Titre II : Le contrôle de l'impôt<a id=287></a>
+### Titre II : Le contrôle de l'impôt<a id=296></a>
 
-#### Chapitre premier : Le droit de contrôle de l'administration<a id=288></a>
+#### Chapitre premier : Le droit de contrôle de l'administration<a id=297></a>
 
-##### Section I : Dispositions générales<a id=289></a>
+##### Section I : Dispositions générales<a id=298></a>
 
-##### 2 quater : Dispositions relatives aux copies de documents<a id=290></a>
+##### 2 quater : Dispositions relatives aux copies de documents<a id=299></a>
 
 ###### Article A13 F-1
 
@@ -26270,13 +26753,13 @@ _Cite_:
   - Livre des procédures fiscales - art. R*196-3
 
 
-##### Section II : Dispositions particulières à certains impôts<a id=291></a>
+##### Section II : Dispositions particulières à certains impôts<a id=300></a>
 
-##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=292></a>
+##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées<a id=301></a>
 
-##### B : Contrôle sur les lieux d'exercice de l'activité<a id=293></a>
+##### B : Contrôle sur les lieux d'exercice de l'activité<a id=302></a>
 
-##### 1 : Contributions indirectes<a id=294></a>
+##### 1 : Contributions indirectes<a id=303></a>
 
 ###### Article A26-1
 
@@ -26385,7 +26868,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 153 (V)
 
 
-##### Dispositions applicables dans les départements d'outre-mer.<a id=295></a>
+##### Dispositions applicables dans les départements d'outre-mer.<a id=304></a>
 
 ###### Article A27-1
 
@@ -26409,7 +26892,7 @@ _Anciens textes_:
   - CGIAN4 56 D ter
 
 
-##### 2 : Droits de timbre<a id=296></a>
+##### 2 : Droits de timbre<a id=305></a>
 
 ###### Article A37-1
 
@@ -26443,7 +26926,7 @@ _Modifié par_:
   - Loi n°2006-1771 du 30 décembre 2006 - art. 139 (V) JORF 31 décembre 2006
 
 
-##### Section III : Modalités d'exercice du droit de contrôle<a id=297></a>
+##### Section III : Modalités d'exercice du droit de contrôle<a id=306></a>
 
 ###### Article A47 A-1
 
@@ -27261,7 +27744,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L47 AA
 
 
-##### Section VI : Conséquences et limites des procédures de rectification<a id=298></a>
+##### Section VI : Conséquences et limites des procédures de rectification<a id=307></a>
 
 ###### Article A80 CB-3-1
 
@@ -27468,9 +27951,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*80 CB-6
 
 
-#### Chapitre II : Le droit de communication<a id=299></a>
+#### Chapitre II : Le droit de communication<a id=308></a>
 
-##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=300></a>
+##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part<a id=309></a>
 
 ###### Article A97-1
 
@@ -27541,7 +28024,7 @@ _Anciens textes_:
   - CGIAN4 211
 
 
-#### Chapitre II bis : Obligation et délais de conservation des documents<a id=301></a>
+#### Chapitre II bis : Obligation et délais de conservation des documents<a id=310></a>
 
 ###### Article A102 B-1
 
@@ -27621,11 +28104,11 @@ _Cité par_:
   - Arrêté du 23 mai 2019 - art. 1 (V)
 
 
-### Titre III : Le contentieux de l'impôt<a id=302></a>
+### Titre III : Le contentieux de l'impôt<a id=311></a>
 
-#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=303></a>
+#### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office<a id=312></a>
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=304></a>
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux<a id=313></a>
 
 ###### Article A208-1
 
@@ -27644,11 +28127,11 @@ _Cite_:
   - Livre des procédures fiscales - art. R*208-4 (V)
 
 
-#### Chapitre II : Les procédures pénales<a id=305></a>
+#### Chapitre II : Les procédures pénales<a id=314></a>
 
-##### Section I : Constatation des infractions par procès-verbal<a id=306></a>
+##### Section I : Constatation des infractions par procès-verbal<a id=315></a>
 
-##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=307></a>
+##### II : Agents compétents pour constater les infractions par procès-verbal.<a id=316></a>
 
 ###### Article A225 A-1
 
@@ -27677,7 +28160,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L225 A
 
 
-##### Section II : Exercice des poursuites pénales<a id=308></a>
+##### Section II : Exercice des poursuites pénales<a id=317></a>
 
 ###### Article A228-1
 
@@ -27697,9 +28180,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*228-1
 
 
-### Titre IV : Le recouvrement de l'impôt<a id=309></a>
+### Titre IV : Le recouvrement de l'impôt<a id=318></a>
 
-#### Chapitre II : Le sursis de paiement<a id=310></a>
+#### Chapitre II : Le sursis de paiement<a id=319></a>
 
 ###### Article A277-1
 
