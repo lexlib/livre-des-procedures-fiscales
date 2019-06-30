@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-07-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -59,11 +59,11 @@ Version Consolidée au 2019-01-01
         - [Chapitre I quater : Procédure d'imposition contradictoire en matière de contributions indirectes (art. L80 M)](#56)
         - [Chapitre Ier quinquies : Consultation des traitements automatisés de données concernant le marquage des conditionnements des produits du tabac (art. L80 N)](#57)
         - [Chapitre Ier sexies : Le droit de contrôle en matière de détention de logiciels ou de systèmes de caisse (art. L80 O)](#58)
-        - [Chapitre Ier septies : Le droit de contrôle en matière d'information de leurs utilisateurs par les plates-formes de mise en relation par voie électronique (art. L80 P)](#59)
-        - [Chapitre Ier octies : Le droit de contrôle de certaines obligations prévues au code monétaire et financier (art. L80 Q)](#60)
-        - [Chapitre II : Le droit de communication (art. L81 à L102 AG)](#61)
-          - [Section I : Conditions d'exercice du droit de communication (art. L82 A à L96 J)](#62)
-            - [1° : Personnes versant des honoraires ou des droits d'auteur (art. L82 A)](#63)
+        - [Chapitre Ier octies : Le droit de contrôle de certaines obligations prévues au code monétaire et financier (art. L80 Q)](#59)
+        - [Chapitre II : Le droit de communication (art. L81 à L102 AG)](#60)
+          - [Section I : Conditions d'exercice du droit de communication (art. L82 A à L96 J)](#61)
+            - [1° : Personnes versant des honoraires ou des droits d'auteur (art. L82 A)](#62)
+            - [1° bis : Opérateurs de plateforme (art. L82 AA)](#63)
             - [2° : Employeurs et débirentiers (art. L82 B)](#64)
             - [3° : Ministère public (art. L82 C)](#65)
             - [4° : Administrations et entreprises publiques, établissements ou organismes contrôlés par l'autorité administrative (art. L83 à L84)](#66)
@@ -6093,40 +6093,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1770 duodecies (V)
 
 
-#### Chapitre Ier septies : Le droit de contrôle en matière d'information de leurs utilisateurs par les plates-formes de mise en relation par voie électronique<a id=59></a>
-
-###### Article L80 P
-
-Les agents de l'administration fiscale constatent le défaut de communication du certificat mentionné au IV de l'article 242
-bis du code général des impôts en application de l'article L. 102 AD du présent livre. Ils établissent un procès-verbal
-consignant ce manquement et appliquent l'amende prévue à l'article 1731 ter du code général des impôts. Ils transmettent à
-l'entreprise une copie du procès-verbal qui informe l'entreprise qu'elle dispose d'un délai de trente jours pour formuler ses
-observations et, le cas échéant, fournir le certificat prévu au IV de l'article 242 bis du même code. Si l'entreprise
-présente le certificat dans le délai imparti, l'amende n'est pas appliquée.
-
-**Nota:**
-
-Loi n° 2015-1785 du 29 décembre 2015, article 87 IV : Les I et II du présent article s'appliquent aux transactions réalisées
-à compter du 1er juillet 2016.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 87 (V)
-
-_Abrogé par_:
-
-  - Loi n°2018-898 du 23 octobre 2018 - art. 10 (V)
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 1731 ter
-  - Code général des impôts, CGI. - art. 242 bis
-  - Livre des procédures fiscales - art. L102 AD
-
-
-#### Chapitre Ier octies : Le droit de contrôle de certaines obligations prévues au code monétaire et financier<a id=60></a>
+#### Chapitre Ier octies : Le droit de contrôle de certaines obligations prévues au code monétaire et financier<a id=59></a>
 
 ###### Article L80 Q
 
@@ -6172,7 +6139,7 @@ _Créé par_:
   - Loi n°2017-1775 du 28 décembre 2017 - art. 58 (V)
 
 
-#### Chapitre II : Le droit de communication<a id=61></a>
+#### Chapitre II : Le droit de communication<a id=60></a>
 
 ###### Article L81
 
@@ -6259,9 +6226,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*81 A-1 (V)
 
 
-##### Section I : Conditions d'exercice du droit de communication<a id=62></a>
+##### Section I : Conditions d'exercice du droit de communication<a id=61></a>
 
-##### 1° : Personnes versant des honoraires ou des droits d'auteur<a id=63></a>
+##### 1° : Personnes versant des honoraires ou des droits d'auteur<a id=62></a>
 
 ###### Article L82 A
 
@@ -6287,6 +6254,26 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
+
+
+##### 1° bis : Opérateurs de plateforme<a id=63></a>
+
+###### Article L82 AA
+
+Les opérateurs de plateforme mentionnés à l'article 242 bis du code général des impôts communiquent à l'administration
+fiscale, sur sa demande, les informations mentionnées au 2° du même article 242 bis.
+
+**Nota:**
+
+Conformément à l'article 10 VI de la loi n° 2018-898 du 23 octobre 2018, les présentes dispositions s'appliquent aux revenus
+perçus à compter de la date d'entrée en vigueur de l'arrêté mentionné à l'avant-dernier alinéa de l'article 242 bis du code
+général des impôts, dans sa rédaction résultant du présent article, et au plus tard le 1er juillet 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 10 (V)
 
 
 ##### 2° : Employeurs et débirentiers<a id=64></a>
@@ -7587,35 +7574,6 @@ _Cité par_:
 _Cite_:
 
   - Code général des collectivités territoriales - art. L2224-31 (V)
-
-
-###### Article L102 AD
-
-Les entreprises mentionnées au I de l'article 242 bis du code général des impôts doivent communiquer à l'administration
-fiscale, chaque année avant le 15 mars et par voie électronique, le certificat mentionné au IV du même article.
-
-**Nota:**
-
-Loi n° 2015-1785 du 29 décembre 2015, article 87 IV : Les I et II du présent article s'appliquent aux transactions réalisées
-à compter du 1er juillet 2016.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 87 (V)
-
-_Abrogé par_:
-
-  - Loi n°2018-898 du 23 octobre 2018 - art. 10 (V)
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 242 bis
-
-_Cité par_:
-
-  - Livre des procédures fiscales - art. L80 P (VT)
 
 
 ###### Article L102 AE
