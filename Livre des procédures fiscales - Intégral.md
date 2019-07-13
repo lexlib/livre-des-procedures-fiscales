@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-07-01
+Version Consolidée au 2019-07-14
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -28178,15 +28178,18 @@ _Cite_:
 ###### Article A228-1
 
 Les autorités bénéficiaires de la délégation de signature du ministre chargé du budget pour saisir la commission des
-infractions fiscales prévue à l'article R. * 228-1 sont le directeur général des finances publiques, l'adjoint au directeur
-général, le chef du service du contrôle fiscal, le sous-directeur de l'organisation du contrôle fiscal, le sous-directeur des
-dossiers fiscaux et de l'action pénale et le chef du bureau de l'action pénale.
+infractions fiscales prévue au I de l'article R. * 228-1 sont le directeur général des finances publiques, l'adjoint au
+directeur général, le chef du service du contrôle fiscal, le sous-directeur de l'organisation du contrôle fiscal, le sous-
+directeur des dossiers fiscaux et de l'action pénale et le chef du bureau de l'action pénale ainsi que les directeurs ou les
+directeurs adjoints de la direction des vérifications nationales et internationales, de la direction nationale des
+vérifications de situations fiscales, de la direction nationale d'enquêtes fiscales et des directions spécialisées de
+contrôle fiscal Centre-Est, Centre-Ouest, Est, Ile-de-France, Nord, Sud-Est Outre-mer, Sud-Ouest et Sud-Pyrénées.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 17 mai 2018 - art. 1
+  - Arrêté du 17 juin 2019 - art. 1
 
 _Cite_:
 
