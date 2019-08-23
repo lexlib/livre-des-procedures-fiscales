@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-07-26
+Version Consolidée au 2019-08-24
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -289,7 +289,7 @@ Version Consolidée au 2019-07-26
             - [4° : Responsabilité des dirigeants et gérants de sociétés (art. R*267-1)](#286)
             - [5° : Vente de fonds de commerce (art. R268-1)](#287)
             - [12° : Entrepreneur individuel à responsabilité limitée (art. R*273 B-1)](#288)
-        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-7)](#289)
+        - [Chapitre II : Le sursis de paiement (art. R*277-1 à R277-8)](#289)
         - [Chapitre III : Le contentieux du recouvrement (art. R*281-1 à R*283-1)](#290)
         - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. R283 A-1 à R283 D-1)](#291)
       - [Titre V : Dispositions communes (art. R*287-1 à R289-2)](#292)
@@ -26062,34 +26062,6 @@ _Cité par_:
   - Livre des procédures fiscales - art. R277-8 (V)
 
 
-###### Article R*277-8
-
-Le contribuable qui demande à bénéficier du sursis de paiement prévu au V de l'article 167 bis du code général des impôts
-fait parvenir au service des impôts des particuliers non résidents dans les trente jours précédant le transfert de son
-domicile fiscal hors de France, une proposition de garanties. 
-
-Les dispositions des deuxième et troisième alinéas de l'article R. * 277-1, des articles R. * 277-2, R. 277-4 et R. 277-6
-sont applicables.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2012-457 du 6 avril 2012 - art. 2
-
-_Abrogé par_:
-
-  - Décret n°2019-868 du 21 août 2019 - art. 3
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 167 bis
-  - Livre des procédures fiscales - art. R*277-1
-  - Livre des procédures fiscales - art. R*277-2
-  - Livre des procédures fiscales - art. R277-4
-  - Livre des procédures fiscales - art. R277-6
-
-
 ###### Article R277-3-1
 
 Lorsque le redevable fournit des garanties suffisantes, au sens de l'article R. * 277-1, à l'appui d'une réclamation assortie
@@ -26183,6 +26155,30 @@ doit constituer des garanties portant sur le montant des droits contestés.
 _Modifié par_:
 
   - Décret n°2009-986 du 20 août 2009 - art. 4
+
+
+###### Article R277-8
+
+Le contribuable qui demande à bénéficier du sursis de paiement prévu au V de l'article 167 bis du code général des impôts
+fait parvenir au service des impôts des particuliers non résidents, au plus tard quatre-vingt-dix jours avant le transfert de
+son domicile fiscal hors de France, une proposition de garanties. 
+
+Les dispositions des deuxième et troisième alinéas de l'article R. * 277-1, des articles R. * 277-2, R. 277-4 et R. 277-6
+sont applicables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-868 du 21 août 2019 - art. 2
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 167 bis
+  - Livre des procédures fiscales - art. R*277-1
+  - Livre des procédures fiscales - art. R*277-2
+  - Livre des procédures fiscales - art. R277-4
+  - Livre des procédures fiscales - art. R277-6
 
 
 #### Chapitre III : Le contentieux du recouvrement<a id=290></a>
