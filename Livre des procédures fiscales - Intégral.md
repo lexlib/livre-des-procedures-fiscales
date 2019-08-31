@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-08-24
+Version Consolidée au 2019-09-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -11130,10 +11130,10 @@ _Cite_:
 
 ###### Article L152 A
 
-En application des articles L. 583-3 et L. 831-7 du code de la sécurité sociale et L. 351-12 du code de la construction et de
-l'habitation, l'administration des impôts est tenue de communiquer aux organismes débiteurs de prestations familiales toutes
-les informations nécessaires à l'appréciation des conditions d'ouverture, au maintien des droits et au calcul de ces
-prestations ainsi qu'au contrôle des déclarations des allocataires et des bailleurs.
+En application des articles L. 583-3                 du code de la sécurité sociale, L. 851-1 et L. 851-2 du code de la
+construction et de l'habitation, l'administration des impôts est tenue de communiquer aux organismes débiteurs de prestations
+familiales toutes les informations nécessaires à l'appréciation des conditions d'ouverture, au maintien des droits et au
+calcul de ces prestations ainsi qu'au contrôle des déclarations des allocataires et des bailleurs.
 
 **Nota:**
 
@@ -11143,7 +11143,7 @@ _Modification effectuée en conséquence de l'article L. 583-3 du code de la sé
 
 _Modifié par_:
 
-  - Loi n°2009-1646 du 24 décembre 2009 - art. 88
+  - Ordonnance n°2019-770 du 17 juillet 2019 - art. 10
 
 _Cité par_:
 
@@ -11154,9 +11154,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. L583-3 (V)
-  - Code de la sécurité sociale. - art. L831-7 (V)
-  - Code de la construction et de l'habitation. - art. L351-12
+  - Code de la sécurité sociale. - art. L583-3
+  - Code de la construction et de l'habitation.
 
 
 ###### Article L152 B
