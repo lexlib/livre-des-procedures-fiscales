@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2019-11-22
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -22529,6 +22529,15 @@ b) Le département d'exercice de l'activité.
 III. – Il n'est donné suite à une demande qu'en cas de concordance suffisante des éléments d'identification de la personne
 concernée contenus dans la demande avec ceux détenus par l'administration à laquelle elle est adressée.
 
+IV.-Des arrêtés conjoints du ministre chargé du budget et des ministres de tutelle des organismes, services ou institutions
+mentionnés au I fixent, pour chaque catégorie d'entre eux :
+
+1° La liste des informations nominatives pouvant être obtenues respectivement de la direction générale des finances publiques
+et de la direction générale des douanes et droits indirects ;
+
+2° Les règles auxquelles doivent satisfaire les traitements automatisés opérés pour le recueil et l'exploitation de ces
+informations.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -22545,7 +22554,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-501 du 20 juin 2018 - art. 2
+  - Décret n°2019-1202 du 19 novembre 2019 - art. 1
 
 _Cite_:
 
