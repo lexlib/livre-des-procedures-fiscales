@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-12-01
+Version Consolidée au 2019-12-23
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -23889,21 +23889,16 @@ _Cite_:
 
 ###### Article R*202-6
 
-Sous réserve de l'application des dispositions des alinéas 2 et 4 de l'article R 202-2 et de celles des articles R 202-3 et R
-202-4, l'appel est formé, instruit et jugé selon les règles de la procédure avec représentation obligatoire prévue au code de
+Sous réserve de l'application des dispositions des alinéas 2 et 4 de l'article R 202-2 et de celles des articles R 202-3 ,
+l'appel est formé, instruit et jugé selon les règles de la procédure avec représentation obligatoire prévue au code de
 procédure civile.
-
-**Nota:**
-
-_Modification effectuée en conséquence de l'article 26 IV premier alinéa de la loi n° 2007-1787 du 20 décembre 2007.
-
-_
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-295 du 1er avril 2008 - art. 2
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 24
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 22
 
 _Cite_:
 
