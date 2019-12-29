@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-12-28
+Version Consolidée au 2019-12-30
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -189,7 +189,7 @@ Version Consolidée au 2019-12-28
         - [Chapitre III : Le contentieux du recouvrement (art. L281 à L283)](#186)
         - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne (art. L283 A à L283 F)](#187)
       - [Titre V : Dispositions communes (art. L284 à L289)](#188)
-        - [Chapitre premier : Dispositions générales (art. L284 à L286 A)](#189)
+        - [Chapitre premier : Dispositions générales (art. L284 à L286 B)](#189)
         - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques (art. L287 à L288 A)](#190)
         - [Chapitre III : Dispositions communautaires (art. L289)](#191)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*1-1 à R289-2)](#192)
@@ -1364,7 +1364,7 @@ retranchées du revenu net global ou ouvrant droit à une réduction d'impôt su
 L'administration peut demander au contribuable des justifications sur tous les éléments servant de base à la détermination du
 revenu foncier tels qu'ils sont définis aux articles 28 à 33 quinquies du code général des impôts ainsi que des gains de
 cession de valeurs mobilières ou de droits sociaux tels qu'ils sont définis aux articles 150-0 A à 150-0 E du même code et
-des plus-values telles qu'elles sont définies aux articles 150 U à 150 VH du même code.
+des plus-values telles qu'elles sont définies aux articles 150 U à 150 VH bis du même code.
 
 Elle peut également lui demander des justifications lorsqu'elle a réuni des éléments permettant d'établir que le contribuable
 peut avoir des revenus plus importants que ceux qu'il a déclarés, notamment lorsque le total des montants crédités sur ses
@@ -1382,14 +1382,6 @@ de l'intermédiaire.
 
 Les demandes visées aux alinéas précédents doivent indiquer explicitement les points sur lesquels elles portent et mentionner
 à l'intéressé le délai de réponse dont il dispose en fonction des textes en vigueur.
-
-**Nota:**
-
-Loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, article 9 VI : Ces dispositions s'appliquent aux revenus perçus à
-compter du 1er janvier 2013.
-
-Loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012 : Ces dispositions s'appliquent aux demandes
-adressées par l'administration à compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -1416,15 +1408,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 28 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 176
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 125 A
-  - Code général des impôts, CGI. - art. 150 U (M)
+  - Code général des impôts, CGI. - art. 150 U
   - Code général des impôts, CGI. - art. 150-0 A
   - Code général des impôts, CGI. - art. 156
-  - Code général des impôts, CGI. - art. 157 (M)
+  - Code général des impôts, CGI. - art. 157
   - Code général des impôts, CGI. - art. 28
   - Livre des procédures fiscales - art. L11
 
@@ -11243,12 +11235,12 @@ _Cite_:
 
 ###### Article L153
 
-Conformément à l'article L. 815-17, au troisième alinéa de l'article L. 815-28 et au premier alinéa de l'article L. 815-29 du
-code de la sécurité sociale, les services chargés de l'attribution de l'allocation de solidarité aux personnes âgées
-mentionnée à l'article L. 815-1 du code de la sécurité sociale ou de l'allocation supplémentaire d'invalidité mentionnée à
-l'article L. 815-24 du même code peuvent recevoir de l'administration des impôts communication des renseignements nécessaires
-à la liquidation et au contrôle de ces allocations, ainsi qu'à la mise en œuvre des dispositions de l'article L. 815-13 du
-code précité notamment en ce qui concerne la détermination du montant des successions.
+Conformément à l'article L. 815-17 et au premier alinéa de l'article L. 815-29 du code de la sécurité sociale, les services
+chargés de l'attribution de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-1 du code de la
+sécurité sociale ou de l'allocation supplémentaire d'invalidité mentionnée à l'article L. 815-24 du même code peuvent
+recevoir de l'administration des impôts communication des renseignements nécessaires à la liquidation et au contrôle de ces
+allocations, ainsi qu'à la mise en œuvre des dispositions de l'article L. 815-13 du code précité notamment en ce qui concerne
+la détermination du montant des successions.
 
 **Nota:**
 
@@ -11264,15 +11256,15 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-295 du 1er avril 2008 - art. 1
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 270 (V)
 
 _Cite_:
 
   - Code de la sécurité sociale. - art. L815-1
   - Code de la sécurité sociale. - art. L815-13
   - Code de la sécurité sociale. - art. L815-17
-  - Code de la sécurité sociale. - art. L815-24
-  - Code de la sécurité sociale. - art. L815-28
+  - Code de la sécurité sociale. - art. L815-24 (VD)
+  - Code de la sécurité sociale. - art. L815-28 (Ab)
   - Code de la sécurité sociale. - art. L815-29
 
 
@@ -15065,9 +15057,11 @@ _Codifié par_:
 Chaque année, le ministre chargé du budget publie un rapport sur l'application de la politique de remises et de transactions
 à titre gracieux par l'administration fiscale, qui mentionne le nombre, le montant total, le montant médian et le montant
 moyen des remises accordées, répartis par type de remise accordée et par imposition concernée, pour les personnes morales et
-pour les personnes physiques. Ce rapport peut faire l'objet d'un débat chaque année devant les commissions permanentes
-compétentes en matière de finances de l'Assemblée nationale et du Sénat. [Dispositions déclarées non conformes à la
-Constitution par la décision du Conseil constitutionnel n° 2013-679 DC du 4 décembre 2013].
+pour les personnes physiques. Ce rapport mentionne également ces mêmes informations concernant les règlements d'ensemble
+réalisés par l'administration fiscale. Il présente enfin les conventions judiciaires d'intérêt public signées en matière
+fiscale. Ce rapport peut faire l'objet d'un débat chaque année devant les commissions permanentes compétentes en matière de
+finances de l'Assemblée nationale et du Sénat. [Dispositions déclarées non conformes à la Constitution par la décision du
+Conseil constitutionnel n° 2013-679 DC du 4 décembre 2013].
 
 **Liens relatifs à cet article**
 
@@ -15081,7 +15075,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2018-898 du 23 octobre 2018 - art. 35
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 262
 
 _Cité par_:
 
@@ -17737,6 +17731,57 @@ _Codifié par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 6 (V)
+
+
+###### Article L286 B
+
+I. - Dans le cadre des procédures de contrôle, de recouvrement et de contentieux prévues au présent livre, tout agent des
+finances publiques peut être autorisé à ne pas être identifié par ses nom et prénom lorsque, compte tenu des conditions
+d'exercice de sa mission et des circonstances particulières de la procédure, la révélation de son identité à une personne
+déterminée est susceptible de mettre en danger sa vie ou son intégrité physique ou celles de ses proches.
+
+Il en est de même lorsqu'un agent des finances publiques est requis sur le fondement des dispositions des articles 60, 77-1,
+81 et 706-82 du code de procédure pénale ainsi que lorsqu'il exerce ses attributions dans le cadre de l'article L. 10-0 AC du
+présent livre.
+
+L'autorisation est délivrée nominativement par le directeur du service déconcentré ou du service à compétence nationale dans
+lequel l'agent est affecté. Celui-ci statue par une décision écrite et motivée qui précise les personnes à l'égard desquelles
+elle s'applique.
+
+L'agent qui bénéficie de l'autorisation prévue au troisième alinéa du présent I est identifié, au cours des procédures
+mentionnées aux premier et deuxième alinéas, par un numéro d'immatriculation administrative, sa qualité et la mention du
+service déconcentré ou du service à compétence nationale dans lequel il est affecté.
+
+II. - Les juridictions administratives et judiciaires ont accès aux nom et prénom de la personne identifiée par un numéro
+d'immatriculation administrative dans un acte de procédure.
+
+Saisie par une partie à la procédure d'une requête écrite et motivée tendant à la communication des nom et prénom d'une
+personne bénéficiaire d'une autorisation délivrée en application du I, la juridiction décide des suites à donner à cette
+requête en tenant compte, d'une part, de la menace que la révélation de l'identité de cette personne ferait peser sur sa vie
+ou son intégrité physique ou celles de ses proches et, d'autre part, de la nécessité de communiquer cette identité pour
+l'exercice des droits de la défense de l'auteur de la demande. Le procureur de la République se prononce dans les mêmes
+conditions lorsqu'il est fait application de l'article 77-2 du code de procédure pénale.
+
+En cas de demande d'annulation d'un acte de procédure fondée sur la violation des formes prescrites par la loi à peine de
+nullité ou sur l'inobservation des formalités substantielles dont l'appréciation nécessite la révélation des nom et prénom du
+bénéficiaire d'une autorisation délivrée en application du I du présent article, la juridiction saisie statue sans verser ces
+éléments au débat contradictoire ni indiquer les nom et prénom du bénéficiaire de cette autorisation dans sa décision.
+
+III. - Les modalités de mise en œuvre de l'autorisation prévue au I sont définies par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 174
+
+_Cite_:
+
+  - Code de procédure pénale - art. 60
+  - Code de procédure pénale - art. 706-82
+  - Code de procédure pénale - art. 77-1
+  - Code de procédure pénale - art. 77-2
+  - Code de procédure pénale - art. 81
 
 
 #### Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques<a id=190></a>
