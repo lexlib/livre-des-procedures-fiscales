@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -69,7 +69,7 @@ Version Consolidée au 2019-09-01
             - [3° : Ministère public (art. L82 C)](#66)
             - [4° : Administrations et entreprises publiques, établissements ou organismes contrôlés par l'autorité administrative (art. L83 à L84)](#67)
             - [5° : Commission nationale des comptes de campagne et des financements politiques (art. L84 A)](#68)
-            - [5° bis : Autorité de régulation des jeux en ligne (art. L84 B)](#69)
+            - [5° bis : Autorité nationale des jeux (art. L84 B)](#69)
             - [5° ter : Etablissements de jeux (art. L84 C)](#70)
             - [5° quater : Autorité de contrôle prudentiel et de résolution (art. L84 D)](#71)
             - [5° quinquies : Autorité des marchés financiers (art. L84 E)](#72)
@@ -1460,8 +1460,8 @@ finances publiques, à rechercher la preuve de ces agissements, en effectuant de
 pièces et documents s'y rapportant sont susceptibles d'être détenus ou d'être accessibles ou disponibles et procéder à leur
 saisie, quel qu'en soit le support. 
 
-II. – Chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention du tribunal de grande
-instance dans le ressort duquel sont situés les lieux à visiter. 
+II. – Chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention du   tribunal judiciaire
+dans le ressort duquel sont situés les lieux à visiter. 
 
 Lorsque ces lieux sont situés dans le ressort de plusieurs juridictions et qu'une visite simultanée doit être menée dans
 chacun d'eux, une ordonnance unique peut être délivrée par l'un des juges des libertés et de la détention territorialement
@@ -1506,9 +1506,9 @@ donne toutes instructions aux agents qui participent à ces opérations.
 Il désigne le chef du service qui nomme l'officier de police judiciaire chargé d'assister à ces opérations et de le tenir
 informé de leur déroulement. 
 
-Lorsqu'elles ont lieu en dehors du ressort de son tribunal de grande instance, il délivre une commission rogatoire, pour
-exercer le contrôle mentionné au treizième alinéa du présent II, au juge des libertés et de la détention dans le ressort
-duquel s'effectue la visite. 
+Lorsqu'elles ont lieu en dehors du ressort de son   tribunal judiciaire, il délivre une commission rogatoire, pour exercer le
+contrôle mentionné au treizième alinéa du présent II, au juge des libertés et de la détention dans le ressort duquel
+s'effectue la visite. 
 
 Le juge peut, s'il l'estime utile, se rendre dans les locaux pendant l'intervention. 
 
@@ -1533,8 +1533,8 @@ adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie éle
 quinze jours. Ce délai court à compter soit de la remise, soit de la réception, soit de la signification de l'ordonnance. Cet
 appel n'est pas suspensif. 
 
-Le greffe du tribunal de grande instance transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les
-parties peuvent le consulter. 
+Le greffe du   tribunal judiciaire transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les parties
+peuvent le consulter. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
 le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
@@ -1639,6 +1639,11 @@ rehaussements, sans que ces traitements ne constituent le début d'une procédur
 contribuable est informé des noms et adresses administratives des agents par qui, et sous le contrôle desquels, les
 opérations sont réalisées.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -1657,14 +1662,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 18
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L103 (V)
+  - Livre des procédures fiscales - art. L103
   - Livre des procédures fiscales - art. L47
   - Livre des procédures fiscales - art. L57
-  - Livre des procédures fiscales - art. L76 (VT)
+  - Livre des procédures fiscales - art. L76
 
 
 ###### Article L16 BA
@@ -2810,7 +2815,7 @@ avoirs provenant directement ou indirectement des infractions précitées unique
 application du 2.
 
 2. Hormis les cas de flagrance, chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention
-du tribunal de grande instance dans le ressort duquel sont situés les locaux à visiter. 
+du   tribunal judiciaire dans le ressort duquel sont situés les locaux à visiter. 
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
 doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite. 
@@ -2845,8 +2850,8 @@ pris l'ordonnance, procéder immédiatement à la visite de ces lieux aux fins d
 autorisation est portée au procès-verbal prévu au 4. 
 
 La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée. Lorsqu'elle a lieu en dehors du ressort de son
-tribunal de grande instance, il délivre une commission rogatoire, pour exercer ce contrôle, au juge des libertés et de la
-détention du tribunal de grande instance dans le ressort duquel s'effectue la visite. 
+tribunal judiciaire, il délivre une commission rogatoire, pour exercer ce contrôle, au juge des libertés et de la détention
+du   tribunal judiciaire dans le ressort duquel s'effectue la visite. 
 
 Il peut se rendre dans les locaux pendant l'intervention. 
 
@@ -2873,8 +2878,8 @@ adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie éle
 quinze jours. Ce délai court à compter soit de la remise, soit de la réception, soit de la signification de l'ordonnance. Cet
 appel n'est pas suspensif. 
 
-Le greffe du tribunal de grande instance transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les
-parties peuvent le consulter. 
+Le greffe du   tribunal judiciaire transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les parties
+peuvent le consulter. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
 le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
@@ -2959,6 +2964,11 @@ visées aux premier et deuxième alinéas de l'article L. 47.
 finances publiques, pour la recherche et la constatation des infractions aux dispositions de l'article 290 quater et du III
 de l'article 298 bis du code général des impôts.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -2970,24 +2980,22 @@ _Cité par_:
   - Livre des procédures fiscales - art. L80 H (V)
   - Livre des procédures fiscales - art. R*135 S-2 (V)
 
-_Modifié par_:
-
-  - Ordonnance n°2013-544 du 27 juin 2013 - art. 10
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 43
-  - Loi n°2013-1117 du 6 décembre 2013 - art. 49
-
 _Anciens textes_:
 
   - CGI 1855 (AL. 1 P.)
   - Loi n°1816-04-28 ART. 237
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 290 quater
   - Code général des impôts, CGI. - art. 298 bis
   - Livre des procédures fiscales - art. L103
-  - Livre des procédures fiscales - art. L103 B (V)
-  - Livre des procédures fiscales - art. L212 A (V)
+  - Livre des procédures fiscales - art. L103 B
+  - Livre des procédures fiscales - art. L212 A
   - Livre des procédures fiscales - art. L47
 
 
@@ -3107,22 +3115,26 @@ _Cite_:
 
 ###### Article L45 C
 
-Les personnes assujetties à la taxe sur la valeur ajoutée applicable aux produits repris aux tableaux B et C annexés à
-l'article 265 du code des douanes ne peuvent, pour l'ensemble de leurs opérations, opposer l'exception d'incompétence à
-l'encontre des agents de la direction générale des douanes et droits indirects ou de la direction générale des finances
-publiques qui contrôlent la régularité des déductions prévues par l'article 271 du code général des impôts et qui poursuivent
-la régularisation des déductions opérées indûment sur les taxes payées à l'une ou l'autre de ces administrations.
+Les personnes assujetties à la taxe sur la valeur ajoutée ne peuvent, pour l'ensemble de leurs opérations, opposer
+l'exception d'incompétence à l'encontre des agents de la direction générale des douanes et droits indirects ou de la
+direction générale des finances publiques qui contrôlent la régularité des déductions prévues par l'article 271 du code
+général des impôts et qui poursuivent la régularisation des déductions opérées indûment sur les taxes payées à l'une ou
+l'autre de ces administrations.
+
+**Nota:**
+
+Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
+l'article L. 45 C telles qu'elles résultent du 1° du III dudit article entrent en vigueur le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 79
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 193 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 271
-  - Code des douanes - art. 265
 
 _Cité par_:
 
@@ -4613,21 +4625,21 @@ _Modifié par_:
 
 ###### Article L64 B
 
-La procédure définie à l'article L. 64 n'est pas applicable lorsqu'un contribuable, préalablement à la conclusion d'un ou
-plusieurs actes, a consulté par écrit l'administration centrale en lui fournissant tous éléments utiles pour apprécier la
-portée véritable de cette opération et que l'administration n'a pas répondu dans un délai de six mois à compter de la
-demande.
+Les procédures définies aux articles L. 64 et L. 64 A ne sont pas applicables lorsqu'un contribuable, préalablement à la
+conclusion d'un ou plusieurs actes, a consulté par écrit l'administration centrale en lui fournissant tous éléments utiles
+pour apprécier la portée véritable de cette opération et que l'administration n'a pas répondu dans un délai de six mois à
+compter de la demande.
 
 **Nota:**
 
-Loi n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 article 35 IX :  Les I, II, III, VI, VII et VIII
-s'appliquent aux  propositions de rectifications notifiées à compter du 1er janvier 2009.
+Conformément à l'article 109 II B de la loi n° 2018-1317 du 28 décembre 2018, l'article L. 64 B, dans sa rédaction résultant
+du 2° du I, s'applique aux opérations réalisées à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 35 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 109 (V)
 
 _Cite_:
 
@@ -6695,42 +6707,52 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L114-20 (V)
 
 
-##### 5° bis : Autorité de régulation des jeux en ligne<a id=69></a>
+##### 5° bis : Autorité nationale des jeux<a id=69></a>
 
 ###### Article L84 B
 
-L'Autorité de régulation des jeux en ligne est tenue de communiquer à l'administration fiscale sur sa demande, sans pouvoir
-opposer le secret professionnel, tout document ou information qu'elle détient dans le cadre de ses missions.
+L'Autorité nationale des jeux est tenue de communiquer à l'administration fiscale sur sa demande, sans pouvoir opposer le
+secret professionnel, tout document ou information qu'elle détient dans le cadre de ses missions.
+
+**Nota:**
+
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Loi n°2010-476 du 12 mai 2010 - art. 59 (V)
+  - Loi n°2010-476 du 12 mai 2010 - art. 59 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-476 du 12 mai 2010 - art. 40
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 36
 
 
 ##### 5° ter : Etablissements de jeux<a id=70></a>
 
 ###### Article L84 C
 
-Les casinos ainsi que les groupements, les cercles et les sociétés organisant des jeux de hasard, des loteries, des paris ou
+Les casinos ainsi que les groupements, les cercles et les sociétés organisant des jeux d'argent et de hasard, des paris ou
 des pronostics sportifs ou hippiques sont tenus de communiquer à l'administration, sur sa demande, les informations
 consignées en vertu de l'article L. 561-13 du code monétaire et financier. Nonobstant les dispositions du premier alinéa de
 cet article, l'administration peut utiliser ces informations pour l'exercice de ses missions.
 
+**Nota:**
+
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 63
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 36
 
 _Cite_:
 
-  - Code monétaire et financier - art. L561-13 (V)
+  - Code monétaire et financier - art. L561-13
 
 
 ##### 5° quater : Autorité de contrôle prudentiel et de résolution<a id=71></a>
@@ -7389,9 +7411,8 @@ aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la co
 conditions prévues au même article 6. 
 
 II. – La mise en œuvre du droit de communication mentionné au I est préalablement autorisée, par tout moyen dont il est
-conservé une trace écrite, par le procureur de la République près le tribunal de grande instance du siège de la direction
-dont dépend le service chargé de la procédure, sur demande écrite et motivée du directeur de cette dernière ou de son
-adjoint. 
+conservé une trace écrite, par le procureur de la République près le   tribunal judiciaire du siège de la direction dont
+dépend le service chargé de la procédure, sur demande écrite et motivée du directeur de cette dernière ou de son adjoint. 
 
 Les informations communiquées à l'administration sont détruites au plus tard à l'issue d'un délai d'un an à compter de leur
 réception, à l'exception de celles utilisées dans le cadre de l'une des procédures prévues au présent titre qui sont
@@ -7405,18 +7426,22 @@ ventes ou prestations effectuées par les opérateurs des services prévus au d 
 (UE) n° 282/2011 du Conseil du 15 mars 2011 portant mesures d'exécution de la directive 2006/112/ CE relative au système
 commun de taxe sur la valeur ajoutée
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2018-898 du 23 octobre 2018 - art. 15 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1728 (V)
-  - Code général des impôts, CGI. - art. 1766 (V)
-  - Code des postes et des communications électroni... - art. L34-1 (V)
-  - e du 2 de l'article 11 du règlement (CE) n°1777/2005
+  - Code général des impôts, CGI. - art. 1728
+  - Code général des impôts, CGI. - art. 1766
+  - Code des postes et des communications électroniques - art. L34-1
 
 
 ##### 25° Fabricants et marchands de métaux précieux<a id=93></a>
@@ -8277,20 +8302,25 @@ _Modifié par_:
 Les agents de l'administration chargée de l'enregistrement peuvent délivrer des extraits des registres de l'enregistrement
 clos depuis moins de cinquante ans. 
 
-Ces extraits ne peuvent être délivrés que sur une ordonnance du juge du tribunal d'instance s'ils sont demandés par des
+Ces extraits ne peuvent être délivrés que sur une ordonnance du juge du   tribunal judiciaire s'ils sont demandés par des
 personnes autres que les parties contractantes ou leurs ayants cause. 
 
 Ces extraits peuvent être délivrés, pour les besoins des recherches généalogiques nécessaires au règlement d'une succession,
 au notaire chargé dudit règlement ou aux personnes agissant à sa demande, sans qu'il soit besoin de demander l'ordonnance du
-juge du tribunal d'instance mentionnée au deuxième alinéa. 
+juge du   tribunal judiciaire mentionnée au deuxième alinéa. 
 
 Dans les conditions prévues au deuxième alinéa, il peut être délivré copie ou extrait du double des actes sous signature
 privée déposé au service des impôts en application de l'article 849 du code général des impôts. 
 
 Le maire ou les personnes agissant à sa demande peuvent, sur délibération du conseil municipal, sans qu'il soit besoin de
-demander l'ordonnance du juge du tribunal d'instance, obtenir des extraits des registres de l'enregistrement clos depuis
+demander l'ordonnance du juge du   tribunal judiciaire, obtenir des extraits des registres de l'enregistrement clos depuis
 moins de cinquante ans pour le besoin des recherches relatives à la dévolution d'un bien mentionné à l'article 713 du code
 civil.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -8320,7 +8350,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 84
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L107 A
@@ -8410,8 +8440,13 @@ _Cite_:
 ###### Article L108
 
 Les agents de l'administration peuvent donner connaissance sur place des livres et registres relatifs aux contributions
-indirectes, aux propriétaires, fermiers, expéditeurs et destinataires qui y sont autorisés par le juge du tribunal
-d'instance.
+indirectes, aux propriétaires, fermiers, expéditeurs et destinataires qui y sont autorisés par le juge du   tribunal
+judiciaire.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -8420,21 +8455,15 @@ _Anciens textes_:
   - CGI 2010
   - Loi n°1872-08-02 ART. 8 (AL. 2)
 
-_Modifié par_:
-
-  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-  - Décret n°93-265 1993-02-26 art. 5 1 et 15 JORF 28 février 1993 en vigueur le 31 décembre 1992
-
 _Cité par_:
 
   - Décret n°93-265 du 26 février 1993 - art. 5 (V)
   - Livre des procédures fiscales - art. L110 (V)
   - Livre des procédures fiscales - art. R108-1 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 18 août 1993
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L109
@@ -9850,18 +9879,23 @@ _Cite_:
 
 ###### Article L135 U
 
-Aux seules fins de l'exécution de sa mission de lutte contre la fraude, l'Autorité de régulation des jeux en ligne peut, dans
-le cadre de ses pouvoirs d'enquête, se faire communiquer par l'administration des impôts les informations détenues par celle-
-ci en application de l'article 1649 A du code général des impôts et permettant d'identifier l'ensemble des comptes bancaires
+Aux seules fins de l'exécution de sa mission de lutte contre la fraude, l'Autorité nationale des jeux peut, dans le cadre de
+ses pouvoirs d'enquête, se faire communiquer par l'administration des impôts les informations détenues par celle-ci en
+application de l'article 1649 A du code général des impôts et permettant d'identifier l'ensemble des comptes bancaires
 ouverts par les personnes physiques titulaires d'un compte de joueur en ligne ou par les personnes morales autorisées à
 proposer des jeux en ligne.L'administration des impôts lui fournit les renseignements permettant d'identifier les titulaires
 de ces comptes.
 
+**Nota:**
+
+Conformément à l'article 50 de l’ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-476 du 12 mai 2010 - art. 40
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 36
 
 _Cite_:
 
@@ -12103,7 +12137,7 @@ l'année suivant celle au titre de laquelle l'imposition est due.
 
 Toutefois, lorsque les revenus ou le nombre de personnes à charge ou encore le quotient familial à raison desquels le
 contribuable a bénéficié d'une exonération, d'un dégrèvement ou d'un abattement, en application des articles 1391, 1391 B,
-1391 B bis, 1391 B ter, 1414, 1414 A, 1414 B, 1414 C et des 1 et 3 du II de l'article 1411 du code général des impôts, font
+1391 B bis, 1391 B ter, 1414, 1414 B, 1414 C et des 1 et 3 du II de l'article 1411 du code général des impôts, font
 ultérieurement l'objet d'une rectification, l'imposition correspondant au montant de l'exonération, du dégrèvement ou de
 l'abattement accordés à tort est établie et mise en recouvrement dans le délai fixé en matière d'impôt sur le revenu au
 premier alinéa de l'article L. 169.
@@ -12120,7 +12154,6 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
   - Loi n°2017-1837 du 30 décembre 2017 - art. 5 (V)
 
 _Cite_:
@@ -13118,22 +13151,19 @@ En matière d'impôts directs et de taxes sur le chiffre d'affaires ou de taxes 
 l'administration sur les réclamations contentieuses et qui ne donnent pas entière satisfaction aux intéressés peuvent être
 portées devant le tribunal administratif. Il en est de même pour les décisions intervenues en cas de contestation pour la
 fixation du montant des abonnements prévus à l'article 1700 du code général des impôts pour les établissements soumis à
-l'impôt sur les spectacles.
+l'impôt sur les spectacles. 
 
 En matière de droits d'enregistrement, d'impôt sur la fortune immobilière, de taxe de publicité foncière, de droits de
 timbre, de contributions indirectes et de taxes assimilées à ces droits, taxes ou contributions, le tribunal compétent est le
-tribunal de grande instance. Les tribunaux de grande instance statuent en premier ressort. Un décret en Conseil d'Etat fixe
-les modalités d'application (1).
+tribunal judiciaire. Les   tribunaux judiciaires statuent en premier ressort. Un décret en Conseil d'Etat fixe les modalités
+d'application (1). 
 
 (1) Ces dispositions s'appliquent aux jugements rendus à compter du 1er mars 1998.
 
 **Nota:**
 
-Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les
-dispositions de l'article L. 253 résultant des dispositions du 14° du II du même article 31 s'appliquent au titre de l'impôt
-sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit 14° du II de l'article 31
-précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité sur la fortune
-dû jusqu'au titre de l'année 2017 incluse.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -13164,13 +13194,13 @@ _Cite_:
 
   - Code général des impôts, CGI. - art. 1700
 
-_Modifié par_:
-
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 31 (V)
-
 _Cité par_:
 
   - Livre des procédures fiscales - art. L281 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ##### II : Règles de procédure<a id=141></a>
@@ -13202,20 +13232,21 @@ _Créé par_:
 
 L'administration, ainsi que le contribuable dans la limite du dégrèvement ou de la restitution sollicités, peuvent faire
 valoir tout moyen nouveau, tant devant le tribunal administratif que devant la cour administrative d'appel, jusqu'à la
-clôture de l'instruction. Il en est de même devant le tribunal de grande instance et la cour d'appel (1).
+clôture de l'instruction. Il en est de même devant le   tribunal judiciaire et la cour d'appel (1). 
 
 (1) La disposition de cette deuxième phrase est applicable aux jugements rendus à compter du 1er mars 1998. Un décret en
 Conseil d'Etat fixera les modalités d'application.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
 
 _Modifié par_:
 
-  - Loi n°96-1181 du 30 décembre 1996 - art. 112 (V) JORF 31 décembre 1996
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ##### B : Procédure devant le tribunal administratif et la cour administrative d'appel<a id=143></a>
@@ -13883,7 +13914,12 @@ _Modifié par_:
 ###### Article L225
 
 Les procès-verbaux constatant les infractions en matière de récépissé de consignation, peuvent être établis par les juges des
-tribunaux d'instance, les officiers et agents de police judiciaire, les agents de la répression des fraudes.
+tribunaux judiciaires, les officiers et agents de police judiciaire, les agents de la répression des fraudes.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -13893,13 +13929,17 @@ _Anciens textes_:
   - Décret n°1934-07-24 ART. 9 (LOI 1934-07-06 ART. 13)
   - Loi n°1921-12-31 ART. 8
 
+_Codifié par_:
+
+  - Décret n°81-859 du 15 septembre 1981
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
+
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 302 octies (V)
-
-_Codifié par_:
-
-  - Décret n°81-859 1981-09-15
 
 
 ###### Article L225 A
@@ -14318,7 +14358,8 @@ _Cité par_:
 
 ###### Article L234
 
-Les infractions relatives à l'application des taxes sur le chiffre d'affaires et taxes assimilées à l'importation sont
+Les infractions relatives à l'application des taxes sur le chiffre d'affaires et, lorsqu'elles sont recouvrées et contrôlées
+selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les droits de douanes, sont
 poursuivies et jugées selon la procédure et par les tribunaux compétents en matière douanière.
 
 Il en est de même :
@@ -14328,6 +14369,11 @@ l'administration des douanes et droits indirects sur les produits pétroliers, �
 déductions ;
 
 2° (Abrogé).
+
+**Nota:**
+
+Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
+l'article L. 234 telles qu'elles résultent du a du 2° du III dudit article entrent en vigueur le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -14351,13 +14397,9 @@ _Codifié par_:
 
   - Décret n°82-882 1982-10-15
 
-**Liens**:
-
-  - HISTO: Edition du 1er septembre 1982
-
 _Modifié par_:
 
-  - Loi n°81-1160 du 30 décembre 1981 - art. 29 (P) JORF 31 DECEMBRE 1981
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 193 (V)
 
 
 ##### III : Dispositions particulières aux contributions indirectes<a id=153></a>
@@ -15478,22 +15520,19 @@ _Créé par_:
 
 Lorsque la commission consultative n'est pas constituée dans le délai prévu à l'article L. 251 L, et que l'administration
 fiscale française n'a pas procédé à la nomination d'au moins une personnalité indépendante et d'un suppléant, le contribuable
-peut saisir le président du tribunal de grande instance de Paris afin qu'il nomme une personnalité indépendante et son
-suppléant sur la liste mentionnée au 3° de l'article L. 251 P.
+peut saisir le président du   tribunal judiciaire de Paris afin qu'il nomme une personnalité indépendante et son suppléant
+sur la liste mentionnée au 3° de l'article L. 251 P.
 
 **Nota:**
 
-Conformément au II de l'article 130 de la loi n° 2018-1317 du 28 décembre 2018, le chapitre IV du titre III de la première
-partie du livre des procédures fiscales, dans sa rédaction résultant du I dudit article, s'applique aux demandes d'ouverture
-d'une procédure introduites auprès de l'administration fiscale française à compter du 1er juillet 2019 portant sur des
-différends relatifs à des revenus ou capitaux perçus à compter du 1er janvier 2018, pour les particuliers, et à des exercices
-fiscaux ouverts à compter du 1er janvier 2018 pour les entreprises.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 130
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L251 S
@@ -16619,14 +16658,19 @@ Lorsqu'un dirigeant d'une société, d'une personne morale ou de tout autre grou
 frauduleuses ou de l'inobservation grave et répétée des obligations fiscales qui ont rendu impossible le recouvrement des
 impositions et des pénalités dues par la société, la personne morale ou le groupement, ce dirigeant peut, s'il n'est pas déjà
 tenu au paiement des dettes sociales en application d'une autre disposition, être déclaré solidairement responsable du
-paiement de ces impositions et pénalités par le président du tribunal de grande instance. A cette fin, le comptable public
-compétent assigne le dirigeant devant le président du tribunal de grande instance du lieu du siège social. Cette disposition
-est applicable à toute personne exerçant en droit ou en fait, directement ou indirectement, la direction effective de la
-société, de la personne morale ou du groupement.
+paiement de ces impositions et pénalités par le président du   tribunal judiciaire. A cette fin, le comptable public
+compétent assigne le dirigeant devant le président du   tribunal judiciaire du lieu du siège social. Cette disposition est
+applicable à toute personne exerçant en droit ou en fait, directement ou indirectement, la direction effective de la société,
+de la personne morale ou du groupement. 
 
-Les voies de recours qui peuvent être exercées contre la décision du président du tribunal de grande instance ne font pas
-obstacle à ce que le comptable prenne à leur encontre des mesures conservatoires en vue de préserver le recouvrement de la
-créance du Trésor.
+Les voies de recours qui peuvent être exercées contre la décision du président du   tribunal judiciaire ne font pas obstacle
+à ce que le comptable prenne à leur encontre des mesures conservatoires en vue de préserver le recouvrement de la créance du
+Trésor.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -16636,7 +16680,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 95
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -16648,13 +16692,14 @@ _Cité par_:
 ###### Article L268
 
 Lorsqu'il envisage de faire procéder à la vente d'un fonds de commerce, le comptable public compétent peut, par dérogation
-aux articles L. 143-3 et L. 143-4 du code de commerce, faire ordonner par le président du tribunal de grande instance que
-cette vente soit effectuée dans les formes prévues pour les ventes de biens appartenant à des mineurs. Le président exerce, à
-cet égard, toutes les attributions confiées au tribunal par les articles 1272 et suivants du code de procédure civile.
+aux articles L. 143-3 et L. 143-4 du code de commerce, faire ordonner par le président du   tribunal judiciaire que cette
+vente soit effectuée dans les formes prévues pour les ventes de biens appartenant à des mineurs. Le président exerce, à cet
+égard, toutes les attributions confiées au tribunal par les articles 1272 et suivants du code de procédure civile.
 
 **Nota:**
 
-_Modification effectuée en conséquence de l'article 26 IV premier alinéa de la loi n° 2007-1787 du 20 décembre 2007._
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -16674,12 +16719,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-295 du 1er avril 2008 - art. 1
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de commerce - art. L143-3 (V)
-  - Code de procédure civile - art. 1272 (V)
+  - Code de commerce - art. L143-3
+  - Code de procédure civile - art. 1272
 
 
 ##### 7° : Liquidation judiciaire<a id=179></a>
@@ -16821,30 +16866,27 @@ I. – Lorsque dans l'exercice de son activité professionnelle, l'entrepreneur 
 statut est défini aux articles L. 526-6 à L. 526-21 du code de commerce a, par des manœuvres frauduleuses ou à la suite de
 l'inobservation grave et répétée de ses obligations fiscales, rendu impossible le recouvrement des impositions et pénalités
 dont il est redevable au titre de cette activité, le recouvrement de ces sommes peut être recherché sur le patrimoine non
-affecté à cette activité dès lors que le tribunal compétent a constaté la réalité de ces agissements.
+affecté à cette activité dès lors que le tribunal compétent a constaté la réalité de ces agissements. 
 
 II. – Lorsqu'une personne physique ayant constitué un patrimoine affecté dans les conditions prévues aux articles L. 526-6 à
 L. 526-21 du code de commerce a, par des manœuvres frauduleuses ou à la suite de l'inobservation grave et répétée de ses
 obligations fiscales, rendu impossible le recouvrement des impositions et pénalités étrangères à son activité professionnelle
 dont elle est redevable ou dont son foyer fiscal est redevable, leur recouvrement peut être recherché sur le patrimoine
-affecté dès lors que le tribunal compétent a constaté la réalité de ces agissements.
+affecté dès lors que le tribunal compétent a constaté la réalité de ces agissements. 
 
 Aux fins des I et II, le comptable de la direction générale des finances publiques assigne l'entrepreneur individuel à
-responsabilité limitée devant le président du tribunal de grande instance.
+responsabilité limitée devant le président du   tribunal judiciaire.
 
 **Nota:**
 
-LOI n° 2010-658 du 15 juin 2010 art 14 I : l'article 5 de la présente loi entre en vigueur à compter de la publication de
-l'ordonnance prévue au I de l'article 8. (Entrée en vigueur indéterminée) 
-
-L'ordonnance n°2010-1512 du 9 décembre 2010 a été publiée au Journal Officiel le 10 décembre 2010 et est donc en vigueur à
-compter du 11 décembre 2010.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-658 du 15 juin 2010 - art. 5
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
@@ -16933,12 +16975,12 @@ Lorsque le comptable a fait procéder à une saisie conservatoire en application
 demander au juge du référé prévu, selon le cas, aux articles L. 279 et L. 279 A, de prononcer la limitation ou l'abandon de
 cette mesure si elle comporte des conséquences difficilement réparables. Les dispositions des troisième et quatrième alinéas
 de l'article L. 279 sont applicables à cette procédure, la juridiction d'appel étant, selon le cas, le tribunal administratif
-ou le tribunal de grande instance.
+ou le   tribunal judiciaire.
 
 **Nota:**
 
-Loi n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 article 66 IV : Le présent article s'applique aux
-demandes de sursis de paiement formulées  à compter du 1er juillet 2009.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -16972,7 +17014,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 66 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 **Liens**:
 
@@ -17073,14 +17115,19 @@ _Cité par_:
 
 Les dispositions de l'article L. 279 sont applicables en matière de droits d'enregistrement, de taxe de publicité foncière et
 de droits et taxes assimilés ainsi qu'en matière de contributions indirectes, de timbre et de législations assimilées.
-Toutefois, dans ces cas, le juge du référé est un membre du tribunal de grande instance désigné par le président de ce
-tribunal. En appel, ces contestations sont portées devant le tribunal.
+Toutefois, dans ces cas, le juge du référé est un membre du   tribunal judiciaire désigné par le président de ce tribunal. En
+appel, ces contestations sont portées devant le tribunal.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-502 1987-07-08 art. 17 II JORF 9 juillet 1987
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -17089,7 +17136,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L279 (V)
+  - Livre des procédures fiscales - art. L279
 
 
 ###### Article L280
@@ -17671,17 +17718,16 @@ Lorsque la mise en oeuvre du droit de communication prévu aux articles L. 81 A 
 atteinte grave et immédiate aux droits et libertés visés à l'article 1er de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés, la Commission nationale de l'informatique et des libertés enjoint l'autorité
 administrative de prendre sans délai les mesures de sécurité pouvant aller jusqu'à la destruction des supports d'information
-qui ont été constitués à partir d'un numéro d'inscription au répertoire national d'identification des personnes physiques.
+qui ont été constitués à partir d'un numéro d'inscription au répertoire national d'identification des personnes physiques. 
 
 Sans préjudice des dispositions de l'article 40 du code de procédure pénale, si cette injonction n'est pas suivie d'effet, la
-Commission nationale de l'informatique et des libertés saisit le président du tribunal de grande instance de Paris, qui peut
+Commission nationale de l'informatique et des libertés saisit le président du   tribunal judiciaire de Paris, qui peut
 ordonner le cas échéant sous astreintes les mesures proposées par la Commission.
 
 **Nota:**
 
-Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
-temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -17739,7 +17785,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 26
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L288 A
@@ -23670,18 +23716,23 @@ _Modifié par_:
 
 ###### Article R*202-1
 
-Le tribunal de grande instance compétent est celui dans le ressort duquel se trouve le bureau de l'administration chargé du
+Le   tribunal judiciaire compétent est celui dans le ressort duquel se trouve le bureau de l'administration chargé du
 recouvrement. 
 
 Toutefois, en matière de droits d'enregistrement ou de taxe de publicité foncière, les décisions prises sur les réclamations
 indiquées à l'article R. 190-1 et relatives à la valeur vénale réelle d'immeubles, de fonds de commerce et des marchandises
 neuves qui en dépendent, de clientèles, de droit à un bail ou au bénéfice d'une promesse de bail portant sur tout ou partie
-d'un immeuble, de navires et de bateaux, peuvent être attaquées devant le tribunal de grande instance du lieu de situation
-des biens ou d'immatriculations des navires et bateaux. 
+d'un immeuble, de navires et de bateaux, peuvent être attaquées devant le   tribunal judiciaire du lieu de situation des
+biens ou d'immatriculations des navires et bateaux. 
 
 Lorsque des biens ne formant qu'une seule exploitation sont situés dans le ressort de plusieurs tribunaux, le tribunal
 compétent est celui dans le ressort duquel se trouve le siège de l'exploitation, ou, à défaut de siège, la partie des biens
 présentant le plus grand revenu d'après la matrice cadastrale.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -23691,15 +23742,19 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°81-860 1981-09-15
+  - Décret n°81-860 du 15 septembre 1981
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. R*190-1 (V)
+  - Livre des procédures fiscales - art. R*190-1
 
 _Cité par_:
 
-  - Livre des procédures fiscales - art. R*202-3 (V)
+  - Livre des procédures fiscales - art. R*202-3 (VD)
 
 
 ###### Article R*202-2
@@ -23736,8 +23791,13 @@ Dans les instances qui, en matière de droits d'enregistrement ou de taxe de pub
 prises sur les réclamations indiquées au deuxième alinéa de l'article R. 202-1, l'expertise est de droit si elle est demandée
 par le contribuable ou par l'administration. 
 
-L'expertise n'est pas accordée de droit en appel si elle est demandée par la partie l'ayant obtenue devant le tribunal de
-grande instance ou si aucune des parties ne l'a demandée en première instance.
+L'expertise n'est pas accordée de droit en appel si elle est demandée par la partie l'ayant obtenue devant le   tribunal
+judiciaire ou si aucune des parties ne l'a demandée en première instance.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -23747,11 +23807,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°98-127 du 4 mars 1998 - art. 3 () JORF 5 mars 1998
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. R*202-1 (V)
+  - Livre des procédures fiscales - art. R*202-1 (VD)
 
 _Cité par_:
 
@@ -26728,8 +26788,8 @@ _Créé par_:
 
 ###### Article R*288-3
 
-Lorsque la Commission nationale de l'informatique et des libertés saisit le président du tribunal de grande instance de Paris
-en application du deuxième alinéa de l'article L. 288, elle présente sa demande dans les formes prévues pour les référés. 
+Lorsque la Commission nationale de l'informatique et des libertés saisit le président du   tribunal judiciaire de Paris en
+application du deuxième alinéa de l'article L. 288, elle présente sa demande dans les formes prévues pour les référés. 
 
 Il peut être procédé selon les modalités prévues au second alinéa de l'article 485 du code de procédure civile. 
 
@@ -26745,13 +26805,14 @@ Dans le cas où un pourvoi en cassation a été formé, les articles 1009 à 100
 
 **Nota:**
 
-Modification effectuée en conséquence de l'article 26 IV premier alinéa de la loi n° 2007-1787 du 20 décembre 2007.
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-295 du 1er avril 2008 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
