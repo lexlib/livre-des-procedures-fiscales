@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -3107,22 +3107,26 @@ _Cite_:
 
 ###### Article L45 C
 
-Les personnes assujetties à la taxe sur la valeur ajoutée applicable aux produits repris aux tableaux B et C annexés à
-l'article 265 du code des douanes ne peuvent, pour l'ensemble de leurs opérations, opposer l'exception d'incompétence à
-l'encontre des agents de la direction générale des douanes et droits indirects ou de la direction générale des finances
-publiques qui contrôlent la régularité des déductions prévues par l'article 271 du code général des impôts et qui poursuivent
-la régularisation des déductions opérées indûment sur les taxes payées à l'une ou l'autre de ces administrations.
+Les personnes assujetties à la taxe sur la valeur ajoutée ne peuvent, pour l'ensemble de leurs opérations, opposer
+l'exception d'incompétence à l'encontre des agents de la direction générale des douanes et droits indirects ou de la
+direction générale des finances publiques qui contrôlent la régularité des déductions prévues par l'article 271 du code
+général des impôts et qui poursuivent la régularisation des déductions opérées indûment sur les taxes payées à l'une ou
+l'autre de ces administrations.
+
+**Nota:**
+
+Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
+l'article L. 45 C telles qu'elles résultent du 1° du III dudit article entrent en vigueur le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 79
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 193 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 271
-  - Code des douanes - art. 265
 
 _Cité par_:
 
@@ -4607,21 +4611,21 @@ _Modifié par_:
 
 ###### Article L64 B
 
-La procédure définie à l'article L. 64 n'est pas applicable lorsqu'un contribuable, préalablement à la conclusion d'un ou
-plusieurs actes, a consulté par écrit l'administration centrale en lui fournissant tous éléments utiles pour apprécier la
-portée véritable de cette opération et que l'administration n'a pas répondu dans un délai de six mois à compter de la
-demande.
+Les procédures définies aux articles L. 64 et L. 64 A ne sont pas applicables lorsqu'un contribuable, préalablement à la
+conclusion d'un ou plusieurs actes, a consulté par écrit l'administration centrale en lui fournissant tous éléments utiles
+pour apprécier la portée véritable de cette opération et que l'administration n'a pas répondu dans un délai de six mois à
+compter de la demande.
 
 **Nota:**
 
-Loi n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 article 35 IX :  Les I, II, III, VI, VII et VIII
-s'appliquent aux  propositions de rectifications notifiées à compter du 1er janvier 2009.
+Conformément à l'article 109 II B de la loi n° 2018-1317 du 28 décembre 2018, l'article L. 64 B, dans sa rédaction résultant
+du 2° du I, s'applique aux opérations réalisées à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 35 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 109 (V)
 
 _Cite_:
 
@@ -12097,7 +12101,7 @@ l'année suivant celle au titre de laquelle l'imposition est due.
 
 Toutefois, lorsque les revenus ou le nombre de personnes à charge ou encore le quotient familial à raison desquels le
 contribuable a bénéficié d'une exonération, d'un dégrèvement ou d'un abattement, en application des articles 1391, 1391 B,
-1391 B bis, 1391 B ter, 1414, 1414 A, 1414 B, 1414 C et des 1 et 3 du II de l'article 1411 du code général des impôts, font
+1391 B bis, 1391 B ter, 1414, 1414 B, 1414 C et des 1 et 3 du II de l'article 1411 du code général des impôts, font
 ultérieurement l'objet d'une rectification, l'imposition correspondant au montant de l'exonération, du dégrèvement ou de
 l'abattement accordés à tort est établie et mise en recouvrement dans le délai fixé en matière d'impôt sur le revenu au
 premier alinéa de l'article L. 169.
@@ -12114,7 +12118,6 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
   - Loi n°2017-1837 du 30 décembre 2017 - art. 5 (V)
 
 _Cite_:
@@ -14293,7 +14296,8 @@ _Cité par_:
 
 ###### Article L234
 
-Les infractions relatives à l'application des taxes sur le chiffre d'affaires et taxes assimilées à l'importation sont
+Les infractions relatives à l'application des taxes sur le chiffre d'affaires et, lorsqu'elles sont recouvrées et contrôlées
+selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les droits de douanes, sont
 poursuivies et jugées selon la procédure et par les tribunaux compétents en matière douanière.
 
 Il en est de même :
@@ -14303,6 +14307,11 @@ l'administration des douanes et droits indirects sur les produits pétroliers, �
 déductions ;
 
 2° (Abrogé).
+
+**Nota:**
+
+Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
+l'article L. 234 telles qu'elles résultent du a du 2° du III dudit article entrent en vigueur le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -14326,13 +14335,9 @@ _Codifié par_:
 
   - Décret n°82-882 1982-10-15
 
-**Liens**:
-
-  - HISTO: Edition du 1er septembre 1982
-
 _Modifié par_:
 
-  - Loi n°81-1160 du 30 décembre 1981 - art. 29 (P) JORF 31 DECEMBRE 1981
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 193 (V)
 
 
 ##### III : Dispositions particulières aux contributions indirectes<a id=153></a>
