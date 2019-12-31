@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -11408,7 +11408,7 @@ l'année suivant celle au titre de laquelle l'imposition est due.
 
 Toutefois, lorsque les revenus ou le nombre de personnes à charge ou encore le quotient familial à raison desquels le
 contribuable a bénéficié d'une exonération, d'un dégrèvement ou d'un abattement, en application des articles 1391, 1391 B,
-1391 B bis, 1391 B ter, 1414, 1414 A, 1414 B, 1414 C et des 1 et 3 du II de l'article 1411 du code général des impôts, font
+1391 B bis, 1391 B ter, 1414, 1414 B, 1414 C et des 1 et 3 du II de l'article 1411 du code général des impôts, font
 ultérieurement l'objet d'une rectification, l'imposition correspondant au montant de l'exonération, du dégrèvement ou de
 l'abattement accordés à tort est établie et mise en recouvrement dans le délai fixé en matière d'impôt sur le revenu au
 premier alinéa de l'article L. 169.
@@ -11417,7 +11417,6 @@ premier alinéa de l'article L. 169.
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
   - Loi n°2017-1837 du 30 décembre 2017 - art. 5 (V)
 
 _Cite_:
