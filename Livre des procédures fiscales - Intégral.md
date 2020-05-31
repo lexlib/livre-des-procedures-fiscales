@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2020-02-14
+Version Consolidée au 2020-06-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -11234,37 +11234,45 @@ de sécurité sociale, de l'attribution de la protection complémentaire en mati
 de la sécurité sociale, aux services chargés de la gestion et du paiement des pensions aux fonctionnaires de l'Etat et
 assimilés, aux institutions mentionnées au chapitre Ier du titre II du livre IX du code de la sécurité sociale, au service
 mentionné au deuxième alinéa de l'article L. 815-7 du même code ainsi qu'à l'institution mentionnée à l'article L. 5312-1 du
-code du travail les informations nominatives nécessaires : 
+code du travail les informations nominatives nécessaires :
 
-1° à l'appréciation des conditions d'ouverture et de maintien des droits aux prestations ; 
+1° à l'appréciation des conditions d'ouverture et de maintien des droits aux prestations ;
 
-2° au calcul des prestations ; 
+2° au calcul des prestations ;
 
-3° à l'appréciation des conditions d'assujettissement aux cotisations et contributions ; 
+3° à l'appréciation des conditions d'assujettissement aux cotisations et contributions ;
 
-4° à la détermination de l'assiette et du montant des cotisations et contributions ainsi qu'à leur recouvrement ; 
+4° à la détermination de l'assiette et du montant des cotisations et contributions ainsi qu'à leur recouvrement ;
 
-5° Au recouvrement des prestations indûment versées ; 
+5° Au recouvrement des prestations indûment versées ;
 
 6° A l'appréciation des conditions d'ouverture et de maintien des prestations versées dans le cadre de leur mission légale en
-matière d'action sanitaire et sociale ; 
+matière d'action sanitaire et sociale ;
 
-7° Au calcul des prestations versées dans le cadre de leur mission légale en matière d'action sanitaire et sociale. 
+7° Au calcul des prestations versées dans le cadre de leur mission légale en matière d'action sanitaire et sociale ;
+
+8° A l'exercice des missions de délivrance des titres exécutoires et d'intermédiation financière confiées aux organismes
+débiteurs des prestations familiales en application des articles L. 582-1 et L. 582-2 du code de la sécurité sociale.
 
 Le numéro d'inscription au répertoire national d'identification des personnes physiques peut être utilisé pour les demandes,
-échanges et traitements nécessaires à la communication des informations mentionnées aux 1° à 7°, lorsqu'elles concernent des
-personnes physiques. 
+échanges et traitements nécessaires à la communication des informations mentionnées aux 1° à 8°, lorsqu'elles concernent des
+personnes physiques.
 
 Dans le but de contrôler les conditions d'ouverture, de maintien ou d'extinction des droits aux prestations de sécurité
 sociale de toute nature, ainsi que le paiement des cotisations et contributions, les organismes et services mentionnés au
 premier alinéa peuvent demander aux administrations fiscales de leur communiquer une liste des personnes qui ont déclaré soit
-n'avoir plus leur domicile en France, soit n'avoir perçu que des revenus du patrimoine ou de placement. 
+n'avoir plus leur domicile en France, soit n'avoir perçu que des revenus du patrimoine ou de placement.
 
 Les agents des administrations fiscales signalent aux directeurs régionaux des affaires sanitaires et sociales et aux chefs
 des services régionaux de l'inspection du travail, de l'emploi et de la politique sociale agricoles, ainsi qu'aux organismes
 de protection sociale les faits susceptibles de constituer des infractions qu'ils relèvent en ce qui concerne l'application
 des lois et règlements relatifs au régime général, au régime des travailleurs indépendants non agricoles, aux régimes
 spéciaux, au régime agricole de sécurité sociale ou à l'assurance chômage.
+
+**Nota:**
+
+Conformément au VIII de l'article 72 de la loi n° 2019-1446 du 24 décembre 2019, ces dispositions s'appliquent à compter du
+1er juin 2020.
 
 **Liens relatifs à cet article**
 
@@ -11273,14 +11281,14 @@ _Cité par_:
   - Arrêté du 14 juin 1982 - art. 4 (M)
   - Arrêté du 25 juillet 1988 - art. 6 (V)
   - Arrêté du 5 janvier 1990 - art. 6 (V)
-  - Arrêté du 25 septembre 2008 - art. 1 (V)
-  - Arrêté du 28 septembre 2010 - art. 1 (V)
   - Arrêté du 5 juin 2013 - art. 2 (V)
   - Décret n°2002-771 du 3 mai 2002 - art. 1 (V)
   - Décret n°2004-581 du 21 juin 2004 - art. 4 (V)
-  - Loi n°2004-803 du 9 août 2004 - art. 18 (M)
+  - Loi n°2004-803 du 9 août 2004 - art. 18 (V)
   - Loi n°2007-1786 du 19 décembre 2007 - art. 106
   - Décret n°2008-983 du 18 septembre 2008 - art. 7
+  - Arrêté du 25 septembre 2008 - art. 1 (V)
+  - Arrêté du 28 septembre 2010 - art. 1 (V)
   - Loi n°2015-1702 du 21 décembre 2015 - art. 32
   - Décret n°2019-341 du 19 avril 2019 - art. 2 (V)
   - Code de la construction et de l'habitation. - art. L351-12 (VT)
@@ -11309,32 +11317,38 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2016-1827 du 23 décembre 2016 - art. 106
+  - Loi n°2019-1446 du 24 décembre 2019 - art. 72 (V)
 
 _Cite_:
 
   - Code du travail - art. L5312-1
-  - Code de la sécurité sociale. -  Chapitre 1 : Dispositions relatives à la généra... (V)
-  - Code de la sécurité sociale. - art. L815-7 (VT)
+  - Code de la sécurité sociale.
+  - Code de la sécurité sociale. - art. L815-7
   - Code de la sécurité sociale. - art. L861-1
 
 
 ###### Article L152 A
 
-En application des articles L. 583-3                 du code de la sécurité sociale, L. 851-1 et L. 851-2 du code de la
-construction et de l'habitation, l'administration des impôts est tenue de communiquer aux organismes débiteurs de prestations
-familiales toutes les informations nécessaires à l'appréciation des conditions d'ouverture, au maintien des droits et au
-calcul de ces prestations ainsi qu'au contrôle des déclarations des allocataires et des bailleurs.
+En application des articles L. 583-3 du code de la sécurité sociale, L. 851-1 et L. 851-2 du code de la construction et de
+l'habitation, l'administration des impôts est tenue de communiquer aux organismes débiteurs de prestations familiales toutes
+les informations nécessaires :
+
+1° A l'appréciation des conditions d'ouverture, au maintien des droits et au calcul de ces prestations ainsi qu'au contrôle
+des déclarations des allocataires et des bailleurs ;
+
+2° A l'exercice des missions de délivrance des titres exécutoires et d'intermédiation financière confiées aux organismes
+débiteurs des prestations familiales en application des articles L. 582-1 et L. 582-2 du code de la sécurité sociale.
 
 **Nota:**
 
-_Modification effectuée en conséquence de l'article L. 583-3 du code de la sécurité sociale._
+Conformément au VIII de l'article 72 de la loi n° 2019-1446 du 24 décembre 2019, ces dispositions s'appliquent à compter du
+1er juin 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2019-770 du 17 juillet 2019 - art. 10
+  - Loi n°2019-1446 du 24 décembre 2019 - art. 72 (V)
 
 _Cité par_:
 
@@ -11345,6 +11359,8 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de la sécurité sociale. - art. L582-1
+  - Code de la sécurité sociale. - art. L582-2
   - Code de la sécurité sociale. - art. L583-3
   - Code de la construction et de l'habitation.
 
@@ -11522,6 +11538,17 @@ obtenir de l'administration des impôts, pour l'exercice de la mission qui leur 
 créances alimentaires impayées, les renseignements mentionnés à l'article L. 152-1 du code des procédures civiles
 d'exécution.
 
+Pour la mise en œuvre de la mission d'intermédiation financière prévue à l'article L. 582-1 du code de la sécurité sociale,
+l'organisme débiteur des prestations familiales demande à l'administration fiscale et obtient de celle-ci la communication
+des informations qu'elle détient en application de l'article 1649 A du code général des impôts permettant à cet organisme de
+connaître les comptes bancaires ouverts au nom du parent débiteur et du parent créancier sur lesquels le prélèvement et le
+versement de la pension alimentaire peut être effectué.
+
+**Nota:**
+
+Conformément au VIII de l'article 72 de la loi n° 2019-1446 du 24 décembre 2019, ces dispositions s'appliquent à compter du
+1er juin 2020.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -11534,12 +11561,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-654 du 4 mai 2012 - art. 1
+  - Loi n°2019-1446 du 24 décembre 2019 - art. 72 (V)
 
 _Cite_:
 
   - Code de la sécurité sociale. - art. L581-8
-  - Code des procédures civiles d'exécution - art. L152-1 (V)
+  - Code des procédures civiles d'exécution - art. L152-1
 
 
 ###### Article L162 B
