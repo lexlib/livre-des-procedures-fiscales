@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -4557,6 +4557,36 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2018-1317 du 28 décembre 2018 - art. 202 (V)
+
+
+###### Article L64 A
+
+Afin d'en restituer le véritable caractère et sous réserve de l'application de l'article 205 A du code général des impôts,
+l'administration est en droit d'écarter, comme ne lui étant pas opposables, les actes qui, recherchant le bénéfice d'une
+application littérale des textes ou de décisions à l'encontre des objectifs poursuivis par leurs auteurs, ont pour motif
+principal d'éluder ou d'atténuer les charges fiscales que l'intéressé, si ces actes n'avaient pas été passés ou réalisés,
+aurait normalement supportées eu égard à sa situation ou à ses activités réelles. 
+
+En cas de désaccord sur les rectifications notifiées sur le fondement du présent article, le litige peut être soumis, à la
+demande du contribuable ou de l'administration, à l'avis du comité mentionné au deuxième alinéa de l'article L. 64 du présent
+livre.
+
+**Nota:**
+
+Conformément à l'article 109 II A de la loi n° 2018-1317 du 28 décembre 2018, l'article L. 64 A, dans sa rédaction résultant
+du 1° du I, s'applique aux rectifications notifiées à compter du 1er janvier 2021 portant sur des actes passés ou réalisés à
+compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 109 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 205 A
+  - Livre des procédures fiscales - art. L64
 
 
 ###### Article L64 B
@@ -14082,18 +14112,12 @@ Les infractions relatives à l'application des taxes sur le chiffre d'affaires e
 selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les droits de douanes, sont
 poursuivies et jugées selon la procédure et par les tribunaux compétents en matière douanière.
 
-Il en est de même :
-
-1° Des infractions relatives à l'assiette, à la liquidation et au recouvrement de la taxe sur la valeur ajoutée perçue par
-l'administration des douanes et droits indirects sur les produits pétroliers, à l'exception du contentieux relatif aux
-déductions ;
-
-2° (Abrogé).
-
 **Nota:**
 
-Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
-l'article L. 234 telles qu'elles résultent du a du 2° du III dudit article entrent en vigueur le 1er janvier 2020.
+Conformément aux dispositions du B du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
+l'article L. 234 telles qu'elles résultent du b du 2° du III dudit article entrent en vigueur le 1er janvier 2021. Elles sont
+applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient à compter de cette même
+date.
 
 **Liens relatifs à cet article**
 
@@ -14112,10 +14136,6 @@ _Anciens textes_:
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 1790 (V)
-
-_Codifié par_:
-
-  - Décret n°82-882 1982-10-15
 
 _Modifié par_:
 
