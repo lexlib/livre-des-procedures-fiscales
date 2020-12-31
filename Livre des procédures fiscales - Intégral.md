@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2020-06-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -4720,6 +4720,36 @@ _Modifié par_:
   - Loi n°2018-1317 du 28 décembre 2018 - art. 202 (V)
 
 
+###### Article L64 A
+
+Afin d'en restituer le véritable caractère et sous réserve de l'application de l'article 205 A du code général des impôts,
+l'administration est en droit d'écarter, comme ne lui étant pas opposables, les actes qui, recherchant le bénéfice d'une
+application littérale des textes ou de décisions à l'encontre des objectifs poursuivis par leurs auteurs, ont pour motif
+principal d'éluder ou d'atténuer les charges fiscales que l'intéressé, si ces actes n'avaient pas été passés ou réalisés,
+aurait normalement supportées eu égard à sa situation ou à ses activités réelles. 
+
+En cas de désaccord sur les rectifications notifiées sur le fondement du présent article, le litige peut être soumis, à la
+demande du contribuable ou de l'administration, à l'avis du comité mentionné au deuxième alinéa de l'article L. 64 du présent
+livre.
+
+**Nota:**
+
+Conformément à l'article 109 II A de la loi n° 2018-1317 du 28 décembre 2018, l'article L. 64 A, dans sa rédaction résultant
+du 1° du I, s'applique aux rectifications notifiées à compter du 1er janvier 2021 portant sur des actes passés ou réalisés à
+compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 109 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 205 A
+  - Livre des procédures fiscales - art. L64
+
+
 ###### Article L64 B
 
 Les procédures définies aux articles L. 64 et L. 64 A ne sont pas applicables lorsqu'un contribuable, préalablement à la
@@ -8067,8 +8097,9 @@ alinéa. Les modalités de numérisation des factures papier sont fixées par ar
 Les pièces justificatives relatives à des opérations ouvrant droit à une déduction en matière de taxes sur le chiffre
 d'affaires sont conservées pendant le délai prévu au premier alinéa.
 
-Les registres tenus en application du 9 de l'article 298 sexdecies F du code général des impôts et du 5 de l'article 298
-sexdecies G du même code sont conservés pendant dix ans à compter du 31 décembre de l'année de l'opération.
+Les registres tenus en application du 9 de l'article 298 sexdecies F du code général des impôts et du X des articles 298
+sexdecies G et 298 sexdecies H du même code sont conservés pendant dix ans à compter du 31 décembre de l'année de
+l'opération.
 
 I bis. – Les informations, documents, données, traitements informatiques ou système d'information constitutifs des contrôles
 mentionnés au 1° du VII de l'article 289 du code général des impôts et la documentation décrivant leurs modalités de
@@ -8082,10 +8113,8 @@ alinéa de l'article L. 169. La documentation relative aux analyses, à la progr
 
 **Nota:**
 
-Conformément au III de l'article 16 de la loi n° 2016-1918 du 29 décembre 2016,  les dispositions du présent article, dans
-leur rédaction issue du II du  même article de la même loi, entrent en vigueur à la date de publication  de  l'arrêté du
-ministre chargé du budget prévu au troisième alinéa du I de  l'article L. 102 B du livre des procédures fiscales, et au plus
-tard le  31 mars 2017.
+Conformément au B du IV de l’article 147 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le
+1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -8152,13 +8181,13 @@ _Cité par_:
   - Code rural - art. D666-19 (V)
   - Livre des procédures fiscales - art. A102 B-1 (V)
   - Livre des procédures fiscales - art. L102 B (M)
-  - Livre des procédures fiscales - art. L102 C (VD)
+  - Livre des procédures fiscales - art. L102 C (V)
   - Livre des procédures fiscales - art. L96 A (V)
   - Livre des procédures fiscales - art. R80 F-3 (V)
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 16 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 147 (V)
 
 _Cite_:
 
@@ -14626,21 +14655,12 @@ Les infractions relatives à l'application des taxes sur le chiffre d'affaires, 
 selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les droits de douanes, sont
 poursuivies et jugées selon la procédure et par les tribunaux compétents en matière douanière.
 
-Il en est de même :
-
-1° Des infractions relatives à l'assiette, à la liquidation et au recouvrement de la taxe sur la valeur ajoutée perçue par
-l'administration des douanes et droits indirects sur les produits pétroliers, à l'exception du contentieux relatif aux
-déductions ;
-
-2° (Abrogé).
-
 **Nota:**
 
-Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
-l'article L. 234 telles qu'elles résultent du a du 2° du III dudit article entrent en vigueur le 1er janvier 2020.
-
-Aux termes du 2° du III de l'article 181 de la loi n° 2019-1479 du 28 décembre 2019, au a du 2° du III de l'article 193 de la
-loi n° 2018-1317 du 28 décembre 2018, avant le mot : "taxes", il est inséré le mot : "et".
+Conformément aux dispositions du B du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
+l'article L. 234 telles qu'elles résultent du b du 2° du III dudit article entrent en vigueur le 1er janvier 2021. Elles sont
+applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient à compter de cette même
+date.
 
 **Liens relatifs à cet article**
 
@@ -14662,7 +14682,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 181 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 193 (V)
 
 
 ##### III : Dispositions particulières aux contributions indirectes<a id=155></a>
