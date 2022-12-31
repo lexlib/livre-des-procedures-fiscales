@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2022-01-01
+Version Consolidée au 2023-01-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -1732,9 +1732,9 @@ contribuable se livrant à une activité professionnelle et au titre des périod
 déclaratives prévues aux articles 87-0 A, 170,172,223 et 287 du code général des impôts n'est pas échue, l'un au moins des
 faits suivants : 
 
-1° L'exercice d'une activité que le contribuable n'a pas fait connaître à un centre de formalité des entreprises ou au greffe
-du tribunal de commerce, sauf s'il a satisfait, au titre d'une période antérieure, à l'une de ses obligations fiscales
-déclaratives ; 
+1° L'exercice d'une activité que le contribuable n'a pas fait connaître à l'organisme mentionné au deuxième alinéa de
+l'article L. 123-33 du code de commerce, sauf s'il a satisfait, au titre d'une période antérieure, à l'une de ses obligations
+fiscales déclaratives ; 
 
 1° bis L'absence du respect d'au moins deux des obligations déclaratives prévues aux articles 87-0 A, 170,172,223 et 287 du
 code général des impôts, au titre de la dernière période échue ; 
@@ -1836,32 +1836,41 @@ La décision du juge du référé, du tribunal administratif, du président de l
 désigné ordonnant qu'il soit mis fin à la procédure entraîne la mainlevée immédiate des mesures conservatoires éventuellement
 prises.
 
+**Nota:**
+
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2018-898 du 23 octobre 2018 - art. 12
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
 
 _Cite_:
 
+  - Code de commerce - art. L123-3 (V)
   - Code général des impôts, CGI. - art. 1649 quater-0 B bis
-  - Code général des impôts, CGI. - art. 170 (VT)
+  - Code général des impôts, CGI. - art. 170
   - Code général des impôts, CGI. - art. 172
   - Code général des impôts, CGI. - art. 1743
   - Code général des impôts, CGI. - art. 1746
-  - Code général des impôts, CGI. - art. 223
+  - Code général des impôts, CGI. - art. 223 (V)
   - Code général des impôts, CGI. - art. 272
   - Code général des impôts, CGI. - art. 287
-  - Code général des impôts, CGI. - art. 87-0 A (VD)
+  - Code général des impôts, CGI. - art. 87-0 A
   - Livre des procédures fiscales - art. L101
   - Livre des procédures fiscales - art. L13
   - Livre des procédures fiscales - art. L16 B
   - Livre des procédures fiscales - art. L16 D
   - Livre des procédures fiscales - art. L279
   - Livre des procédures fiscales - art. L47
-  - Livre des procédures fiscales - art. L80 F (V)
+  - Livre des procédures fiscales - art. L80 F
   - Livre des procédures fiscales - art. L80 H
-  - Livre des procédures fiscales - art. L80 Q (V)
+  - Livre des procédures fiscales - art. L80 Q
+  - Livre des procédures fiscales - art. L81 (V)
   - Livre des procédures fiscales - art. L82 C
   - Code du travail - art. L8221-1
 
@@ -7986,38 +7995,6 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2224-31 (V)
 
 
-###### Article L102 AE
-
-Les organismes mentionnés aux articles L. 411-2 et L. 481-1 du code de la construction et de l'habitation transmettent chaque
-année à l'administration des impôts, avant le 1er février, par voie dématérialisée et dans des conditions fixées par décret,
-les informations relatives aux locaux loués et à leurs occupants nécessaires à l'établissement de la taxe d'habitation.
-
-**Nota:**
-
-Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent
-à compter des impositions établies au titre de 2023.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 8 mars 1996 - art. 5 (M)
-  - Livre des procédures fiscales - art. R102 AE-1 (VD)
-
-_Créé par_:
-
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 93
-
-_Abrogé par_:
-
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L411-2
-  - Code de la construction et de l'habitation. - art. L481-1
-
-
 ###### Article L102 AG
 
 Les institutions financières soumises au I de l'article 1649 AC du code général des impôts transmettent à l'administration la
@@ -9597,10 +9574,11 @@ les rôles généraux de taxe foncière sur les propriétés bâties émis dans 
 
 Elle transmet également, gratuitement, à leur demande, aux services de l'Etat, aux collectivités territoriales, aux
 établissements publics de coopération intercommunale dotés d'une fiscalité propre et à l'Agence nationale de l'habitat, la
-liste des logements vacants recensés l'année précédente pour l'établissement de la taxe d'habitation. Cette liste indique,
-pour chaque logement, son adresse, sa nature, sa valeur locative, la première année de vacance du local, le nom et l'adresse
-de son propriétaire et, le cas échéant, l'année à partir de laquelle le local a été soumis à la taxe sur les locaux vacants
-et le taux d'imposition à cette taxe.
+liste des logements vacants recensés l'année précédente pour l'établissement de la taxe d'habitation sur les résidences
+secondaires et autres locaux meublés non affectés à l'habitation principale. Cette liste indique, pour chaque logement, son
+adresse, sa nature, sa valeur locative, la première année de vacance du local, le nom et l'adresse de son propriétaire et, le
+cas échéant, l'année à partir de laquelle le local a été soumis à la taxe sur les locaux vacants et le taux d'imposition à
+cette taxe.
 
 Les collectivités locales, les établissements publics de coopération intercommunale dotés d'une fiscalité propre et
 l'administration fiscale peuvent se communiquer mutuellement les informations nécessaires au recensement des bases des
@@ -9613,8 +9591,9 @@ leur territoire qui appartiennent à une entreprise bénéficiaire des dispositi
 général des impôts et dont les bases sont retenues pour la détermination du plafond de participation défini au 2 du C du III
 de l'article 85 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006. Elle transmet également à l'établissement
 public de coopération intercommunale la liste des locaux à usage de logement soumis à la taxe sur les logements vacants au
-sens de l'article 232 du code général des impôts ou ceux relevant de la taxe d'habitation sur les logements vacants visés à
-l'article 1407 bis du même code.
+sens de l'article 232 du code général des impôts ou ceux relevant de la taxe d'habitation sur les résidences secondaires et
+autres locaux meublés non affectés à l'habitation principale sur les logements vacants visés à l'article 1407 bis du même
+code.
 
 Les informations transmises aux collectivités locales et à leurs groupements dotés d'une fiscalité propre sont couvertes par
 le secret professionnel, et soumises aux dispositions de la loi n° 78-17 du 6 janvier 1978 modifiée relative à
@@ -9628,6 +9607,11 @@ contribution foncière économique en application du 3° de l'article 1459 du co
 Elle transmet gratuitement aux collectivités territoriales et aux établissements publics de coopération intercommunale dotés
 d'une fiscalité propre la liste des locaux commerciaux et professionnels vacants qui n'ont pas fait l'objet d'une imposition
 à la cotisation foncière des entreprises l'année précédente.
+
+**Nota:**
+
+Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent
+à compter des impositions établies au titre de 2023.
 
 **Liens relatifs à cet article**
 
@@ -9658,7 +9642,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-727 du 10 août 2018 - art. 13
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
 
 
 ###### Article L135 D
@@ -12064,12 +12048,14 @@ Par exception aux dispositions du premier alinéa, le droit de reprise de l'admi
 dixième année qui suit celle au titre de laquelle l'imposition est due, lorsque le contribuable exerce une activité occulte
 ou lorsqu'il est bénéficiaire de revenus distribués par une personne morale exerçant une activité occulte. L'activité occulte
 est réputée exercée lorsque le contribuable ou la personne morale mentionnée à la première phrase du présent alinéa n'a pas
-déposé dans le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un
-centre de formalités des entreprises ou au greffe du tribunal de commerce, soit s'est livré à une activité illicite.
+déposé dans le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à
+l'organisme mentionné au deuxième alinéa de l'article L. 123-33 du code de commerce, soit s'est livré à une activité
+illicite.
 
-Le droit de reprise mentionné au deuxième alinéa ne s'applique qu'aux seules catégories de revenus que le contribuable n'a
-pas fait figurer dans une quelconque des déclarations qu'il a déposées dans le délai légal. Il ne s'applique pas lorsque des
-revenus ou plus-values ont été déclarés dans une catégorie autre que celle dans laquelle ils doivent être imposés.
+Le droit de reprise mentionné au deuxième alinéa du présent article ne s'applique qu'aux seules catégories de revenus que le
+contribuable n'a pas fait figurer dans une quelconque des déclarations qu'il a déposées dans le délai légal. Il ne s'applique
+pas lorsque des revenus ou plus-values ont été déclarés dans une catégorie autre que celle dans laquelle ils doivent être
+imposés.
 
 Le droit de reprise de l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au titre de laquelle
 l'imposition est due, lorsque les obligations déclaratives prévues aux articles 123 bis, 209 B, 
@@ -12093,6 +12079,13 @@ au premier alinéa.
 
 Si le groupe a cessé d'exister, les règles définies au sixième alinéa demeurent applicables au déficit ou à la moins-value
 nette à long terme définis au cinquième alinéa de l'article 223 S du code général des impôts.
+
+**Nota:**
+
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -12137,20 +12130,20 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2018-898 du 23 octobre 2018 - art. 9
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 123 bis
   - Code général des impôts, CGI. - art. 1649 A
   - Code général des impôts, CGI. - art. 1649 AA
-  - Code général des impôts, CGI. - art. 1649 AB
+  - Code général des impôts, CGI. - art. 1649 AB (M)
   - Code général des impôts, CGI. - art. 209 B
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 223 C
   - Code général des impôts, CGI. - art. 223 D
   - Code général des impôts, CGI. - art. 223 S
-  - Livre des procédures fiscales - art. L16-0 BA (V)
+  - Livre des procédures fiscales - art. L16-0 BA
 
 
 ###### Article L169 A
@@ -12441,10 +12434,14 @@ l'année suivant celle au titre de laquelle l'imposition est due.
 
 Toutefois, lorsque les revenus ou le nombre de personnes à charge ou encore le quotient familial à raison desquels le
 contribuable a bénéficié d'une exonération, d'un dégrèvement ou d'un abattement, en application des articles 1391, 1391 B,
-1391 B bis, 1391 B ter, 1414, 1414 B, 1414 C et des 1 et 3 du II de l'article 1411 du code général des impôts, font
-ultérieurement l'objet d'une rectification, l'imposition correspondant au montant de l'exonération, du dégrèvement ou de
-l'abattement accordés à tort est établie et mise en recouvrement dans le délai fixé en matière d'impôt sur le revenu au
-premier alinéa de l'article L. 169.
+1391 B bis et 1391 B ter du code général des impôts, font ultérieurement l'objet d'une rectification, l'imposition
+correspondant au montant de l'exonération, du dégrèvement ou de l'abattement accordés à tort est établie et mise en
+recouvrement dans le délai fixé en matière d'impôt sur le revenu au premier alinéa de l'article L. 169.
+
+**Nota:**
+
+Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent
+à compter des impositions établies au titre de 2023.
 
 **Liens relatifs à cet article**
 
@@ -12458,15 +12455,15 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 5 (M)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 5 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1391
   - Code général des impôts, CGI. - art. 1411
   - Code général des impôts, CGI. - art. 1414
-  - Livre des procédures fiscales - art. L169 (M)
+  - Livre des procédures fiscales - art. L169
 
 _Cité par_:
 
@@ -12487,13 +12484,15 @@ Par exception aux dispositions du premier alinéa, le droit de reprise de l'admi
 dixième année qui suit celle au titre de laquelle l'imposition est due lorsque l'administration a dressé un procès-verbal de
 flagrance fiscale dans les conditions prévues à l'article L. 16-0 BA au titre d'une année postérieure ou lorsque le
 contribuable exerce une activité occulte. L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans
-le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de
-formalités des entreprises ou au greffe du tribunal de commerce, soit s'est livré à une activité illicite. (1)
+le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à l'organisme
+mentionné au deuxième alinéa de l'article L. 123-33 du code de commerce, soit s'est livré à une activité illicite.
 
 **Nota:**
 
-(1) Loi 2009-1674 du 30 décembre 2009 article 18 IX : Ces dispositions sont applicables aux délais venant à expiration
-postérieurement au 31 décembre 2009.
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -12511,21 +12510,26 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 18 (V)
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L16-0 BA
+  - Code de commerce - art. L123-33 (VD)
+  - Livre des procédures fiscales - art. L16-0 BA (VT)
 
 
 ###### Article L175
 
-En ce qui concerne la taxe foncière sur les propriétés bâties, la taxe d'habitation et les taxes annexes établies sur les
-mêmes bases, les omissions ou les insuffisances d'imposition peuvent être réparées à toute époque lorsqu'elles résultent du
-défaut ou de l'inexactitude des déclarations des propriétés bâties mentionnées aux articles 1406 et 1502 du code général des
-impôts et de celles mentionnées au XVII de l'article 34 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative
-pour 2010.
+En ce qui concerne la taxe foncière sur les propriétés bâties, la taxe d'habitation sur les résidences secondaires et autres
+locaux meublés non affectés à l'habitation principale et les taxes annexes établies sur les mêmes bases, les omissions ou les
+insuffisances d'imposition peuvent être réparées à toute époque lorsqu'elles résultent du défaut ou de l'inexactitude des
+déclarations des propriétés bâties mentionnées aux articles 1406 et 1502 du code général des impôts et de celles mentionnées
+au XVII de l'article 34 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010.
+
+**Nota:**
+
+Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent
+à compter des impositions établies au titre de 2023.
 
 **Liens relatifs à cet article**
 
@@ -12542,7 +12546,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 30 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
 
 _Cite_:
 
@@ -12568,8 +12572,8 @@ dixième année qui suit celle au titre de laquelle la taxe est devenue exigible
 l'article 269 du code général des impôts lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les
 conditions prévues à l'article L. 16-0 BA au titre d'une année postérieure ou lorsque le contribuable exerce une activité
 occulte. L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les déclarations
-qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de formalités des entreprises ou au
-greffe du tribunal de commerce, soit s'est livré à une activité illicite.
+qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à l'organisme mentionné au deuxième alinéa de
+l'article L. 123-33 du code de commerce, soit s'est livré à une activité illicite.
 
 Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du début de la première période sur laquelle
 s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur les sociétés et s'achève le 31 décembre de la
@@ -12589,8 +12593,10 @@ taxe mentionné au second alinéa du même article 1693 ter A.
 
 **Nota:**
 
-Conformément au III de l'article 30 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux opérations
-intervenant à compter du 1er décembre 2019.
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -12616,17 +12622,19 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
   - Loi n°2019-1479 du 28 décembre 2019 - art. 30 (V)
 
 _Cite_:
 
+  - Code de commerce - art. L123-33 (VD)
   - Code général des impôts, CGI. - art. 1693 ter
   - Code général des impôts, CGI. - art. 1693 ter A
   - Code général des impôts, CGI. - art. 269
-  - Code général des impôts, CGI. - art. 278 sexies
+  - Code général des impôts, CGI. - art. 278 sexies (V)
   - Code général des impôts, CGI. - art. 279-0 bis A
   - Code général des impôts, CGI. - art. 284
-  - Livre des procédures fiscales - art. L16-0 BA
+  - Livre des procédures fiscales - art. L16-0 BA (VD)
 
 
 ###### Article L177
@@ -16689,10 +16697,16 @@ _Cite_:
 
 Dans les cas mentionnés au 2 de l'article 1663 du code général des impôts, le comptable public compétent peut faire signifier
 une mise en demeure de payer au contribuable dès l'exigibilité de l'impôt sur le revenu, des contributions sociales
-recouvrées comme en matière d'impôt sur le revenu, de la taxe d'habitation, des taxes foncières sur les propriétés bâties et
-non bâties et des impositions recouvrées comme les impositions précitées.
+recouvrées comme en matière d'impôt sur le revenu, de la taxe d'habitation sur les résidences secondaires et autres locaux
+meublés non affectés à l'habitation principale, des taxes foncières sur les propriétés bâties et non bâties et des
+impositions recouvrées comme les impositions précitées.
 
 La saisie peut alors être pratiquée un jour franc après la signification de la mise en demeure de payer.
+
+**Nota:**
+
+Conformément au E du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent
+à compter des impositions établies au titre de 2023.
 
 **Liens relatifs à cet article**
 
@@ -16708,11 +16722,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 16 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1663 (V)
+  - Code général des impôts, CGI. - art. 1663
 
 _Cité par_:
 
