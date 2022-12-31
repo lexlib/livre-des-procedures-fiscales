@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2021-01-01
+Version Consolidée au 2023-01-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -1695,9 +1695,9 @@ contribuable se livrant à une activité professionnelle et au titre des périod
 déclaratives prévues aux articles 87-0 A, 170,172,223 et 287 du code général des impôts n'est pas échue, l'un au moins des
 faits suivants : 
 
-1° L'exercice d'une activité que le contribuable n'a pas fait connaître à un centre de formalité des entreprises ou au greffe
-du tribunal de commerce, sauf s'il a satisfait, au titre d'une période antérieure, à l'une de ses obligations fiscales
-déclaratives ; 
+1° L'exercice d'une activité que le contribuable n'a pas fait connaître à l'organisme mentionné au deuxième alinéa de
+l'article L. 123-33 du code de commerce, sauf s'il a satisfait, au titre d'une période antérieure, à l'une de ses obligations
+fiscales déclaratives ; 
 
 1° bis L'absence du respect d'au moins deux des obligations déclaratives prévues aux articles 87-0 A, 170,172,223 et 287 du
 code général des impôts, au titre de la dernière période échue ; 
@@ -1799,32 +1799,41 @@ La décision du juge du référé, du tribunal administratif, du président de l
 désigné ordonnant qu'il soit mis fin à la procédure entraîne la mainlevée immédiate des mesures conservatoires éventuellement
 prises.
 
+**Nota:**
+
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2018-898 du 23 octobre 2018 - art. 12
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
 
 _Cite_:
 
+  - Code de commerce - art. L123-3 (V)
   - Code général des impôts, CGI. - art. 1649 quater-0 B bis
-  - Code général des impôts, CGI. - art. 170 (VT)
+  - Code général des impôts, CGI. - art. 170
   - Code général des impôts, CGI. - art. 172
   - Code général des impôts, CGI. - art. 1743
   - Code général des impôts, CGI. - art. 1746
-  - Code général des impôts, CGI. - art. 223
+  - Code général des impôts, CGI. - art. 223 (V)
   - Code général des impôts, CGI. - art. 272
   - Code général des impôts, CGI. - art. 287
-  - Code général des impôts, CGI. - art. 87-0 A (VD)
+  - Code général des impôts, CGI. - art. 87-0 A
   - Livre des procédures fiscales - art. L101
   - Livre des procédures fiscales - art. L13
   - Livre des procédures fiscales - art. L16 B
   - Livre des procédures fiscales - art. L16 D
   - Livre des procédures fiscales - art. L279
   - Livre des procédures fiscales - art. L47
-  - Livre des procédures fiscales - art. L80 F (V)
+  - Livre des procédures fiscales - art. L80 F
   - Livre des procédures fiscales - art. L80 H
-  - Livre des procédures fiscales - art. L80 Q (V)
+  - Livre des procédures fiscales - art. L80 Q
+  - Livre des procédures fiscales - art. L81 (V)
   - Livre des procédures fiscales - art. L82 C
   - Code du travail - art. L8221-1
 
@@ -1837,7 +1846,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 302 septies AA (V)
   - Livre des procédures fiscales - art. L169 (VD)
   - Livre des procédures fiscales - art. L174 (VD)
-  - Livre des procédures fiscales - art. L176 (V)
+  - Livre des procédures fiscales - art. L176 (VD)
   - Livre des procédures fiscales - art. L201 A (V)
   - Livre des procédures fiscales - art. L201 C (V)
   - Livre des procédures fiscales - art. L252 B (V)
@@ -11770,12 +11779,14 @@ Par exception aux dispositions du premier alinéa, le droit de reprise de l'admi
 dixième année qui suit celle au titre de laquelle l'imposition est due, lorsque le contribuable exerce une activité occulte
 ou lorsqu'il est bénéficiaire de revenus distribués par une personne morale exerçant une activité occulte. L'activité occulte
 est réputée exercée lorsque le contribuable ou la personne morale mentionnée à la première phrase du présent alinéa n'a pas
-déposé dans le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un
-centre de formalités des entreprises ou au greffe du tribunal de commerce, soit s'est livré à une activité illicite.
+déposé dans le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à
+l'organisme mentionné au deuxième alinéa de l'article L. 123-33 du code de commerce, soit s'est livré à une activité
+illicite.
 
-Le droit de reprise mentionné au deuxième alinéa ne s'applique qu'aux seules catégories de revenus que le contribuable n'a
-pas fait figurer dans une quelconque des déclarations qu'il a déposées dans le délai légal. Il ne s'applique pas lorsque des
-revenus ou plus-values ont été déclarés dans une catégorie autre que celle dans laquelle ils doivent être imposés.
+Le droit de reprise mentionné au deuxième alinéa du présent article ne s'applique qu'aux seules catégories de revenus que le
+contribuable n'a pas fait figurer dans une quelconque des déclarations qu'il a déposées dans le délai légal. Il ne s'applique
+pas lorsque des revenus ou plus-values ont été déclarés dans une catégorie autre que celle dans laquelle ils doivent être
+imposés.
 
 Le droit de reprise de l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au titre de laquelle
 l'imposition est due, lorsque les obligations déclaratives prévues aux articles 123 bis, 209 B, 
@@ -11799,6 +11810,13 @@ au premier alinéa.
 
 Si le groupe a cessé d'exister, les règles définies au sixième alinéa demeurent applicables au déficit ou à la moins-value
 nette à long terme définis au cinquième alinéa de l'article 223 S du code général des impôts.
+
+**Nota:**
+
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -11843,20 +11861,20 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2018-898 du 23 octobre 2018 - art. 9
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 123 bis
   - Code général des impôts, CGI. - art. 1649 A
   - Code général des impôts, CGI. - art. 1649 AA
-  - Code général des impôts, CGI. - art. 1649 AB
+  - Code général des impôts, CGI. - art. 1649 AB (V)
   - Code général des impôts, CGI. - art. 209 B
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 223 C
   - Code général des impôts, CGI. - art. 223 D
   - Code général des impôts, CGI. - art. 223 S
-  - Livre des procédures fiscales - art. L16-0 BA (V)
+  - Livre des procédures fiscales - art. L16-0 BA
 
 
 ###### Article L169 A
@@ -12176,13 +12194,15 @@ Par exception aux dispositions du premier alinéa, le droit de reprise de l'admi
 dixième année qui suit celle au titre de laquelle l'imposition est due lorsque l'administration a dressé un procès-verbal de
 flagrance fiscale dans les conditions prévues à l'article L. 16-0 BA au titre d'une année postérieure ou lorsque le
 contribuable exerce une activité occulte. L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans
-le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de
-formalités des entreprises ou au greffe du tribunal de commerce, soit s'est livré à une activité illicite. (1)
+le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à l'organisme
+mentionné au deuxième alinéa de l'article L. 123-33 du code de commerce, soit s'est livré à une activité illicite.
 
 **Nota:**
 
-(1) Loi 2009-1674 du 30 décembre 2009 article 18 IX : Ces dispositions sont applicables aux délais venant à expiration
-postérieurement au 31 décembre 2009.
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -12200,12 +12220,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 18 (V)
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
 
 _Cite_:
 
-  - Livre des procédures fiscales - art. L16-0 BA
+  - Code de commerce - art. L123-33 (VD)
+  - Livre des procédures fiscales - art. L16-0 BA (VT)
 
 
 ###### Article L175
@@ -12250,8 +12270,8 @@ dixième année qui suit celle au titre de laquelle la taxe est devenue exigible
 l'article 269 du code général des impôts lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les
 conditions prévues à l'article L. 16-0 BA au titre d'une année postérieure ou lorsque le contribuable exerce une activité
 occulte. L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les déclarations
-qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de formalités des entreprises ou au
-greffe du tribunal de commerce, soit s'est livré à une activité illicite. 
+qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à l'organisme mentionné au deuxième alinéa de
+l'article L. 123-33 du code de commerce, soit s'est livré à une activité illicite. 
 
 Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du début de la première période sur laquelle
 s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur les sociétés et s'achève le 31 décembre de la
@@ -12269,6 +12289,13 @@ dispositions prévues aux premier et deuxième alinéas du présent article.
 
 Si le groupe a cessé d'exister, les règles définies au cinquième alinéa demeurent applicables pour le contrôle du crédit de
 taxe mentionné au second alinéa du même article 1693 ter A.
+
+**Nota:**
+
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -12289,22 +12316,23 @@ _Cité par_:
   - Livre des procédures fiscales - art. L177 A (V)
   - Livre des procédures fiscales - art. L178 (V)
   - Livre des procédures fiscales - art. L182 (V)
-  - Livre des procédures fiscales - art. L51 (V)
+  - Livre des procédures fiscales - art. L51 (VD)
   - Livre des procédures fiscales - art. R*172 B-1 (P)
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 62
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
 
 _Cite_:
 
+  - Code de commerce - art. L123-33 (VD)
   - Code général des impôts, CGI. - art. 1693 ter
   - Code général des impôts, CGI. - art. 1693 ter A
-  - Code général des impôts, CGI. - art. 269 (V)
-  - Code général des impôts, CGI. - art. 278 sexies (VT)
+  - Code général des impôts, CGI. - art. 269
+  - Code général des impôts, CGI. - art. 278 sexies (V)
   - Code général des impôts, CGI. - art. 279-0 bis A
-  - Code général des impôts, CGI. - art. 284 (M)
-  - Livre des procédures fiscales - art. L16-0 BA (V)
+  - Code général des impôts, CGI. - art. 284
+  - Livre des procédures fiscales - art. L16-0 BA (VD)
 
 
 ###### Article L177
