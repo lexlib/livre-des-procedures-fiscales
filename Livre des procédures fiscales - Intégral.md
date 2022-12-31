@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2021-01-01
+Version Consolidée au 2023-01-01
 ## Contenu: 
   - [Partie législative (art. L10 à L289)](#1)
     - [Première partie : Partie législative (art. L10 à L289)](#2)
@@ -1692,139 +1692,145 @@ I. – Lorsque, dans le cadre des procédures mentionnées aux articles L. 16 B,
 sur place de la taxe sur la valeur ajoutée, ainsi que dans le cadre du contrôle inopiné mentionné au dernier alinéa de
 l'article L. 47, les agents de l'administration des impôts ayant au moins le grade de contrôleur constatent pour un
 contribuable se livrant à une activité professionnelle et au titre des périodes pour lesquelles l'une des obligations
-déclaratives prévues aux articles 87-0 A, 170,172,223 et 287 du code général des impôts n'est pas échue, l'un au moins des
-faits suivants : 
+déclaratives prévues aux articles 87-0 A, 170, 172, 223 et 287 du code général des impôts n'est pas échue, l'un au moins des
+faits suivants :
 
-1° L'exercice d'une activité que le contribuable n'a pas fait connaître à un centre de formalité des entreprises ou au greffe
-du tribunal de commerce, sauf s'il a satisfait, au titre d'une période antérieure, à l'une de ses obligations fiscales
-déclaratives ; 
+1° L'exercice d'une activité que le contribuable n'a pas fait connaître à l'organisme mentionné au deuxième alinéa de
+l'article L. 123-33 du code de commerce, sauf s'il a satisfait, au titre d'une période antérieure, à l'une de ses obligations
+fiscales déclaratives ;
 
-1° bis L'absence du respect d'au moins deux des obligations déclaratives prévues aux articles 87-0 A, 170,172,223 et 287 du
-code général des impôts, au titre de la dernière période échue ; 
+1° bis L'absence du respect d'au moins deux des obligations déclaratives prévues aux articles 87-0 A, 170, 172, 223 et 287 du
+code général des impôts, au titre de la dernière période échue ;
 
-1° ter L'absence réitérée du respect d'au moins une des obligations déclaratives prévues aux articles 87-0 A, 170,172 et 223
-et au 3 de l'article 287 du code général des impôts, durant les deux dernières périodes échues ; 
+1° ter L'absence réitérée du respect d'au moins une des obligations déclaratives prévues aux articles 87-0 A, 170, 172 et 223
+et au 3 de l'article 287 du code général des impôts, durant les deux dernières périodes échues ;
 
 2° La délivrance de factures ne correspondant pas à la livraison d'une marchandise ou à l'exécution d'une prestation de
 services, ou de factures afférentes à des livraisons de biens ou à des prestations de services au titre desquelles la taxe
 sur la valeur ajoutée ne peut faire l'objet d'aucune déduction en application du 3 de l'article 272 du code général des
-impôts ou la comptabilisation de telles factures reçues ; 
+impôts ou la comptabilisation de telles factures reçues ;
 
-3° Lorsqu'ils sont de nature à priver la comptabilité de valeur probante : 
+3° Lorsqu'ils sont de nature à priver la comptabilité de valeur probante :
 
-a) La réitération d'achats, de ventes ou de prestations non comptabilisés ; 
+a) La réitération d'achats, de ventes ou de prestations non comptabilisés ;
 
 b) L'utilisation d'un logiciel de comptabilité ou de caisse aux fins de permettre la réalisation de l'un des faits mentionnés
-au 1° de l'article 1743 du code général des impôts ; 
+au 1° de l'article 1743 du code général des impôts ;
 
-4° Une infraction aux interdictions mentionnées à l'article L. 8221-1 du code du travail ; 
+4° Une infraction aux interdictions mentionnées à l'article L. 8221-1 du code du travail ;
 
-5° L'absence réitérée du respect de l'obligation déclarative prévue au 2 de l'article 287 du code général des impôts, 
+5° L'absence réitérée du respect de l'obligation déclarative prévue au 2 de l'article 287 du code général des impôts,
 
 ils peuvent, en cas de circonstances susceptibles de menacer le recouvrement d'une créance fiscale de la nature de celle
-mentionnée au premier alinéa, dresser à l'encontre de ce contribuable un procès-verbal de flagrance fiscale. 
+mentionnée au premier alinéa, dresser à l'encontre de ce contribuable un procès-verbal de flagrance fiscale.
 
 Le procès-verbal de flagrance fiscale est signé par les agents de l'administration des impôts ainsi que par le contribuable,
 son représentant ou la personne recevant les agents de l'administration des impôts, hormis les cas dans lesquels l'infraction
 mentionnée au 1 de l'article 1746 du code général des impôts a été constatée. En cas de refus de signer, mention en est faite
-au procès-verbal. 
+au procès-verbal.
 
-L'original du procès-verbal est conservé par l'administration des impôts et copie est notifiée au contribuable. 
+L'original du procès-verbal est conservé par l'administration des impôts et copie est notifiée au contribuable.
 
 I bis. – Lorsque les agents mentionnés au premier alinéa du I sont informés, dans les conditions prévues au 1 de l'article
 1649 quater-0 B bis du code général des impôts, de l'exercice par le contribuable d'une activité entrant dans le champ
 d'application du 2 du même article au titre de la période en cours pour laquelle l'une des obligations déclaratives prévues
-aux articles 87-0 A, 170,172,223 et 287 du même code n'est pas échue, ils peuvent, en cas de circonstances susceptibles de
-menacer le recouvrement d'une créance fiscale, dresser à l'encontre de ce contribuable un procès-verbal de flagrance
-fiscale. 
+aux articles 87-0 A, 170, 172, 223 et 287 du même code n'est pas échue, ils peuvent, en cas de circonstances susceptibles de
+menacer le recouvrement d'une créance fiscale, dresser à l'encontre de ce contribuable un procès-verbal de flagrance fiscale.
 
-Le procès-verbal de flagrance fiscale est signé par les agents de l'administration des impôts. 
+Le procès-verbal de flagrance fiscale est signé par les agents de l'administration des impôts.
 
-L'original du procès-verbal est conservé par l'administration des impôts et copie est notifiée au contribuable. 
+L'original du procès-verbal est conservé par l'administration des impôts et copie est notifiée au contribuable.
 
 La décision de faire application du présent I bis est prise par un agent de catégorie A détenant au moins un grade fixé par
-décret en Conseil d'Etat, qui vise à cet effet le procès-verbal de flagrance fiscale. 
+décret en Conseil d'Etat, qui vise à cet effet le procès-verbal de flagrance fiscale.
 
 I ter. – Lorsqu'une infraction mentionnée au 4° du I a été constatée par des agents de contrôle autres que ceux de
 l'administration des impôts et que ces derniers en ont été informés dans les conditions prévues aux articles L. 82 C ou L.
 101, ils peuvent, dans le cadre de l'une des procédures énumérées au premier alinéa du I du présent article, en cas de
 circonstances susceptibles de menacer le recouvrement d'une créance fiscale de la nature de celle mentionnée à ce même
-alinéa, dresser à l'encontre du contribuable un procès-verbal de flagrance fiscale. 
+alinéa, dresser à l'encontre du contribuable un procès-verbal de flagrance fiscale.
 
 Le procès-verbal de flagrance fiscale est signé par les agents de l'administration des impôts ainsi que par le contribuable,
 son représentant ou la personne recevant les agents de l'administration des impôts, hormis les cas dans lesquels l'infraction
 visée au 1 de l'article 1746 du code général des impôts a été constatée. En cas de refus de signer, mention en est faite au
-procès-verbal. 
+procès-verbal.
 
-L'original du procès-verbal est conservé par l'administration des impôts et copie est notifiée au contribuable. 
+L'original du procès-verbal est conservé par l'administration des impôts et copie est notifiée au contribuable.
 
 II. – La notification du procès-verbal de flagrance fiscale permet d'effectuer les mesures conservatoires mentionnées à
-l'article L. 252 B. 
+l'article L. 252 B.
 
 III. – Lorsque le procès-verbal de flagrance fiscale a été dressé dans le cadre de la procédure prévue à l'article L. 16 B,
 l'administration peut, par dérogation au VI de ce même article, utiliser pour la détermination du montant mentionné à
-l'article L. 252 B les informations recueillies au cours de cette procédure. 
+l'article L. 252 B les informations recueillies au cours de cette procédure.
 
 Lorsque le procès-verbal de flagrance fiscale a été dressé dans le cadre de la procédure prévue à l'article L. 80 F,
 l'administration peut, par dérogation à l'article L. 80 H, utiliser pour la détermination du montant mentionné à l'article L.
-252 B les informations recueillies au cours de cette procédure. 
+252 B les informations recueillies au cours de cette procédure.
 
 L'administration peut se fonder, pour la détermination du montant mentionné à l'article L. 252 B, sur des renseignements et
-informations obtenus de tiers, en application des articles L. 81 et suivants. 
+informations obtenus de tiers, en application des articles L. 81 et suivants.
 
 IV. – Pour arrêter le montant mentionné à l'article L. 252 B, l'administration est fondée à consulter sur place les registres
 et documents de toute nature, notamment ceux dont la tenue est prévue par le code général des impôts et par le code de
 commerce. A cet effet, l'administration peut obtenir ou prendre copie des documents utiles, par tous moyens et sur tous
-supports. 
+supports.
 
 Un procès-verbal relatant les opérations effectuées est établi. Il est signé par l'agent de l'administration des impôts ainsi
 que par le contribuable, son représentant ou la personne recevant les agents de l'administration des impôts. En cas de refus
 de signer, mention en est faite au procès-verbal. L'original de ce procès-verbal est conservé par l'administration et copie
-en est remise au contribuable. 
+en est remise au contribuable.
 
-Ces opérations ne constituent pas une vérification de comptabilité au sens de l'article L. 13. 
+Ces opérations ne constituent pas une vérification de comptabilité au sens de l'article L. 13.
 
 V. – Le juge du référé administratif mentionné à l'article L. 279, saisi dans un délai de quinze jours à compter de la
 réception du procès-verbal de flagrance fiscale mentionné au I, met fin à la procédure s'il est fait état d'un moyen propre à
-créer, en l'état de l'instruction, un doute sérieux sur la régularité de cette procédure. 
+créer, en l'état de l'instruction, un doute sérieux sur la régularité de cette procédure.
 
 Le juge du référé statue dans un délai de quinze jours. Faute d'avoir statué dans ce délai, le juge des référés est dessaisi
-au profit du tribunal administratif qui se prononce en urgence. 
+au profit du tribunal administratif qui se prononce en urgence.
 
 La décision du juge du référé ou du tribunal administratif est susceptible d'appel devant le président de la cour
 administrative d'appel ou le magistrat qu'il désigne à cet effet dans le délai de huit jours. Le président ou le magistrat
-désigné se prononce en urgence. 
+désigné se prononce en urgence.
 
 La décision du juge du référé, du tribunal administratif, du président de la cour administrative d'appel ou du magistrat
 désigné ordonnant qu'il soit mis fin à la procédure entraîne la mainlevée immédiate des mesures conservatoires éventuellement
 prises.
 
+**Nota:**
+
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2018-898 du 23 octobre 2018 - art. 12
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1649 quater-0 B bis
-  - Code général des impôts, CGI. - art. 170 (VT)
+  - Code général des impôts, CGI. - art. 170
   - Code général des impôts, CGI. - art. 172
   - Code général des impôts, CGI. - art. 1743
   - Code général des impôts, CGI. - art. 1746
   - Code général des impôts, CGI. - art. 223
   - Code général des impôts, CGI. - art. 272
   - Code général des impôts, CGI. - art. 287
-  - Code général des impôts, CGI. - art. 87-0 A (VD)
+  - Code général des impôts, CGI. - art. 87-0 A
   - Livre des procédures fiscales - art. L101
   - Livre des procédures fiscales - art. L13
   - Livre des procédures fiscales - art. L16 B
   - Livre des procédures fiscales - art. L16 D
   - Livre des procédures fiscales - art. L279
   - Livre des procédures fiscales - art. L47
-  - Livre des procédures fiscales - art. L80 F (V)
+  - Livre des procédures fiscales - art. L80 F
   - Livre des procédures fiscales - art. L80 H
-  - Livre des procédures fiscales - art. L80 Q (V)
+  - Livre des procédures fiscales - art. L80 Q
   - Livre des procédures fiscales - art. L82 C
   - Code du travail - art. L8221-1
 
@@ -1837,7 +1843,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 302 septies AA (V)
   - Livre des procédures fiscales - art. L169 (VD)
   - Livre des procédures fiscales - art. L174 (VD)
-  - Livre des procédures fiscales - art. L176 (V)
+  - Livre des procédures fiscales - art. L176 (VD)
   - Livre des procédures fiscales - art. L201 A (V)
   - Livre des procédures fiscales - art. L201 C (V)
   - Livre des procédures fiscales - art. L252 B (V)
@@ -11756,12 +11762,14 @@ Par exception aux dispositions du premier alinéa, le droit de reprise de l'admi
 dixième année qui suit celle au titre de laquelle l'imposition est due, lorsque le contribuable exerce une activité occulte
 ou lorsqu'il est bénéficiaire de revenus distribués par une personne morale exerçant une activité occulte. L'activité occulte
 est réputée exercée lorsque le contribuable ou la personne morale mentionnée à la première phrase du présent alinéa n'a pas
-déposé dans le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un
-centre de formalités des entreprises ou au greffe du tribunal de commerce, soit s'est livré à une activité illicite.
+déposé dans le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à
+l'organisme mentionné au deuxième alinéa de l'article L. 123-33 du code de commerce, soit s'est livré à une activité
+illicite.
 
-Le droit de reprise mentionné au deuxième alinéa ne s'applique qu'aux seules catégories de revenus que le contribuable n'a
-pas fait figurer dans une quelconque des déclarations qu'il a déposées dans le délai légal. Il ne s'applique pas lorsque des
-revenus ou plus-values ont été déclarés dans une catégorie autre que celle dans laquelle ils doivent être imposés.
+Le droit de reprise mentionné au deuxième alinéa du présent article ne s'applique qu'aux seules catégories de revenus que le
+contribuable n'a pas fait figurer dans une quelconque des déclarations qu'il a déposées dans le délai légal. Il ne s'applique
+pas lorsque des revenus ou plus-values ont été déclarés dans une catégorie autre que celle dans laquelle ils doivent être
+imposés.
 
 Le droit de reprise de l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au titre de laquelle
 l'imposition est due, lorsque les obligations déclaratives prévues aux articles 123 bis, 209 B, 
@@ -11785,6 +11793,13 @@ au premier alinéa.
 
 Si le groupe a cessé d'exister, les règles définies au sixième alinéa demeurent applicables au déficit ou à la moins-value
 nette à long terme définis au cinquième alinéa de l'article 223 S du code général des impôts.
+
+**Nota:**
+
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -11829,20 +11844,20 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2018-898 du 23 octobre 2018 - art. 9
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 123 bis
   - Code général des impôts, CGI. - art. 1649 A
   - Code général des impôts, CGI. - art. 1649 AA
-  - Code général des impôts, CGI. - art. 1649 AB
+  - Code général des impôts, CGI. - art. 1649 AB (V)
   - Code général des impôts, CGI. - art. 209 B
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 223 C
   - Code général des impôts, CGI. - art. 223 D
   - Code général des impôts, CGI. - art. 223 S
-  - Livre des procédures fiscales - art. L16-0 BA (V)
+  - Livre des procédures fiscales - art. L16-0 BA
 
 
 ###### Article L169 A
@@ -12156,19 +12171,21 @@ _Cité par_:
 
 Les omissions ou les erreurs concernant la taxe professionnelle, la cotisation foncière des entreprises et la cotisation sur
 la valeur ajoutée des entreprises peuvent être réparées par l'administration jusqu'à l'expiration de la troisième année
-suivant celle au titre de laquelle l'imposition est due. 
+suivant celle au titre de laquelle l'imposition est due.
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
 dixième année qui suit celle au titre de laquelle l'imposition est due lorsque l'administration a dressé un procès-verbal de
 flagrance fiscale dans les conditions prévues à l'article L. 16-0 BA au titre d'une année postérieure ou lorsque le
 contribuable exerce une activité occulte. L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans
-le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de
-formalités des entreprises ou au greffe du tribunal de commerce, soit s'est livré à une activité illicite. (1)
+le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à l'organisme
+mentionné au deuxième alinéa de l'article L. 123-33 du code de commerce, soit s'est livré à une activité illicite.
 
 **Nota:**
 
-(1) Loi 2009-1674 du 30 décembre 2009 article 18 IX : Ces dispositions sont applicables aux délais venant à expiration
-postérieurement au 31 décembre 2009.
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -12186,8 +12203,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 18 (V)
-  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
 
 _Cite_:
 
@@ -12229,32 +12245,39 @@ _Cité par_:
 
 Pour les taxes sur le chiffre d'affaires, le droit de reprise de l'administration s'exerce jusqu'à la fin de la troisième
 année suivant celle au cours de laquelle la taxe est devenue exigible conformément aux dispositions du 2 de l'article 269 du
-code général des impôts. 
+code général des impôts.
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
 dixième année qui suit celle au titre de laquelle la taxe est devenue exigible conformément aux dispositions du 2 de
 l'article 269 du code général des impôts lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les
 conditions prévues à l'article L. 16-0 BA au titre d'une année postérieure ou lorsque le contribuable exerce une activité
 occulte. L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les déclarations
-qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de formalités des entreprises ou au
-greffe du tribunal de commerce, soit s'est livré à une activité illicite. 
+qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à l'organisme mentionné au deuxième alinéa de
+l'article L. 123-33 du code de commerce, soit s'est livré à une activité illicite.
 
 Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du début de la première période sur laquelle
 s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur les sociétés et s'achève le 31 décembre de la
-troisième année suivant celle au cours de laquelle se termine cette période. 
+troisième année suivant celle au cours de laquelle se termine cette période.
 
 Dans les cas prévus aux II, II bis et III de l'article 284 du code général des impôts, le droit de reprise de
 l'administration s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle les conditions auxquelles
 est subordonné l'octroi des taux prévus, respectivement, aux 2 à 13 du I de l'article 278 sexies et au premier alinéa de
-l'article 279-0 bis A du même code ont cessé d'être remplies. 
+l'article 279-0 bis A du même code ont cessé d'être remplies.
 
 La taxe mentionnée sur les déclarations souscrites par les assujettis membres d'un groupe mentionné à l'article 1693 ter du
 code général des impôts qui a concouru à la détermination du crédit dont bénéficie le redevable mentionné au 1 du même
 article en application du b du 3 dudit article peut être remise en cause à hauteur du montant de ce crédit, nonobstant les
-dispositions prévues aux premier et deuxième alinéas du présent article. 
+dispositions prévues aux premier et deuxième alinéas du présent article.
 
 Si le groupe a cessé d'exister, les règles définies au cinquième alinéa demeurent applicables pour le contrôle du crédit de
 taxe mentionné au second alinéa du même article 1693 ter A.
+
+**Nota:**
+
+Conformément au VIII de l’article 1 de la loi n° 2019-486 du 22 mai 2019 les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2023. Ce décret définit les modalités transitoires
+mises en œuvre à compter de la mise en place de l'organisme prévu au deuxième alinéa de l'article L. 123-33 du code de
+commerce, qui intervient au plus tard le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -12275,22 +12298,21 @@ _Cité par_:
   - Livre des procédures fiscales - art. L177 A (V)
   - Livre des procédures fiscales - art. L178 (V)
   - Livre des procédures fiscales - art. L182 (V)
-  - Livre des procédures fiscales - art. L51 (V)
+  - Livre des procédures fiscales - art. L51 (VD)
   - Livre des procédures fiscales - art. R*172 B-1 (P)
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 62
+  - Loi n°2019-486 du 22 mai 2019 - art. 1 (V)
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1693 ter
   - Code général des impôts, CGI. - art. 1693 ter A
-  - Code général des impôts, CGI. - art. 269 (V)
-  - Code général des impôts, CGI. - art. 278 sexies (VT)
+  - Code général des impôts, CGI. - art. 269
   - Code général des impôts, CGI. - art. 279-0 bis A
-  - Code général des impôts, CGI. - art. 284 (M)
-  - Livre des procédures fiscales - art. L16-0 BA (V)
+  - Code général des impôts, CGI. - art. 284
+  - Livre des procédures fiscales - art. L16-0 BA (VD)
 
 
 ###### Article L177
